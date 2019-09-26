@@ -1,0 +1,46 @@
+---
+title: CS-Group Payload & Data department
+layout: layout-default
+bodyClass: page-home
+---
+
+<!-- 
+	Title 
+-->
+<div class="intro">
+	<div class="container">
+	
+		<div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 highlight-dark">
+			<h1>{{site.data.str.cs}}</h1>
+			<h2>{{site.data.str.pda}}</h2>
+			<br>
+			35 years of experience delivering high quality systems for Earth Observation & Science data processing and dissemination towards to NEWSPACE customers.
+		</div>
+
+	</div>
+</div>
+
+<div class="container">
+	<div class="col-12 feature">
+		{{site.data.str.cs}}, a key European player in satellite imaging and data processing, positions itself along the entire value chain, from sensors to applications. {{site.data.str.cs}} brings, through its {{site.data.str.pda}}, its expertise in remote sensing image processing, software development and, in particular, open source software. {{site.data.str.cs}} is also involved in the development of web and GIS services for environmental applications.
+	</div>
+</div>
+
+<div class="container pt-5 pt-md-5">
+  <div class="row justify-content-center">
+
+	<!-- 
+	List of CS strengths (_features collection) 
+	-->
+    {% for feature in site.features %}
+    <div class="col-12 col-md-6 col-lg-4 mb-2">
+      <div class="feature">
+        {% if feature.image %}<div class="feature-image"><img alt="{{ feature.title }} logo" src="{{site.baseurl}}/images/{{feature.image}}" /></div> {% endif %}
+        <h2 class="feature-title">{{ feature.title }}</h2>
+        <div class="feature-content">{{ feature.content }}</div>
+      </div>
+    </div>
+    {% endfor %}
+
+  </div>
+</div>
