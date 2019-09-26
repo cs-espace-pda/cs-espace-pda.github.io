@@ -1,0 +1,149 @@
+
+.product-card-summary-common {
+
+	/* Card background */
+	height: 100%;
+	padding: 15px;
+	background-color: #fcfcfc;
+
+	/* Margin between cards */
+	margin: 0px;
+	
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+
+	.product-image {
+		flex: 0;
+		margin-right: 15px;
+		margin-bottom: 2px;
+		img {
+		  border-radius: 50%;
+		  height: 70px;
+		  width: 70px;
+		}
+	}
+	
+	.product-card-title {
+		display: inline-block;
+		font-weight: 600;
+		text-transform: uppercase;
+		letter-spacing: 0.025em;
+		color: #FFFFFF;
+		text-decoration: none;
+	}
+}
+
+/* product card specific to card size */
+
+.product-card-summary-big {
+	background-color: #68b5bd; /*#d4f6fa;*/
+	color: #FFFFFF;
+	
+	.product-image {
+		margin-right: 20px;
+		img {
+		  height: 130px;
+		  width: 130px;
+		}
+	}
+	a {
+	  color: white;
+	}
+
+	.product-card-title {
+		color: #FFFFFF;
+		font-size: 3rem;
+	}
+}
+
+.product-card-summary-standard {
+	border: solid 1px $cs-gray-blue-color;
+	.product-card-title {
+		font-size: 1.5rem;
+	}
+}
+
+.product-card-summary-little {
+	background-color: #F4F4F4;
+	border: solid 1px #ccc;
+	margin: 3px;/* Margin between cards */
+	
+	.product-image {
+		margin-right: 10px;
+		img {
+		  height: 40px;
+		  width: 40px;
+		}
+	}
+		
+	.product-card-title {
+		font-size: 1.1rem;
+	}
+}
+ 
+
+
+/* product sheet specific */
+
+.product-sheet-image {
+	flex: 0;
+	margin-right: 10px;
+	img {
+	  border-radius: 50%;
+	  height: 100px;
+	  width: 100px;
+	}
+}
+
+
+/* tags to present product meta data: license, skills etc. */
+
+.product-card-meta {
+	flex: 1;
+	h2 {
+	margin: 0;
+	}
+	p {
+	margin: 2;
+	}
+	a {
+	}
+}
+
+.product-tag {
+	white-space: nowrap;
+	display: inline-block;
+	height: 20px;
+	line-height: 20px;
+	padding: 0 5px;
+	border-radius: 4px;
+	font-size: 10px;
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 0.025em;
+	color: #FFFFFF;
+	text-decoration: none;
+	-webkit-transition: all 0.15s ease;
+	transition: all 0.15s ease;
+}
+
+
+.product-tagtyp  {
+	background: #4F0000;
+}
+
+.product-taglic  {
+	background: #404040;
+}
+
+.product-taginv  {
+	background: #009000;
+}
+
+
+.product-tagcus  {
+	color: #101010;
+	background: #C0C0C0;
+}
+

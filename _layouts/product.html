@@ -1,0 +1,41 @@
+---
+layout: layout-toc
+---
+
+
+<div class="container pt-4 pt-md-10">
+	<div class="row justify-content-start">
+		
+		<div class="col product-sheet-image">
+		{% if page.image %}
+			<img alt="{{ page.title }} logo" class="img-fluid mt-2" src="{{site.baseurl}}/{{ page.image }}"/>
+		{% else %}
+			<img alt="{{ page.title }} logo" class="img-fluid mt-2" src="{{site.baseurl}}/images/default_product_logo.png"/>
+		{% endif %}
+		</div>
+		
+		<div class="col pl-2">
+			<h1 class="title">{{page.title}}</h1>
+			<p>
+				<div class="product-tag product-tagtyp">{{ page.type }}</div>
+				<div class="product-tag product-taglic">{{ page.license }}</div>
+				<div class="product-tag product-taginv">{{ page.investment }}</div>
+				{% if page.customer %}
+					<div class="product-tag product-tagcus">{{ page.customer }}</div>
+				{% endif %}
+			</p>
+			{% if page.remote_url %}
+				Project URL: <a target="_blank" href="{{ page.remote_url }}"> {{page.remote_url}}</a> 
+			{% endif %}
+		</div>
+		
+		<div class="content col-12">	
+			<HR>
+		</div>
+		
+			
+		<div class="content col-12">	
+			{{page.content}}
+		</div>
+	</div>
+</div>

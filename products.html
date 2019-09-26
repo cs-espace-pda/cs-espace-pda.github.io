@@ -1,0 +1,136 @@
+---
+title: Products
+layout: layout-toc
+bodyClass: page-product
+---
+
+
+<div class="container pt-5 pt-md-5">
+  <div class="row justify-content-center">
+	<div class="col-12">
+		<h1 class="title-1">Our products</h1>
+		The following cards present all products and libraries developped by {{site.data.str.pda}}. <br>
+	</div>
+  </div>
+</div>
+
+<!-- 
+	List of Remote Sensing Image Processing products (_products collection) 
+-->
+<div class="container pt-5 pt-md-5">
+  <div class="row justify-content-start">
+    <div class="col-12">
+      <h2 class="text-dark mb-3">Our Remote Sensing &amp; Image Processing products</h2>
+	  <p>Nearly 25 years of experience in imaging expertise and development of processing lines: Physics of measurement, Sensors calibration, Atmospheric and cloud correction, Image processing, 3D workshop, Data simulation...</p>
+    </div>
+  </div>
+  <div class="row justify-content-start">
+	{% for product in site.products %}
+		{% if product.group == "image" and product.size =="big" %}
+			{% include product_card.html %}
+		{% endif %}	
+	{% endfor %}
+
+	{% for product in site.products %}
+		{% if product.group == "image" and product.size =="standard" %}
+			{% include product_card.html %}
+		{% endif %}	
+	{% endfor %}
+  
+	{% for product in site.products %}
+		{% if product.group == "image" and product.size =="little" %}
+			{% include product_card.html %}
+		{% endif %}	
+	{% endfor %}
+  </div>
+</div>
+
+
+<!-- 
+	List of Geospatial products (_products collection) 
+-->
+<div class="container pt-5 pt-md-5">
+	<div class="row justify-content-start">
+		<div class="col-12">
+		  <h2 id="geospatial-products" class="text-dark mb-3">Our Geospatial products</h2>
+		  <p>Geography, Cartography, Risk Management applications: Geospatial Intelligence, Business applications, Value-added data production, Geographic Information Systems (GIS)</p>
+		</div>
+	</div>	
+	<div class="row justify-content-start">
+	{% for product in site.products %}
+		{% if product.group == "geo" and product.size =="big" %}
+			{% include product_card.html %}
+		{% endif %}	
+	{% endfor %}
+	{% for product in site.products %}
+		{% if product.group == "geo" and product.size =="standard" %}
+			{% include product_card.html %}
+		{% endif %}	
+	{% endfor %}
+	{% for product in site.products %}
+		{% if product.group == "geo" and product.size =="little" %}
+			{% include product_card.html %}
+		{% endif %}	
+	{% endfor %}
+	</div>
+</div>
+
+
+<!-- 
+	List of Our Cloud products (_products collection) 
+-->
+<div class="container pt-5 pt-md-5 pb-5">
+	<div class="row justify-content-start">
+		<div class="col-12">
+		  <h2 class="text-dark mb-3">Our Cloud products</h2>
+		</div>
+	</div>
+	<div class="row justify-content-start">
+    {% for product in site.products %}
+		{% if product.group == "cloud" and product.size =="big" %}
+			{% include product_card.html %}
+		{% endif %}
+    {% endfor %}
+    {% for product in site.products %}
+		{% if product.group == "cloud" and product.size =="standard" %}
+			{% include product_card.html %}
+		{% endif %}
+    {% endfor %}
+	{% for product in site.products %}
+		{% if product.group == "cloud" and product.size =="little" %}
+			{% include product_card.html %}
+		{% endif %}	
+    {% endfor %}	
+  </div>
+</div>
+
+
+<!-- 
+	List of Data management products (_products collection) 
+-->
+<div class="container pt-5 pt-md-5 pb-5">
+	<div class="row justify-content-start">
+		<div class="col-12">
+		  <h2 class="text-dark mb-3">Our Data Management products</h2>
+		</div>
+	</div>
+	<div class="row justify-content-start">
+    {% for product in site.products %}
+		{% if product.group == "data" and product.size =="big" %}
+			{% include product_card.html %}
+		{% endif %}
+    {% endfor %}
+    {% for product in site.products %}
+		{% if product.group == "data" and product.size =="standard" %}
+			{% include product_card.html %}
+		{% endif %}
+    {% endfor %}
+	{% for product in site.products %}
+		{% if product.group == "data" and product.size =="little" %}
+			{% include product_card.html %}
+		{% endif %}	
+    {% endfor %}	
+  </div>
+</div>
+
+{% include icons_meaning.html %}

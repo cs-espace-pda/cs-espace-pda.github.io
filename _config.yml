@@ -1,0 +1,37 @@
+permalink: cspda
+title: 'CS Group - PDA department'
+collections_dir: collections
+destination: ..\webrefpda_html
+description: Official page for the PDA department of CS Group
+url: https://uk.c-s.fr/
+author: CS Group
+logo: images/logo-cs.png
+lang : en_UK
+
+collections:
+  products:
+    output: true
+    permalink: /:name.html
+  features:
+    output: true
+    permalink: /:name.html
+    
+defaults:
+  - scope:
+      type: products
+    values:
+      layout: product
+  - scope:
+      path: 'images'
+    values:
+      image: true
+
+sass:
+  style: compact # possible values: nested expanded compact compressed
+
+google_analytics_id: null
+
+plugins:
+  - jekyll-environment-variables
+  - jekyll-sitemap
+  - jekyll-seo-tag

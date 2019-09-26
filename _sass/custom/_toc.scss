@@ -1,0 +1,43 @@
+
+nav[data-toggle="toc"] {/* vertical position */
+	top: 142px;
+}
+
+nav[data-toggle=toc] .nav>li>a { /* font size & color */
+	font-size:16px; color:$cs-gray-blue-color
+	}
+
+nav[data-toggle=toc] .nav>li>a:focus,nav[data-toggle=toc] .nav>li>a:hover { /* font size & color */
+	padding-left:19px;color:$cs-dark-blue-color;text-decoration:none;background-color:transparent;border-left:1px solid $cs-dark-blue-color
+	}
+
+nav[data-toggle=toc] .nav-link.active,nav[data-toggle=toc] .nav-link.active:focus,nav[data-toggle=toc] .nav-link.active:hover { /* font size & color */
+	padding-left:18px;font-weight:700;color:$cs-dark-blue-color;background-color:transparent;border-left:2px solid $cs-dark-blue-color
+	}
+ 
+nav[data-toggle=toc] .nav .nav>li>a { /* font size & color */
+	font-size:15px;
+}
+ 
+
+
+/* small screens */
+@media (max-width: 768px) {
+  /* override stickyness so that the navigation does not follow scrolling */
+  nav[data-toggle="toc"] {
+    margin-bottom: 42px;
+    position: static;
+  }
+
+  /* PICK ONE */
+  /* don't expand nested items, which pushes down the rest of the page when navigating */
+  nav[data-toggle="toc"] .nav .active .nav {
+    display: none;
+  }
+  /* alternatively, if you *do* want the second-level navigation to be shown (as seen on this page on mobile), use this */
+  /*
+  nav[data-toggle='toc'] .nav .nav {
+    display: block;
+  }
+  */
+}
