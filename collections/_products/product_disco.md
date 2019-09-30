@@ -1,7 +1,7 @@
 ---
 customer: CNES
 group: data
-image: product_disco_screenshot.png
+image: product_disco_logo.png
 investment: contrib
 license: EPL-1.0
 no_sheet: false
