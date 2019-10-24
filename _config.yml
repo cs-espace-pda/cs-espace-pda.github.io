@@ -1,7 +1,7 @@
 permalink: cspda
 title: 'CS Group - PDA department'
 collections_dir: collections
-destination: ..\webrefpda_html
+destination: ..\..\3-deliveries\webref_html
 description: Official page for the PDA department of CS Group
 url: https://uk.c-s.fr/
 author: CS Group
