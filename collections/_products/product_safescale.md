@@ -65,7 +65,7 @@ The `object storage adapter mechanism` of Infra supports main market cloud servi
 * all operational DIAS platforms 
 * potentially any [Openstack](https://www.openstack.org/)-based cloud providers through generic OpenStack driver. 
 * Google Cloud Platform
-* AWS, ERBC and Azure drivers are under construction and will be released before the end of the year.
+* AWS, EBRC and Azure drivers are under construction and will be released before the end of the year.
 
 
 It allows to develop once and deploy wherever.  

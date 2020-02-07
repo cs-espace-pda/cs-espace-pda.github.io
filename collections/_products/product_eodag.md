@@ -13,10 +13,9 @@ type: lib
 What is {{page.title}}?
 ----------------------
 
-
 <img class="image-right" src="product_eodag_dias.png" width="35%">
 
-Rise in publicly accessible Earth Observation (EO) data leads to a greater number of EO data providers, each potentially having different dataand as many different data access policies:
+The increase in the number of publicly available Earth Observation (EO) data is leading to an increase in the number of EO data providers, each potentially having different dataand as many different data access policies:
 * Data discovery API : CSW, OpenSearch, custom search, etc.
 * Metadata mapping : OpenSearch is a good choice, but every provider as its own metadata grammar
 * Product access : object storage S3, file system, FTP, SFTP, etc.

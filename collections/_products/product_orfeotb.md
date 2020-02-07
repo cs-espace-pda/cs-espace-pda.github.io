@@ -3,7 +3,7 @@ customer: CNES
 group: image
 image: product_orfeotb_logo.png
 investment: master
-license: CC-BY-4.0
+license: Apache v2
 remote_url: https://www.orfeo-toolbox.org/
 size: standard
 title: 'Orfeo ToolBox'
