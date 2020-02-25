@@ -2,7 +2,7 @@
 group: geo
 image: product_geostorm_logo.png
 investment: owner
-license: CS property
+license: CS License
 no_sheet: true
 remote_url: http://geostorm.eu/
 size: big

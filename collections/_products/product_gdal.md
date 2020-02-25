@@ -5,7 +5,7 @@ image: product_gdal_logo.png
 investment: contrib
 license: MIT
 no_sheet: false
-remote_url: https://logiciels.cnes.fr/fr/node/57
+remote_url: https://gdal.org/
 size: little
 title: 'GDAL'
 type: lib

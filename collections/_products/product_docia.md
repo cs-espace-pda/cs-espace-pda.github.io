@@ -2,7 +2,7 @@
 group: data
 image: product_docia_screenshot.png
 investment: owner
-license: CS Property
+license: CS License
 size: standard
 title: 'DocIA&#153'
 type: app

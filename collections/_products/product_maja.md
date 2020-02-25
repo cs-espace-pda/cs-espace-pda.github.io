@@ -3,7 +3,7 @@ customer: CNES
 group: image
 image: product_maja_screenshot.png
 investment: master
-license: CNES Property
+license: CNES License
 no_sheet: false
 remote_url: https://logiciels.cnes.fr/fr/node/57
 size: standard

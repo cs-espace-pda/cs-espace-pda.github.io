@@ -2,7 +2,7 @@
 group: geo
 image: product_iotstorm_logo.png
 investment: owner
-license: CS property
+license: CS License
 size: standard
 title: 'IoTStorm'
 type: app
