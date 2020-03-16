@@ -29,11 +29,12 @@ bodyClass: page-product
 		{% assign items = group.items | sort: 'customer' %}
 		
 		<div class="col-12">
+		<br>
 		<h2 class="text-dark mb-3">{{ group.name }}</h2>
 		{% if group.name == "Generic" %}
 			<p>Our projects are linked to several programs.</p>
-		{ %else% }
-			<p>Our projects that are specific to the {{ group.name }} program.</p>
+		{% else %}
+			<p>Our projects that are specific to the <b>{{ group.name }}</b> program.</p>
 		{% endif %}	
 		</div>
 				

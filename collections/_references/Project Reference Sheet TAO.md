@@ -46,7 +46,7 @@ The project objectives are as follow:
 |----------------	|-------|
 | Start				| Mon Jul 17 02:00:00 CEST 2017 |
 | End				|  |
-| Duration 			| Since 2017 (2,6 years) |
+| Duration 			| Since 2017 (2,7 years) |
 | Workload			| 0 men x months |
 
 
