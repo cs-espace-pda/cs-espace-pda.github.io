@@ -1,5 +1,7 @@
+// Card rendering
 
-.product-card-summary-common {
+// Card root design
+.card-common {
 
 	/* Card background */
 	height: 100%;
@@ -13,7 +15,7 @@
 	flex-wrap: wrap;
 	flex-direction: row;
 
-	.product-image {
+	.card-image {
 		flex: 0;
 		margin-right: 15px;
 		margin-bottom: 2px;
@@ -24,7 +26,7 @@
 		}
 	}
 	
-	.product-card-title {
+	.card-title {
 		display: inline-block;
 		font-weight: 600;
 		text-transform: uppercase;
@@ -34,9 +36,8 @@
 	}
 }
 
-/* product card specific to card size */
-
-.product-card-summary-big {
+// Card sizes
+.card-size-big {
 	background-color: #68b5bd; /*#d4f6fa;*/
 	color: #FFFFFF;
 	
@@ -51,20 +52,20 @@
 	  color: white;
 	}
 
-	.product-card-title {
+	.card-title {
 		color: #FFFFFF;
 		font-size: 3rem;
 	}
 }
 
-.product-card-summary-standard {
+.card-size-standard {
 	border: solid 1px $cs-gray-blue-color;
-	.product-card-title {
+	.card-title {
 		font-size: 1.5rem;
 	}
 }
 
-.product-card-summary-little {
+.card-size-little {
 	background-color: #F4F4F4;
 	border: solid 1px #ccc;
 	margin: 3px;/* Margin between cards */
@@ -77,16 +78,13 @@
 		}
 	}
 		
-	.product-card-title {
+	.card-title {
 		font-size: 1.1rem;
 	}
 }
  
-
-
-/* product sheet specific */
-
-.product-sheet-image {
+// image displayed in product or reference sheet
+.sheet-image {
 	flex: 0;
 	margin-right: 10px;
 	img {
@@ -97,9 +95,8 @@
 }
 
 
-/* tags to present product meta data: license, skills etc. */
-
-.product-card-meta {
+// Card tag: license, skills etc.
+.card-meta {
 	flex: 1;
 	h2 {
 	margin: 0;
@@ -111,7 +108,7 @@
 	}
 }
 
-.product-tag {
+.card-tag {
 	white-space: nowrap;
 	display: inline-block;
 	height: 20px;
@@ -128,22 +125,10 @@
 	transition: all 0.15s ease;
 }
 
-
-.product-tagtyp  {
-	background: #4F0000;
-}
-
-.product-taglic  {
-	background: #404040;
-}
-
-.product-taginv  {
-	background: #009000;
-}
-
-
-.product-tagcus  {
-	color: #101010;
-	background: #C0C0C0;
-}
-
+// Customizes each tag depending on displayed information
+.card-tag-type  		{ background: #4F0000; }
+.card-tag-license  		{ background: #404040; }
+.card-tag-investment  	{ background: #009000; }
+.card-tag-customer  	{ color: #FFFFFF; background: #2c9ade; }
+.card-tag-period  		{ color: #f5e942; background: #404040; }
+.card-tag-program  		{ color: #FFFFFF; background: #4512FE; }

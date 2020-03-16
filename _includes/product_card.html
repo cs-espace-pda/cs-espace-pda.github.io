@@ -1,15 +1,15 @@
 {% if product.size=="big" %}
 <div class="col-12 col-md-12 col-xl-12 mb-1 mt-1">
-  <div class="product-card-summary-common product-card-summary-big">
+  <div class="card-common card-size-big">
 {% elsif product.size=="standard" %}
 <div class="col-12 col-md-6 col-xl-6 mb-1 mt-1">
-  <div class="product-card-summary-common product-card-summary-standard">
+  <div class="card-common card-size-standard">
 {% else %}
 <div class="col-12 col-md-6 col-xl-3 mb-1 mt-1">
-  <div class="product-card-summary-common product-card-summary-little">
+  <div class="card-common card-size-little">
 {% endif %}
 	
-	<div class="product-image">
+	<div class="card-image">
 	{% if product.image %}
 		<img alt="{{ product.title }} logo" class="img-fluid" src="{{site.baseurl}}/{{ product.image }}"/>
 	{% else %}
@@ -17,8 +17,8 @@
 	{% endif %}
 	</div>
 	
-	<div class="product-card-meta">
-		<h3 class="product-card-title">
+	<div class="card-meta">
+		<h3 class="card-title">
 			{% if product.no_sheet %}
 				<a href="{{product.remote_url}}">{{ product.title }}</a>
 			{% else %}
@@ -26,11 +26,11 @@
 			{% endif%}
 		</h3>
 		<br/>
-		<div class="product-tag product-tagtyp">{{ product.type }}</div>
-		<div class="product-tag product-taglic">{{ product.license }}</div>
-		<div class="product-tag product-taginv">{{ product.investment }}</div>
+		<div class="card-tag card-tag-type">{{ product.type }}</div>
+		<div class="card-tag card-tag-license">{{ product.license }}</div>
+		<div class="card-tag card-tag-investment">{{ product.investment }}</div>
 		{% if product.customer %}
-			<div class="product-tag product-tagcus">{{ product.customer }}</div>
+			<div class="card-tag card-tag-customer">{{ product.customer }}</div>
 		{% endif%}
 	</div>
 	{% if product.size=="big" %}

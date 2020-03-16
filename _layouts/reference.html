@@ -5,7 +5,7 @@ layout: layout-toc
 
 <div class="container pt-4 pt-md-10">
 	<div class="row justify-content-start">
-		
+
 		<div class="col sheet-image">
 		{% if page.image %}
 			<img alt="{{ page.title }} logo" class="img-fluid mt-2" src="{{site.baseurl}}/{{ page.image }}"/>
@@ -15,18 +15,11 @@ layout: layout-toc
 		</div>
 		
 		<div class="col pl-2">
+		<div><b>PROJECT REFERENCE</b></div>
 			<h1 class="title">{{page.title}}</h1>
 			<p>
-				<div class="card-tag card-tag-type">{{ page.type }}</div>
-				<div class="card-tag card-tag-license">{{ page.license }}</div>
-				<div class="card-tag card-tag-investment">{{ page.investment }}</div>
-				{% if page.customer %}
-					<div class="card-tag card-tag-customer">{{ page.customer }}</div>
-				{% endif %}
+				<div class="card-tag card-tag-cusomer">{{ page.customer }}</div>
 			</p>
-			{% if page.remote_url %}
-				Project URL: <a target="_blank" href="{{ page.remote_url }}"> {{page.remote_url}}</a> 
-			{% endif %}
 		</div>
 		
 		<div class="content col-12">	
@@ -34,7 +27,7 @@ layout: layout-toc
 		</div>
 		
 			
-		<div class="content product_page col-12">	
+		<div class="content reference_page col-12">	
 			{{page.content}}
 		</div>
 	</div>

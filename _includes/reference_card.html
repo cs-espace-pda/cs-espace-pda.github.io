@@ -1,0 +1,38 @@
+{% if reference.size=="big" %}
+<div class="col-12 col-md-12 col-xl-12 mb-1 mt-1">
+  <div class="card-common card-size-big">
+{% elsif reference.size=="standard" %}
+<div class="col-12 col-md-6 col-xl-6 mb-1 mt-1">
+  <div class="card-common card-size-standard">
+{% else %}
+<div class="col-12 col-md-6 col-xl-3 mb-1 mt-1">
+  <div class="card-common card-size-little">
+{% endif %}
+	
+	<div class="card-image">
+	{% if reference.image %}
+		<img alt="{{ reference.title }} logo" class="img-fluid" src="{{site.baseurl}}/{{ reference.image }}"/>
+	{% else %}
+		<img alt="{{ reference.title }} logo" class="img-fluid" src="{{site.baseurl}}/images/default_product_logo.png"/>
+	{% endif %}
+	</div>
+	
+	<div class="card-meta">
+		<h3 class="card-title">
+			<a href="{{site.baseurl}}{{ reference.url }}">{{ reference.name }}</a>
+		</h3>
+		<br/>
+		<div class="card-tag card-tag-customer">{{ reference.customer }}</div>
+		<div class="card-tag card-tag-period">{{ reference.period }}</div>
+		<div class="card-tag card-tag-program">{{ reference.program }}</div>
+	</div>
+	{% if reference.size=="big" %}
+		{{ reference.summary | markdownify | strip_html | truncate: 500 }}
+	{% elsif reference.size=="standard" %}
+		{{ reference.summary | markdownify | strip_html | truncate: 200 }}
+	{% else %}
+		{{ reference.summary | markdownify | strip_html | truncate: 100 }}
+	{% endif %}
+	
+  </div>
+</div>

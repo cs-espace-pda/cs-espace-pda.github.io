@@ -1,0 +1,46 @@
+---
+title: Products
+layout: layout-toc
+bodyClass: page-product
+---
+
+
+<div class="container pt-5 pt-md-5">
+  <div class="row justify-content-center">
+	<div class="col-12">
+		<h1 class="title-1">Our key references</h1>
+		The following cards present the key projects developped by {{site.data.str.pda}}.<br>
+	</div>
+  </div>
+</div>
+
+
+<!-- 
+	List of references 
+-->
+<div class="container pt-5 pt-md-5">
+	<div class="row justify-content-start">
+	{% assign ref_grouped = site.references | group_by: 'program' | sort: 'name' %}
+	{% for group in ref_grouped %}
+<!-- 
+	The above returns, for example, which is why we sort by 'name'
+	{"name"=>"category1_value", "items"=>[#, #, #, #, #]}{"name"=>"category2_value", "items"=>[#, #, #, #]}
+-->
+		{% assign items = group.items | sort: 'customer' %}
+		
+		<div class="col-12">
+		<h2 class="text-dark mb-3">{{ group.name }}</h2>
+		{% if group.name == "Generic" %}
+			<p>Our projects are linked to several programs.</p>
+		{ %else% }
+			<p>Our projects that are specific to the {{ group.name }} program.</p>
+		{% endif %}	
+		</div>
+				
+		{% for reference in items %}
+			{% include reference_card.html %}
+		{% endfor %}
+	{% endfor %}
+	</div>
+</div>
+
