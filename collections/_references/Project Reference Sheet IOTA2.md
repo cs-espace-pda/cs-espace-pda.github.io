@@ -6,13 +6,9 @@ size: standard
 name: IOTA2
 title: IOTA² - land-use map production line for large areas based on time series of Sentinel or Landsat images
 department: PDA
-period: 2016-2020
 program: Generic
 summary: "Annual production of a national land use map. Testing new algorithms over large areas."
 ---
-
-# Overview
-
 
 # Context
 
@@ -40,15 +36,6 @@ The project objectives are as follow:
 * Annual production of a national land use map.
 * Testing new algorithms over large areas.
 
-
-| Characteristic 	| Value |
-|----------------	|-------|
-| Start				| Tue Jan 26 01:00:00 CET 2016 |
-| End				|  |
-| Duration 			| Since 2016 (4,1 years) |
-| Workload			| 12 men x months |
-
-
 The processes for carrying out the project are:
 * Software V-Model
 
@@ -61,9 +48,11 @@ The solution key points are as follow:
 
 
 
-The main techonlogies are as follow.
+The main technologies are as follow.
 
-COTS, Libraries: OTB, GDAL, Qgis
-License: AGPL-3.0
-OS: Unix, Linux Ubuntu, CentOS
-Main languages: Python, C++
+{:class="table table-bordered table-dark"}
+| Domain | Technologie(s) |
+|--------|----------------|
+|Operating System(s)|Unix, Linux Ubuntu, CentOS|
+|Programming language(s)|Python, C++|
+|Main COTS library(ies)|OTB, GDAL, Qgis|

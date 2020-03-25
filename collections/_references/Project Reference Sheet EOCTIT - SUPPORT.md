@@ -6,16 +6,11 @@ size: standard
 name: EOCTIT - Support
 title: Support for the management of the CNES Common Tools
 department: ESPACE/PDA
-period: 2009-2019
 program: Generic
 summary: "Global maintenance assistance for low level image processing applications, known as CNES Common Tools"
 ---
 
-# Overview
-
-
 # Context
-
 
 
 ![Main Picture](Project Reference Sheet EOCTIT - SUPPORT pict 1.png)
@@ -37,15 +32,6 @@ The features are as follow:
 The project objectives are as follow:
 * Global maintenance assistance for low level image processing applications, known as CNES Common Tools
 
-
-| Characteristic 	| Value |
-|----------------	|-------|
-| Start				| Thu Jan 01 01:00:00 CET 2009 |
-| End				| Tue Jan 01 01:00:00 CET 2019 |
-| Duration 			| 10,0 years |
-| Workload			| 0 men x months |
-
-
 The processes for carrying out the project are:
 * Continuous integration over multi-platforms
 
@@ -57,9 +43,11 @@ The solution key points are as follow:
 
 
 
-The main techonlogies are as follow.
+The main technologies are as follow.
 
-Software for production: various client tools
-License: CNES Property
-OS: Windows (Cygwin), Linux 32 et 64bits (RedHat 6&7)
-Main languages: C, C++, CUDA, OPENCL, python, shell
+{:class="table table-bordered table-dark"}
+| Domain | Technologie(s) |
+|--------|----------------|
+|Operating System(s)|Windows (Cygwin), Linux 32 et 64bits (RedHat 6&7)|
+|Programming language(s)|C, C++, CUDA, OPENCL, python, shell|
+|Production software (IDE, DEVOPS etc.)|various client tools|

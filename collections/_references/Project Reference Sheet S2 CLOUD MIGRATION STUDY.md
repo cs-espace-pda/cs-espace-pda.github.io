@@ -6,16 +6,11 @@ size: standard
 name: S2 Cloud migration study
 title: Study of the execution of Sentinel 2 processing system on a cloud infrastructure
 department: PDA
-period: 2019
 program: Copernicus
 summary: "Verify assumptions for the migration of the PDGS core processing to the cloud. Develop a demonstrator"
 ---
 
-# Overview
-
-
 # Context
-
 
 
 ![Main Picture](Project Reference Sheet S2 CLOUD MIGRATION STUDY pict 1.png)
@@ -42,15 +37,6 @@ The project objectives are as follow:
 * Verify assumptions for the migration of the PDGS core processing to the cloud 
 * Develop a demonstrator
 
-
-| Characteristic 	| Value |
-|----------------	|-------|
-| Start				| Thu Oct 10 02:00:00 CEST 2019 |
-| End				| Sat Nov 30 01:00:00 CET 2019 |
-| Duration 			| 1 month |
-| Workload			| 0 men x months |
-
-
 The processes for carrying out the project are:
 * Agile methodology
 
@@ -64,11 +50,13 @@ The solution key points are as follow:
 
 ![Archi Picture](Project Reference Sheet S2 CLOUD MIGRATION STUDY pict 2.png)
 
-The main techonlogies are as follow.
+The main technologies are as follow.
 
-Hardware: Orange cc3.4xlarge.4, OVH C2-60
-Software for production: Docker, S2 IPF
-License: CS Group
-OS: Linux
-Formats & Protocols: S2 job orders, S2 SAFE format
-Main languages: python
+{:class="table table-bordered table-dark"}
+| Domain | Technologie(s) |
+|--------|----------------|
+|Hardware environment(s)|Orange cc3.4xlarge.4, OVH C2-60|
+|Operating System(s)|Linux|
+|Programming language(s)|python|
+|Interoperability (protocols, format, APIs)|S2 job orders, S2 SAFE format|
+|Production software (IDE, DEVOPS etc.)|Docker, S2 IPF|

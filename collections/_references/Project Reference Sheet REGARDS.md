@@ -6,16 +6,11 @@ size: standard
 name: REGARDS
 title: __RE__ nouvellement des outils __G__ énériques d’__A__ ccès et d’a __R__ chivage pour les __D__ onnées __S__ patiales
 department: PDA
-period: 2015-2022
 program: Generic
 summary: "Data Preservation and valorization. Open source system"
 ---
 
-# Overview
-
-
 # Context
-
 
 
 ![Main Picture](Project Reference Sheet REGARDS pict 1.png)
@@ -39,15 +34,6 @@ The project objectives are as follow:
 * Data Preservation and valorization
 * Open source system
 
-
-| Characteristic 	| Value |
-|----------------	|-------|
-| Start				| Sun Nov 01 01:00:00 CET 2015 |
-| End				| Mon Feb 28 01:00:00 CET 2022 |
-| Duration 			| 6,3 years |
-| Workload			| 0 men x months |
-
-
 The processes for carrying out the project are:
 * Software V-Model, Requirement engineering, Continuous Integration
 
@@ -59,12 +45,14 @@ The solution key points are as follow:
 
 ![Archi Picture](Project Reference Sheet REGARDS pict 2.png)
 
-The main techonlogies are as follow.
+The main technologies are as follow.
 
-COTS, Libraries: PostgreSQL, MongoDB, Mysql, Elasticsearch
-Hardware: PC, VMWare HP
-Software for production: Eclipse JEE, Netbeans, IntelliJ IDEA, Atom, UML-CS / Enterprise Architect, Git, Subversion, Apache Maven, NPM, Webpack, Jenkins, Travis CI, Fireworks, Junit, Selenium (tests IHM), Mockito, TestLink, Spring Test
-License: GPL-3.0
-OS: Linux Red Hat
-Formats & Protocols: PAIS, XFDU, FITS, WPS, UWS
-Main languages: Java, HTML, CSS, JavaScript, XSD, XML
+{:class="table table-bordered table-dark"}
+| Domain | Technologie(s) |
+|--------|----------------|
+|Hardware environment(s)|PC, VMWare HP|
+|Operating System(s)|Linux Red Hat|
+|Programming language(s)|Java, HTML, CSS, JavaScript, XSD, XML|
+|Interoperability (protocols, format, APIs)|PAIS, XFDU, FITS, WPS, UWS|
+|Production software (IDE, DEVOPS etc.)|Eclipse JEE, Netbeans, IntelliJ IDEA, Atom, UML-CS / Enterprise Architect, Git, Subversion, Apache Maven, NPM, Webpack, Jenkins, Travis CI, Fireworks, Junit, Selenium (tests IHM), Mockito, TestLink, Spring Test|
+|Main COTS library(ies)|PostgreSQL, MongoDB, Mysql, Elasticsearch|

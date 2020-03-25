@@ -6,16 +6,11 @@ size: standard
 name: SnapEarth
 title: SnapEarth project
 department: PDA
-period: 2019-2020
 program: Copernicus
 summary: "Fostering EO market uptake thanks to natural and holistic access to added value data generated through cutting-edge Artificial Intelligence technologies."
 ---
 
-# Overview
-
-
 # Context
-
 
 
 ![Main Picture](Project Reference Sheet SNAPEARTH pict 1.png)
@@ -34,15 +29,6 @@ The features are as follow:
 The project objectives are as follow:
 * Fostering EO market uptake thanks to natural and holistic access to added value data generated through cutting-edge Artificial Intelligence technologies.
 
-
-| Characteristic 	| Value |
-|----------------	|-------|
-| Start				| Tue Jan 01 01:00:00 CET 2019 |
-| End				|  |
-| Duration 			| Since 2019 (1,2 years) |
-| Workload			| 0 men x months |
-
-
 The processes for carrying out the project are:
 * Agile, Continuous integration
 
@@ -58,9 +44,12 @@ The solution key points are as follow:
 
 ![Archi Picture](Project Reference Sheet SNAPEARTH pict 2.png)
 
-The main techonlogies are as follow.
+The main technologies are as follow.
 
-COTS, Libraries: Kubernetes, Docker, Argo, EODAG, SafeScale, Elastic Stack, Fluentd, Graylog, Grafana
-Hardware: Cloud, PaaS
-OS: Linux
-Main languages: Go, Python
+{:class="table table-bordered table-dark"}
+| Domain | Technologie(s) |
+|--------|----------------|
+|Hardware environment(s)|Cloud, PaaS|
+|Operating System(s)|Linux|
+|Programming language(s)|Go, Python|
+|Main COTS library(ies)|Kubernetes, Docker, Argo, EODAG, SafeScale, Elastic Stack, Fluentd, Graylog, Grafana|

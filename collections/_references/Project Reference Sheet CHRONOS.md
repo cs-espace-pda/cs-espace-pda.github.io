@@ -6,16 +6,11 @@ size: standard
 name: CHRONOS
 title: Realization of a processing orchestrator and mission for SWOT
 department: PDA
-period: 2018-2021
 program: Generic
 summary: "Design, build and commission a generic processing orchestrator for the SWOT data production centre."
 ---
 
-# Overview
-
-
 # Context
-
 
 
 ![Main Picture](Project Reference Sheet CHRONOS pict 1.png)
@@ -43,15 +38,6 @@ The features are as follow:
 The project objectives are as follow:
 * Design, build and commission a generic processing orchestrator for the SWOT data production centre.
 
-
-| Characteristic 	| Value |
-|----------------	|-------|
-| Start				| Sat Dec 01 01:00:00 CET 2018 |
-| End				| Wed Dec 01 01:00:00 CET 2021 |
-| Duration 			| 3,0 years |
-| Workload			| 0 men x months |
-
-
 The processes for carrying out the project are:
 * Software V-Model, Requirement engineering, Continuous Integration
 
@@ -66,11 +52,13 @@ The solution key points are as follow:
 
 
 
-The main techonlogies are as follow.
+The main technologies are as follow.
 
-COTS, Libraries: Hibernate, JAXB, AdminLTE, GFal2, Spring, Docker, Postgresql, RabbitMQ, IPA, KeyCloack, ElasticStack, GitLab, Centreon, Toil, Apache Mesos, SafeScale, Apache Atlas, Ansible, AWX
-Software for production: Git
-License: CNES Property
-OS: Linux RH Secure
-Formats & Protocols: CWL, REST, AMQP, Yaml, XML
-Main languages: Java, Python, SQL
+{:class="table table-bordered table-dark"}
+| Domain | Technologie(s) |
+|--------|----------------|
+|Operating System(s)|Linux RH Secure|
+|Programming language(s)|Java, Python, SQL|
+|Interoperability (protocols, format, APIs)|CWL, REST, AMQP, Yaml, XML|
+|Production software (IDE, DEVOPS etc.)|Git|
+|Main COTS library(ies)|Hibernate, JAXB, AdminLTE, GFal2, Spring, Docker, Postgresql, RabbitMQ, IPA, KeyCloack, ElasticStack, GitLab, Centreon, Toil, Apache Mesos, SafeScale, Apache Atlas, Ansible, AWX|

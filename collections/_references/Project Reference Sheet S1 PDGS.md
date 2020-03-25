@@ -6,16 +6,11 @@ size: standard
 name: S1 PDGS
 title: Migration of Sentinel 1 to cloud commercial service
 department: ESPACE/PDA
-period: 2019-2020
 program: Copernicus
 summary: "Migrating S1 Data & Payloads Digital Ground Segment Processing to cloud platforms"
 ---
 
-# Overview
-
-
 # Context
-
 
 
 
@@ -37,15 +32,6 @@ The features are as follow:
 The project objectives are as follow:
 * Migrating S1 Data & Payloads Digital Ground Segment Processing to cloud platforms
 
-
-| Characteristic 	| Value |
-|----------------	|-------|
-| Start				| Tue Jan 01 01:00:00 CET 2019 |
-| End				| Wed Jan 01 01:00:00 CET 2020 |
-| Duration 			| 12 months |
-| Workload			| 0 men x months |
-
-
 The processes for carrying out the project are:
 * Agile - Continuous integration
 
@@ -57,11 +43,13 @@ The solution key points are as follow:
 
 ![Archi Picture](Project Reference Sheet S1 PDGS pict 1.png)
 
-The main techonlogies are as follow.
+The main technologies are as follow.
 
-COTS, Libraries: Angular, SafeScale, Openstack, Kafka, PostgreSQL, IPF, MongoDB, Prometheus – Fluentd – Elasticsearch – Grafana – Kibana
-Hardware: Cloud
-Software for production: Docker, Gitlab, Jira, Confluence, jUnit (for Java test), Karma (for Angular test), Go test
-License: Airbus DS Property
-OS: Linux
-Main languages: Java, Typescript, Go
+{:class="table table-bordered table-dark"}
+| Domain | Technologie(s) |
+|--------|----------------|
+|Hardware environment(s)|Cloud|
+|Operating System(s)|Linux|
+|Programming language(s)|Java, Typescript, Go|
+|Production software (IDE, DEVOPS etc.)|Docker, Gitlab, Jira, Confluence, jUnit (for Java test), Karma (for Angular test), Go test|
+|Main COTS library(ies)|Angular, SafeScale, Openstack, Kafka, PostgreSQL, IPF, MongoDB, Prometheus – Fluentd – Elasticsearch – Grafana – Kibana|

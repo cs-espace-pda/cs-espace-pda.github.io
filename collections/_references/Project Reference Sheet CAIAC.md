@@ -6,16 +6,11 @@ size: standard
 name: CAIAC
 title: Geographic platform for planning and decision support for risk management
 department: PDA
-period: 2015-2020
 program: Risk management
 summary: "Deploy a mapping platform to assist critical operators and territorial managers in their planning, decision support, risk and crisis management activities. Integrate simulation and information acquisition functions and services into the CAIAC platform"
 ---
 
-# Overview
-
-
 # Context
-
 
 
 ![Main Picture](Project Reference Sheet CAIAC pict 1.png)
@@ -45,15 +40,6 @@ The project objectives are as follow:
 * Deploy a mapping platform to assist critical operators and territorial managers in their planning, decision support, risk and crisis management activities. 
 * Integrate simulation and information acquisition functions and services into the CAIAC platform
 
-
-| Characteristic 	| Value |
-|----------------	|-------|
-| Start				| Thu Jan 01 01:00:00 CET 2015 |
-| End				|  |
-| Duration 			| Since 2015 (5,2 years) |
-| Workload			| 0 men x months |
-
-
 The processes for carrying out the project are:
 * Software V-Model
 
@@ -68,10 +54,13 @@ The solution key points are as follow:
 
 
 
-The main techonlogies are as follow.
+The main technologies are as follow.
 
-COTS, Libraries: GEOSTORM, Angular JS 1.2.x, OpenLayers 3, Django, DRF, QuantumGIS, WebGL, Postgresql 9.x, Postgis, Elastic search
-Software for production: Git, Docker, Jenkins
-OS: Linux, WEB client
-Formats & Protocols: WMS, WFS, WMTS, WPS, CSW, BPMN, UML, LDAP, ISO 119115, 19139, Opensearch
-Main languages: HTML5, Javascript, Python
+{:class="table table-bordered table-dark"}
+| Domain | Technologie(s) |
+|--------|----------------|
+|Operating System(s)|Linux, WEB client|
+|Programming language(s)|HTML5, Javascript, Python|
+|Interoperability (protocols, format, APIs)|WMS, WFS, WMTS, WPS, CSW, BPMN, UML, LDAP, ISO 119115, 19139, Opensearch|
+|Production software (IDE, DEVOPS etc.)|Git, Docker, Jenkins|
+|Main COTS library(ies)|GEOSTORM, Angular JS 1.2.x, OpenLayers 3, Django, DRF, QuantumGIS, WebGL, Postgresql 9.x, Postgis, Elastic search|

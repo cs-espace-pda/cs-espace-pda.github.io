@@ -6,16 +6,11 @@ size: standard
 name: GEODE4D
 title: Architectural analysis and definition of the Geophysical Environment Information System GEODE 4D
 department: PDA
-period: 2012-2013
 program: GEODE4D
 summary: "GEODE 4D is a project to set up a geophysical cross forces information system."
 ---
 
-# Overview
-
-
 # Context
-
 
 
 ![Main Picture](Project Reference Sheet GEODE4D pict 1.png)
@@ -40,15 +35,6 @@ The features are as follow:
 The project objectives are as follow:
 * GEODE 4D is a project to set up a geophysical cross forces information system.
 
-
-| Characteristic 	| Value |
-|----------------	|-------|
-| Start				| Sun Jan 01 01:00:00 CET 2012 |
-| End				| Tue Jan 01 01:00:00 CET 2013 |
-| Duration 			| 1,0 years |
-| Workload			| 0 men x months |
-
-
 The processes for carrying out the project are:
 * Software V-Model
 
@@ -62,10 +48,12 @@ The solution key points are as follow:
 
 
 
-The main techonlogies are as follow.
+The main technologies are as follow.
 
-COTS, Libraries: opensource GIS framework (map server, global mapper qgis, thredds...), ESRI
-Software for production: IBM SA, DOORS, Office 2003
-License: DGA Property
-OS: Windows seven , xp , Linux debian
-Main languages: java, python, javascript
+{:class="table table-bordered table-dark"}
+| Domain | Technologie(s) |
+|--------|----------------|
+|Operating System(s)|Windows seven , xp , Linux debian|
+|Programming language(s)|java, python, javascript|
+|Production software (IDE, DEVOPS etc.)|IBM SA, DOORS, Office 2003|
+|Main COTS library(ies)|opensource GIS framework (map server, global mapper qgis, thredds...), ESRI|

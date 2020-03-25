@@ -6,16 +6,11 @@ size: standard
 name: TAO
 title: Tool Augmentation by user enhancements and Orchestration
 department: PDA
-period: 2017-2020
 program: Generic
 summary: "TAO platform (stands for Tool Augmentation by user enhancements and Orchestration) is a lightweight, generic integration and distributed orchestration framework."
 ---
 
-# Overview
-
-
 # Context
-
 
 
 ![Main Picture](Project Reference Sheet TAO pict 1.png)
@@ -41,15 +36,6 @@ The features are as follow:
 The project objectives are as follow:
 * TAO platform (stands for Tool Augmentation by user enhancements and Orchestration) is a lightweight, generic integration and distributed orchestration framework.
 
-
-| Characteristic 	| Value |
-|----------------	|-------|
-| Start				| Mon Jul 17 02:00:00 CEST 2017 |
-| End				|  |
-| Duration 			| Since 2017 (2,7 years) |
-| Workload			| 0 men x months |
-
-
 The processes for carrying out the project are:
 * Software V-Model
 
@@ -61,10 +47,12 @@ The solution key points are as follow:
 
 ![Archi Picture](Project Reference Sheet TAO pict 2.png)
 
-The main techonlogies are as follow.
+The main technologies are as follow.
 
-COTS, Libraries: PostgreSQL, SNAP, Orfeo Toolbox, Slurm, Torque
-Software for production: Git, Docker
-License: GPL-3.0
-OS: Linux
-Main languages: Java, Python
+{:class="table table-bordered table-dark"}
+| Domain | Technologie(s) |
+|--------|----------------|
+|Operating System(s)|Linux|
+|Programming language(s)|Java, Python|
+|Production software (IDE, DEVOPS etc.)|Git, Docker|
+|Main COTS library(ies)|PostgreSQL, SNAP, Orfeo Toolbox, Slurm, Torque|

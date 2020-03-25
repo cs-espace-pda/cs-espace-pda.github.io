@@ -6,13 +6,9 @@ size: standard
 name: BIP
 title: BGU-VENµS Images Production
 department: PDA
-period: 2015-2020
 program: VENµS
 summary: "Produce BGU's L2 and L3 images from the L1 data provided by CNES"
 ---
-
-# Overview
-
 
 # Context
 
@@ -43,15 +39,6 @@ The features are as follow:
 The project objectives are as follow:
 * Produce BGU's L2 and L3 images from the L1 data provided by CNES
 
-
-| Characteristic 	| Value |
-|----------------	|-------|
-| Start				| Fri May 01 02:00:00 CEST 2015 |
-| End				| Mon Aug 31 02:00:00 CEST 2020 |
-| Duration 			| 5,3 years |
-| Workload			| 4 men x months |
-
-
 The processes for carrying out the project are:
 * Software V-Model
 
@@ -64,10 +51,13 @@ The solution key points are as follow:
 
 ![Archi Picture](Project Reference Sheet BIP pict 2.png)
 
-The main techonlogies are as follow.
+The main technologies are as follow.
 
-COTS, Libraries: MACCS (Multi-mission Atmospheric Correction and Cloud Screening), Geostorm
-Software for production: Git, Docker, Jenkins
-OS: Linux
-Formats & Protocols: XML, GeoNetwork
-Main languages: Python, Java, J2EE/WS, HTML, Javascript
+{:class="table table-bordered table-dark"}
+| Domain | Technologie(s) |
+|--------|----------------|
+|Operating System(s)|Linux|
+|Programming language(s)|Python, Java, J2EE/WS, HTML, Javascript|
+|Interoperability (protocols, format, APIs)|XML, GeoNetwork|
+|Production software (IDE, DEVOPS etc.)|Git, Docker, Jenkins|
+|Main COTS library(ies)|MACCS (Multi-mission Atmospheric Correction and Cloud Screening), Geostorm|

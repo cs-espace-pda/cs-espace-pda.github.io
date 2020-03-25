@@ -6,13 +6,9 @@ size: standard
 name: VIQ
 title: Venμs Image Quality
 department: PDA
-period: 2011-2013
 program: VENµS
 summary: "Facilitates the geometric and radiometric calibration tasks, the improvement and update of calibration parameters, the verification of the VENμS instrument performances. Generates the reference DEM used in L1."
 ---
-
-# Overview
-
 
 # Context
 
@@ -48,15 +44,6 @@ The project objectives are as follow:
 * Facilitates the geometric and radiometric calibration tasks, the improvement and update of calibration parameters, the verification of the VENμS instrument performances
 * Generates the reference DEM used in L1.
 
-
-| Characteristic 	| Value |
-|----------------	|-------|
-| Start				| Tue Mar 01 01:00:00 CET 2011 |
-| End				| Tue Dec 31 01:00:00 CET 2013 |
-| Duration 			| 2,8 years |
-| Workload			| 50 men x months |
-
-
 The processes for carrying out the project are:
 * Development of radiometric and geometric calibration and validation methods
 * Integration and configuration of CNES components, including the hosting platform
@@ -70,11 +57,13 @@ The solution key points are as follow:
 
 
 
-The main techonlogies are as follow.
+The main technologies are as follow.
 
-COTS, Libraries: SNAP, GDAL, Orfeo Toolbox, Postgres, PostGIS, Tomcat, ENVI, CNES SAG (Structure d’Accueil Générique), CNES SIGMA
-Hardware: HP servers and PC
-License: CNES Property
-OS: Linux
-Formats & Protocols: XML
-Main languages: Python, Java, J2EE/WS, HTML
+{:class="table table-bordered table-dark"}
+| Domain | Technologie(s) |
+|--------|----------------|
+|Hardware environment(s)|HP servers and PC|
+|Operating System(s)|Linux|
+|Programming language(s)|Python, Java, J2EE/WS, HTML|
+|Interoperability (protocols, format, APIs)|XML|
+|Main COTS library(ies)|SNAP, GDAL, Orfeo Toolbox, Postgres, PostGIS, Tomcat, ENVI, CNES SAG (Structure d’Accueil Générique), CNES SIGMA|

@@ -6,13 +6,9 @@ size: standard
 name: DOCIA
 title: Prototype of a platform for document retrieval and advanced indexing
 department: PDA
-period: 2018-2021
 program: C2IA
 summary: "Enable the search in a large quantity of heterogeneous and unorganized documents. Intelligent use of data, linking, cross-referencing. Monitoring of local documents, websites, RSS feeds. Applications: Operational Mapping, Surveillance, Decision Support"
 ---
-
-# Overview
-
 
 # Context
 
@@ -33,11 +29,9 @@ The features are as follow:
 	* _Directory_ is the results in the document tree structure
 	* _Statistics_ is the pie chart of documents found by type, average size etc...
 	* _Map_ is the locations found in documents on a background map
-* 
 * Shopping cart:
 	* Import/export/permalians
 	* Suggested documents
-* 
 * Upload, add, update, delete files
 
 # Project implementation
@@ -47,15 +41,6 @@ The project objectives are as follow:
 * Intelligent use of data, linking, cross-referencing
 * Monitoring of local documents, websites, RSS feeds 
 * Applications: Operational Mapping, Surveillance, Decision Support
-
-
-| Characteristic 	| Value |
-|----------------	|-------|
-| Start				| Sat Dec 01 01:00:00 CET 2018 |
-| End				| Mon Jul 05 02:00:00 CEST 2021 |
-| Duration 			| 2,6 years |
-| Workload			| 6 men x months |
-
 
 The processes for carrying out the project are:
 * Agile Methodology
@@ -69,7 +54,6 @@ The solution key points are as follow:
 	* Header / footer
 	* Image pre-processing
 	* Metadata extraction
-* 
 * Scalable and extensible
 * Minimal use of resources
 * Logs management
@@ -78,11 +62,13 @@ The solution key points are as follow:
 
 ![Archi Picture](Project Reference Sheet DOCIA pict 2.png)
 
-The main techonlogies are as follow.
+The main technologies are as follow.
 
-COTS, Libraries: ElasticSearch, PyTorch, Spark
-Software for production: Docker, Swagger, Git
-License: CS Group Property
-OS: Linux, HTML 5 Client
-Formats & Protocols: XMPP, WMS, WMTS, TMS, FTP, POSIX, Ms SharePoint, PDF, SSO, OpenSearch, Geo/Time
-Main languages: HTML
+{:class="table table-bordered table-dark"}
+| Domain | Technologie(s) |
+|--------|----------------|
+|Operating System(s)|Linux, HTML 5 Client|
+|Programming language(s)|HTML|
+|Interoperability (protocols, format, APIs)|XMPP, WMS, WMTS, TMS, FTP, POSIX, Ms SharePoint, PDF, SSO, OpenSearch, Geo/Time|
+|Production software (IDE, DEVOPS etc.)|Docker, Swagger, Git|
+|Main COTS library(ies)|ElasticSearch, PyTorch, Spark|
