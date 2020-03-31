@@ -1,6 +1,7 @@
 ---
-customer: DGA
-customer_long: Direction Générale de l'Armement
+customer: AID
+customer_long: Agence de l’innovation de défense
+prime_contractor: 
 image: Project Reference Sheet DOCIA pict 1.png
 size: standard
 name: DOCIA
@@ -9,6 +10,13 @@ department: PDA
 program: C2IA
 summary: "Enable the search in a large quantity of heterogeneous and unorganized documents. Intelligent use of data, linking, cross-referencing. Monitoring of local documents, websites, RSS feeds. Applications: Operational Mapping, Surveillance, Decision Support"
 ---
+
+> __Customer__\: Agence de l’innovation de défense (AID)
+
+> __Program__\: C2IA
+
+> __Supply Chain__\: AID >  CS Group PDA
+
 
 # Context
 

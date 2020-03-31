@@ -18,7 +18,12 @@ layout: layout-toc
 		<div><b>PROJECT REFERENCE</b></div>
 			<h1 class="title">{{page.title}}</h1>
 			<p>
-				<div class="card-tag card-tag-cusomer">{{ page.customer }}</div>
+				{% if page.prime_contractor %}
+					<div class="card-tag card-tag-customer">{{page.customer}}/{{page.prime_contractor}}</div>
+				{% else %}
+					<div class="card-tag card-tag-customer">{{page.customer}}</div>
+				{% endif %}	
+				<div class="card-tag card-tag-program">{{ page.program }}</div>
 			</p>
 		</div>
 		

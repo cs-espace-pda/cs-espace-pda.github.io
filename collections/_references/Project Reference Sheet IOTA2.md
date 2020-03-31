@@ -1,6 +1,7 @@
 ---
 customer: CNES/CESBIO
-customer_long: 
+customer_long: CNES/CESBIO
+prime_contractor: 
 image: Project Reference Sheet IOTA2 pict 1.png
 size: standard
 name: IOTA2
@@ -9,6 +10,13 @@ department: PDA
 program: Generic
 summary: "Annual production of a national land use map. Testing new algorithms over large areas."
 ---
+
+> __Customer__\: CNES/CESBIO
+
+> __Program__\: Generic
+
+> __Supply Chain__\: CNES/CESBIO >  CS Group PDA
+
 
 # Context
 

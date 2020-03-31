@@ -1,14 +1,22 @@
 ---
 customer: CNES
-customer_long: 
+customer_long: Centre National d'Etudes Spatiales
+prime_contractor: 
 image: Project Reference Sheet TPAM VIP-VENUS pict 1.png
 size: standard
 name: TPAM VIP-VENUS
 title: Maintenance of the Venµs Image Quality (VIP) center
 department: PDA
-program: VENµS
+program: Venμs
 summary: "Delivering an operational VIP/VPDS image processing center that takes into account the constraints of the VENµS mission during the operational phase."
 ---
+
+> __Customer__\: Centre National d'Etudes Spatiales (CNES)
+
+> __Program__\: Venμs
+
+> __Supply Chain__\: CNES >  CS Group PDA
+
 
 # Context
 

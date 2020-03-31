@@ -1,6 +1,7 @@
 ---
 customer: CNES
-customer_long: 
+customer_long: Centre National d'Etudes Spatiales
+prime_contractor: 
 image: Project Reference Sheet CHRONOS pict 1.png
 size: standard
 name: CHRONOS
@@ -9,6 +10,13 @@ department: PDA
 program: Generic
 summary: "Design, build and commission a generic processing orchestrator for the SWOT data production centre."
 ---
+
+> __Customer__\: Centre National d'Etudes Spatiales (CNES)
+
+> __Program__\: Generic
+
+> __Supply Chain__\: CNES >  CS Group PDA
+
 
 # Context
 

@@ -1,14 +1,22 @@
 ---
 customer: BGU
 customer_long: Ben-Gurion University of the Negev
+prime_contractor: 
 image: Project Reference Sheet BIP pict 1.jpeg
 size: standard
 name: BIP
 title: BGU-VENµS Images Production
 department: PDA
-program: VENµS
+program: Venμs
 summary: "Produce BGU's L2 and L3 images from the L1 data provided by CNES"
 ---
+
+> __Customer__\: Ben-Gurion University of the Negev (BGU)
+
+> __Program__\: Venμs
+
+> __Supply Chain__\: BGU >  CS Group PDA
+
 
 # Context
 

@@ -29,7 +29,6 @@
 	.card-title {
 		display: inline-block;
 		font-weight: 600;
-		text-transform: uppercase;
 		letter-spacing: 0.025em;
 		color: #FFFFFF;
 		text-decoration: none;
@@ -117,7 +116,6 @@
 	border-radius: 4px;
 	font-size: 10px;
 	font-weight: 600;
-	text-transform: uppercase;
 	letter-spacing: 0.025em;
 	color: #FFFFFF;
 	text-decoration: none;
@@ -126,9 +124,8 @@
 }
 
 // Customizes each tag depending on displayed information
-.card-tag-type  		{ background: #4F0000; }
-.card-tag-license  		{ background: #404040; }
-.card-tag-investment  	{ background: #009000; }
-.card-tag-customer  	{ color: #FFFFFF; background: #2c9ade; }
-.card-tag-period  		{ color: #f5e942; background: #404040; }
+.card-tag-type  		{ background: #4F0000; text-transform: uppercase;}
+.card-tag-license  		{ background: #404040; text-transform: uppercase;}
+.card-tag-investment  	{ background: #009000; text-transform: uppercase;}
+.card-tag-customer  	{ color: #FFFFFF; background: #2c9ade; text-transform: uppercase;}
 .card-tag-program  		{ color: #333333; background: #CCCCCC;}

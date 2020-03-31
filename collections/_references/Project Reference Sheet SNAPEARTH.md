@@ -1,6 +1,7 @@
 ---
 customer: EC
 customer_long: European Commission
+prime_contractor: QWANT
 image: Project Reference Sheet SNAPEARTH pict 1.png
 size: standard
 name: SnapEarth
@@ -9,6 +10,13 @@ department: PDA
 program: Copernicus
 summary: "Fostering EO market uptake thanks to natural and holistic access to added value data generated through cutting-edge Artificial Intelligence technologies."
 ---
+
+> __Customer__\: European Commission (EC)
+
+> __Program__\: Copernicus
+
+> __Supply Chain__\: EC > QWANT >  CS Group PDA
+
 
 # Context
 

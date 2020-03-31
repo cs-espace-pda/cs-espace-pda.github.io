@@ -34,8 +34,16 @@ bodyClass: page-home
 	-->
     {% for feature in site.features %}
     <div class="col-12 col-md-6 col-lg-4 mb-2">
-      <div class="feature">
-        {% if feature.image %}<div class="feature-image"><img alt="{{ feature.title }} logo" src="{{site.baseurl}}/images/{{feature.image}}" /></div> {% endif %}
+		<div class="feature">
+        {% if feature.image %}
+		{% if feature.page %}
+		<a href="{{site.baseurl}}{{feature.page}}" class="feature-image">
+		{% else %}
+		<a class="feature-image">
+		{% endif %}
+			<img alt="{{ feature.title }} logo" src="{{site.baseurl}}/images/{{feature.image}}" />
+		</a> 
+		{% endif %}
         <h2 class="feature-title">{{ feature.title }}</h2>
         <div class="feature-content">{{ feature.content }}</div>
       </div>

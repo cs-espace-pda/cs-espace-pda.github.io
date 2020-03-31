@@ -1,14 +1,22 @@
 ---
 customer: CNES
-customer_long: 
+customer_long: Centre National d'Etudes Spatiales
+prime_contractor: 
 image: Project Reference Sheet VIQ pict 1.png
 size: standard
 name: VIQ
 title: Venμs Image Quality
 department: PDA
-program: VENµS
+program: Venμs
 summary: "Facilitates the geometric and radiometric calibration tasks, the improvement and update of calibration parameters, the verification of the VENμS instrument performances. Generates the reference DEM used in L1."
 ---
+
+> __Customer__\: Centre National d'Etudes Spatiales (CNES)
+
+> __Program__\: Venμs
+
+> __Supply Chain__\: CNES >  CS Group PDA
+
 
 # Context
 

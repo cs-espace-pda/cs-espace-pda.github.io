@@ -1,6 +1,7 @@
 ---
 customer: HCFDC
 customer_long: Haut Comité Français Défense Civile
+prime_contractor: 
 image: Project Reference Sheet CAIAC pict 1.png
 size: standard
 name: CAIAC
@@ -9,6 +10,13 @@ department: PDA
 program: Risk management
 summary: "Deploy a mapping platform to assist critical operators and territorial managers in their planning, decision support, risk and crisis management activities. Integrate simulation and information acquisition functions and services into the CAIAC platform"
 ---
+
+> __Customer__\: Haut Comité Français Défense Civile (HCFDC)
+
+> __Program__\: Risk management
+
+> __Supply Chain__\: HCFDC >  CS Group PDA
+
 
 # Context
 

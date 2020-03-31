@@ -1,14 +1,22 @@
 ---
-customer: Airbus DS
-customer_long: 
+customer: ESA
+customer_long: European Space Agency
+prime_contractor: AIRBUS DS
 image: 
 size: standard
 name: S1 PDGS
 title: Migration of Sentinel 1 to cloud commercial service
-department: ESPACE/PDA
+department: PDA
 program: Copernicus
 summary: "Migrating S1 Data & Payloads Digital Ground Segment Processing to cloud platforms"
 ---
+
+> __Customer__\: European Space Agency (ESA)
+
+> __Program__\: Copernicus
+
+> __Supply Chain__\: ESA > AIRBUS DS >  CS Group PDA
+
 
 # Context
 

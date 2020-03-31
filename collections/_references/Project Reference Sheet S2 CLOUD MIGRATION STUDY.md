@@ -1,6 +1,7 @@
 ---
-customer: TAS
-customer_long: THALES ALENIA SPACE
+customer: ESA
+customer_long: European Space Agency
+prime_contractor: TAS
 image: Project Reference Sheet S2 CLOUD MIGRATION STUDY pict 1.png
 size: standard
 name: S2 Cloud migration study
@@ -9,6 +10,13 @@ department: PDA
 program: Copernicus
 summary: "Verify assumptions for the migration of the PDGS core processing to the cloud. Develop a demonstrator"
 ---
+
+> __Customer__\: European Space Agency (ESA)
+
+> __Program__\: Copernicus
+
+> __Supply Chain__\: ESA > TAS >  CS Group PDA
+
 
 # Context
 

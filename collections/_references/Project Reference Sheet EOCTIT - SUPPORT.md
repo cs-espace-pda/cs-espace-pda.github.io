@@ -1,14 +1,22 @@
 ---
 customer: CNES
-customer_long: 
+customer_long: Centre National d'Etudes Spatiales
+prime_contractor: 
 image: Project Reference Sheet EOCTIT - SUPPORT pict 1.png
 size: standard
 name: EOCTIT - Support
 title: Support for the management of the CNES Common Tools
-department: ESPACE/PDA
+department: PDA
 program: Generic
 summary: "Global maintenance assistance for low level image processing applications, known as CNES Common Tools"
 ---
+
+> __Customer__\: Centre National d'Etudes Spatiales (CNES)
+
+> __Program__\: Generic
+
+> __Supply Chain__\: CNES >  CS Group PDA
+
 
 # Context
 
