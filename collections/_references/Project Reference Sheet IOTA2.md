@@ -64,3 +64,20 @@ The main technologies are as follow.
 |Operating System(s)|Unix, Linux Ubuntu, CentOS|
 |Programming language(s)|Python, C++|
 |Main COTS library(ies)|OTB, GDAL, Qgis|
+
+
+
+{::comment}Abbreviations{:/comment}
+
+*[CLI]: Command Line Interface
+*[IaC]: Infrastructure as Code
+*[PaaS]: Platform as a Service
+*[VM]: Virtual Machine
+*[OS]: Operating System
+*[IAM]: Identity and Access Management
+*[SIEM]: Security Information and Event Management
+*[SSO]: Single Sign On
+*[IDS]: intrusion detection
+*[IPS]: intrusion prevention
+*[NSM]: network security monitoring
+*[DRMAA]: Distributed Resource Management Application API is a high-level Open Grid Forum API specification for the submission and control of jobs to a Distributed Resource Management (DRM) system, such as a Cluster or Grid computing infrastructure.

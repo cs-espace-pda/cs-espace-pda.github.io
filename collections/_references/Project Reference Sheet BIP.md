@@ -69,3 +69,20 @@ The main technologies are as follow.
 |Interoperability (protocols, format, APIs)|XML, GeoNetwork|
 |Production software (IDE, DEVOPS etc.)|Git, Docker, Jenkins|
 |Main COTS library(ies)|MACCS (Multi-mission Atmospheric Correction and Cloud Screening), Geostorm|
+
+
+
+{::comment}Abbreviations{:/comment}
+
+*[CLI]: Command Line Interface
+*[IaC]: Infrastructure as Code
+*[PaaS]: Platform as a Service
+*[VM]: Virtual Machine
+*[OS]: Operating System
+*[IAM]: Identity and Access Management
+*[SIEM]: Security Information and Event Management
+*[SSO]: Single Sign On
+*[IDS]: intrusion detection
+*[IPS]: intrusion prevention
+*[NSM]: network security monitoring
+*[DRMAA]: Distributed Resource Management Application API is a high-level Open Grid Forum API specification for the submission and control of jobs to a Distributed Resource Management (DRM) system, such as a Cluster or Grid computing infrastructure.

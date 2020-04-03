@@ -61,3 +61,20 @@ The main technologies are as follow.
 |Programming language(s)|Java, Typescript, Go|
 |Production software (IDE, DEVOPS etc.)|Docker, Gitlab, Jira, Confluence, jUnit (for Java test), Karma (for Angular test), Go test|
 |Main COTS library(ies)|Angular, SafeScale, Openstack, Kafka, PostgreSQL, IPF, MongoDB, Prometheus – Fluentd – Elasticsearch – Grafana – Kibana|
+
+
+
+{::comment}Abbreviations{:/comment}
+
+*[CLI]: Command Line Interface
+*[IaC]: Infrastructure as Code
+*[PaaS]: Platform as a Service
+*[VM]: Virtual Machine
+*[OS]: Operating System
+*[IAM]: Identity and Access Management
+*[SIEM]: Security Information and Event Management
+*[SSO]: Single Sign On
+*[IDS]: intrusion detection
+*[IPS]: intrusion prevention
+*[NSM]: network security monitoring
+*[DRMAA]: Distributed Resource Management Application API is a high-level Open Grid Forum API specification for the submission and control of jobs to a Distributed Resource Management (DRM) system, such as a Cluster or Grid computing infrastructure.

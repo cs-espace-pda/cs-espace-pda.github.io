@@ -59,3 +59,20 @@ The main technologies are as follow.
 |Operating System(s)|Windows (Cygwin), Linux 32 et 64bits (RedHat 6&7)|
 |Programming language(s)|C, C++, CUDA, OPENCL, python, shell|
 |Production software (IDE, DEVOPS etc.)|various client tools|
+
+
+
+{::comment}Abbreviations{:/comment}
+
+*[CLI]: Command Line Interface
+*[IaC]: Infrastructure as Code
+*[PaaS]: Platform as a Service
+*[VM]: Virtual Machine
+*[OS]: Operating System
+*[IAM]: Identity and Access Management
+*[SIEM]: Security Information and Event Management
+*[SSO]: Single Sign On
+*[IDS]: intrusion detection
+*[IPS]: intrusion prevention
+*[NSM]: network security monitoring
+*[DRMAA]: Distributed Resource Management Application API is a high-level Open Grid Forum API specification for the submission and control of jobs to a Distributed Resource Management (DRM) system, such as a Cluster or Grid computing infrastructure.

@@ -75,3 +75,20 @@ The main technologies are as follow.
 |Programming language(s)|Python, Java, J2EE/WS, HTML|
 |Interoperability (protocols, format, APIs)|XML|
 |Main COTS library(ies)|SNAP, GDAL, Orfeo Toolbox, Postgres, PostGIS, Tomcat, ENVI, CNES SAG (Structure d’Accueil Générique), CNES SIGMA|
+
+
+
+{::comment}Abbreviations{:/comment}
+
+*[CLI]: Command Line Interface
+*[IaC]: Infrastructure as Code
+*[PaaS]: Platform as a Service
+*[VM]: Virtual Machine
+*[OS]: Operating System
+*[IAM]: Identity and Access Management
+*[SIEM]: Security Information and Event Management
+*[SSO]: Single Sign On
+*[IDS]: intrusion detection
+*[IPS]: intrusion prevention
+*[NSM]: network security monitoring
+*[DRMAA]: Distributed Resource Management Application API is a high-level Open Grid Forum API specification for the submission and control of jobs to a Distributed Resource Management (DRM) system, such as a Cluster or Grid computing infrastructure.

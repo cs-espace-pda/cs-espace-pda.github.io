@@ -64,3 +64,20 @@ The main technologies are as follow.
 |Interoperability (protocols, format, APIs)|PAIS, XFDU, FITS, WPS, UWS|
 |Production software (IDE, DEVOPS etc.)|Eclipse JEE, Netbeans, IntelliJ IDEA, Atom, UML-CS / Enterprise Architect, Git, Subversion, Apache Maven, NPM, Webpack, Jenkins, Travis CI, Fireworks, Junit, Selenium (tests IHM), Mockito, TestLink, Spring Test|
 |Main COTS library(ies)|PostgreSQL, MongoDB, Mysql, Elasticsearch|
+
+
+
+{::comment}Abbreviations{:/comment}
+
+*[CLI]: Command Line Interface
+*[IaC]: Infrastructure as Code
+*[PaaS]: Platform as a Service
+*[VM]: Virtual Machine
+*[OS]: Operating System
+*[IAM]: Identity and Access Management
+*[SIEM]: Security Information and Event Management
+*[SSO]: Single Sign On
+*[IDS]: intrusion detection
+*[IPS]: intrusion prevention
+*[NSM]: network security monitoring
+*[DRMAA]: Distributed Resource Management Application API is a high-level Open Grid Forum API specification for the submission and control of jobs to a Distributed Resource Management (DRM) system, such as a Cluster or Grid computing infrastructure.

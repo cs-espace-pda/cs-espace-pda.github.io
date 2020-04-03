@@ -7,13 +7,13 @@ size: standard
 name: CAIAC
 title: Geographic platform for planning and decision support for risk management
 department: PDA
-program: Risk management
+program: Risk Management
 summary: "Deploy a mapping platform to assist critical operators and territorial managers in their planning, decision support, risk and crisis management activities. Integrate simulation and information acquisition functions and services into the CAIAC platform"
 ---
 
 > __Customer__\: Haut Comité Français Défense Civile (HCFDC)
 
-> __Program__\: Risk management
+> __Program__\: Risk Management
 
 > __Supply Chain__\: HCFDC >  CS Group PDA
 
@@ -72,3 +72,20 @@ The main technologies are as follow.
 |Interoperability (protocols, format, APIs)|WMS, WFS, WMTS, WPS, CSW, BPMN, UML, LDAP, ISO 119115, 19139, Opensearch|
 |Production software (IDE, DEVOPS etc.)|Git, Docker, Jenkins|
 |Main COTS library(ies)|GEOSTORM, Angular JS 1.2.x, OpenLayers 3, Django, DRF, QuantumGIS, WebGL, Postgresql 9.x, Postgis, Elastic search|
+
+
+
+{::comment}Abbreviations{:/comment}
+
+*[CLI]: Command Line Interface
+*[IaC]: Infrastructure as Code
+*[PaaS]: Platform as a Service
+*[VM]: Virtual Machine
+*[OS]: Operating System
+*[IAM]: Identity and Access Management
+*[SIEM]: Security Information and Event Management
+*[SSO]: Single Sign On
+*[IDS]: intrusion detection
+*[IPS]: intrusion prevention
+*[NSM]: network security monitoring
+*[DRMAA]: Distributed Resource Management Application API is a high-level Open Grid Forum API specification for the submission and control of jobs to a Distributed Resource Management (DRM) system, such as a Cluster or Grid computing infrastructure.

@@ -10,21 +10,46 @@ type: app
 v_safescale: SafeScale&#153;
 ---
 
+<p class="image-right">	<img src="product_safescale_circles.png" width="500"> </p>
 
+<br>
+
+What we believe in...
+---------------------
+
+Great things can be done with an appropriate IT environment.
+
+Cloud is one of the key component.
+
+How to improve performance, scalability, & availability while maintaining a high level of security and production & cost controls?
+
+How to define a strategy to easily & securely migrate to the cloud?
+
+How to provide a PaaS provider-agnostic to automatically create and manage ICT & easily deploy secured micro-services?
+
+How to push the automation of infrastructure creation, deployment and maintenance tasks in a DevOps Spirit?
+
+<br>
+
+{:class="lead text-center"}
+__To meet such challenges, CS GROUP actively develops {{page.v_safescale}}__
+
+<br>
+
+Whether you simply need to optimize the cost of your infrastructure or get the best performance for your deployments and high-volume data processing, {{page.v_safescale}} is for you!
+
+<br>
 
 What is {{page.v_safescale}}?
 ----------------------
 
 
-<p class="image-right">	<img src="product_safescale_mainscheme.png" width="500"> </p>
-
 {{page.v_safescale}} is a multicloud secured management platform that provides a simple and generic way to configure and deploy ad’hoc IT infrastructure regardless of the cloud supplier targeted and their inherent heterogeneities:
-* [Infra](#infra): Cloud agnostic IaC (Infrastructure as Code)
-* [Platform](#Platform): PaaS (Platform as a Service)
-* [Remote Desktop](#remote-desktop): Full control of any allocated resources
-* [Dashboard](#dashboard): Full reporting of any allocated resources
+* [Infra](#infra): Cloud agnostic Infrastructure as Code (IaC)
+* [Platform](#Platform): Platform as a Service (PaaS)
+* [Security](#Security): ensures that no unapproved external access is granted
 
-Whether you simply need to optimize the cost of your infrastructure or get the best performance for your deployments and high-volume data processing, {{page.v_safescale}} is for you!
+<p class="image-center"> <img src="https://github.com/CS-SI/SafeScale/raw/master/doc/img/SafeScale.png" width="75%"> </p>
 
 
 	
@@ -34,19 +59,18 @@ Features
 ### Infra
 
 
-{{page.v_safescale}} Infra is designed for abstracting cloud services and guaranteeing total independence from cloud services providers. 
-To overcome their heterogeneities, Infra is designed around a unique CLI (command line interface) and an `object storage adapter mechanism`.
+{{page.v_safescale}} Infra is designed for abstracting cloud services and guaranteeing total independence from cloud services providers (IaaS). 
+To overcome their heterogeneities, {{page.v_safescale}} Infra is designed around a unique CLI (command line interface) and an `object storage adapter mechanis
 
-The CLI provides IaC. It provides sevral commands to:
-* List the available VM templates 
-* List the available OS images
-* Create or destroy of a network
-* Create or destroy of a VM
-* Create or destroy of a Block Storage
-* Assign/unassigned an public IP to a virtual machine
-* Create or destroy of clusters
-* Resize both calculation node and block storage
-* Generic image naming by using an image name solver (use Jaro-Winkler algorithm to identify the most accurate name)
+It supports main market cloud service providers:
+* Main European & Non-European cloud providers
+* Potentially any Openstack-based cloud providers
+* High Performance Computing clusters
+
+__Code your IT once and deploy it anywhere.__
+
+
+The Infra features are detailed on the [project's page](https://github.com/CS-SI/safescale#safescale-infra).
 
 For example, the following command illustrates how Infra works to create a virtual machine with a single command.
 
@@ -58,8 +82,8 @@ For example, the following command illustrates how Infra works to create a virtu
    cluster-net
 ```
 
-
 <p class="image-right">	<img src="product_safescale_compliantproviders.png" width="400"> </p>
+
 The `object storage adapter mechanism` of Infra supports main market cloud service providers:
 * main European cloud providers offering EO data: OVH, Flexible Engine, Open Telekom Cloud, and CloudFerro.
 * all operational DIAS platforms 
@@ -67,70 +91,45 @@ The `object storage adapter mechanism` of Infra supports main market cloud servi
 * Google Cloud Platform
 * AWS, EBRC and Azure drivers are under construction and will be released before the end of the year.
 
-
-It allows to develop once and deploy wherever.  
-
-
-
 ### Platform
 
-{{page.v_safescale}} Platform provides PaaS (Platform as a Service) capabilities:
-* Deploy a `standard cluster`
-* Deploy a `specific cluster`
-Deployement commands are executed in parallel to improve the speed. 
+{{page.v_safescale}} Platform provides Platform as a Service (PaaS) capabilities:
+* Deploy a `standard cluster` with Kubernetes, gateway, integrated monitoring, Helm, Ansible
+* Deploy a `specific cluster` with applications that are dedicated to a business line. These clusters can be provided by CS Group on demand.
 
-Platform can deploy a `standard cluster` with minimal features:
-* Cluster management features: Swarm, Kubernetes, DCos, BOH
-* The gateway, including:
-	* The reverse proxy with only SSH and HTTPS access
-	* The load balancer over the clusters
-* The [remote desktop](#remote-desktop)
+The Infra features are detailed on the [project's page](https://github.com/CS-SI/safescale#safescale-platform).
 
 For example the following command creates a Kubernetes cluster named k8s-cluster of Normal complexity (3 master nodes).
 ~~~ bash
->> safescale cluster create --flavor K8S --complexity normal k8s-cluster
+>> safescale platform create --flavor K8S --complexity normal k8s-cluster
 ~~~
 
-Additional features can be installed too:
-* IAM feature based on KeyCloak  
-* [SIEM feature](#focus-on-security)  
-
-Platform can deploy a `specific cluster` with applications that are dedicated to a business line. Three infrastructure templates are available:
-* Big Data with Spark + Hadoop + Ignite
-* IA with TensorFlow + Ignite
-* HPC with OHPC + DRMAA + MPI
-
-### Remote Desktop
-
-<img class="image-right" src="product_safescale_remotedesk.png" width="450">
-
-VM created with {{page.v_safescale}} are accessible using ‘safecale ssh’ tool or a full web remote desktop build on Apache Guacamole.
-
-The remote desktop provides a full control of any allocated resources.
-
-* Full HTML5 web desktop 
-* Works even if you have poor connection to the cloud.
-* Resizable and multilingual
-* Simple file transfers through drag and drop.
-* Virtual keyboard and mouse for touch devices.
+<p class="image-center"> <img src="product_safescale_platform.png" width="75%"> </p>
 
 
-### Dashboard
+### Security
 
-<img class="image-right" src="product_safescale_dashboard.png" width="450">
+{{page.v_safescale}} covers several facets of security:
+* On network level, {{page.v_safescale}} Security relies on Kong, an open source generic proxy.
+* On service level, {{page.v_safescale}} Security proposes an optional use of Keycloak, an Open Source Identity and Access Management (IAM).
+* SIEM as a Service: intrusion detection (IDS), intrusion prevention (IPS), network security monitoring (NSM) with {{site.data.str.cs}} [Prelude&#153;](https://www.prelude-siem.com/) or [Suricata](https://suricata-ids.org/features/all-features/) open-source software.
 
-To offer a global infrastructure monitoring solution {{page.v_safescale}} Infra relies on Elastic Stack open source solution. The operating principle of the monitoring system is simple. On all VMs created by {{page.v_safescale}} Infra, the Elastic Metric Beat probe is installed. The latter transmits to ElasticSearch the CPU, memory, the file system, the disk IO, and the network IO usage statistics, as well as top-like statistics for every process running on your systems. 
+The security features are detailed on the [project's page](https://github.com/CS-SI/safescale#safescale-security).
 
-The Kibana dashboard creation system is used to create ergonomic dashboards: 
-* Real-time cost measurement and cost optimization actions, based on alarms
-* Monitoring with Elastic Metric Beat probes
-    * CPU
-    * memory
-    * file system
-    * disk IO
-    * network IO
-    * ergonomic dashboards
-    * Dashboard
+
+{{page.v_safescale}} is labelled [France Cybersecurity](https://www.francecybersecurity.fr/en/the-label/). This label guarantees users that {{page.v_safescale}} has clear and well-defined functionalities, with a level of quality verified by an independent jury based on existing certifications, an investigation by an independent third party expert and user feedback.
+<a class="image-center" href="https://www.francecybersecurity.fr/en/the-label/"> <img src="product_safescale_labelfrancesecurity.png" width="20%"> </a>
+
+### Whats new in {{page.v_safescale}}
+
+The latest {{page.v_safescale}} v20.03.0 version released on March 31, 2020 brings you the following new features:
+* Added AWS support.
+* Added LAN Virtual IP support for OVH provider. 
+* Added binaries for macOS 64bits operating system.
+* Added binaries for Raspberry Pi 32bits operating system (ARM v5).
+
+[Read more v20.03.0...](https://github.com/CS-SI/SafeScale/releases/tag/v20.03.0) 
+
 
 User benefits
 -------------
@@ -141,18 +140,13 @@ Most operations can be done with a single command with [Infra](#infra) feature. 
 {{page.v_safescale}} greatly reduces learning time and development time. 
 You don't have to manage the lower layers, the network part, the square meters, the security, the maintenance and the obsolescence. 
 
-### High level of security
-
-{{page.v_safescale}} covers several facets of security:
-* Security of services: {{page.v_safescale}} provides a gateway system that offers encryption and identity management including access encryption, Web Firewall, IAM, SSO, Identity brokering.
-* SIEM as a Service: intrusion detection (IDS), intrusion prevention (IPS), network security monitoring (NSM) with {{site.data.str.cs}} [Prelude&#153;](https://www.prelude-siem.com/) or [Suricata](https://suricata-ids.org/features/all-features/) open-source software.
-
-
 ### Open-source
 
 {{page.v_safescale}} is distributed under the {{page.license}} license. 
 
+### Secured
 
+{{page.v_safescale}} provides a gateway system that offers encryption and identity management including access encryption, Web Firewall, IAM, SSO, Identity brokering and more.
 
 What {{site.data.str.pda}} can bring you?
 -----------------------------------------
@@ -192,4 +186,3 @@ Contact: [contact@safescale.eu](mailto:contact@safescale.eu)
 *[IPS]: intrusion prevention
 *[NSM]: network security monitoring
 *[DRMAA]: Distributed Resource Management Application API is a high-level Open Grid Forum API specification for the submission and control of jobs to a Distributed Resource Management (DRM) system, such as a Cluster or Grid computing infrastructure.
-*[hybrid encryption]: Symmetric encryption is used to encrypt data efficiently; asymmetric encryption is used to encrypt symmetric keys.
