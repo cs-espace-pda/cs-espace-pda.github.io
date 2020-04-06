@@ -85,11 +85,12 @@ For example, the following command illustrates how Infra works to create a virtu
 <p class="image-right">	<img src="product_safescale_compliantproviders.png" width="400"> </p>
 
 The `object storage adapter mechanism` of Infra supports main market cloud service providers:
+* AWS
+* Google Cloud Platform
 * main European cloud providers offering EO data: OVH, Flexible Engine, Open Telekom Cloud, and CloudFerro.
 * all operational DIAS platforms 
 * potentially any [Openstack](https://www.openstack.org/)-based cloud providers through generic OpenStack driver. 
-* Google Cloud Platform
-* AWS, EBRC and Azure drivers are under construction and will be released before the end of the year.
+* EBRC and Azure drivers are under construction and will be released before the end of the year.
 
 ### Platform
 
@@ -112,7 +113,6 @@ For example the following command creates a Kubernetes cluster named k8s-cluster
 {{page.v_safescale}} covers several facets of security:
 * On network level, {{page.v_safescale}} Security relies on Kong, an open source generic proxy.
 * On service level, {{page.v_safescale}} Security proposes an optional use of Keycloak, an Open Source Identity and Access Management (IAM).
-* SIEM as a Service: intrusion detection (IDS), intrusion prevention (IPS), network security monitoring (NSM) with {{site.data.str.cs}} [Prelude&#153;](https://www.prelude-siem.com/) or [Suricata](https://suricata-ids.org/features/all-features/) open-source software.
 
 The security features are detailed on the [project's page](https://github.com/CS-SI/safescale#safescale-security).
 
