@@ -1,6 +1,6 @@
 ---
-customer: CNES/CESBIO
-customer_long: CNES/CESBIO
+customer: CNES
+customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
 image: Project Reference Sheet IOTA2 pict 1.png
 size: standard
@@ -11,16 +11,16 @@ program: Generic
 summary: "Annual production of a national land use map. Testing new algorithms over large areas."
 ---
 
-> __Customer__\: CNES/CESBIO
+> __Customer__\: Centre National d'Etudes Spatiales (CNES)
 
 > __Program__\: Generic
 
-> __Supply Chain__\: CNES/CESBIO >  CS Group PDA
+> __Supply Chain__\: CNES >  CS Group PDA
 
 
 # Context
 
-IOTA² is a land-use map production line for large areas based on time series of Sentinel or Landsat images. In order to facilitate methodological contributions, IOTA² is open-source. As such, the channel makes extensive use of the image processing applications provided by Orfeo ToolBox.
+IOTA² is a land-use map production line for large areas based on time series of Sentinel or Landsat images developped for CNES / CESBIO. In order to facilitate methodological contributions, IOTA² is open-source. As such, the channel makes extensive use of the image processing applications provided by Orfeo ToolBox.
 
 ![Main Picture](Project Reference Sheet IOTA2 pict 1.png)
 
@@ -63,6 +63,7 @@ The main technologies are as follow.
 |--------|----------------|
 |Operating System(s)|Unix, Linux Ubuntu, CentOS|
 |Programming language(s)|Python, C++|
+|Production software (IDE, DEVOPS etc.)|GCC 4.8|
 |Main COTS library(ies)|OTB, GDAL, Qgis|
 
 
