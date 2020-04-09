@@ -2,7 +2,7 @@
 customer: ESA
 customer_long: European Space Agency
 prime_contractor: CS ROMANIA
-image: Project Reference Sheet TAO pict 1.png
+image: Project ESA-TAO pict 1.png
 size: standard
 name: TAO
 title: Tool Augmentation by user enhancements and Orchestration
@@ -21,7 +21,7 @@ summary: "TAO platform (stands for Tool Augmentation by user enhancements and Or
 # Context
 
 
-![Main Picture](Project Reference Sheet TAO pict 1.png)
+![Main Picture](Project ESA-TAO pict 1.png)
 
 CS Group responsabilities are as follow:
 * Project owner and the master developer (master branch)
@@ -53,7 +53,7 @@ The solution key points are as follow:
 * Spring Framework
 * A simple view of the TAO platform model split among four main macro-components
 
-![Archi Picture](Project Reference Sheet TAO pict 2.png)
+![Archi Picture](Project ESA-TAO pict 2.png)
 
 The main technologies are as follow.
 

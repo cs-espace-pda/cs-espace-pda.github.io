@@ -2,7 +2,7 @@
 customer: AID
 customer_long: Agence de l’innovation de défense
 prime_contractor: 
-image: Project Reference Sheet DOCIA pict 1.png
+image: Project AID-DOCIA pict 1.png
 size: standard
 name: DOCIA
 title: Prototype of a platform for document retrieval and advanced indexing
@@ -22,7 +22,7 @@ summary: "Enable the search in a large quantity of heterogeneous and unorganized
 
 DOCIA: Operational tool for information processing and retrieval. The idea is not to change the way in which data is archived, but to rely effectively on the organizational and technical means deployed or in the process of being deployed.
 
-![Main Picture](Project Reference Sheet DOCIA pict 1.png)
+![Main Picture](Project AID-DOCIA pict 1.png)
 
 CS Group responsabilities are as follow:
 * Need analysis
@@ -68,7 +68,7 @@ The solution key points are as follow:
 * Indexing metrics by file type
 * Index sharing and export
 
-![Archi Picture](Project Reference Sheet DOCIA pict 2.png)
+![Archi Picture](Project AID-DOCIA pict 2.png)
 
 The main technologies are as follow.
 

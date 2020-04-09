@@ -2,7 +2,7 @@
 customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
-image: Project Reference Sheet CHRONOS pict 1.png
+image: Project CNES-CHRONOS pict 1.png
 size: standard
 name: CHRONOS
 title: Realization of a processing orchestrator and mission for SWOT
@@ -21,7 +21,7 @@ summary: "Design, build and commission a generic processing orchestrator for the
 # Context
 
 
-![Main Picture](Project Reference Sheet CHRONOS pict 1.png)
+![Main Picture](Project CNES-CHRONOS pict 1.png)
 
 CS Group responsabilities are as follow:
 * Specification & Design

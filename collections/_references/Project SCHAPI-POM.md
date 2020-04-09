@@ -2,7 +2,7 @@
 customer: SCHAPI
 customer_long: Service Central d'Hydrométéorologie et d'Appui à la Prévision des Inondations
 prime_contractor: 
-image: Project Reference Sheet POM pict 1.png
+image: Project SCHAPI-POM pict 1.png
 size: standard
 name: POM
 title: PLATEFORME OPERATIONNELLE POUR LA MODELISATION
@@ -23,7 +23,7 @@ summary: "The heterogeneity of the different forecasting calculation models make
 Since 2003, the Schapi has been coordinating the tools related to real-time flood forecasting at the national level. It also plays a role of expertise and support for the 22 French SPC (Flood Forecasting Services) on the use of these tools and the exploitation of the results.
 For several years, a national software base has been developed to facilitate the daily exchange and supervision of forecasting data. The POM (Plateforme Opérationnelle pour la Modélisation), distributed nationally, is part of this perspective of pooling resources.
 
-![Main Picture](Project Reference Sheet POM pict 1.png)
+![Main Picture](Project SCHAPI-POM pict 1.png)
 
 CS Group responsabilities are as follow:
 * System specification and design

@@ -2,7 +2,7 @@
 customer: ESA
 customer_long: European Space Agency
 prime_contractor: TAS
-image: Project Reference Sheet S2 CLOUD MIGRATION STUDY pict 1.png
+image: Project ESA-S2 CLOUD MIGRATION STUDY pict 1.png
 size: standard
 name: S2 Cloud migration study
 title: Study of the execution of Sentinel 2 processing system on a cloud infrastructure
@@ -21,7 +21,7 @@ summary: "Verify assumptions for the migration of the PDGS core processing to th
 # Context
 
 
-![Main Picture](Project Reference Sheet S2 CLOUD MIGRATION STUDY pict 1.png)
+![Main Picture](Project ESA-S2 CLOUD MIGRATION STUDY pict 1.png)
 
 CS Group responsabilities are as follow:
 * Design
@@ -56,7 +56,7 @@ The solution key points are as follow:
 * DS divided into smaller datastrips called vDS. Their calculation time is shorter than that of a DS.
 * vDSs processed in parallel on a set of containers called "stage".
 
-![Archi Picture](Project Reference Sheet S2 CLOUD MIGRATION STUDY pict 2.png)
+![Archi Picture](Project ESA-S2 CLOUD MIGRATION STUDY pict 2.png)
 
 The main technologies are as follow.
 

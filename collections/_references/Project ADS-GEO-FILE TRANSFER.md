@@ -2,7 +2,7 @@
 customer: ADS-GEO
 customer_long: Airbus Defense and Space Geo
 prime_contractor: 
-image: Project Reference Sheet FILE TRANSFER pict 1.png
+image: Project ADS-GEO-FILE TRANSFER pict 1.png
 size: standard
 name: FILE TRANSFER
 title: Common service involved in the Geo Digital System (GDS) of Airbus DS Geo SA
@@ -21,7 +21,7 @@ summary: "File transfer Service ensures massive files data exchange between GDS 
 # Context
 
 
-![Main Picture](Project Reference Sheet FILE TRANSFER pict 1.png)
+![Main Picture](Project ADS-GEO-FILE TRANSFER pict 1.png)
 
 CS Group responsabilities are as follow:
 * Maintenance, Reversibility

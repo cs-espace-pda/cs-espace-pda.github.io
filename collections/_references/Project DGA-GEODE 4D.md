@@ -2,7 +2,7 @@
 customer: DGA
 customer_long: Direction Générale de l'Armement
 prime_contractor: 
-image: Project Reference Sheet GEODE 4D pict 1.png
+image: Project DGA-GEODE 4D pict 1.png
 size: standard
 name: GEODE 4D
 title: Architectural analysis and definition of the Geophysical Environment Information System GEODE 4D
@@ -21,7 +21,7 @@ summary: "GEODE 4D is a project to set up a geophysical cross forces information
 # Context
 
 
-![Main Picture](Project Reference Sheet GEODE 4D pict 1.png)
+![Main Picture](Project DGA-GEODE 4D pict 1.png)
 
 CS Group responsabilities are as follow:
 * Architectural analysis and system definition
@@ -64,7 +64,7 @@ The main technologies are as follow.
 |Operating System(s)|Windows seven , xp , Linux debian|
 |Programming language(s)|java, python, javascript|
 |Production software (IDE, DEVOPS etc.)|IBM SA, DOORS, Office 2003|
-|Main COTS library(ies)|opensource GIS framework (map server, global mapper qgis, thredds...), ESRI|
+|Main COTS library(ies)|GIS framework (map server, global mapper qgis, thredds...), ESRI|
 
 
 

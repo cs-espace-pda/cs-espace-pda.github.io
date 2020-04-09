@@ -2,7 +2,7 @@
 customer: BGU
 customer_long: Ben-Gurion University of the Negev
 prime_contractor: 
-image: Project Reference Sheet BIP pict 1.jpeg
+image: Project BGU-BIP pict 1.jpeg
 size: standard
 name: BIP
 title: BGU-VENµS Images Production
@@ -30,7 +30,7 @@ Three levels of products VENµS can thus be made available to the scientific com
 * Level 3 products (L3): multi-temporal synthesis of cloudless pixels from cloud-free products.
 The Ben Gurion University of the Negev, within the framework of this cooperation, wishes to produce its own L2 and L3 images from the L1 data provided by CNES.
 
-![Main Picture](Project Reference Sheet BIP pict 1.jpeg)
+![Main Picture](Project BGU-BIP pict 1.jpeg)
 
 CS Group responsabilities are as follow:
 * specification, development, on-site integration, 
@@ -57,7 +57,7 @@ The solution key points are as follow:
 * Ability to integrate MACCS (developed by CS for CNES) into a processing chain..
 * Skills in the development of production chain management tools and open-source web technologies.
 
-![Archi Picture](Project Reference Sheet BIP pict 2.png)
+![Archi Picture](Project BGU-BIP pict 2.png)
 
 The main technologies are as follow.
 

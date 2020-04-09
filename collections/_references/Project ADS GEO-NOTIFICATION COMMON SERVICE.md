@@ -2,7 +2,7 @@
 customer: ADS GEO
 customer_long: Airbus Defense and Space Geo
 prime_contractor: 
-image: Project Reference Sheet NOTIFICATION COMMON SERVICE pict 1.png
+image: Project ADS GEO-NOTIFICATION COMMON SERVICE pict 1.png
 size: standard
 name: NOTIFICATION COMMON SERVICE
 title: Common service involved in the Geo Digital System (GDS) of Airbus DS Geo SA
@@ -21,7 +21,7 @@ summary: "Notification Service processes and delivers notification requests of G
 # Context
 
 
-![Main Picture](Project Reference Sheet NOTIFICATION COMMON SERVICE pict 1.png)
+![Main Picture](Project ADS GEO-NOTIFICATION COMMON SERVICE pict 1.png)
 
 CS Group responsabilities are as follow:
 * From design to Validation, sUupport service for deplyment and use

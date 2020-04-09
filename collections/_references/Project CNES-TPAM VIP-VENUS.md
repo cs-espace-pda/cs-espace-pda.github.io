@@ -2,7 +2,7 @@
 customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
-image: Project Reference Sheet TPAM VIP-VENUS pict 1.png
+image: Project CNES-TPAM VIP-VENUS pict 1.png
 size: standard
 name: TPAM VIP-VENUS
 title: Maintenance of the Venµs Image Quality (VIP) center
@@ -21,7 +21,7 @@ summary: "Delivering an operational VIP/VPDS image processing center that takes 
 # Context
 
 
-![Main Picture](Project Reference Sheet TPAM VIP-VENUS pict 1.png)
+![Main Picture](Project CNES-TPAM VIP-VENUS pict 1.png)
 
 CS Group responsabilities are as follow:
 * Maintenance of the data center (VIP), the distribution server (VPDS), the qalification and operation support tools within the VEnµS ground segment
@@ -50,7 +50,7 @@ The solution key points are as follow:
 * Integration of the MACCS (image processor level L2/L3°) component,
 * The image chain has taken into account the processing of stray light in the image processing chain (level L1).
 
-![Archi Picture](Project Reference Sheet TPAM VIP-VENUS pict 2.png)
+![Archi Picture](Project CNES-TPAM VIP-VENUS pict 2.png)
 
 The main technologies are as follow.
 

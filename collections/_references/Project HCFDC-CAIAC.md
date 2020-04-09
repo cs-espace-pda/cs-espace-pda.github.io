@@ -2,7 +2,7 @@
 customer: HCFDC
 customer_long: Haut Comité Français Défense Civile
 prime_contractor: 
-image: Project Reference Sheet CAIAC pict 1.png
+image: Project HCFDC-CAIAC pict 1.png
 size: standard
 name: CAIAC
 title: Geographic platform for planning and decision support for risk management
@@ -21,7 +21,7 @@ summary: "Deploy a mapping platform to assist critical operators and territorial
 # Context
 
 
-![Main Picture](Project Reference Sheet CAIAC pict 1.png)
+![Main Picture](Project HCFDC-CAIAC pict 1.png)
 
 CS Group responsabilities are as follow:
 * Provision in SaaS mode of a turnkey solution. 

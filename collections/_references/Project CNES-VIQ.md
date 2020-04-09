@@ -2,7 +2,7 @@
 customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
-image: Project Reference Sheet VIQ pict 1.png
+image: Project CNES-VIQ pict 1.png
 size: standard
 name: VIQ
 title: Venμs Image Quality
@@ -27,7 +27,7 @@ The mission objectives are :
 French scientists (CESBIO) and Israeli scientists (Ben Gourion University – BGU) lead the scientific mission and represent the concerned international community.
 For the technological mission, ISA is associated with Israeli industrial partners.
 
-![Main Picture](Project Reference Sheet VIQ pict 1.png)
+![Main Picture](Project CNES-VIQ pict 1.png)
 
 CS Group responsabilities are as follow:
 * Definition of mission model data and interfaces with the processing centre 

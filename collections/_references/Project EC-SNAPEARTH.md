@@ -2,7 +2,7 @@
 customer: EC
 customer_long: European Commission
 prime_contractor: QWANT
-image: Project Reference Sheet SNAPEARTH pict 1.png
+image: Project EC-SNAPEARTH pict 1.png
 size: standard
 name: SnapEarth
 title: SnapEarth project
@@ -21,7 +21,7 @@ summary: "Fostering EO market uptake thanks to natural and holistic access to ad
 # Context
 
 
-![Main Picture](Project Reference Sheet SNAPEARTH pict 1.png)
+![Main Picture](Project EC-SNAPEARTH pict 1.png)
 
 CS Group responsabilities are as follow:
 * Design, Development, Integration
@@ -50,7 +50,7 @@ The solution key points are as follow:
 * Integrated workflow engine
 * Automatic monitoring and FinOps
 
-![Archi Picture](Project Reference Sheet SNAPEARTH pict 2.png)
+![Archi Picture](Project EC-SNAPEARTH pict 2.png)
 
 The main technologies are as follow.
 

@@ -2,7 +2,7 @@
 customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
-image: Project Reference Sheet REGARDS pict 1.png
+image: Project CNES-REGARDS pict 1.png
 size: standard
 name: REGARDS
 title: REnouvellement des outils Génériques d’Accès et d’aRchivage pour les Données Spatiales
@@ -21,7 +21,7 @@ summary: "Data Preservation and valorization. Open source system"
 # Context
 
 
-![Main Picture](Project Reference Sheet REGARDS pict 1.png)
+![Main Picture](Project CNES-REGARDS pict 1.png)
 
 CS Group responsabilities are as follow:
 * Design, Development, Integration, Maintenance
@@ -51,7 +51,7 @@ The solution key points are as follow:
 * Micro-service Distributed REST Architecture based on Spring platform: Spring Boot for the micro-services implementation; Spring Cloud for micro-services infrastructure management.
 * Full web architecture (light client): React; JavaScript.
 
-![Archi Picture](Project Reference Sheet REGARDS pict 2.png)
+![Archi Picture](Project CNES-REGARDS pict 2.png)
 
 The main technologies are as follow.
 

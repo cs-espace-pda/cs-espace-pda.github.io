@@ -2,7 +2,7 @@
 customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
-image: Project Reference Sheet EOCTIT - SUPPORT pict 1.png
+image: Project CNES-EOCTIT - SUPPORT pict 1.png
 size: standard
 name: EOCTIT - Support
 title: Support for the management of the CNES Common Tools
@@ -21,7 +21,7 @@ summary: "Global maintenance assistance for low level image processing applicati
 # Context
 
 
-![Main Picture](Project Reference Sheet EOCTIT - SUPPORT pict 1.png)
+![Main Picture](Project CNES-EOCTIT - SUPPORT pict 1.png)
 
 CS Group responsabilities are as follow:
 * Management of common remote sensing image processing tools (libraries, tools, processing chains).

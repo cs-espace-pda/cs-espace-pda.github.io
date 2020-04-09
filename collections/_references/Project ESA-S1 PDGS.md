@@ -49,7 +49,7 @@ The solution key points are as follow:
 * On-demand computing platform creation service
 * Useful service deployments without the complexity of managing a processing platform over a cloud infrastructure
 
-![Archi Picture](Project Reference Sheet S1 PDGS pict 1.png)
+![Archi Picture](Project ESA-S1 PDGS pict 1.png)
 
 The main technologies are as follow.
 

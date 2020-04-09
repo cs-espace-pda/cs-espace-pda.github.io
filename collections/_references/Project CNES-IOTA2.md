@@ -2,7 +2,7 @@
 customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
-image: Project Reference Sheet IOTA2 pict 1.png
+image: Project CNES-IOTA2 pict 1.png
 size: standard
 name: IOTA2
 title: IOTA² - land-use map production line for large areas based on time series of Sentinel or Landsat images
@@ -22,7 +22,7 @@ summary: "Annual production of a national land use map. Testing new algorithms o
 
 IOTA² is a land-use map production line for large areas based on time series of Sentinel or Landsat images developped for CNES / CESBIO. In order to facilitate methodological contributions, IOTA² is open-source. As such, the channel makes extensive use of the image processing applications provided by Orfeo ToolBox.
 
-![Main Picture](Project Reference Sheet IOTA2 pict 1.png)
+![Main Picture](Project CNES-IOTA2 pict 1.png)
 
 CS Group responsabilities are as follow:
 * Maintenance and evolution of the IOTA² chain in order to meet the needs of land use map production
