@@ -2,7 +2,7 @@
 customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
-image: Project CNES-REGARDS pict 1.png
+image: Project CNES-REGARDS-EN pict 1.png
 size: standard
 name: REGARDS
 title: REnouvellement des outils Génériques d’Accès et d’aRchivage pour les Données Spatiales
@@ -13,7 +13,7 @@ summary: "Data Preservation and valorization. Open source system"
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
 
-> __Program__\: Generic
+> __Programme__\: Generic
 
 > __Supply Chain__\: CNES >  CS Group PDA
 
@@ -21,14 +21,14 @@ summary: "Data Preservation and valorization. Open source system"
 # Context
 
 
-![Main Picture](Project CNES-REGARDS pict 1.png)
+![Main Picture](Project CNES-REGARDS-EN pict 1.png)
 
-CS Group responsabilities are as follow:
+CS Group responsabilities are as follows:
 * Design, Development, Integration, Maintenance
 * Open source promoter
 
 
-The features are as follow:
+The features are as follows:
 * Efficient integration of data and __metadata__
 * Enrichment and valorization to scientific community: standard __interoperability__ protocols, __advanced search__ interface displays
 * __Sustainable__ archiving
@@ -38,7 +38,7 @@ The features are as follow:
 
 # Project implementation
 
-The project objectives are as follow:
+The project objectives are as follows:
 * Data Preservation and valorization
 * Open source system
 
@@ -47,16 +47,16 @@ The processes for carrying out the project are:
 
 # Technical characteristics
 
-The solution key points are as follow:
+The solution key points are as follows:
 * Micro-service Distributed REST Architecture based on Spring platform: Spring Boot for the micro-services implementation; Spring Cloud for micro-services infrastructure management.
 * Full web architecture (light client): React; JavaScript.
 
-![Archi Picture](Project CNES-REGARDS pict 2.png)
+![Archi Picture](Project CNES-REGARDS-EN pict 2.png)
 
-The main technologies are as follow.
+The main technologies used in this project are:
 
 {:class="table table-bordered table-dark"}
-| Domain | Technologie(s) |
+| Domain | Technology(ies) |
 |--------|----------------|
 |Hardware environment(s)|PC, VMWare HP|
 |Operating System(s)|Linux Red Hat|

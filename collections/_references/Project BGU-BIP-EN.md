@@ -2,7 +2,7 @@
 customer: BGU
 customer_long: Ben-Gurion University of the Negev
 prime_contractor: 
-image: Project BGU-BIP pict 1.jpeg
+image: Project BGU-BIP-EN pict 1.jpeg
 size: standard
 name: BIP
 title: BGU-VENµS Images Production
@@ -13,7 +13,7 @@ summary: "Produce BGU's L2 and L3 images from the L1 data provided by CNES"
 
 > __Customer__\: Ben-Gurion University of the Negev (BGU)
 
-> __Program__\: Venμs
+> __Programme__\: Venμs
 
 > __Supply Chain__\: BGU >  CS Group PDA
 
@@ -30,21 +30,21 @@ Three levels of products VENµS can thus be made available to the scientific com
 * Level 3 products (L3): multi-temporal synthesis of cloudless pixels from cloud-free products.
 The Ben Gurion University of the Negev, within the framework of this cooperation, wishes to produce its own L2 and L3 images from the L1 data provided by CNES.
 
-![Main Picture](Project BGU-BIP pict 1.jpeg)
+![Main Picture](Project BGU-BIP-EN pict 1.jpeg)
 
-CS Group responsabilities are as follow:
+CS Group responsabilities are as follows:
 * specification, development, on-site integration, 
 * user manual authoring, support (training) 
 * maintenance of the BIP workflow and BIP data catalog
 
 
-The features are as follow:
+The features are as follows:
 * __The BIP workflow__: creation of an image processing chain management tool based on Geostorm workflow technology and control of the MACCS software, enabling the production of levels L2 and L3.
 * __The BIP data catalog__: realization of a data catalog based on the GeoNetwork web technology, allowing to browse the metadata of the L2 and L3 products, as well as to view overviews and rights-of-way of these same products, all on a cartographic background of Israel.
 
 # Project implementation
 
-The project objectives are as follow:
+The project objectives are as follows:
 * Produce BGU's L2 and L3 images from the L1 data provided by CNES
 
 The processes for carrying out the project are:
@@ -52,17 +52,17 @@ The processes for carrying out the project are:
 
 # Technical characteristics
 
-The solution key points are as follow:
+The solution key points are as follows:
 * Expertise in satellite imagery applied to various themes: agriculture, environment, land use planning, natural risks, etc.
 * Ability to integrate MACCS (developed by CS for CNES) into a processing chain..
 * Skills in the development of production chain management tools and open-source web technologies.
 
-![Archi Picture](Project BGU-BIP pict 2.png)
+![Archi Picture](Project BGU-BIP-EN pict 2.png)
 
-The main technologies are as follow.
+The main technologies used in this project are:
 
 {:class="table table-bordered table-dark"}
-| Domain | Technologie(s) |
+| Domain | Technology(ies) |
 |--------|----------------|
 |Operating System(s)|Linux|
 |Programming language(s)|Python, Java, J2EE/WS, HTML, Javascript|

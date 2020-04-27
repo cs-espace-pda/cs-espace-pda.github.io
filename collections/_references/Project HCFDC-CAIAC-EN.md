@@ -2,7 +2,7 @@
 customer: HCFDC
 customer_long: Haut Comité Français Défense Civile
 prime_contractor: 
-image: Project HCFDC-CAIAC pict 1.png
+image: Project HCFDC-CAIAC-EN pict 1.png
 size: standard
 name: CAIAC
 title: Geographic platform for planning and decision support for risk management
@@ -13,7 +13,7 @@ summary: "Deploy a mapping platform to assist critical operators and territorial
 
 > __Customer__\: Haut Comité Français Défense Civile (HCFDC)
 
-> __Program__\: Risk Management
+> __Programme__\: Risk Management
 
 > __Supply Chain__\: HCFDC >  CS Group PDA
 
@@ -21,15 +21,15 @@ summary: "Deploy a mapping platform to assist critical operators and territorial
 # Context
 
 
-![Main Picture](Project HCFDC-CAIAC pict 1.png)
+![Main Picture](Project HCFDC-CAIAC-EN pict 1.png)
 
-CS Group responsabilities are as follow:
+CS Group responsabilities are as follows:
 * Provision in SaaS mode of a turnkey solution. 
 * Ergonomics studied for non-specialists. 
 * Support services included.
 
 
-The features are as follow:
+The features are as follows:
 * 300 data layers
 * Annotation, comparison, layer measurements
 * Full text search
@@ -44,7 +44,7 @@ The features are as follow:
 
 # Project implementation
 
-The project objectives are as follow:
+The project objectives are as follows:
 * Deploy a mapping platform to assist critical operators and territorial managers in their planning, decision support, risk and crisis management activities. 
 * Integrate simulation and information acquisition functions and services into the CAIAC platform
 
@@ -53,7 +53,7 @@ The processes for carrying out the project are:
 
 # Technical characteristics
 
-The solution key points are as follow:
+The solution key points are as follows:
 * Full web solution hosted on a sovereign cloud (OVH)
 * Definition of standards for module input and output
 * Architecture of the service bus type
@@ -62,10 +62,10 @@ The solution key points are as follow:
 
 
 
-The main technologies are as follow.
+The main technologies used in this project are:
 
 {:class="table table-bordered table-dark"}
-| Domain | Technologie(s) |
+| Domain | Technology(ies) |
 |--------|----------------|
 |Operating System(s)|Linux, WEB client|
 |Programming language(s)|HTML5, Javascript, Python|

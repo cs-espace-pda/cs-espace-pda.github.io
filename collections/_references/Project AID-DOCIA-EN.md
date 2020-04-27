@@ -2,7 +2,7 @@
 customer: AID
 customer_long: Agence de l’innovation de défense
 prime_contractor: 
-image: Project AID-DOCIA pict 1.png
+image: Project AID-DOCIA-EN pict 1.png
 size: standard
 name: DOCIA
 title: Prototype of a platform for document retrieval and advanced indexing
@@ -13,7 +13,7 @@ summary: "Enable the search in a large quantity of heterogeneous and unorganized
 
 > __Customer__\: Agence de l’innovation de défense (AID)
 
-> __Program__\: C2IA
+> __Programme__\: C2IA
 
 > __Supply Chain__\: AID >  CS Group PDA
 
@@ -22,14 +22,14 @@ summary: "Enable the search in a large quantity of heterogeneous and unorganized
 
 DOCIA: Operational tool for information processing and retrieval. The idea is not to change the way in which data is archived, but to rely effectively on the organizational and technical means deployed or in the process of being deployed.
 
-![Main Picture](Project AID-DOCIA pict 1.png)
+![Main Picture](Project AID-DOCIA-EN pict 1.png)
 
-CS Group responsabilities are as follow:
+CS Group responsabilities are as follows:
 * Need analysis
 * Design & development
 
 
-The features are as follow:
+The features are as follows:
 * Full text, metadata and temporal search with highlights
 * 5 views:
 	* _Details_ is text blocks corresponding to the search with the main metadata 
@@ -44,7 +44,7 @@ The features are as follow:
 
 # Project implementation
 
-The project objectives are as follow:
+The project objectives are as follows:
 * Enable the search in a large quantity of heterogeneous and unorganized documents
 * Intelligent use of data, linking, cross-referencing
 * Monitoring of local documents, websites, RSS feeds 
@@ -55,7 +55,7 @@ The processes for carrying out the project are:
 
 # Technical characteristics
 
-The solution key points are as follow:
+The solution key points are as follows:
 * Advanced indexation: 
 	* Identification of duplicates
 	* Text extraction optimization
@@ -68,12 +68,12 @@ The solution key points are as follow:
 * Indexing metrics by file type
 * Index sharing and export
 
-![Archi Picture](Project AID-DOCIA pict 2.png)
+![Archi Picture](Project AID-DOCIA-EN pict 2.png)
 
-The main technologies are as follow.
+The main technologies used in this project are:
 
 {:class="table table-bordered table-dark"}
-| Domain | Technologie(s) |
+| Domain | Technology(ies) |
 |--------|----------------|
 |Operating System(s)|Linux, HTML 5 Client|
 |Programming language(s)|HTML|

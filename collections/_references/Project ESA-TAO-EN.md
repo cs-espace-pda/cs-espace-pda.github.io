@@ -2,7 +2,7 @@
 customer: ESA
 customer_long: European Space Agency
 prime_contractor: CS ROMANIA
-image: Project ESA-TAO pict 1.png
+image: Project ESA-TAO-EN pict 1.png
 size: standard
 name: TAO
 title: Tool Augmentation by user enhancements and Orchestration
@@ -13,7 +13,7 @@ summary: "TAO platform (stands for Tool Augmentation by user enhancements and Or
 
 > __Customer__\: European Space Agency (ESA)
 
-> __Program__\: Generic
+> __Programme__\: Generic
 
 > __Supply Chain__\: ESA > CS ROMANIA >  CS Group PDA
 
@@ -21,15 +21,15 @@ summary: "TAO platform (stands for Tool Augmentation by user enhancements and Or
 # Context
 
 
-![Main Picture](Project ESA-TAO pict 1.png)
+![Main Picture](Project ESA-TAO-EN pict 1.png)
 
-CS Group responsabilities are as follow:
+CS Group responsabilities are as follows:
 * Project owner and the master developer (master branch)
 * Specification & Design
 * Maintenance
 
 
-The features are as follow:
+The features are as follows:
 * Visual integration of EO processing toolboxes
 * A pre-defined set of Docker containers for Orfeo Toolbox, SNAP, GDAL and Python 2.7
 * Visual definition of processing workflows by drag-and-drop and easy parametrization 
@@ -41,7 +41,7 @@ The features are as follow:
 
 # Project implementation
 
-The project objectives are as follow:
+The project objectives are as follows:
 * TAO platform (stands for Tool Augmentation by user enhancements and Orchestration) is a lightweight, generic integration and distributed orchestration framework.
 
 The processes for carrying out the project are:
@@ -49,16 +49,16 @@ The processes for carrying out the project are:
 
 # Technical characteristics
 
-The solution key points are as follow:
+The solution key points are as follows:
 * Spring Framework
 * A simple view of the TAO platform model split among four main macro-components
 
-![Archi Picture](Project ESA-TAO pict 2.png)
+![Archi Picture](Project ESA-TAO-EN pict 2.png)
 
-The main technologies are as follow.
+The main technologies used in this project are:
 
 {:class="table table-bordered table-dark"}
-| Domain | Technologie(s) |
+| Domain | Technology(ies) |
 |--------|----------------|
 |Operating System(s)|Linux|
 |Programming language(s)|Java, Python|

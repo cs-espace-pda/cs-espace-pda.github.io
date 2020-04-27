@@ -13,7 +13,7 @@ summary: "Aims to provide scientists with satellite images acquired over predefi
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
 
-> __Program__\: Generic
+> __Programme__\: Generic
 
 > __Supply Chain__\: CNES >  CS Group PDA
 
@@ -23,20 +23,20 @@ summary: "Aims to provide scientists with satellite images acquired over predefi
 
 
 
-CS Group responsabilities are as follow:
+CS Group responsabilities are as follows:
 * Geometric and radiometric pre-processing of images on the four bases (Adam, Isle_Reunion, Littoral and OSR MiPy).
 * Production of the pre-processing tools for SPOT and FORMOSAT data.
 * User support.
 
 
-The features are as follow:
+The features are as follows:
 * Development of geometric processing tools,
 * Development of radiometric processing tools,
 * Data exploitation.
 
 # Project implementation
 
-The project objectives are as follow:
+The project objectives are as follows:
 * Aims to provide scientists with satellite images acquired over predefined geographical areas.
 
 The processes for carrying out the project are:
@@ -47,20 +47,20 @@ The processes for carrying out the project are:
 
 # Technical characteristics
 
-The solution key points are as follow:
+The solution key points are as follows:
 * Processing chains based on Python scripts
 
 
 
-The main technologies are as follow.
+The main technologies used in this project are:
 
 {:class="table table-bordered table-dark"}
-| Domain | Technologie(s) |
+| Domain | Technology(ies) |
 |--------|----------------|
-|Operating System(s)|Linux, Red-Hat 5.2|
-|Programming language(s)|Python, ksh, IDL, Fortran, C, JAVA|
-|Interoperability (protocols, format, APIs)|XML|
-|Main COTS library(ies)|ENVI, SIGMA, MEDICIS, ORION, 6S|
+|Operating System(s)|Linux, Ubuntu 16.04|
+|Programming language(s)|Python, ksh, IDL, Fortran, C, C++, JAVA|
+|Interoperability (protocols, format, APIs)|XML, DIMAPv2, DIMAP|
+|Main COTS library(ies)|ENVI, SIGMA, MEDICIS, ORION, 6S, OTB|
 
 
 

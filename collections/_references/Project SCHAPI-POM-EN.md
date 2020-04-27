@@ -2,7 +2,7 @@
 customer: SCHAPI
 customer_long: Service Central d'Hydrométéorologie et d'Appui à la Prévision des Inondations
 prime_contractor: 
-image: Project SCHAPI-POM pict 1.png
+image: Project SCHAPI-POM-EN pict 1.png
 size: standard
 name: POM
 title: PLATEFORME OPERATIONNELLE POUR LA MODELISATION
@@ -13,7 +13,7 @@ summary: "The heterogeneity of the different forecasting calculation models make
 
 > __Customer__\: Service Central d'Hydrométéorologie et d'Appui à la Prévision des Inondations (SCHAPI)
 
-> __Program__\: Risk Management
+> __Programme__\: Risk Management
 
 > __Supply Chain__\: SCHAPI >  CS Group PDA
 
@@ -23,9 +23,9 @@ summary: "The heterogeneity of the different forecasting calculation models make
 Since 2003, the Schapi has been coordinating the tools related to real-time flood forecasting at the national level. It also plays a role of expertise and support for the 22 French SPC (Flood Forecasting Services) on the use of these tools and the exploitation of the results.
 For several years, a national software base has been developed to facilitate the daily exchange and supervision of forecasting data. The POM (Plateforme Opérationnelle pour la Modélisation), distributed nationally, is part of this perspective of pooling resources.
 
-![Main Picture](Project SCHAPI-POM pict 1.png)
+![Main Picture](Project SCHAPI-POM-EN pict 1.png)
 
-CS Group responsabilities are as follow:
+CS Group responsabilities are as follows:
 * System specification and design
 * Development
 * Deployment of the system in Schapi and SPCs
@@ -33,14 +33,14 @@ CS Group responsabilities are as follow:
 * Maintenance
 
 
-The features are as follow:
+The features are as follows:
 * Declaration of models and associated data (input and output)
 * Forecasting programming, supervision and real-time control
 * Replaying the past for training, comparison or feedback purposes
 
 # Project implementation
 
-The project objectives are as follow:
+The project objectives are as follows:
 * The heterogeneity of the different forecasting calculation models makes their chaining complex.
 * The objective of the POM is to facilitate the interoperability of the processing chains required to forecast water levels in real time.
 
@@ -49,7 +49,7 @@ The processes for carrying out the project are:
 
 # Technical characteristics
 
-The solution key points are as follow:
+The solution key points are as follows:
 * The architecture model is Client Server (n-tier) with a thin client.
 * The POM system plays the role of scheduler and gateway but not of calculation engine.
 * It includes batch mechanisms.
@@ -58,10 +58,10 @@ The solution key points are as follow:
 
 
 
-The main technologies are as follow.
+The main technologies used in this project are:
 
 {:class="table table-bordered table-dark"}
-| Domain | Technologie(s) |
+| Domain | Technology(ies) |
 |--------|----------------|
 |Operating System(s)|Linux|
 |Programming language(s)|Php 5.3|

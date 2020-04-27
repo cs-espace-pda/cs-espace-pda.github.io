@@ -2,7 +2,7 @@
 customer: EUMETSAT
 customer_long: EUMETSAT
 prime_contractor: 
-image: Project EUMETSAT-WEKEO SUPPORT pict 1.png
+image: Project EUMETSAT-WEKEO SUPPORT-EN pict 1.png
 size: standard
 name: WEkEO Support
 title: WEkEO DIAS User Support Service
@@ -13,7 +13,7 @@ summary: "Facilitate handling of Copernicus data and services. Provide WEkEO DIA
 
 > __Customer__\: EUMETSAT
 
-> __Program__\: Copernicus
+> __Programme__\: Copernicus
 
 > __Supply Chain__\: EUMETSAT >  CS Group PDA
 
@@ -21,16 +21,16 @@ summary: "Facilitate handling of Copernicus data and services. Provide WEkEO DIA
 # Context
 
 
-![Main Picture](Project EUMETSAT-WEKEO SUPPORT pict 2.png)
+![Main Picture](Project EUMETSAT-WEKEO SUPPORT-EN pict 2.png)
 
-CS Group responsabilities are as follow:
+CS Group responsabilities are as follows:
 * Service development and implementation with our consortium partner SpaceTec Partners. 
 * Service management
 * Level-1 and -2 Sentinel-1/-2 user support
 * Participation in communication and training activities
 
 
-The features are as follow:
+The features are as follows:
 * Ticketing management system at core of a User Support Tool
 * Decentralised network of experts connected to a Helpdesk through a User Support Tool
 * Handle diverse user requests (from basic to advanced questions and issues)
@@ -39,7 +39,7 @@ The features are as follow:
 
 # Project implementation
 
-The project objectives are as follow:
+The project objectives are as follows:
 * Facilitate handling of Copernicus data and services
 * Provide WEkEO DIAS users with online thematic and technical support
 * Contribute to WEkEO’s outreach activities
@@ -49,19 +49,19 @@ The processes for carrying out the project are:
 
 # Technical characteristics
 
-The solution key points are as follow:
+The solution key points are as follows:
 * Open source solutions
 * Built on Redmine project management web application 
 * Deep Redmine parameterizing
 * Plugin integration
 * Plugin development
 
-![Archi Picture](Project EUMETSAT-WEKEO SUPPORT pict 3.png)
+![Archi Picture](Project EUMETSAT-WEKEO SUPPORT-EN pict 3.png)
 
-The main technologies are as follow.
+The main technologies used in this project are:
 
 {:class="table table-bordered table-dark"}
-| Domain | Technologie(s) |
+| Domain | Technology(ies) |
 |--------|----------------|
 |Operating System(s)|Linux|
 |Programming language(s)|Ruby, Bash|

@@ -2,7 +2,7 @@
 customer: ADS-GEO
 customer_long: Airbus Defense and Space Geo
 prime_contractor: 
-image: Project ADS-GEO-FILE TRANSFER pict 1.png
+image: Project ADS-GEO-FILE TRANSFER-EN pict 1.png
 size: standard
 name: FILE TRANSFER
 title: Common service involved in the Geo Digital System (GDS) of Airbus DS Geo SA
@@ -13,21 +13,26 @@ summary: "File transfer Service ensures massive files data exchange between GDS 
 
 > __Customer__\: Airbus Defense and Space Geo (ADS-GEO)
 
-> __Program__\: Geo Digital System
+> __Programme__\: Geo Digital System
 
 > __Supply Chain__\: ADS-GEO >  CS Group PDA
 
 
 # Context
 
+File transfer Service ensures massive files data exchange between GDS sub-systems and others services of system.
+Optional pre/post processing are realized on the data transferred.
+* The data exchange are launched either automatically by polling storages, either by receiving messages (MessageQueuing) or demands (WebService),
+* Optional pre/post processing are realized on the data transferred,
+* The data are transferred from input storage to recipient(s) storage.
 
-![Main Picture](Project ADS-GEO-FILE TRANSFER pict 1.png)
+![Main Picture](Project ADS-GEO-FILE TRANSFER-EN pict 1.png)
 
-CS Group responsabilities are as follow:
+CS Group responsabilities are as follows:
 * Maintenance, Reversibility
 
 
-The features are as follow:
+The features are as follows:
 * Transfers start automatically by polling storages or by receiving messages (MessageQueuing) or requests (WebService)
 * Manages both cloud and local storage
 * Three entry points: Message Queuing service, REST API, MMI for supervisor accounts
@@ -40,7 +45,7 @@ The features are as follow:
 
 # Project implementation
 
-The project objectives are as follow:
+The project objectives are as follows:
 * File transfer Service ensures massive files data exchange between GDS sub-systems and others services of system.
 * Optional pre/post processing are realized on the data transferred.
 
@@ -50,8 +55,8 @@ The processes for carrying out the project are:
 
 # Technical characteristics
 
-The solution key points are as follow:
-* RESTful web services architecture (BackEnd) 
+The solution key points are as follows:
+* RESTfull web services architecture (BackEnd) 
 * Independent software components provide great modularity
 * Load-balancing mechanism
 * Redundancy system
@@ -59,10 +64,10 @@ The solution key points are as follow:
 
 
 
-The main technologies are as follow.
+The main technologies used in this project are:
 
 {:class="table table-bordered table-dark"}
-| Domain | Technologie(s) |
+| Domain | Technology(ies) |
 |--------|----------------|
 |Operating System(s)|Linux|
 |Programming language(s)|Java, Python, Bash, HTML, XSL, CURL|

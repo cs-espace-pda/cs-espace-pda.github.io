@@ -13,7 +13,7 @@ summary: "Migrating S1 Data & Payloads Digital Ground Segment Processing to clou
 
 > __Customer__\: European Space Agency (ESA)
 
-> __Program__\: Copernicus
+> __Programme__\: Copernicus
 
 > __Supply Chain__\: ESA > AIRBUS DS >  CS Group PDA
 
@@ -23,12 +23,12 @@ summary: "Migrating S1 Data & Payloads Digital Ground Segment Processing to clou
 
 
 
-CS Group responsabilities are as follow:
+CS Group responsabilities are as follows:
 * Design, Development, Integration, Maintenance,
 * Open source promoter.
 
 
-The features are as follow:
+The features are as follows:
 * Migrating the IT architecture,
 * Storage & processing chains,
 * Ensuring Data & Services security,
@@ -37,7 +37,7 @@ The features are as follow:
 
 # Project implementation
 
-The project objectives are as follow:
+The project objectives are as follows:
 * Migrating S1 Data & Payloads Digital Ground Segment Processing to cloud platforms
 
 The processes for carrying out the project are:
@@ -45,16 +45,16 @@ The processes for carrying out the project are:
 
 # Technical characteristics
 
-The solution key points are as follow:
+The solution key points are as follows:
 * On-demand computing platform creation service
 * Useful service deployments without the complexity of managing a processing platform over a cloud infrastructure
 
-![Archi Picture](Project ESA-S1 PDGS pict 1.png)
+![Archi Picture](Project ESA-S1 PDGS-EN pict 1.png)
 
-The main technologies are as follow.
+The main technologies used in this project are:
 
 {:class="table table-bordered table-dark"}
-| Domain | Technologie(s) |
+| Domain | Technology(ies) |
 |--------|----------------|
 |Hardware environment(s)|Cloud|
 |Operating System(s)|Linux|

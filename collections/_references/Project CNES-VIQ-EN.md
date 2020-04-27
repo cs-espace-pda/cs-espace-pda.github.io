@@ -2,7 +2,7 @@
 customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
-image: Project CNES-VIQ pict 1.png
+image: Project CNES-VIQ-EN pict 1.png
 size: standard
 name: VIQ
 title: Venμs Image Quality
@@ -13,7 +13,7 @@ summary: "Facilitates the geometric and radiometric calibration tasks, the impro
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
 
-> __Program__\: Venμs
+> __Programme__\: Venμs
 
 > __Supply Chain__\: CNES >  CS Group PDA
 
@@ -27,16 +27,16 @@ The mission objectives are :
 French scientists (CESBIO) and Israeli scientists (Ben Gourion University – BGU) lead the scientific mission and represent the concerned international community.
 For the technological mission, ISA is associated with Israeli industrial partners.
 
-![Main Picture](Project CNES-VIQ pict 1.png)
+![Main Picture](Project CNES-VIQ-EN pict 1.png)
 
-CS Group responsabilities are as follow:
+CS Group responsabilities are as follows:
 * Definition of mission model data and interfaces with the processing centre 
 * Specification & Design & Development
 * Integration in the CNES hosting structure
 * Maintenance
 
 
-The features are as follow:
+The features are as follows:
 * Command & Control system (GCS) based in Israel
 * Receiving station for X band (VRS) in Kiruna
 * SMIGS (Scientific Mission Image Ground System) in CNES, composed of VIP and VIQ
@@ -48,7 +48,7 @@ The features are as follow:
 
 # Project implementation
 
-The project objectives are as follow:
+The project objectives are as follows:
 * Facilitates the geometric and radiometric calibration tasks, the improvement and update of calibration parameters, the verification of the VENμS instrument performances
 * Generates the reference DEM used in L1.
 
@@ -58,17 +58,17 @@ The processes for carrying out the project are:
 
 # Technical characteristics
 
-The solution key points are as follow:
+The solution key points are as follows:
 * Distributed system for database, catalog, and processing tasks on virtual machines
 * Performant system for 6TB of data and 7 years of operation with heavy processing tasks
 * Modules for easy evolution for client/server integration and processor/data integration in the hosting structure
 
 
 
-The main technologies are as follow.
+The main technologies used in this project are:
 
 {:class="table table-bordered table-dark"}
-| Domain | Technologie(s) |
+| Domain | Technology(ies) |
 |--------|----------------|
 |Hardware environment(s)|HP servers and PC|
 |Operating System(s)|Linux|

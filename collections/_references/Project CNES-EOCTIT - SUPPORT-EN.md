@@ -2,7 +2,7 @@
 customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
-image: Project CNES-EOCTIT - SUPPORT pict 1.png
+image: Project CNES-EOCTIT - SUPPORT-EN pict 1.png
 size: standard
 name: EOCTIT - Support
 title: Support for the management of the CNES Common Tools
@@ -13,7 +13,7 @@ summary: "Global maintenance assistance for low level image processing applicati
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
 
-> __Program__\: Generic
+> __Programme__\: Generic
 
 > __Supply Chain__\: CNES >  CS Group PDA
 
@@ -21,13 +21,13 @@ summary: "Global maintenance assistance for low level image processing applicati
 # Context
 
 
-![Main Picture](Project CNES-EOCTIT - SUPPORT pict 1.png)
+![Main Picture](Project CNES-EOCTIT - SUPPORT-EN pict 1.png)
 
-CS Group responsabilities are as follow:
+CS Group responsabilities are as follows:
 * Management of common remote sensing image processing tools (libraries, tools, processing chains).
 
 
-The features are as follow:
+The features are as follows:
 * Provide users with common tools to carry out their work and their studies,
 * Assist users to help maximise the use of this common tools for the development of their software,
 * Provide these common tools on different platforms,
@@ -37,7 +37,7 @@ The features are as follow:
 
 # Project implementation
 
-The project objectives are as follow:
+The project objectives are as follows:
 * Global maintenance assistance for low level image processing applications, known as CNES Common Tools
 
 The processes for carrying out the project are:
@@ -45,16 +45,16 @@ The processes for carrying out the project are:
 
 # Technical characteristics
 
-The solution key points are as follow:
+The solution key points are as follows:
 * Bug Tracker  
 * Code versioning
 
 
 
-The main technologies are as follow.
+The main technologies used in this project are:
 
 {:class="table table-bordered table-dark"}
-| Domain | Technologie(s) |
+| Domain | Technology(ies) |
 |--------|----------------|
 |Operating System(s)|Windows (Cygwin), Linux 32 et 64bits (RedHat 6&7)|
 |Programming language(s)|C, C++, CUDA, OPENCL, python, shell|

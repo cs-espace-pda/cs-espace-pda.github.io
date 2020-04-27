@@ -2,7 +2,7 @@
 customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
-image: Project CNES-CHRONOS pict 1.png
+image: Project CNES-CHRONOS-EN pict 1.png
 size: standard
 name: CHRONOS
 title: Realization of a processing orchestrator and mission for SWOT
@@ -13,7 +13,7 @@ summary: "Design, build and commission a generic processing orchestrator for the
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
 
-> __Program__\: Generic
+> __Programme__\: Generic
 
 > __Supply Chain__\: CNES >  CS Group PDA
 
@@ -21,15 +21,15 @@ summary: "Design, build and commission a generic processing orchestrator for the
 # Context
 
 
-![Main Picture](Project CNES-CHRONOS pict 1.png)
+![Main Picture](Project CNES-CHRONOS-EN pict 1.png)
 
-CS Group responsabilities are as follow:
+CS Group responsabilities are as follows:
 * Specification & Design
 * Realization of developments
 * Mission Statement
 
 
-The features are as follow:
+The features are as follows:
 * Running workflows on local, HPC or Cloud resources (no locking)
 * Exploitation: 
 	* Ergonomic and modern web HMI;
@@ -43,7 +43,7 @@ The features are as follow:
 
 # Project implementation
 
-The project objectives are as follow:
+The project objectives are as follows:
 * Design, build and commission a generic processing orchestrator for the SWOT data production centre.
 
 The processes for carrying out the project are:
@@ -51,7 +51,7 @@ The processes for carrying out the project are:
 
 # Technical characteristics
 
-The solution key points are as follow:
+The solution key points are as follows:
 * HPC/Cloud hybridization for running processing workflows using Apache Mesos and SafeScale™
 * Workflow description with CWL standard
 * Integration of many COTS and in particular the TOIL workflow manager
@@ -60,10 +60,10 @@ The solution key points are as follow:
 
 
 
-The main technologies are as follow.
+The main technologies used in this project are:
 
 {:class="table table-bordered table-dark"}
-| Domain | Technologie(s) |
+| Domain | Technology(ies) |
 |--------|----------------|
 |Operating System(s)|Linux RH Secure|
 |Programming language(s)|Java, Python, SQL|

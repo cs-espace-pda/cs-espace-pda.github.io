@@ -2,7 +2,7 @@
 customer: DGA
 customer_long: Direction Générale de l'Armement
 prime_contractor: 
-image: Project DGA-GEODE 4D pict 1.png
+image: Project DGA-GEODE 4D-EN pict 1.png
 size: standard
 name: GEODE 4D
 title: Architectural analysis and definition of the Geophysical Environment Information System GEODE 4D
@@ -13,7 +13,7 @@ summary: "GEODE 4D is a project to set up a geophysical cross forces information
 
 > __Customer__\: Direction Générale de l'Armement (DGA)
 
-> __Program__\: GEODE 4D
+> __Programme__\: GEODE 4D
 
 > __Supply Chain__\: DGA >  CS Group PDA
 
@@ -21,16 +21,16 @@ summary: "GEODE 4D is a project to set up a geophysical cross forces information
 # Context
 
 
-![Main Picture](Project DGA-GEODE 4D pict 1.png)
+![Main Picture](Project DGA-GEODE 4D-EN pict 1.png)
 
-CS Group responsabilities are as follow:
+CS Group responsabilities are as follows:
 * Architectural analysis and system definition
 * Functional specification, 
 * Committing financial proposition, 
 * Realisation of mock ups and prototypes.
 
 
-The features are as follow:
+The features are as follows:
 * Facilitates access to relevant data
 * Insures its job consistency
 * Elaborates and spreads the Recognized Environmental Picture (NATO concept)
@@ -40,7 +40,7 @@ The features are as follow:
 
 # Project implementation
 
-The project objectives are as follow:
+The project objectives are as follows:
 * GEODE 4D is a project to set up a geophysical cross forces information system.
 
 The processes for carrying out the project are:
@@ -48,7 +48,7 @@ The processes for carrying out the project are:
 
 # Technical characteristics
 
-The solution key points are as follow:
+The solution key points are as follows:
 * Modular and generic architecture design;
 * Information Systems technological experience, including each environment-dedicated domain;
 * Use of tools and software worldwide known for their efficiency;
@@ -56,10 +56,10 @@ The solution key points are as follow:
 
 
 
-The main technologies are as follow.
+The main technologies used in this project are:
 
 {:class="table table-bordered table-dark"}
-| Domain | Technologie(s) |
+| Domain | Technology(ies) |
 |--------|----------------|
 |Operating System(s)|Windows seven , xp , Linux debian|
 |Programming language(s)|java, python, javascript|

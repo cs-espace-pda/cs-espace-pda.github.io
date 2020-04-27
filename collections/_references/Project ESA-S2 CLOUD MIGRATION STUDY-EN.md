@@ -2,7 +2,7 @@
 customer: ESA
 customer_long: European Space Agency
 prime_contractor: TAS
-image: Project ESA-S2 CLOUD MIGRATION STUDY pict 1.png
+image: Project ESA-S2 CLOUD MIGRATION STUDY-EN pict 1.png
 size: standard
 name: S2 Cloud migration study
 title: Study of the execution of Sentinel 2 processing system on a cloud infrastructure
@@ -13,7 +13,7 @@ summary: "Verify assumptions for the migration of the PDGS core processing to th
 
 > __Customer__\: European Space Agency (ESA)
 
-> __Program__\: Copernicus
+> __Programme__\: Copernicus
 
 > __Supply Chain__\: ESA > TAS >  CS Group PDA
 
@@ -21,15 +21,15 @@ summary: "Verify assumptions for the migration of the PDGS core processing to th
 # Context
 
 
-![Main Picture](Project ESA-S2 CLOUD MIGRATION STUDY pict 1.png)
+![Main Picture](Project ESA-S2 CLOUD MIGRATION STUDY-EN pict 1.png)
 
-CS Group responsabilities are as follow:
+CS Group responsabilities are as follows:
 * Design
 * Benchmark
 * Prototype Development
 
 
-The features are as follow:
+The features are as follows:
 * Initial studies and development
 * Prototype development: reads L0c DS and produces L1C vDS
 * Simulation of the processing of 4-days data
@@ -41,7 +41,7 @@ The features are as follow:
 
 # Project implementation
 
-The project objectives are as follow:
+The project objectives are as follows:
 * Verify assumptions for the migration of the PDGS core processing to the cloud 
 * Develop a demonstrator
 
@@ -50,18 +50,18 @@ The processes for carrying out the project are:
 
 # Technical characteristics
 
-The solution key points are as follow:
+The solution key points are as follows:
 * IPFs deployed into Docker containers.
 * Choreography instead of orchestration with an asynchronous messaging system.
 * DS divided into smaller datastrips called vDS. Their calculation time is shorter than that of a DS.
 * vDSs processed in parallel on a set of containers called "stage".
 
-![Archi Picture](Project ESA-S2 CLOUD MIGRATION STUDY pict 2.png)
+![Archi Picture](Project ESA-S2 CLOUD MIGRATION STUDY-EN pict 2.png)
 
-The main technologies are as follow.
+The main technologies used in this project are:
 
 {:class="table table-bordered table-dark"}
-| Domain | Technologie(s) |
+| Domain | Technology(ies) |
 |--------|----------------|
 |Hardware environment(s)|Orange cc3.4xlarge.4, OVH C2-60|
 |Operating System(s)|Linux|
