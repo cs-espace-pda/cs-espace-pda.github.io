@@ -1,21 +1,21 @@
 ---
-customer: ESA
-customer_long: European Space Agency
-prime_contractor: 
-image: Project ESA-RUS-EN pict 1.png
+customer: EC
+customer_long: EC
+prime_contractor: ESA
+image: Project EC-RUS-EN pict 1.png
 size: standard
 name: RUS
 title: Copernicus Research and User Support
 department: PDA
 program: Copernicus
-summary: "To promote uptake of Copernicus data. To support scaling up of R&D activities"
+summary: "Promote uptake of Copernicus data. Support scaling up of R&D activities"
 ---
 
-> __Customer__\: European Space Agency (ESA)
+> __Customer__\: EC
 
 > __Programme__\: Copernicus
 
-> __Supply Chain__\: ESA >  CS Group PDA
+> __Supply Chain__\: EC > ESA >  CS Group PDA
 
 
 # Context
@@ -30,11 +30,11 @@ Topics cover all kinds of thematic applications and Sentinel sensors.
 
 Follow RUS on [Twitter](https://twitter.com/RUS_Copernicus), [Facebook](https://www.facebook.com/RUSCopernicusService/), [LinkedIn](https://www.linkedin.com/groups/8623170/) or our [Website](https://rus-training.eu/) to hear about upcoming training activities and new material releases.
 
-![Main Picture](Project ESA-RUS-EN pict 2.png)
+![Main Picture](Project EC-RUS-EN pict 2.png)
 
 CS Group responsabilities are as follows:
 * Works in partnership with __SERCO__, __NOVELTIS__, __Along-Track__ and __CS Romania__.
-* CS EO Experts are dedicated to Sentinel 2 support
+* CS EO Experts are dedicated to Sentinel-2 support
 
 
 The features are as follows:
@@ -48,21 +48,22 @@ The features are as follows:
 # Project implementation
 
 The project objectives are as follows:
-* To promote uptake of Copernicus data
-* To support scaling up of R&D activities
+* Promote uptake of Copernicus data
+* Support scaling up of R&D activities
 
 The processes for carrying out the project are:
-* Support Level 1
-* Support Level 2
+* Semi-automated scripts to deploy preconfigured virtual machines on the Cloud
+* User Support through email, chat system, web portal
+* Training: use of cloned virtual machines, webinars
 
 # Technical characteristics
 
 The solution key points are as follows:
 * RUS Web Portal is a specific web application used by 2850 registered users.
-* RUS Virtual Desktop is a preconfigured image processing environments on the Cloudare provided. 1100 cloud computing environments have been granted. 
-* 3 sizes are available from 4 to 48 cores.
+* RUS Virtual Machines are preconfigured desktop-based image processing environments made available on the Cloud. A total of 1,100 VMs have been delivered so far.
+* 3 default VM configurations are possible from 4 to 48 cores.
 
-![Archi Picture](Project ESA-RUS-EN pict 3.png)
+![Archi Picture](Project EC-RUS-EN pict 3.png)
 
 The main technologies used in this project are:
 
@@ -71,8 +72,8 @@ The main technologies used in this project are:
 |--------|----------------|
 |Hardware environment(s)|Cloudare VM|
 |Operating System(s)|Linux|
-|Programming language(s)|HTML 5|
-|Production software (IDE, DEVOPS etc.)|Redmine|
+|Programming language(s)|Ruby, HTML 5|
+|Production software (IDE, DEVOPS etc.)|Redmine, RocketChat|
 |Main COTS library(ies)|SNAP, Sentinel toolboxes, QGIS, OTB, Python, R|
 
 

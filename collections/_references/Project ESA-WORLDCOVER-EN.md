@@ -2,9 +2,9 @@
 customer: ESA
 customer_long: European Space Agency
 prime_contractor: 
-image: Project ESA-WOLDCOVER-EN pict 1.png
+image: Project ESA-WORLDCOVER-EN pict 1.png
 size: standard
-name: WOLDCOVER
+name: WORLDCOVER
 title: World Cover
 department: PDA
 program: Copernicus
@@ -21,7 +21,7 @@ summary: "The project aims at developing an automated user-driven workflow capab
 # Context
 
 
-![Main Picture](Project ESA-WOLDCOVER-EN pict 1.png)
+![Main Picture](Project ESA-WORLDCOVER-EN pict 1.png)
 
 CS Group responsabilities are as follows:
 * Design
@@ -54,7 +54,7 @@ The solution key points are as follows:
 * On-demand computing platform creation service 
 * Useful service deployments without the complexity of managing a processing platform over a cloud infrastructure
 
-![Archi Picture](Project ESA-WOLDCOVER-EN pict 2.png)
+![Archi Picture](Project ESA-WORLDCOVER-EN pict 2.png)
 
 The main technologies used in this project are:
 
