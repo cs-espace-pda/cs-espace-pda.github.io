@@ -5,10 +5,10 @@ prime_contractor:
 image: Project ADS-GEO-FILE TRANSFER-EN pict 1.png
 size: standard
 name: FILE TRANSFER
-title: Common service involved in the Geo Digital System (GDS) of Airbus DS Geo SA
+title: Common service of File Transfer involved in the Geo Digital System (GDS) of Airbus DS Geo SA
 department: PDA
 program: Geo Digital System
-summary: "File transfer Service ensures massive files data exchange between GDS sub-systems and others services of system. Optional pre/post processing are realized on the data transferred."
+summary: "File Transfer Service ensures massive data exchange between GDS components and other services of the system. Transfer is launched either by polling storage areas, either by receiving messages or demands. Optional pre/post processing are realized on the transferred data"
 ---
 
 > __Customer__\: Airbus Defense and Space Geo (ADS-GEO)
@@ -20,11 +20,13 @@ summary: "File transfer Service ensures massive files data exchange between GDS 
 
 # Context
 
-File transfer Service ensures massive files data exchange between GDS sub-systems and others services of system.
-Optional pre/post processing are realized on the data transferred.
-* The data exchange are launched either automatically by polling storages, either by receiving messages (MessageQueuing) or demands (WebService),
-* Optional pre/post processing are realized on the data transferred,
-* The data are transferred from input storage to recipient(s) storage.
+Managed protocols : FTP/FTPS/SFTP/GRIDFTP/FXP, CLOUD S3, local, API Rest, AMQP, TLS V1.2 
+ Automatic transfer starts by polling storages areas or by receiving messages (MessageQueuing) or requests (WebService)
+ Authentication of users made though IAM and LDAP Services
+ MMI dédicated to administrators and supervisors: 
+ * monitor the transfers process,
+ * create units and routes,
+ * monitor file transfer’s systems.
 
 ![Main Picture](Project ADS-GEO-FILE TRANSFER-EN pict 1.png)
 
@@ -33,34 +35,32 @@ CS Group responsabilities are as follows:
 
 
 The features are as follows:
-* Transfers start automatically by polling storages or by receiving messages (MessageQueuing) or requests (WebService)
-* Manages both cloud and local storage
-* Three entry points: Message Queuing service, REST API, MMI for supervisor accounts
-* Monitors transfer data process: error handling, transfers status management, logs management
-* Authentication: from service IAM and LDAP
-* MMI proposes to: 
-	* monitor the transfers process,
-	* create units and routes,
-	* monitor file transfer’s systems.
+* Management of many protocols for transfer (FTP, CLOUD S3, API Rest, ...)
+* Management of heterogeneous storage areas (CLOUD or local directories)
+* Monitoring of data transfer processes (error handling, transfers status management, logs management)
+* Authentication of users
+* MMI dedicated to administrators and supervisors for system management
 
 # Project implementation
 
 The project objectives are as follows:
-* File transfer Service ensures massive files data exchange between GDS sub-systems and others services of system.
-* Optional pre/post processing are realized on the data transferred.
+* File Transfer Service ensures massive data exchange between GDS components and other services of the system
+* Transfer is launched either by polling storage areas, either by receiving messages or demands 
+* Optional pre/post processing are realized on the transferred data
 
 The processes for carrying out the project are:
 * Continuous integration
-* Requirements engineering
 
 # Technical characteristics
 
 The solution key points are as follows:
-* RESTfull web services architecture (BackEnd) 
-* Independent software components provide great modularity
-* Load-balancing mechanism
+* Architecture Rest,
+* RESTfull web services (BackEnd):
+*   --> Independent software components provide great modularity
+*   --> Load-balancing mechanism
+*   --> API Rest
 * Redundancy system
-* Structure based on container platforms (docker)
+* Structure based on container platforms (dockers).
 
 
 
@@ -72,8 +72,8 @@ The main technologies used in this project are:
 |Operating System(s)|Linux|
 |Programming language(s)|Java, Python, Bash, HTML, XSL, CURL|
 |Interoperability (protocols, format, APIs)|JSON, XML, LDAP, FTP, FTPS, SFTP, GRIDFTP, FXP, CLOUD S3, RESTful API, AMQP, TLS v1.2|
-|Production software (IDE, DEVOPS etc.)|Eclipse, Testlink|
-|Main COTS library(ies)|Angular 2, Spring, Docker, PostgreSQL, RabbitMQ, Maven, Hibernate, Apache Commons|
+|Production software (IDE, DEVOPS etc.)|Eclipse, Testlink, Docker, Maven|
+|Main COTS library(ies)|Angular 2, Spring, PostgreSQL, RabbitMQ, Hibernate, Apache Commons|
 
 
 

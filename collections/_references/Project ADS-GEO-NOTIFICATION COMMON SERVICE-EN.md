@@ -8,7 +8,7 @@ name: NOTIFICATION COMMON SERVICE
 title: Common service involved in the Geo Digital System (GDS) of Airbus DS Geo SA
 department: PDA
 program: Geo Digital System
-summary: "Notification Service processes and delivers in different media all notification requests of  GDS sub-systems and others services of system for external or internal users"
+summary: "Notification Service processes and delivers in different media all notification requests of GDS sub-systems and others services of system for external or internal users"
 ---
 
 > __Customer__\: Airbus Defense and Space Geo (ADS-GEO)
@@ -20,10 +20,10 @@ summary: "Notification Service processes and delivers in different media all not
 
 # Context
 
-Notification Service processes and delivers in different media all notification requests of  GDS sub-systems and others services of system for external or internal users
-* Receives notifications thru Message Queuing Common service,
-* Processes and if necessary formats the notification requests from patterns (instantiation of message model, elements  by using key/value and names of recipients)
-* Transfers the processed and instantiated notification requests to corresponding GDS technical services to deliver the notifications.
+Objectives for Notification Service are :
+* To receive notifications through Message Queuing Common service,
+* To process and if necessary to format the notification requests from patterns (instantiation of message model, elements by using key/value and names of recipients)
+* To transfer the processed and instantiated notification requests to corresponding GDS technical services to deliver the notifications.
 
 ![Main Picture](Project ADS-GEO-NOTIFICATION COMMON SERVICE-EN pict 1.png)
 
@@ -32,19 +32,16 @@ CS Group responsabilities are as follows:
 
 
 The features are as follows:
-* Manages media for delivery notifications: Mail, SMS, WebHook,
-* Offers multiple entry points: Message Queuing service,  API Rest (external service), Mailbox service (legacy mails), MMI (admin/supervisor accounts).
-* Monitors notification requests (error handling, notifications status management, logs management),
-* Check authentication of users from service IAM and LDAP
-* Proposes MMI to: 
-	* monitor system and notification requests,
-	* create templates and notification definitions,
-	* send new notification requests.
+* Management of media for notifications delivery (Mail, SMS, WebHook)
+* Multiple entry points: Message Queuing service,  API Rest (external service), Mailbox service (legacy mails), MMI (admin/supervisor accounts)
+* Monitors notification requests (error handling, notifications status management, logs management)
+* Authentication of users from service IAM and LDAP
+* MMI for system and notification request monitoring, templates and notification definitions creation, new notification requests
 
 # Project implementation
 
 The project objectives are as follows:
-* Notification Service processes and delivers in different media all notification requests of  GDS sub-systems and others services of system for external or internal users
+* Notification Service processes and delivers in different media all notification requests of GDS sub-systems and others services of system for external or internal users
 
 The processes for carrying out the project are:
 * Continuous integration
@@ -52,11 +49,11 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* RESTfull web services architecture (BackEnd) 
+* Structure based on container platforms (dockers)
 * Independent software components provide great modularity
-* Load-balancing mechanism
-* Redundancy system
-* Structure based on container platforms (docker)
+* Web generic MMI
+* RESTful web services
+* Deployment with Kubernetes on a Airbus DS Geo SA cloud
 
 
 
@@ -66,10 +63,10 @@ The main technologies used in this project are:
 | Domain | Technology(ies) |
 |--------|----------------|
 |Operating System(s)|Linux|
-|Programming language(s)|Java, Python, Bash, HTML, XSL, CURL|
-|Interoperability (protocols, format, APIs)|JSON, XML, LDAP, FTP, FTPS, SFTP, GRIDFTP, FXP, CLOUD S3, RESTful API, AMQP, TLS v1.2|
+|Programming language(s)|Java, Python, SQL|
+|Interoperability (protocols, format, APIs)|XML, LDAP, RESTful API|
 |Production software (IDE, DEVOPS etc.)|Eclipse, Testlink|
-|Main COTS library(ies)|Angular 2, Spring, Docker, PostgreSQL, RabbitMQ, Maven, Hibernate, Apache Commons|
+|Main COTS library(ies)|React, Spring, Docker, Kubernetes, PostgreSQL, RabbitMQ, Maven, Hibernate, Apache Commons, JAXB, redis|
 
 
 

@@ -44,25 +44,24 @@ What is {{page.v_safescale}}?
 ----------------------
 
 
-{{page.v_safescale}} is a multicloud secured management platform that provides a simple and generic way to configure and deploy ad’hoc IT infrastructure regardless of the cloud supplier targeted and their inherent heterogeneities:
+{{page.v_safescale}} is a multicloud secured management platform that provides a simple and generic way to configure and deploy ad’hoc IT infrastructure regardless of the cloud supplier targeted:
 * [Infra](#infra): Cloud agnostic Infrastructure as Code (IaC)
 * [Platform](#Platform): Platform as a Service (PaaS)
-* [Security](#Security): ensures that no unapproved external access is granted
+* [Security](#Security): End-to-end secured solution from host to user access
 
 <p class="image-center"> <img src="https://github.com/CS-SI/SafeScale/raw/master/doc/img/SafeScale.png" width="75%"> </p>
 
 
-	
+​	
 Features
 --------
 
 ### Infra
 
-
 {{page.v_safescale}} Infra is designed for abstracting cloud services and guaranteeing total independence from cloud services providers (IaaS). 
-To overcome their heterogeneities, {{page.v_safescale}} Infra is designed around a unique CLI (command line interface) and an `object storage adapter mechanis
+To overcome their heterogeneities, {{page.v_safescale}} Infra is designed around a unique CLI (command line interface) and an `object storage adapter mechanism
 
-It supports main market cloud service providers:
+It supports main market infrastructure providers:
 * Main European & Non-European cloud providers
 * Potentially any Openstack-based cloud providers
 * High Performance Computing clusters
@@ -75,11 +74,8 @@ The Infra features are detailed on the [project's page](https://github.com/CS-SI
 For example, the following command illustrates how Infra works to create a virtual machine with a single command.
 
 ```
->> safescale network create --cidr 192.168.2.0/24 \
-   --gwname cluster-front \
-   –os "Ubuntu 16.04" \
-   --cpu 8 --ram 30 \
-   cluster-net
+>> safescale host create –os "Ubuntu 18.04" --sizing "cpu~=4, ram~=16, cpu-freq>=2" \
+--public my-host
 ```
 
 <p class="image-right">	<img src="product_safescale_compliantproviders.png" width="400"> </p>
@@ -110,12 +106,13 @@ For example the following command creates a Kubernetes cluster named k8s-cluster
 
 ### Security
 
-{{page.v_safescale}} covers several facets of security:
-* On network level, {{page.v_safescale}} Security relies on Kong, an open source generic proxy.
-* On service level, {{page.v_safescale}} Security proposes an optional use of Keycloak, an Open Source Identity and Access Management (IAM).
+{{page.v_safescale}} covers several all facets of security:
+* On system level, {{page.v_safescale}} proposes [firewalld](https://firewalld.org/) as Firewall, [suricata](https://suricata-ids.org/) as NIDS, [wazuh](https://wazuh.com/) as HIDS
+* On service level, {{page.v_safescale}} proposes [Kong Community](https://konghq.com/solutions/kubernetes-ingress/) as API gateway
+* On system level, {{page.v_safescale}} proposes [Kong Community](https://konghq.com) as Load Balancer and applicative firewall
+* On user level, {{page.v_safescale}} proposes [KeyCloak](https://www.keycloak.org/) for Identity and Access management, social login and identity brokering
 
 The security features are detailed on the [project's page](https://github.com/CS-SI/safescale#safescale-security).
-
 
 {{page.v_safescale}} is labelled [France Cybersecurity](https://www.francecybersecurity.fr/en/the-label/). This label guarantees users that {{page.v_safescale}} has clear and well-defined functionalities, with a level of quality verified by an independent jury based on existing certifications, an investigation by an independent third party expert and user feedback.
 <a class="image-center" href="https://www.francecybersecurity.fr/en/the-label/"> <img src="product_safescale_labelfrancesecurity.png" width="20%"> </a>
@@ -146,7 +143,7 @@ You don't have to manage the lower layers, the network part, the square meters, 
 
 ### Secured
 
-{{page.v_safescale}} provides a gateway system that offers encryption and identity management including access encryption, Web Firewall, IAM, SSO, Identity brokering and more.
+{{page.v_safescale}} provides system firewalls, intrusion detection, web firewall and identity and access management including social login and brokering and monitoring security dashboards
 
 What {{site.data.str.pda}} can bring you?
 -----------------------------------------

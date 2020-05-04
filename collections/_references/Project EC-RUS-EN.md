@@ -22,7 +22,7 @@ summary: "Promote uptake of Copernicus data. Support scaling up of R&D activitie
 
 __RUS Web Portal__: A dedicated [web portal](https://rus-opernicus.eu) is available. Users can create an account and submit a request for a preconfigured virtual machine. The Helpdesk composed of EO and IT experts can be reached via the dashboard by means of emails or chat. 
 
-__RUS Virtual Desktop__: Preconfigured image processing environments on the Cloudare provided. Software and development tools are accessiblefrom a Linux-based virtual desktop. All preinstalled softwareand tools are open source (e.g., SNAP, Sentinel toolboxes, QGIS, OTB, Python, R). Users can install their own software and tools, download, import and export data, including imagery, and scripts.
+__RUS Virtual Desktop__: Preconfigured image processing environments on the Cloud provided. Software and development tools are accessiblefrom a Linux-based virtual desktop. All preinstalled softwareand tools are open source (e.g., SNAP, Sentinel toolboxes, QGIS, OTB, Python, R). Users can install their own software and tools, download, import and export data, including imagery, and scripts.
 
 __RUS Training__: The RUS service proposes training activities in the form of on-site sessions, webinars, and materials. 
 All information, videos, webinars and other materials are available for free via the RUS web portal.
@@ -70,7 +70,7 @@ The main technologies used in this project are:
 {:class="table table-bordered table-dark"}
 | Domain | Technology(ies) |
 |--------|----------------|
-|Hardware environment(s)|Cloudare VM|
+|Hardware environment(s)|Cloud VM|
 |Operating System(s)|Linux|
 |Programming language(s)|Ruby, HTML 5|
 |Production software (IDE, DEVOPS etc.)|Redmine, RocketChat|
