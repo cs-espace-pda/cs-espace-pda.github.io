@@ -22,33 +22,133 @@ bodyClass: page-home
 
 <div class="container">
 	<div class="col-12 feature">
-		{{site.data.str.cs}}, a key European player in satellite imaging and data processing, positions itself along the entire value chain, from sensors to applications. {{site.data.str.cs}} brings, through its {{site.data.str.pda}}, its expertise in remote sensing image processing, software development and, in particular, open source software. {{site.data.str.cs}} is also involved in the development of web and GIS services for environmental applications.
+	<!-- add container for ie11 compatibility -->
+	  <div class="container" align="left">
+		{{site.data.str.cs}}, a key European player in the field of satellite imagery and data processing, is positioned along the entire value chain, from sensors to applications. Through its {{site.data.str.pda}}, {{site.data.str.cs}} brings its expertise in remote sensing image processing, software development and, in particular, open source software. {{site.data.str.pda}} carries out the definition and development of entire systems, from image quality centers to value-added data production and exploitation centers.<br>
+					
+		
+		<br>
+		<p class="image-center-60"> <img src="{{site.baseurl}}/images/background-services.png"> </p>
+		<br>
+		
+		{{site.data.str.pda}} responds to the increasingly massive needs for data exploitation (satellites & others) by providing appropriate IT environments and digital tools and being able to offer a variety of Big Data frameworks (and/or on-demand applications) adapted to needs without having to manage the allocation of the necessary IT resources.<br> 
+		{{site.data.str.pda}} is also involved in the development of web and GIS services for environmental applications.<br>
+		Within the same department, {{site.data.str.pda}} brings together a multidisciplinary team of 120 engineers with different profiles - business, software, system - thus ensuring essential complementarity and enabling it to best meet the expectations of its customers, which are the CNES, the European Agency and the space industry.
+	  </div>
 	</div>
 </div>
 
+<!-- List of CS activities (_features collection) -->
+<br>
+<br>
+<div class="container">
+	<div class="highlight-dark">
+		<h2>Our main skills</h2>
+	</div>
+</div>
 <div class="container pt-5 pt-md-5">
-  <div class="row justify-content-center">
+	<div class="row justify-content-center">
 
-	<!-- 
-	List of CS strengths (_features collection) 
-	-->
-    {% for feature in site.features %}
-    <div class="col-12 col-md-6 col-lg-4 mb-2">
-		<div class="feature">
-        {% if feature.image %}
-		{% if feature.page %}
-		<a href="{{site.baseurl}}{{feature.page}}" class="feature-image">
-		{% else %}
-		<a class="feature-image">
-		{% endif %}
-			<img alt="{{ feature.title }} logo" src="{{site.baseurl}}/images/{{feature.image}}" />
-		</a> 
-		{% endif %}
-        <h2 class="feature-title">{{ feature.title }}</h2>
-        <div class="feature-content">{{ feature.content }}</div>
-      </div>
-    </div>
-    {% endfor %}
+		{% assign activities = site.features | where:"type","activity" %}
+		{% for feature in activities %}
+		<div class="col-12 col-md-6 col-lg-3 mb-2">
+			<div class="card feature">
+				{% if feature.image %}
+				{% if feature.page %}
+				<a href="{{site.baseurl}}{{feature.url}}" class="feature-image">
+				{% else %}
+				<a class="feature-image">
+				{% endif %}
+					<img alt="{{ feature.title }} logo" src="{{site.baseurl}}/images/{{feature.image}}" />
+				</a> 
+				{% endif %}
+				<h2 class="feature-title">{{ feature.title }}</h2>
+				<!-- add container for ie11 compatibility and remove feature-content  -->
+				<!-- <div class="feature-content"> --> 
+				<div class="container">
+				{{ feature.content | markdownify | strip_html | truncate: 200 }}
+				</div>
+				<!--<div class="card-footer">
+					<a href="{{site.baseurl}}{{feature.url}}" class="btn">Read more.</a>
+				</div>
+				-->
+			</div>
+		</div>
+		{% endfor %}
+		
+	</div>
+</div>
 
-  </div>
+
+<!-- List of CS references -->
+<div class="container">
+	<div class="highlight-dark">
+		<h2>Our references</h2>
+	</div>
+</div>
+<div class="container pt-5 pt-md-5">
+	<div class="row justify-content-center">
+
+		{% assign activities = site.features | where:"type","reference" %}
+		{% for feature in activities %}
+		<div class="col-12 col-md-6 col-lg-4 mb-2">
+			<div class="feature">
+				{% if feature.image %}
+				{% if feature.page %}
+				<a href="{{site.baseurl}}{{feature.page}}" class="feature-image">
+				{% else %}
+				<a class="feature-image">
+				{% endif %}
+					<img alt="{{ feature.title }} logo" src="{{site.baseurl}}/images/{{feature.image}}" />
+				</a> 
+				{% endif %}
+				<h2 class="feature-title">{{ feature.title }}</h2>
+				<!-- add container for ie11 compatibility and remove feature-content  -->
+				<!-- <div class="feature-content"> --> 
+				<div class="container">
+				{{ feature.content | markdownify | strip_html | truncate: 200 }}
+				</div>
+			</div>
+		</div>
+		{% endfor %}
+		
+	</div>
+</div>
+
+
+
+<!--  List of DNA  -->
+
+<div class="container">
+	<div class="highlight-dark">
+		<h2>Our open source and R&D DNA</h2>
+	</div>
+</div>
+<div class="container pt-5 pt-md-5">
+	<div class="row justify-content-center">
+
+		{% assign activities = site.features | where:"type","other" %}
+		{% for feature in activities %}
+		<div class="col-12 col-md-6 col-lg-4 mb-2">
+			<div class="feature">
+				{% if feature.image %}
+				{% if feature.page %}
+				<a href="{{site.baseurl}}{{feature.url}}" class="feature-image">
+				{% else %}
+				<a class="feature-image">
+				{% endif %}
+					<img alt="{{ feature.title }} logo" src="{{site.baseurl}}/images/{{feature.image}}" />
+				</a> 
+				{% endif %}
+				<h2 class="feature-title">{{ feature.title }}</h2>
+				<!-- add container for ie11 compatibility and remove feature-content  -->
+				<!-- <div class="feature-content"> --> 
+				<div class="container">
+				{{ feature.content | markdownify | strip_html }}
+				</div>
+			</div>
+		</div>
+		{% endfor %}
+		
+	</div>
 </div>

@@ -7,13 +7,13 @@ size: standard
 name: BIDSRAF
 title: Big Data from Space – Reference Architecture Framework
 department: PDA
-program: Generic
+program: GSTP
 summary: "Creating a reliable and scalable multi-cloud computing infrastructure and data management platform relevant for Earth data processing"
 ---
 
 > __Customer__\: European Space Agency (ESA)
 
-> __Programme__\: Generic
+> __Programme__\: GSTP
 
 > __Supply Chain__\: ESA >  CS Group PDA
 

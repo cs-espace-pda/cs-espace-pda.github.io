@@ -1,17 +1,17 @@
 ---
 customer: MÉTROPOLE DE NÎMES
-customer_long: MÉTROPOLE DE NÎMES
+customer_long: Métropole de Nîmes Direction de l'Eau
 prime_contractor: 
-image: Project MÉTROPOLE DE NÎMES-IOTSTORM-EN pict 1.png
+image: Project MÉTROPOLE DE NÎMES-SUPERVISION NÎMES-EN pict 1.png
 size: standard
-name: IoTStorm
-title: IoTStorm – Supervision
+name: SUPERVISION Nîmes
+title: SERVICE WEB TEMPS REEL DE CONSULATION DES DONNEES DE HAUTEUR D’EAU DES BARRAGES ECRÊTEURS DE CRUE DE NÎMES
 department: PDA
 program: Risk Management
 summary: "Supervision is in place in most businesses and communities, regardless of their size. It verifies the proper functioning of the systems or activities of a computer system. The IoTSTORM platform is designed to manage the huge quantities of data produced by the IIOT."
 ---
 
-> __Customer__\: MÉTROPOLE DE NÎMES
+> __Customer__\: Métropole de Nîmes Direction de l'Eau (MÉTROPOLE DE NÎMES)
 
 > __Programme__\: Risk Management
 
@@ -20,30 +20,22 @@ summary: "Supervision is in place in most businesses and communities, regardless
 
 # Context
 
-Continuing this work in the field of flood warning systems, CS SI is expanding its field of application and has acquired a new sensor supervision tool to offer a more flexible platform to its customers.
-More broadly, supervision is nowadays present in most companies and communities, regardless of their size. It makes it possible to check the state of proper functioning of systems or activities of a computer system.
-The IOTSTORM platform is the result of this reflection, and is designed to manage the enormous quantities of data produced by the IIOT (Industrial IOT - Internet of Industrial Objects).
-A major objective of this type of platform, particularly in the field of flood warning, is to be able to warn the personnel in charge of monitoring as quickly as possible so that they can take the necessary actions. 
-The public IOT standard is now the MQTT, but in the industrial field, each supplier has today its own protocol, even if standardisation is underway. IoTSTORM supports the OPC-UA.
-IotStorm is designed to manage very large volumes of space-time series produced by the IOT:
-* Connected sensors
-* Environmental data
-* GPS positions
-* Webcams
+Pour assurer les missions de suivi, en particulier en période de crues, Nîmes Métropole devait disposer des données de suivi en temps réel du niveau de remplissage de ces barrages écrêteurs de crue
 
-![Main Picture](Project MÉTROPOLE DE NÎMES-IOTSTORM-EN pict 2.png)
+![Main Picture](Project MÉTROPOLE DE NÎMES-SUPERVISION NÎMES-EN pict 2.jpg)
 
 CS Group responsabilities are as follows:
-* Collection of need
-* Specification, development, testing, deployment
+* Requirement definition
+* System Specification, development, testing, deployment
 * Operational maintenance
 
 
 The features are as follows:
-* Event management: alarms are raised as soon as the telemetry is received when certain criteria are exceeded (thresholds, slope, etc.). 
-* Notification: sending alarms (mail, sms, voice) to operators and alerting others in case of no response.
+* Configurable Dashboard and integrated to the portal
+* Event management: alarms are raised as some criteria are exceeded (thresholds, etc.). 
+* Notification:  alarms emission (mail, sms, voice call) to operators with cascade process.
 * Configurable dashboards and portal integration
-* Ergonomics: the HMI is intuitive and can be used by non-computer specialists.
+* Ergonomy: the HMI is intuitive and can be used by non-computer specialists.
 * API for IOT data ingestion and consultation
 * Maintainability: the solution is configurable and extensible.
 
@@ -65,7 +57,7 @@ The solution key points are as follows:
 * Programming by Actor (Akka framework) favouring the developemnt of competitive, scalable and robust applications.
 * Several databases are supported, including Cassandra for its performance and time series management.
 
-![Archi Picture](Project MÉTROPOLE DE NÎMES-IOTSTORM-EN pict 3.png)
+![Archi Picture](Project MÉTROPOLE DE NÎMES-SUPERVISION NÎMES-EN pict 3.png)
 
 The main technologies used in this project are:
 

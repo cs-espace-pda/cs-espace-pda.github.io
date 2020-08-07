@@ -40,3 +40,30 @@
     }
   }
 }
+
+
+ .card.tutorial {
+	border: none;
+	background-color: #F2F2F2;
+	margin:0;
+ }
+  .card.tutorial img  {
+		background-color: #F2F2F2;
+		border: none;
+		margin: 0;
+		padding: 12px;
+		max-width: 100%;  /* set to anything and aspect ratio is maintained - also corrects glitch in Internet Explorer */
+		height: 130px;
+		object-fit: contain;
+	}
+.card.tutorial .card-footer  {
+	background-color: #017CB7;
+}
+.card.tutorial .card-footer .btn {
+    background-image: linear-gradient(white, #f8f9fa 60%, #eceff2);
+    background-repeat: no-repeat;
+    text-shadow: 0 1px 0 rgba(0,0,0,0.05);
+    color: #212529;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+}

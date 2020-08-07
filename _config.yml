@@ -23,18 +23,22 @@ collections:
   
 defaults:
   - scope:
-      type: products
+        type: products
     values:
-      layout: product
+        layout: product
   - scope:
-      path: 'images'
+        path: 'images'
     values:
-      image: true
+        image: true
   - scope:
-      type: references
+        type: references
     values:
-      layout: reference
-  
+        layout: reference
+  - scope:
+        type: features
+    values:
+        layout: feature
+      
 sass:
   style: compact # possible values: nested expanded compact compressed
 

@@ -7,13 +7,13 @@ size: standard
 name: GEODE 4D
 title: Architectural analysis and definition of the Geophysical Environment Information System GEODE 4D
 department: PDA
-program: GEODE 4D
+program: GHOM
 summary: "GEODE 4D is a project to set up a geophysical cross forces information system."
 ---
 
 > __Customer__\: Direction Générale de l'Armement (DGA)
 
-> __Programme__\: GEODE 4D
+> __Programme__\: GHOM
 
 > __Supply Chain__\: DGA >  CS Group PDA
 

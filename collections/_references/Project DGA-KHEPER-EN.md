@@ -7,19 +7,26 @@ size: standard
 name: KHEPER
 title: MCO KHEPER
 department: PDA
-program: DNG3D
-summary: "To provide armed forces a shared and relevant cartographic reference for a common understanding of the operational conditions in the perspective of preparing/running military operations, via workshops for:. * Production (scanned maps, vector and raster data). * Control and planification. * Diffusion"
+program: GHOM
+summary: "To provide armed forces a shared and relevant cartographic reference for a common understanding of the operational conditions in the perspective of preparing/running military operations, via workshops for:"
 ---
 
 > __Customer__\: DGA - Ministère de la Défense (DGA)
 
-> __Programme__\: DNG3D
+> __Programme__\: GHOM
 
 > __Supply Chain__\: DGA >  CS Group PDA
 
 
 # Context
 
+Services inherent in the project carried out by CS :
+Architecture design and distribution of activities to the partners,
+Hardware, software and equipments supply,
+Specific developments contribution (e.g the Information System portal),
+Validation and installation activities,
+Operators, workshop leaders and managers training,
+Integrated Logistic Support (ILS).
 
 ![Main Picture](Project DGA-KHEPER-EN pict 1.png)
 
@@ -28,20 +35,17 @@ CS Group responsabilities are as follows:
 
 
 The features are as follows:
-* Architecture design and distribution of activities to the partners,
-* Hardware, software and equipments supply,
-* Specific developments contribution (e.g.  the Information System portal),
-* Validation and installation activities,
-* Operators, workshop leaders and managers training,
-* Integrated Logistic Support (ILS).
+* The system in made of several workshops :
+* For production : scanned maps, images, vector and raster data
+* For control and planification
+* For project studies
+* For diffusion
+* For inputs and assets management
 
 # Project implementation
 
 The project objectives are as follows:
 * To provide armed forces a shared and relevant cartographic reference for a common understanding of the operational conditions in the perspective of preparing/running military operations, via workshops for:
-	* Production (scanned maps, vector and raster data)
-	* Control and planification
-	* Diffusion
 
 The processes for carrying out the project are:
 * Continuous integration
@@ -52,7 +56,7 @@ The solution key points are as follows:
 * Modern technical solution (WEB, SOA),
 * Efficient software in the raster and vector data management,
 * Geo-library information portal compliant with new standards,
-* Environment constrained (security and performances),
+* Mixed systems in an environnement strongly constrained by security and performances (huge amount of data),
 
 
 

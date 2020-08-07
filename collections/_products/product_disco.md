@@ -25,7 +25,7 @@ For these reasons, CNES wished to define a new internal model definition, which 
 
 In its latest form, the project aims at providing a new generic modeler, addressing various formats in a single model, and with reasonable performances for big models (>500 Mo in XML form) even on a standard PC configuration.
 This modeler is no longer based on a particular format, but on a generic model description layer, which can adapt to any business domain. On top of that, the modeler can be specialized with a (multi-)domain-oriented layer. On top of all, various additional layers can interfere to add new format-specific properties, that can add new semantic information on an existing element.
-The formats supported by the modeler can intersect on some concepts or be exclusive on others. Semantic information from various formats can hence co-exist in a very single model, with no redundancy, allowing transforming the model and exporting it to each format.
+The formats supported by the modeler (currently CADS, XIF and XTCE) can intersect on some concepts or be exclusive on others. Semantic information from various formats can hence co-exist in a very single model, with no redundancy, allowing transforming the model and exporting it to each format.
 A short term, the modeler aims only at describing a Satellite Database (as did BEST), but the core must remain generic and offer larger possibilities to stay open to any business domain.
 
 

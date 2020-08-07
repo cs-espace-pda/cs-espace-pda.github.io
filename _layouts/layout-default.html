@@ -16,10 +16,13 @@
 		<div id="wrapper" class="wrapper">
 			{% include header.html headerClass='header-extra' %}
 			{{content}}
+			<!--  modifications for ie11 compatibility with ie11 , footer in wrapper -->
+					{% include footer.html %}
+					{% include sub-footer.html %}
 		</div>
-		
-		{% include footer.html %}
-		{% include sub-footer.html %}
+		<!--  modifications for ie11 compatibility with ie11 , footer in wrapper -->
+		<!-- {% include footer.html %} -->
+		<!-- {% include sub-footer.html %} -->
 		
 		<script type="text/javascript" src="{{ site.baseurl }}/assets/js/scripts.js"></script>
 		

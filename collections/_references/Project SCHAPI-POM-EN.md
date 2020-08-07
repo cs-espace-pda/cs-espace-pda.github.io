@@ -63,6 +63,7 @@ The main technologies used in this project are:
 {:class="table table-bordered table-dark"}
 | Domain | Technology(ies) |
 |--------|----------------|
+|Hardware environment(s)|SVN|
 |Operating System(s)|Linux|
 |Programming language(s)|Php 5.3|
 |Interoperability (protocols, format, APIs)|XML|
