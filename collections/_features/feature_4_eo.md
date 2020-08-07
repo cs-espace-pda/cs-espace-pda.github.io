@@ -21,8 +21,9 @@ Our key references in this domain are the [RUS project](project-ec-rus-en.html),
 Risk Management
 ---------------
 
-Spatial imagery generates layers of data that can be combined with other information in a geographic information system or GIS that is designed to collect, store, process, analyze, manage and present all types of spatial and geographic data.
+Spatial imagery may be combined with other sources of information in a geographic information system platform. It is designed to smoothly collect, store, process, analyze, manage and present all types of spatial/temporal geographic data. 
 
-Our key references in this domain are the [CAIAC project](project-hcfdc-caiac-en.html), the [SUPERVISION Nîmes project](project-métropole-de-nîmes-supervision-nîmes-en.html).
+Critical operators and territorial managers take advantage of the [CAIAC](project-hcfdc-caiac-en.html) platform in their planning, decision support, risk and crisis management activities. 
 
-We develop several solutions for the French agency of the hydrometeorological and flood forecasting (SCHAPI): the [PLATHYNES project](project-schapi-plathynes-en.html), the [POM project](project-schapi-pom-en.html) and the [SUPERVISEUR NATIONAL project](project-schapi-superviseur-national-en.html).
+We develop several solutions for the French agency of the hydrometeorological and flood forecasting (SCHAPI): the [PLATHYNES project](project-schapi-plathynes-en.html), the [POM project](project-schapi-pom-en.html) and the [SUPERVISEUR NATIONAL project](project-schapi-superviseur-national-en.html) and for local agencies in charge of flood management as for the [SUPERVISION Nîmes project](project-métropole-de-nîmes-supervision-nîmes-en.html). 
+

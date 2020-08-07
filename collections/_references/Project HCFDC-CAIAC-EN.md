@@ -49,7 +49,7 @@ The project objectives are as follows:
 * Integrate simulation and information acquisition functions and services into the CAIAC platform
 
 The processes for carrying out the project are:
-* Software V-Model
+* Incremental V-Model
 
 # Technical characteristics
 
@@ -60,7 +60,7 @@ The solution key points are as follows:
 * Scalability and potential for integration of new services
 * High reuse of a powerful and extensible base (GEOSTORM).
 
-
+![Archi Picture](Project HCFDC-CAIAC-EN pict 2.jpg)
 
 The main technologies used in this project are:
 
