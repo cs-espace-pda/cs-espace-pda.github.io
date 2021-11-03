@@ -145,10 +145,10 @@ You don't have to manage the lower layers, the network part, the square meters, 
 
 {{page.v_safescale}} provides system firewalls, intrusion detection, web firewall and identity and access management including social login and brokering and monitoring security dashboards
 
-What {{site.data.str.pda}} can bring you?
+What {{site.data.str.space}} can bring you?
 -----------------------------------------
 
-As main {{page.v_safescale}} developper, {{site.data.str.pda}} is the ideal partner. We provide you with:
+As main {{page.v_safescale}} developper, {{site.data.str.space}} is the ideal partner. We provide you with:
 * {{page.v_safescale}} specific deployment end to end for your need
 * Consulting services around the software:
 	* Technical expertise

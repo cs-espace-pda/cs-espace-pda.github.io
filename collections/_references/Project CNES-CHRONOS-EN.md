@@ -6,6 +6,7 @@ image: Project CNES-CHRONOS-EN pict 1.png
 size: standard
 name: CHRONOS
 title: Realization of a processing orchestrator and mission for SWOT
+domains: Platform
 department: PDA
 program: Generic
 summary: "Design, build and commission a generic processing orchestrator for the SWOT data production centre."

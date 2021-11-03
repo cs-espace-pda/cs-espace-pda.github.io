@@ -8,7 +8,7 @@
 <div class="col-12 col-md-6 col-xl-3 mb-1 mt-1">
   <div class="card-common card-size-little">
 {% endif %}
-	
+	<input type="hidden" value="{{ reference.domains }}">
 	<div class="card-image">
 	{% if reference.image %}
 		<img alt="{{ reference.title }} logo" class="img-fluid" src="{{site.baseurl}}/{{ reference.image }}"/>
@@ -28,6 +28,8 @@
 		<div class="card-tag card-tag-customer">{{reference.customer}}</div>
 		{% endif %}	
 		<div class="card-tag card-tag-program">{{ reference.program }}</div>
+		<div class="card-tag card-tag-program">{{ reference.domains }}</div>
+
 	</div>
 	{% if reference.size=="big" %}
 		{{ reference.summary | markdownify | strip_html | truncate: 500 }}
@@ -36,6 +38,5 @@
 	{% else %}
 		{{ reference.summary | markdownify | strip_html | truncate: 100 }}
 	{% endif %}
-	
   </div>
 </div>

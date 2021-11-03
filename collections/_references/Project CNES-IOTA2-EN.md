@@ -6,6 +6,7 @@ image: Project CNES-IOTA2-EN pict 1.png
 size: standard
 name: IOTA2
 title: IOTA² - land-use map production line for large areas based on time series of Sentinel or Landsat images
+domains: Image
 department: PDA
 program: Generic
 summary: "Annual production of a national land use map. Testing new algorithms over large areas."

@@ -6,6 +6,7 @@ image: Project EC-RUS-EN pict 1.png
 size: standard
 name: RUS
 title: Copernicus Research and User Support
+domains: Platform, EO Services
 department: PDA
 program: Copernicus
 summary: "Promote uptake of Copernicus data. Support scaling up of R&D activities"

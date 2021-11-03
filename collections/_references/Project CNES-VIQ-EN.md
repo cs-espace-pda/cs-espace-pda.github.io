@@ -6,6 +6,7 @@ image: Project CNES-VIQ-EN pict 1.png
 size: standard
 name: VIQ
 title: Venμs Image Quality
+domains: Image
 department: PDA
 program: Venμs
 summary: "Facilitates the geometric and radiometric calibration tasks, the improvement and update of calibration parameters, the verification of the VENμS instrument performances. Generates the reference DEM used in L1."

@@ -9,14 +9,13 @@ bodyClass: page-home
 -->
 <div class="intro">
 	<div class="container">
-	
-		<div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 highlight-dark">
-			<h1>{{site.data.str.cs}}</h1>
-			<h2>{{site.data.str.pda}}</h2>
-			<br>
-			35 years of experience delivering high quality systems for Earth Observation & Science data processing and dissemination towards to NEWSPACE customers.
+		<div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
+			<h1>SPACE Operations and Intelligence</h1>
 		</div>
-
+		<div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 highlight-dark">
+			<b>Among the Top 5 European players in space computing, CS GROUP is active in end-to-end mode, in all business lines and throughout the life cycle of systems: upstream studies, operations and intelligence in data enhancement, with one key word: innovation.</b>
+		</div>
+		<br>
 	</div>
 </div>
 
@@ -24,62 +23,16 @@ bodyClass: page-home
 	<div class="col-12 feature">
 	<!-- add container for ie11 compatibility -->
 	  <div class="container" align="left">
-		{{site.data.str.cs}}, a key European player in the field of satellite imagery and data processing, is positioned along the entire value chain, from sensors to applications. Through its {{site.data.str.pda}}, {{site.data.str.cs}} brings its expertise in remote sensing image processing, software development and, in particular, open source software. {{site.data.str.pda}} carries out the definition and development of entire systems, from image quality centers to value-added data production and exploitation centers.<br>
-					
-		
+		<h2>The trusted engineering, systems and information technologies partner for Space missions</h2>
 		<br>
-		<p class="image-center-60"> <img src="{{site.baseurl}}/images/background-services.png"> </p>
+		For more than 40 years, {{site.data.str.cs}} has been successfully providing turnkey systems and engineering services for the space and applications markets. With a workforce of 480 engineers combining advanced and unique skills in both information technology and space data engineering, {{site.data.str.cs}} is a major and trusted long-term partner of space and defence agencies, satellite prime contractors and operators, and users of space data.
 		<br>
-		
-		{{site.data.str.pda}} responds to the increasingly massive needs for data exploitation (satellites & others) by providing appropriate IT environments and digital tools and being able to offer a variety of Big Data frameworks (and/or on-demand applications) adapted to needs without having to manage the allocation of the necessary IT resources.<br> 
-		{{site.data.str.pda}} is also involved in the development of web and GIS services for environmental applications.<br>
-		Within the same department, {{site.data.str.pda}} brings together a multidisciplinary team of 120 engineers with different profiles - business, software, system - thus ensuring essential complementarity and enabling it to best meet the expectations of its customers, which are the CNES, the European Agency and the space industry.
+		<a href="https://www.csgroup.eu/en/strategic-sectors/space/"><b>Read more...</b></a>
 	  </div>
 	</div>
 </div>
-
-<!-- List of CS activities (_features collection) -->
 <br>
-<br>
-<div class="container">
-	<div class="highlight-dark">
-		<h2>Our main skills</h2>
-	</div>
-</div>
-<div class="container pt-5 pt-md-5">
-	<div class="row justify-content-center">
-
-		{% assign activities = site.features | where:"type","activity" %}
-		{% for feature in activities %}
-		<div class="col-12 col-md-6 col-lg-3 mb-2">
-			<div class="card feature">
-				{% if feature.image %}
-				{% if feature.page %}
-				<a href="{{site.baseurl}}{{feature.url}}" class="feature-image">
-				{% else %}
-				<a class="feature-image">
-				{% endif %}
-					<img alt="{{ feature.title }} logo" src="{{site.baseurl}}/images/{{feature.image}}" />
-				</a> 
-				{% endif %}
-				<h2 class="feature-title">{{ feature.title }}</h2>
-				<!-- add container for ie11 compatibility and remove feature-content  -->
-				<!-- <div class="feature-content"> --> 
-				<div class="container">
-				{{ feature.content | markdownify | strip_html | truncate: 200 }}
-				</div>
-				<!--<div class="card-footer">
-					<a href="{{site.baseurl}}{{feature.url}}" class="btn">Read more.</a>
-				</div>
-				-->
-			</div>
-		</div>
-		{% endfor %}
 		
-	</div>
-</div>
-
-
 <!-- List of CS references -->
 <div class="container">
 	<div class="highlight-dark">

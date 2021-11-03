@@ -6,6 +6,7 @@ image: Project DGA-GEODE 4D-EN pict 1.png
 size: standard
 name: GEODE 4D
 title: Architectural analysis and definition of the Geophysical Environment Information System GEODE 4D
+domains: Platform
 department: PDA
 program: GHOM
 summary: "GEODE 4D is a project to set up a geophysical cross forces information system."

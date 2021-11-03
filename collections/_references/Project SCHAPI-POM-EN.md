@@ -6,6 +6,7 @@ image: Project SCHAPI-POM-EN pict 1.png
 size: standard
 name: POM
 title: PLATEFORME OPERATIONNELLE POUR LA MODELISATION
+domains: EO Services
 department: PDA
 program: Risk Management
 summary: "The heterogeneity of the different forecasting calculation models makes their chaining complex. The objective of the POM is to facilitate the interoperability of the processing chains required to forecast water levels in real time."

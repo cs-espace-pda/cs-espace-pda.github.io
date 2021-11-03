@@ -6,6 +6,7 @@ image: Project AID-DOCIA-EN pict 1.png
 size: standard
 name: DOCIA
 title: Prototype of a platform for document retrieval and advanced indexing
+domains: EO Services
 department: PDA
 program: C2IA
 summary: "Enable the search in a large quantity of heterogeneous and unorganized documents. Intelligent use of data, linking, cross-referencing. Monitoring of local documents, websites, RSS feeds. Applications: Operational Mapping, Surveillance, Decision Support"

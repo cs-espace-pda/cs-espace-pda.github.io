@@ -1,9 +1,9 @@
 
 
-What {{site.data.str.pda}} can bring you?
+What {{site.data.str.space}} can bring you?
 -----------------------------------------
 
-{{site.data.str.pda}} is the ideal partner for your projects. We can assist you in the different phases:
+{{site.data.str.space}} is the ideal partner for your projects. We can assist you in the different phases:
 * Consulting services around the {{page.v_lib}} library:
 	* Technical expertise
 	* Upstream studies

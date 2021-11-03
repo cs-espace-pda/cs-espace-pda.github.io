@@ -6,6 +6,7 @@ image: Project CNES-CO3D-EN pict 1.png
 size: standard
 name: CO3D
 title: Constellation Optique 3D CO3D
+domains: Platform
 department: PDA
 program: CO3D
 summary: "Technical & financial evaluation of a Earth observation image processing chain in cloud environment"

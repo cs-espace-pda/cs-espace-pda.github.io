@@ -6,6 +6,7 @@ image: Project ADS-GEO-FILE TRANSFER-EN pict 1.png
 size: standard
 name: FILE TRANSFER
 title: Common service of File Transfer involved in the Geo Digital System (GDS) of Airbus DS Geo SA
+domains: Platform
 department: PDA
 program: Geo Digital System
 summary: "File Transfer Service ensures massive data exchange between GDS components and other services of the system. Transfer is launched either by polling storage areas, either by receiving messages or demands. Optional pre/post processing are realized on the transferred data"

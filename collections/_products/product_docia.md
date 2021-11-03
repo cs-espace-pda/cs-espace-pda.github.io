@@ -49,10 +49,10 @@ Software language is:
 * Python
 
 
-What {{site.data.str.pda}} can bring you?
+What {{site.data.str.space}} can bring you?
 -----------------------------------------
 
-{{site.data.str.pda}} is the ideal partner for your project:
+{{site.data.str.space}} is the ideal partner for your project:
 * Consulting services around {{page.v_lib}}:
 	* Technical expertise
 	* Upstream studies

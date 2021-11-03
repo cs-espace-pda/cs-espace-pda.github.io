@@ -6,6 +6,7 @@ image: Project CNES-REGARDS-EN pict 1.png
 size: standard
 name: REGARDS
 title: REnouvellement des outils Génériques d’Accès et d’aRchivage pour les Données Spatiales
+domains: Platform
 department: PDA
 program: Generic
 summary: "Data Preservation and valorization. Open source system"

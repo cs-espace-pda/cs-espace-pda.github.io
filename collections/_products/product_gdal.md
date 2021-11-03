@@ -45,10 +45,10 @@ Software languages are:
 Both, 32-bit and 64-bit architectures are supported.
 
 
-What {{site.data.str.pda}} can bring you?
+What {{site.data.str.space}} can bring you?
 -----------------------------------------
 
-{{site.data.str.pda}} is the ideal partner for your image projects:
+{{site.data.str.space}} is the ideal partner for your image projects:
 * Consulting services around the library:
 	* Technical expertise
 	* Upstream studies

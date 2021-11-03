@@ -6,6 +6,7 @@ image: Project SCHAPI-PLATHYNES-EN pict 1.png
 size: standard
 name: PLATHYNES
 title: Plateforme de Modélisation PLATHYNES
+domains: EO Services
 department: PDA
 program: Risk Management
 summary: "take over and industrialize the existing codes, to ensure the maintainability and evolutions of the platform, both for the researchers and for the operational forecasting services."

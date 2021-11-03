@@ -3,23 +3,28 @@ title: Products
 layout: layout-toc
 bodyClass: page-product
 ---
-
-
 <div class="container pt-5 pt-md-5">
   <div class="row justify-content-center">
 	<div class="col-12">
 		<h1 class="title-1">Our key references</h1>
-		The following cards present the key projects developped by {{site.data.str.pda}}.<br>
+		The following cards present the key projects developped by {{site.data.str.space}}.<br>
 	</div>
   </div>
 </div>
-
 
 <!-- 
 	List of references 
 -->
 <div class="container pt-5 pt-md-5">
 	<div class="row justify-content-start">
+		<div class="col-8"></div>
+		<div class="col-4">
+			<label for="domain-select">Domain :&nbsp;</label>
+			<select onchange="filterDomains(this)" name="domain" id="domain-select">
+				<option value="*">--All--</option>
+			</select>
+		</div>
+		<!--{% assign ref_grouped = site.references | where_exp : "item" , "item.domains == 'Platform'" | group_by: 'program' | sort: 'name' %}-->
 	{% assign ref_grouped = site.references | group_by: 'program' | sort: 'name' %}
 	{% for group in ref_grouped %}
 <!-- 
@@ -28,8 +33,9 @@ bodyClass: page-product
 -->
 		{% assign items = group.items | sort: 'customer' %}
 		
-		<div class="col-12">
+		<div class="col-12 program">
 		<br>
+		
 		<h2 class="text-dark mb-3">{{ group.name }}</h2>
 		{% if group.name == "Generic" %}
 			<p>Our projects are linked to several programs.</p>
@@ -46,3 +52,39 @@ bodyClass: page-product
 </div>
 
 {% include icons_meaning_reference.html %}
+
+<script>
+	// update domain list for select box
+	var domains = []
+
+	// Create empty array with Liquid (Jekyll)
+	{% assign domains = "" | split:"," %}
+	// For each reference, get array of domains (from string separated with comma) 
+	// and push it into global array domains
+	{% for ref in site.references %}
+		{% assign temp = ref.domains | split:"," %}
+		{% assign domains = domains | concat: temp %}
+  	{% endfor %}
+	// Remove duplicates from global array domains
+	{% assign domains = domains | uniq %}
+	// For each domain found, add it into a javascript array
+	{% for domain in domains %}
+	domains["{{ domain }}".trim()] = true
+	{% endfor %}
+    
+	// Sort domains along alpha order
+	domains = Object.keys(domains).sort()
+
+	// Add all domains found into select box
+	select = document.getElementById('domain-select')
+	domains.forEach( domain => {
+		var opt = document.createElement('option')
+	    opt.value = domain
+	    opt.innerHTML = domain
+	    select.appendChild(opt)
+	})
+
+	$( document ).ready(function() {
+		saveInitialState()
+    });
+</script>

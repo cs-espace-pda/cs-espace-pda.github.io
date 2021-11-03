@@ -6,6 +6,7 @@ image: Project EUMETSAT-WEKEO SUPPORT-EN pict 1.png
 size: standard
 name: WEkEO Support
 title: WEkEO DIAS User Support Service
+domains: EO Services
 department: PDA
 program: Copernicus
 summary: "Facilitate handling of Copernicus data and services. Provide WEkEO DIAS users with online thematic and technical support. Contribute to WEkEO’s outreach activities"

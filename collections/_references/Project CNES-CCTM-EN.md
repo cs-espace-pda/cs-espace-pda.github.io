@@ -6,6 +6,7 @@ image: Project CNES-CCTM-EN pict 1.png
 size: standard
 name: CCTM
 title: Telemetry Processing Centre
+domains: PDGS
 department: PDA
 program: ARIANE
 summary: "Telemetry processing for ARIANE5, VEGA and SOYOUZ launchers. Systematic use of the center for each launch for the benefit of the ARIANESPACE customer"

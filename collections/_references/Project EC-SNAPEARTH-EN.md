@@ -6,6 +6,7 @@ image: Project EC-SNAPEARTH-EN pict 1.png
 size: standard
 name: SnapEarth
 title: SnapEarth project
+domains: Platform
 department: PDA
 program: Copernicus
 summary: "Fostering EO market uptake thanks to natural and holistic access to added value data generated through cutting-edge Artificial Intelligence technologies."

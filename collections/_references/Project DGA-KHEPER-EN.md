@@ -6,6 +6,7 @@ image: Project DGA-KHEPER-EN pict 1.png
 size: standard
 name: KHEPER
 title: MCO KHEPER
+domains: Platform
 department: PDA
 program: GHOM
 summary: "To provide armed forces a shared and relevant cartographic reference for a common understanding of the operational conditions in the perspective of preparing/running military operations, via workshops for:"

@@ -6,6 +6,7 @@ image: Project SCHAPI-SUPERVISEUR NATIONAL-EN pict 1.jpg
 size: standard
 name: SUPERVISEUR NATIONAL
 title: SUPERVISEUR NATIONAL DE DONNEES HYDROMETRIQUES
+domains: EO Services
 department: PDA
 program: Risk Management
 summary: "la supervision des données hydrométriques et météorologiques, sous forme cartographique, graphique et de tableaux. la visualisation des prévisions issues de modèles et la création d'expertise. la gestion des alarmes hydrologiques, techniques et système"
@@ -73,10 +74,10 @@ The main technologies used in this project are:
 | Domain | Technology(ies) |
 |--------|----------------|
 |Operating System(s)|Linux|
-|Programming language(s)|Php 5.3, JAVA, C|
+|Programming language(s)|Php 5.3, JAVA, C, C++, JavaScript|
 |Interoperability (protocols, format, APIs)|XML|
 |Production software (IDE, DEVOPS etc.)|SVN|
-|Main COTS library(ies)|PostgreSQL, PostGIS, PostgreSQL , Mapserver, pMapper|
+|Main COTS library(ies)|PostgreSQL, PostGIS, Mapserver, pMapper, Openlayer|
 
 
 

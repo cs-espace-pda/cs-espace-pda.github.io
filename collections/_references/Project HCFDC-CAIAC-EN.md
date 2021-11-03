@@ -2,10 +2,11 @@
 customer: HCFDC
 customer_long: Haut Comité Français Défense Civile
 prime_contractor: 
-image: Project HCFDC-CAIAC-EN pict 1.png
+image: Project HCFDC-CAIAC-EN pict 1.jpg
 size: standard
 name: CAIAC
 title: Geographic platform for planning and decision support for risk management
+domains: EO Services
 department: PDA
 program: Risk Management
 summary: "Deploy a mapping platform to assist critical operators and territorial managers in their planning, decision support, risk and crisis management activities. Integrate simulation and information acquisition functions and services into the CAIAC platform"
@@ -20,17 +21,20 @@ summary: "Deploy a mapping platform to assist critical operators and territorial
 
 # Context
 
+Introduction à rédiger
+[lien vers video](https://www.linkedin.com/posts/space-cs_geostorm-caiac-maeztaezo-activity-6732754548156436480-7HLl)
+après..
 
-![Main Picture](Project HCFDC-CAIAC-EN pict 1.png)
+![Main Picture](Project HCFDC-CAIAC-EN pict 2.jpg)
 
 CS Group responsabilities are as follows:
-* Provision in SaaS mode of a turnkey solution. 
+* Provision and support in SaaS mode of a turnkey solution. 
 * Ergonomics studied for non-specialists. 
 * Support services included.
 
 
 The features are as follows:
-* 300 data layers
+* more than 400 data layers
 * Annotation, comparison, layer measurements
 * Full text search
 * Visualization of the raster, vector layers
@@ -60,7 +64,7 @@ The solution key points are as follows:
 * Scalability and potential for integration of new services
 * High reuse of a powerful and extensible base (GEOSTORM).
 
-![Archi Picture](Project HCFDC-CAIAC-EN pict 2.jpg)
+![Archi Picture](Project HCFDC-CAIAC-EN pict 3.jpg)
 
 The main technologies used in this project are:
 

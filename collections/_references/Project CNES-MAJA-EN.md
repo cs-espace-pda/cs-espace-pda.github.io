@@ -6,6 +6,7 @@ image: Project CNES-MAJA-EN pict 1.png
 size: standard
 name: MAJA
 title: MACCS ATCOR Joint Algorithm
+domains: Image
 department: PDA
 program: Generic
 summary: "Develop and maintain an up to date and operational processing chain to generate L2A EO products"

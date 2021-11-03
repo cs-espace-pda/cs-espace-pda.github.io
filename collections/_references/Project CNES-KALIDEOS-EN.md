@@ -6,6 +6,7 @@ image:
 size: standard
 name: KALIDEOS
 title: KALIDEOS – VIS processing chains
+domains: Image
 department: PDA
 program: Generic
 summary: "Aims to provide scientists with satellite images acquired over predefined geographical areas."

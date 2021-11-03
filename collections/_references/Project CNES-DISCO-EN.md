@@ -6,6 +6,7 @@ image: Project CNES-DISCO-EN pict 1.png
 size: standard
 name: DISCO
 title: Data Integrated Solutions for model COnstruction
+domains: Platform
 department: PDA
 program: Generic
 summary: "Easy manipulation of data descriptions, which size is nowadays always bigger. Using a single model, while exporting and importing from different description formats. Being able to use the modeler, whatever the business domain described by the formats"

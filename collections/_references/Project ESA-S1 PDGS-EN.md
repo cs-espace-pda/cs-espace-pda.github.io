@@ -6,6 +6,7 @@ image:
 size: standard
 name: S1 PDGS
 title: Migration of Sentinel 1 to cloud commercial service
+domains: Platform
 department: PDA
 program: Copernicus
 summary: "Migrating S1 Data & Payloads Digital Ground Segment Processing to cloud platforms"

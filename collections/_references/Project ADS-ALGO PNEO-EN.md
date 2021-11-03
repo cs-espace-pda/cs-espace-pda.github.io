@@ -6,6 +6,7 @@ image:
 size: standard
 name: Algo Pneo
 title: ADS Pneo image algorithm development
+domains: Image
 department: PDA
 program: Pneo
 summary: "Evolution of geolocation algorithm,. Image algorithms development for Pneo. * Pansharpening (Use of Pan resolution to improove MS resolution.). * RPC (Loc model export through list of coeficients)"

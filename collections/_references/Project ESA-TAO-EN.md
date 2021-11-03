@@ -6,6 +6,7 @@ image: Project ESA-TAO-EN pict 1.png
 size: standard
 name: TAO
 title: Tool Augmentation by user enhancements and Orchestration
+domains: Platform
 department: PDA
 program: Generic
 summary: "TAO platform (stands for Tool Augmentation by user enhancements and Orchestration) is a lightweight, generic integration and distributed orchestration framework."

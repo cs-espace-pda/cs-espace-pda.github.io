@@ -17,7 +17,7 @@ Overview
 The REGARDS project (REnouvellement des outils Génériques d’Accès et d’aRchivage pour les Données Spatiales) is at the convergence between two Data Preservation and valorization tools, SIPAD-NG and SITools2. It is a full ground segment product and it can be used by any data center in charge of the implementation of data archiving and/or in charge of a mission or a data center access (research lab or IT services company).
 
 {:.alert .alert-info  }
-{{site.data.str.pda}} is responsible for the design, development, integration, maintenance and ppen source promotion.
+{{site.data.str.space}} is responsible for the design, development, integration, maintenance and ppen source promotion.
 
 <img src="product_regards_screen.png" width="500">
 

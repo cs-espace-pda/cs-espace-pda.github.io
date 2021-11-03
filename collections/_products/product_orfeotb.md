@@ -22,7 +22,7 @@ Overview
 It consists of two parts: the {{page.v_lib}} library of algorithmic bricks and {{page.v_lib}} applications demonstrating the use of the library.
 
 {:.alert .alert-info  }
-{{site.data.str.pda}} is responsible for the development based on an __eXtreme Programming__ development process. This method, called agile, is a test based method and is clocked by iterative cycles.
+{{site.data.str.space}} is responsible for the development based on an __eXtreme Programming__ development process. This method, called agile, is a test based method and is clocked by iterative cycles.
 
 <img src="product_orfeotb_screen.png" width="600">
 

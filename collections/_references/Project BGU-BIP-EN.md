@@ -6,6 +6,7 @@ image: Project BGU-BIP-EN pict 1.jpeg
 size: standard
 name: BIP
 title: BGU-VENµS Images Production
+domains: Image
 department: PDA
 program: Venμs
 summary: "Produce BGU's L2 and L3 images from the L1 data provided by CNES"

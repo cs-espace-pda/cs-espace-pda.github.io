@@ -21,10 +21,10 @@ Example of use: the Level-3 Processor enabling to remove clouds from L1C or L2A 
 
 
 The Sentinel-2 Toolbox ({{page.v_lib}}) consists of a rich set of visualisation, analysis and processing tools for the exploitation of MSI data from the upcoming Sentinel-2 mission.
-{{site.data.str.pda}} develops new features for this open-source project.
+{{site.data.str.space}} develops new features for this open-source project.
 
 {:.alert .alert-info  }
-{{site.data.str.pda}}, as consortium leader, manages the project at managerial and technical level and coordinates the activities of its partners. {{site.data.str.pda}} also provides its image and OTB expertise and participates in developments.
+{{site.data.str.space}}, as consortium leader, manages the project at managerial and technical level and coordinates the activities of its partners. {{site.data.str.space}} also provides its image and OTB expertise and participates in developments.
 
 Features
 --------

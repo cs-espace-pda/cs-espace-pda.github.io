@@ -120,10 +120,10 @@ As a result of its architecture, {{page.title}} is almost as fast as its linked 
 <img class="image-center" src="product_eodag_datacubes.png" width="80%">	
 
 
-What {{site.data.str.pda}} can bring you?
+What {{site.data.str.space}} can bring you?
 -----------------------------------------
 
-As main {{page.title}} developper, {{site.data.str.pda}} is the ideal partner. We provide you with:
+As main {{page.title}} developper, {{site.data.str.space}} is the ideal partner. We provide you with:
 * {{page.title}} specific deployment end to end for your need
 * Consulting services around the software:
 	* Technical expertise

@@ -6,6 +6,7 @@ image: Project MÉTROPOLE DE NÎMES-SUPERVISION NÎMES-EN pict 1.png
 size: standard
 name: SUPERVISION Nîmes
 title: SERVICE WEB TEMPS REEL DE CONSULATION DES DONNEES DE HAUTEUR D’EAU DES BARRAGES ECRÊTEURS DE CRUE DE NÎMES
+domains: EO Services
 department: PDA
 program: Risk Management
 summary: "Supervision is in place in most businesses and communities, regardless of their size. It verifies the proper functioning of the systems or activities of a computer system. The IoTSTORM platform is designed to manage the huge quantities of data produced by the IIOT."

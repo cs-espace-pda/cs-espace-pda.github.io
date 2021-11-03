@@ -6,6 +6,7 @@ image: Project CNES-TPAM VIP-VENUS-EN pict 1.png
 size: standard
 name: TPAM VIP-VENUS
 title: Maintenance of the Venµs Image Quality (VIP) center
+domains: Image
 department: PDA
 program: Venμs
 summary: "Delivering an operational VIP/VPDS image processing center that takes into account the constraints of the VENµS mission during the operational phase."

@@ -6,6 +6,7 @@ image: Project ADS-GEO-NOTIFICATION COMMON SERVICE-EN pict 1.png
 size: standard
 name: NOTIFICATION COMMON SERVICE
 title: Common service involved in the Geo Digital System (GDS) of Airbus DS Geo SA
+domains: Platform
 department: PDA
 program: Geo Digital System
 summary: "Notification Service processes and delivers in different media all notification requests of GDS sub-systems and others services of system for external or internal users"

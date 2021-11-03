@@ -19,7 +19,7 @@ Overview
 In order to facilitate methodological contributions, {{page.v_lib}} is open-source. As such, the channel makes extensive use of the image processing applications provided by [Orfeo ToolBox]({{site.baseurl}}product-orfeotb.html).
 
 {:.alert .alert-info  }
-{{site.data.str.pda}} for the maintenance and evolution of {{page.v_lib}} to meet the needs of land use map production, as well as user support.
+{{site.data.str.space}} for the maintenance and evolution of {{page.v_lib}} to meet the needs of land use map production, as well as user support.
 
 
 Features

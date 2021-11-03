@@ -6,6 +6,7 @@ image: Project CNES-EOCTIT - SUPPORT-EN pict 1.png
 size: standard
 name: EOCTIT - Support
 title: Support for the management of the CNES Common Tools
+domains: Image
 department: PDA
 program: Generic
 summary: "Global maintenance assistance for low level image processing applications, known as CNES Common Tools"

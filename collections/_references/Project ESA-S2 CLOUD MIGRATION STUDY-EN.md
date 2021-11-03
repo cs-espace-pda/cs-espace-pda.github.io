@@ -6,6 +6,7 @@ image: Project ESA-S2 CLOUD MIGRATION STUDY-EN pict 1.png
 size: standard
 name: S2 Cloud migration study
 title: Study of the execution of Sentinel 2 processing system on a cloud infrastructure
+domains: PDGS
 department: PDA
 program: Copernicus
 summary: "Verify assumptions for the migration of the PDGS core processing to the cloud. Develop a demonstrator"

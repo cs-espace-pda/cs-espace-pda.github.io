@@ -19,7 +19,7 @@ Our Service Catalog
 ====================
 
 {:.alert .alert-info  }
-{{site.data.str.pda}} is the ideal partner for your projects. We can assist you in its different phases.
+{{site.data.str.space}} is the ideal partner for your projects. We can assist you in its different phases.
 * Consulting services
 * Software Development
 * Training
@@ -45,10 +45,10 @@ Development
 Open Source Development
 ------------------------
 
-As a long-standing Free and Open Source Software (FOSS) publisher, author and contributor, {{site.data.str.pda}} has an extensive knowledge of FOSS movement, in both its technical, legal, economics and community dimensions. CS SI demonstrated its ability to successfully lead an open source community through FOSS projects like Orekit. Thanks to its high technical quality, its open development and governance, and its welcoming and living community, greeted by main actors like ESA, Airbus Defence & Space and Eumetsat, Orekit is becoming a de facto standard in space flight dynamics applications. 
+As a long-standing Free and Open Source Software (FOSS) publisher, author and contributor, {{site.data.str.space}} has an extensive knowledge of FOSS movement, in both its technical, legal, economics and community dimensions. CS SI demonstrated its ability to successfully lead an open source community through FOSS projects like Orekit. Thanks to its high technical quality, its open development and governance, and its welcoming and living community, greeted by main actors like ESA, Airbus Defence & Space and Eumetsat, Orekit is becoming a de facto standard in space flight dynamics applications. 
 
 {:.alert .alert-info  }
-{{site.data.str.pda}} has a strong experience and successful businesses with open Source Solutions thanks to it experience promoting solutions such as SafeScale, Rugged, RUS, Orekit, etc.
+{{site.data.str.space}} has a strong experience and successful businesses with open Source Solutions thanks to it experience promoting solutions such as SafeScale, Rugged, RUS, Orekit, etc.
 
 Algorithmic development & applications
 ------------------------

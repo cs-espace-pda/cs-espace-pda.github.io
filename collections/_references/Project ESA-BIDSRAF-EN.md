@@ -6,6 +6,7 @@ image: Project ESA-BIDSRAF-EN pict 1.png
 size: standard
 name: BIDSRAF
 title: Big Data from Space – Reference Architecture Framework
+domains: Platform
 department: PDA
 program: GSTP
 summary: "Creating a reliable and scalable multi-cloud computing infrastructure and data management platform relevant for Earth data processing"
