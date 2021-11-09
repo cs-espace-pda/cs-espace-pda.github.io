@@ -9,7 +9,7 @@ title: ESA CSC Production Service Sentinel 2
 domains: Platform, EO Services
 department: ESPACE
 program: Copernicus
-summary: "Develop and integrate the Systematic Production Service for Sentinel 2 satellite integrated in a high availability platform running 24/7. Optimise worfkow to meet SLA of 75 min for L1C and 120 minutes for L2A products. Ensure level 2 support"
+summary: "Develop and integrate the Systematic Production Service for Sentinel 2 satellite integrated in a high availability platform running 24/7. Optimise the processing worfkow to meet SLA of 75 min for L1C and 120 minutes for L2A products with input data up to 60 GB."
 ---
 
 > __Customer__\: European Space Agency (ESA)
@@ -38,9 +38,8 @@ This redesign includes the following projects:
 * [__CSC Production Services__](project-esa-production-sentinel-2-en.html): encompasses all activities necessary to convert any Sentinel data acquired on XBand and EDRS into user level data available on PRIP interface, meeting the quality specification and delivering it for user access and archiving.
 
 CS Group responsabilities for ESA CSC Production Service Sentinel 2 are as follows:
-* Development of the cloud native Sentinel 2 processing chain 
-* Maintenance
-* Operations
+* Turnkey supply of an orchestration system for optimized image processing system: parallelization of 40 processors with a non-linear workflow, dynamic use of machines in the cloud
+* Ensure level 2 support and maintenance.
 
 ![Main Picture](Project ESA-PRODUCTION SENTINEL 2-EN pict 2.png)
 
@@ -56,8 +55,7 @@ The features are as follows:
 
 The project objectives are as follows:
 * Develop and integrate the Systematic Production Service for Sentinel 2 satellite integrated in a high availability platform running 24/7
-* Optimise worfkow to meet SLA of 75 min for L1C and 120 minutes for L2A products
-* Ensure level 2 support
+* Optimise the processing worfkow to meet SLA of 75 min for L1C and 120 minutes for L2A products with input data up to 60 GB.
 
 The processes for carrying out the project are:
 * Agile, Continuous integration
@@ -65,7 +63,7 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* A micro-service architecture has proven its benefits in the past years, especially on operational systems delivering services with public access through Internet, including Commercial Public Cloud. It is a robust architecture relying on independent, self-deployable software components bricks.
+* The microservices architecture is high availability based on a managed Kubernetes cluster. The workflow is managed by Spring Cloud Data Flow, an extremely resilient message queue-based choreography system. The shared volume is implemented using a resilient, high-performance virtual file system. The project is 100% open source.
 
 ![Archi Picture](Project ESA-PRODUCTION SENTINEL 2-EN pict 3.png)
 
