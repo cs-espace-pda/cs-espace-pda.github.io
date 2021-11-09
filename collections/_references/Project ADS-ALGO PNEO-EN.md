@@ -22,12 +22,11 @@ summary: "Evolution of geolocation algorithm,. Image algorithms development for 
 # Context
 
 
-
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for ADS Pneo image algorithm development are as follows:
 * Technical specifications,
 * Algorithm developments,
 * Integration.
+
 
 
 The features are as follows:

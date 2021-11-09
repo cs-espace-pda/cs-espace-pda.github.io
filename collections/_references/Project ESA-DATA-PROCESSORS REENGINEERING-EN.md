@@ -30,15 +30,14 @@ The objectives are therefore:
 * Set up a website for the publication of framework and processors documentation, available scientific articles but also useful information for the user community: new versions, major bugs, events… and access to the user forum.
 * Free up, as much as possible, the data processors source code for adoption by new user communities and stimulate external contributions.
 
-![Main Picture](Project ESA-DATA-PROCESSORS REENGINEERING-EN pict 2.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for ESA CSC Data Processors Re-engineering (DPR) are as follows:
 * Prime contractor
 * Engineering
 * EOPF Development
 * Best Practices implementations
 * Maintenance of legacy L0 and L1 S2 processors
 
+![Main Picture](Project ESA-DATA-PROCESSORS REENGINEERING-EN pict 2.png)
 
 The features are as follows:
 * The Reference System Service provides 3 operational functions:

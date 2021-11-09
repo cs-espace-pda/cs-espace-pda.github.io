@@ -22,11 +22,10 @@ summary: "Delivering an operational VIP/VPDS image processing center that takes 
 # Context
 
 
-![Main Picture](Project CNES-TPAM VIP-VENUS-EN pict 1.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for Maintenance of the Venµs Image Quality (VIP) center are as follows:
 * Maintenance of the data center (VIP), the distribution server (VPDS), the qalification and operation support tools within the VEnµS ground segment
 
+![Main Picture](Project CNES-TPAM VIP-VENUS-EN pict 1.png)
 
 The features are as follows:
 * Upgrade of COTS, image libraries and missions used by the center,

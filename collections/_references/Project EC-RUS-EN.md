@@ -31,12 +31,11 @@ Topics cover all kinds of thematic applications and Sentinel sensors.
 
 Follow RUS on [Twitter](https://twitter.com/RUS_Copernicus), [Facebook](https://www.facebook.com/RUSCopernicusService/), [LinkedIn](https://www.linkedin.com/groups/8623170/) or our [Website](https://rus-training.eu/) to hear about upcoming training activities and new material releases.
 
-![Main Picture](Project EC-RUS-EN pict 2.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for Copernicus Research and User Support are as follows:
 * Works in partnership with __SERCO__, __NOVELTIS__, __Along-Track__ and __CS Romania__.
 * CS EO Experts are dedicated to Sentinel-2 support
 
+![Main Picture](Project EC-RUS-EN pict 2.png)
 
 The features are as follows:
 * __Free__ service to end user

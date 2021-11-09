@@ -22,11 +22,10 @@ summary: "This tool allows to deploy the Rabbit MQ broker in different Kubernete
 # Context
 
 
-![Main Picture](Project ADS-GEO-MESSAGE QUEUING-EN pict 1.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for Common service involved in the Geo Digital System (GDS) of Airbus DS Geo SA are as follows:
 * Maintenance, Reversibility
 
+![Main Picture](Project ADS-GEO-MESSAGE QUEUING-EN pict 1.png)
 
 The features are as follows:
 * Generate the Docker image of broker Rabbit MQ

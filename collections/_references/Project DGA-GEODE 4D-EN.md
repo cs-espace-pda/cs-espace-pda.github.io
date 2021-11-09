@@ -22,14 +22,13 @@ summary: "GEODE 4D is a project to set up a geophysical cross forces information
 # Context
 
 
-![Main Picture](Project DGA-GEODE 4D-EN pict 1.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for Architectural analysis and definition of the Geophysical Environment Information System GEODE 4D are as follows:
 * Architectural analysis and system definition
 * Functional specification, 
 * Committing financial proposition, 
 * Realisation of mock ups and prototypes.
 
+![Main Picture](Project DGA-GEODE 4D-EN pict 1.png)
 
 The features are as follows:
 * Facilitates access to relevant data

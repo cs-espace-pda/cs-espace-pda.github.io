@@ -23,12 +23,11 @@ summary: "Enable the search in a large quantity of heterogeneous and unorganized
 
 DOCIA: Operational tool for information processing and retrieval. The idea is not to change the way in which data is archived, but to rely effectively on the organizational and technical means deployed or in the process of being deployed.
 
-![Main Picture](Project AID-DOCIA-EN pict 1.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for Prototype of a platform for document retrieval and advanced indexing are as follows:
 * Need analysis
 * Design & development
 
+![Main Picture](Project AID-DOCIA-EN pict 1.png)
 
 The features are as follows:
 * Full text, metadata and temporal search with highlights

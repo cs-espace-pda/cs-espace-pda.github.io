@@ -22,13 +22,12 @@ summary: "Verify assumptions for the migration of the PDGS core processing to th
 # Context
 
 
-![Main Picture](Project ESA-S2 CLOUD MIGRATION STUDY-EN pict 1.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for Study of the execution of Sentinel 2 processing system on a cloud infrastructure are as follows:
 * Design
 * Benchmark
 * Prototype Development
 
+![Main Picture](Project ESA-S2 CLOUD MIGRATION STUDY-EN pict 1.png)
 
 The features are as follows:
 * Initial studies and development

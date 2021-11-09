@@ -31,12 +31,11 @@ With this technology, the modeler can manipulate generic data descriptions, with
 Thus, the modeler’s core is not specialized for any specific business domain. This allows a generic modeler, which can be used whatever the user’s domain is. This modeler can be derived for various specific business domains, in higher layers. The core is also separated in various components, each with a specific role, accordingly with the separation of concerns approach. This approach gives more extensibility to the modeler. As an example, the modeler’s core does not care about how the model is persisted, relying only on EMF ; thus various persistence solutions can be chosen in the very same tool (local file persistence or externalized to a dedicated server for bigger models).
 The high level specific layers will address only the spatial business domain at the beginning in order to address directly the needs formalized by CNES.
 
-![Main Picture](Project CNES-DISCO-EN pict 2.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for Data Integrated Solutions for model COnstruction are as follows:
 * * Design, Development
 	* EPL license
 
+![Main Picture](Project CNES-DISCO-EN pict 2.png)
 
 The features are as follows:
 * Generic model adaptable to any business domain ontology and providing transcriptions to different formats

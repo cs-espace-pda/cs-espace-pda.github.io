@@ -22,14 +22,13 @@ summary: "Facilitate handling of Copernicus data and services. Provide WEkEO DIA
 # Context
 
 
-![Main Picture](Project EUMETSAT-WEKEO SUPPORT-EN pict 2.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for WEkEO DIAS User Support Service are as follows:
 * Service development and implementation with our consortium partner SpaceTec Partners. 
 * Service management
 * Level-1 and -2 Sentinel-1/-2 user support
 * Participation in communication and training activities
 
+![Main Picture](Project EUMETSAT-WEKEO SUPPORT-EN pict 2.png)
 
 The features are as follows:
 * Ticketing management system at core of a User Support Tool

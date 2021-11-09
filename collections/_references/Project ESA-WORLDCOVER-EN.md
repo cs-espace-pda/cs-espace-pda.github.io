@@ -22,14 +22,13 @@ summary: "The project aims at developing an automated user-driven workflow capab
 # Context
 
 
-![Main Picture](Project ESA-WORLDCOVER-EN pict 1.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for World Cover are as follows:
 * Design
 * Development
 * Integration 
 * Open source promoter
 
+![Main Picture](Project ESA-WORLDCOVER-EN pict 1.png)
 
 The features are as follows:
 * Produce, deliver and validate a global 10 meters land cover map of the world.

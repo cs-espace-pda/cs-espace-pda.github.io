@@ -29,11 +29,10 @@ Validation and installation activities,
 Operators, workshop leaders and managers training,
 Integrated Logistic Support (ILS).
 
-![Main Picture](Project DGA-KHEPER-EN pict 1.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for MCO KHEPER are as follows:
 * Project manager in partnership with Magellium and Geo212
 
+![Main Picture](Project DGA-KHEPER-EN pict 1.png)
 
 The features are as follows:
 * The system in made of several workshops :

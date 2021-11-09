@@ -36,14 +36,13 @@ MAJA is now used on multiple programs, including Venus, Sentinel2, Landsat, Form
 
 CS promotes the MAJA chain as a product (cf. [MAJA](https://pda.csgroup.space/product-maja.html))
 
-![Main Picture](Project CNES-MAJA-EN pict 2.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for MACCS ATCOR Joint Algorithm are as follows:
 * Algorithms development and validation into MAJA or OTB based on CESBIO ATBB.
 * Develop new functionnalities or interfaces (new sensors or product format).
 * Improve processing performance.
 * Maintain and support integration of MAJA in CNES operational context
 
+![Main Picture](Project CNES-MAJA-EN pict 2.png)
 
 The features are as follows:
 * Detect clouds and clouds shadows

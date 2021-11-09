@@ -22,12 +22,11 @@ summary: "Technical & financial evaluation of a Earth observation image processi
 # Context
 
 
-![Main Picture](Project CNES-CO3D-EN pict 1.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for Constellation Optique 3D CO3D are as follows:
 * Design, Development, Integration and Maintenance,
 * Open source Promoter.
 
+![Main Picture](Project CNES-CO3D-EN pict 1.png)
 
 The features are as follows:
 * Deployment of a processing chain (S2P: Satellite Stereo Pipeline) in a multi-cloud environment

@@ -25,13 +25,12 @@ Introduction à rédiger
 [lien vers video](https://www.linkedin.com/posts/space-cs_geostorm-caiac-maeztaezo-activity-6732754548156436480-7HLl)
 après..
 
-![Main Picture](Project HCFDC-CAIAC-EN pict 2.jpg)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for Geographic platform for planning and decision support for risk management are as follows:
 * Provision and support in SaaS mode of a turnkey solution. 
 * Ergonomics studied for non-specialists. 
 * Support services included.
 
+![Main Picture](Project HCFDC-CAIAC-EN pict 2.jpg)
 
 The features are as follows:
 * more than 400 data layers

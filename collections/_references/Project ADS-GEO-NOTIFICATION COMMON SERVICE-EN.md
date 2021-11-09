@@ -26,11 +26,10 @@ Objectives for Notification Service are :
 * To process and if necessary to format the notification requests from patterns (instantiation of message model, elements by using key/value and names of recipients)
 * To transfer the processed and instantiated notification requests to corresponding GDS technical services to deliver the notifications.
 
-![Main Picture](Project ADS-GEO-NOTIFICATION COMMON SERVICE-EN pict 1.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for Common service involved in the Geo Digital System (GDS) of Airbus DS Geo SA are as follows:
 * Design, Development, Support service for deployment and use
 
+![Main Picture](Project ADS-GEO-NOTIFICATION COMMON SERVICE-EN pict 1.png)
 
 The features are as follows:
 * Management of media for notifications delivery (Mail, SMS, WebHook)

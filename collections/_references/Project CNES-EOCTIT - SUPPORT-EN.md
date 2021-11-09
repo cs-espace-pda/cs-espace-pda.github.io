@@ -22,11 +22,10 @@ summary: "Global maintenance assistance for low level image processing applicati
 # Context
 
 
-![Main Picture](Project CNES-EOCTIT - SUPPORT-EN pict 1.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for Support for the management of the CNES Common Tools are as follows:
 * Management of common remote sensing image processing tools (libraries, tools, processing chains).
 
+![Main Picture](Project CNES-EOCTIT - SUPPORT-EN pict 1.png)
 
 The features are as follows:
 * Provide users with common tools to carry out their work and their studies,

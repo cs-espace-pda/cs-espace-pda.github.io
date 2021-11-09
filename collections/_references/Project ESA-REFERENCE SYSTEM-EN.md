@@ -22,11 +22,10 @@ summary: "The RS is a key component of the CSC Ground Segment: it provides to th
 # Context
 
 
-![Main Picture](Project ESA-REFERENCE SYSTEM-EN pict 2.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for ESA CSC Reference System (RS) are as follows:
 * Development of infrastructure and Sentinel 2 processing chain, IVV for all satellites
 
+![Main Picture](Project ESA-REFERENCE SYSTEM-EN pict 2.png)
 
 The features are as follows:
 * The Reference System Service provides 3 operational functions:

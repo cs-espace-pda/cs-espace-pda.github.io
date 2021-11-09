@@ -22,12 +22,11 @@ summary: "Data Preservation and valorization. Open source system"
 # Context
 
 
-![Main Picture](Project CNES-REGARDS-EN pict 1.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for REnouvellement des outils Génériques d’Accès et d’aRchivage pour les Données Spatiales are as follows:
 * Design, Development, Integration, Maintenance
 * Open source promoter
 
+![Main Picture](Project CNES-REGARDS-EN pict 1.png)
 
 The features are as follows:
 * Efficient integration of data and __metadata__

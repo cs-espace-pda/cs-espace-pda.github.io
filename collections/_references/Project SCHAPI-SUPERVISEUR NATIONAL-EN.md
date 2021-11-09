@@ -24,15 +24,14 @@ summary: "la supervision des données hydrométriques et météorologiques, sous
 Le Superviseur National est utilisé quotidiennement, dans des situations potentiellement stressantes avec des intérêts économiques et humains majeurs.
 Cette criticité impose des contraintes fortes de fiabilité, de performances, d'ergonomie et facilité d’utilisation
 
-![Main Picture](Project SCHAPI-SUPERVISEUR NATIONAL-EN pict 1.jpg)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for SUPERVISEUR NATIONAL DE DONNEES HYDROMETRIQUES are as follows:
 * System specification and design
 * Development
 * Deployment of the system in SCHAPI and SPCs
 * Training
 * Maintenance
 
+![Main Picture](Project SCHAPI-SUPERVISEUR NATIONAL-EN pict 1.jpg)
 
 The features are as follows:
 * Customized maps display for hydrologolical situation follow up 

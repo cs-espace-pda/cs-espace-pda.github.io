@@ -28,14 +28,13 @@ The mission objectives are :
 French scientists (CESBIO) and Israeli scientists (Ben Gourion University – BGU) lead the scientific mission and represent the concerned international community.
 For the technological mission, ISA is associated with Israeli industrial partners.
 
-![Main Picture](Project CNES-VIQ-EN pict 1.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for Venμs Image Quality are as follows:
 * Definition of mission model data and interfaces with the processing centre 
 * Specification & Design & Development
 * Integration in the CNES hosting structure
 * Maintenance
 
+![Main Picture](Project CNES-VIQ-EN pict 1.png)
 
 The features are as follows:
 * Command & Control system (GCS) based in Israel

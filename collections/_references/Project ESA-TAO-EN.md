@@ -22,13 +22,12 @@ summary: "TAO platform (stands for Tool Augmentation by user enhancements and Or
 # Context
 
 
-![Main Picture](Project ESA-TAO-EN pict 1.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for Tool Augmentation by user enhancements and Orchestration are as follows:
 * Project owner and the master developer (master branch)
 * Specification & Design
 * Maintenance
 
+![Main Picture](Project ESA-TAO-EN pict 1.png)
 
 The features are as follows:
 * Visual integration of EO processing toolboxes

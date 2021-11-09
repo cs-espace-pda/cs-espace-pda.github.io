@@ -31,13 +31,12 @@ Three levels of products VENµS can thus be made available to the scientific com
 * Level 3 products (L3): multi-temporal synthesis of cloudless pixels from cloud-free products.
 The Ben Gurion University of the Negev, within the framework of this cooperation, wishes to produce its own L2 and L3 images from the L1 data provided by CNES.
 
-![Main Picture](Project BGU-BIP-EN pict 1.jpeg)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for BGU-VENµS Images Production are as follows:
 * specification, development, on-site integration, 
 * user manual authoring, support (training) 
 * maintenance of the BIP workflow and BIP data catalog
 
+![Main Picture](Project BGU-BIP-EN pict 1.jpeg)
 
 The features are as follows:
 * __The BIP workflow__: creation of an image processing chain management tool based on Geostorm workflow technology and control of the MACCS software, enabling the production of levels L2 and L3.

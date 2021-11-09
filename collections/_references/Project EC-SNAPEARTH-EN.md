@@ -22,11 +22,10 @@ summary: "Fostering EO market uptake thanks to natural and holistic access to ad
 # Context
 
 
-![Main Picture](Project EC-SNAPEARTH-EN pict 1.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for SnapEarth project are as follows:
 * Design, Development, Integration
 
+![Main Picture](Project EC-SNAPEARTH-EN pict 1.png)
 
 The features are as follows:
 * Index Sentinel images for easy access via a Qwant "EarthSearch" engine. 

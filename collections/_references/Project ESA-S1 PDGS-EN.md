@@ -22,11 +22,10 @@ summary: "Migrating S1 Data & Payloads Digital Ground Segment Processing to clou
 # Context
 
 
-
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for Migration of Sentinel 1 to cloud commercial service are as follows:
 * Design, Development, Integration, Maintenance,
 * Open source promoter.
+
 
 
 The features are as follows:

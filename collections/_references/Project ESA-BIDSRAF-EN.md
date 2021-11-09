@@ -22,12 +22,11 @@ summary: "Creating a reliable and scalable multi-cloud computing infrastructure 
 # Context
 
 
-![Main Picture](Project ESA-BIDSRAF-EN pict 1.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for Big Data from Space – Reference Architecture Framework are as follows:
 * Design, Development, Integration and Maintenance,
 * Open source Promoter.
 
+![Main Picture](Project ESA-BIDSRAF-EN pict 1.png)
 
 The features are as follows:
 * Providing CaaS provider-agnostic to automatically create and manage ICT easily deploy micro-services.

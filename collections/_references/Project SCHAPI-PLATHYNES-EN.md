@@ -24,15 +24,14 @@ summary: "take over and industrialize the existing codes, to ensure the maintain
 The SCHAPI establishes and disseminates, in coordination with the flood forecasting services (SPC), a continuous information of vigilance for floods. It is acting in support to the 19 SPCs and carries out a mission of organization, animation, assistance, advice and training with the services and establishments in charge of flood forecasting, and more generally, hydrology and hydrometry.
 It coordinates the technical and scientific aspects of flood forecasting by piloting and promoting a national initiative to provide the flood forecasting network with models and, more generally, with tools or methods providing real-time hydrological forecasts.
 
-![Main Picture](Project SCHAPI-PLATHYNES-EN pict 2.PNG)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for Plateforme de Modélisation PLATHYNES are as follows:
 * System specification and design
 * Development
 * Deployment of the system in SCHAPI and SPCs
 * Training
 * Maintenance
 
+![Main Picture](Project SCHAPI-PLATHYNES-EN pict 2.PNG)
 
 The features are as follows:
 * The data recovery of the sessions of the ATHYS platform

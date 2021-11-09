@@ -23,14 +23,13 @@ summary: "Applicative maintenance. Ease the use of the platform for new users. I
 
 bon
 
-![Main Picture](Project ECOFOR-COMPUTREE-EN pict 2.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for plateforme de traitement de données 3D Lidar are as follows:
 * Plateform take over. 
 * existing code assessment.maintenance operation managment(ticketing under Redmine environment). 
 * procedures documentation development.
 * Quality metrics Implémentation
 
+![Main Picture](Project ECOFOR-COMPUTREE-EN pict 2.png)
 
 The features are as follows:
 * scans files import

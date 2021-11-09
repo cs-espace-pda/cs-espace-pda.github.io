@@ -22,12 +22,11 @@ summary: "Telemetry processing for ARIANE5, VEGA and SOYOUZ launchers. Systemati
 # Context
 
 
-![Main Picture](Project CNES-CCTM-EN pict 1.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for Telemetry Processing Centre are as follows:
 * Design, Development, Integration, hardware migration, Maintenance, Operation support
 * Launchers telemetry deep expertise
 
+![Main Picture](Project CNES-CCTM-EN pict 1.png)
 
 The features are as follows:
 * LETNA (ARIANESPACE's Digital Telemetry Operating Software), in CNES Toulouse:  Telemetry processing including autonomous TMs.

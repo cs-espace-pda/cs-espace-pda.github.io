@@ -23,13 +23,12 @@ summary: "Supervision is in place in most businesses and communities, regardless
 
 Pour assurer les missions de suivi, en particulier en période de crues, Nîmes Métropole devait disposer des données de suivi en temps réel du niveau de remplissage de ces barrages écrêteurs de crue
 
-![Main Picture](Project MÉTROPOLE DE NÎMES-SUPERVISION NÎMES-EN pict 2.jpg)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for SERVICE WEB TEMPS REEL DE CONSULATION DES DONNEES DE HAUTEUR D’EAU DES BARRAGES ECRÊTEURS DE CRUE DE NÎMES are as follows:
 * Requirement definition
 * System Specification, development, testing, deployment
 * Operational maintenance
 
+![Main Picture](Project MÉTROPOLE DE NÎMES-SUPERVISION NÎMES-EN pict 2.jpg)
 
 The features are as follows:
 * Configurable Dashboard and integrated to the portal

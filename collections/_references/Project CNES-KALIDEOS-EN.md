@@ -22,12 +22,11 @@ summary: "Aims to provide scientists with satellite images acquired over predefi
 # Context
 
 
-
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for KALIDEOS – VIS processing chains are as follows:
 * Geometric and radiometric pre-processing of images on the four bases (Adam, Isle_Reunion, Littoral and OSR MiPy).
 * Production of the pre-processing tools for SPOT and FORMOSAT data.
 * User support.
+
 
 
 The features are as follows:

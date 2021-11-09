@@ -24,15 +24,14 @@ summary: "The heterogeneity of the different forecasting calculation models make
 Since 2003, the SCHAPI has been coordinating the tools related to real-time flood forecasting at the national level. It also plays a role of expertise and support for the 22 French SPC (Flood Forecasting Services) on the use of these tools and the exploitation of the results.
 For several years, a national software base has been developed to facilitate the daily exchange and supervision of forecasting data. The POM (Plateforme Opérationnelle pour la Modélisation), distributed nationally, is part of this perspective of pooling resources.
 
-![Main Picture](Project SCHAPI-POM-EN pict 1.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for PLATEFORME OPERATIONNELLE POUR LA MODELISATION are as follows:
 * System specification and design
 * Development
 * Deployment of the system in SCHAPI and SPCs
 * Training
 * Maintenance
 
+![Main Picture](Project SCHAPI-POM-EN pict 1.png)
 
 The features are as follows:
 * Declaration of models and associated data (input and output)

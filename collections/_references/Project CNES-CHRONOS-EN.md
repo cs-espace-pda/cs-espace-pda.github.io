@@ -22,13 +22,12 @@ summary: "Design, build and commission a generic processing orchestrator for the
 # Context
 
 
-![Main Picture](Project CNES-CHRONOS-EN pict 1.png)
-
-CS Group responsabilities are as follows:
+CS Group responsabilities for Realization of a processing orchestrator and mission for SWOT are as follows:
 * Specification & Design
 * Realization of developments
 * Mission Statement
 
+![Main Picture](Project CNES-CHRONOS-EN pict 1.png)
 
 The features are as follows:
 * Running workflows on local, HPC or Cloud resources (no locking)
