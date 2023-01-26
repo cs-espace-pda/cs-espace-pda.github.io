@@ -3,12 +3,13 @@ customer: ESA
 customer_long: European Space Agency
 prime_contractor: CS ROMANIA
 image: Project ESA-TAO-EN pict 1.png
-size: standard
+size: small
 name: TAO
 title: Tool Augmentation by user enhancements and Orchestration
 domains: Platform
-department: PDA
+department: SPACE
 program: Generic
+domains: Platform
 summary: "TAO platform (stands for Tool Augmentation by user enhancements and Orchestration) is a lightweight, generic integration and distributed orchestration framework."
 ---
 
@@ -16,7 +17,7 @@ summary: "TAO platform (stands for Tool Augmentation by user enhancements and Or
 
 > __Programme__\: Generic
 
-> __Supply Chain__\: ESA > CS ROMANIA >  CS Group PDA
+> __Supply Chain__\: ESA > CS ROMANIA >  CS Group SPACE
 
 
 # Context

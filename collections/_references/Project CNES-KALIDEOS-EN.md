@@ -3,12 +3,13 @@ customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
 image: 
-size: standard
+size: small
 name: KALIDEOS
 title: KALIDEOS – VIS processing chains
 domains: Image
-department: PDA
+department: SPACE
 program: Generic
+domains: Image
 summary: "Aims to provide scientists with satellite images acquired over predefined geographical areas."
 ---
 
@@ -16,7 +17,7 @@ summary: "Aims to provide scientists with satellite images acquired over predefi
 
 > __Programme__\: Generic
 
-> __Supply Chain__\: CNES >  CS Group PDA
+> __Supply Chain__\: CNES >  CS Group SPACE
 
 
 # Context

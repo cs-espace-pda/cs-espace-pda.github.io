@@ -3,12 +3,13 @@ customer: ESA
 customer_long: European Space Agency
 prime_contractor: TAS
 image: Project ESA-S2 CLOUD MIGRATION STUDY-EN pict 1.png
-size: standard
+size: small
 name: S2 Cloud migration study
 title: Study of the execution of Sentinel 2 processing system on a cloud infrastructure
 domains: PDGS
-department: PDA
+department: SPACE
 program: Copernicus
+domains: PDGS
 summary: "Verify assumptions for the migration of the PDGS core processing to the cloud. Develop a demonstrator"
 ---
 
@@ -16,7 +17,7 @@ summary: "Verify assumptions for the migration of the PDGS core processing to th
 
 > __Programme__\: Copernicus
 
-> __Supply Chain__\: ESA > TAS >  CS Group PDA
+> __Supply Chain__\: ESA > TAS >  CS Group SPACE
 
 
 # Context

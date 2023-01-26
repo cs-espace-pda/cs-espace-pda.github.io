@@ -14,6 +14,9 @@ var saveInnerHTMLReferenceCards = null
 // Array for each reference card of domains associated (as array)
 var saveDomainsReferenceCards = null
 
+// Array for each program of innerHTML code (as String)
+var saveInnerHTMLPrograms = null
+
 /**
  * saveInitialState
  *   Make a save of :
@@ -35,6 +38,13 @@ var saveInitialState = function() {
     for (var i=0;i<domainsInPage.length;i++) {
         saveDomainsReferenceCards[i] = domainsInPage[i].value.split(",").map(element => element.trim())
     }
+
+    // save all h3 programs
+    var programsInPage = $(".program")
+    saveInnerHTMLPrograms = []
+    for (var i=0;i<programsInPage.length;i++) {
+        saveInnerHTMLPrograms.push(programsInPage[i].innerHTML)
+    }
 }
 
 /**
@@ -48,6 +58,22 @@ var saveInitialState = function() {
 var filterDomains = function(select) {
     var searchDomain = select.value
     
+    // First filter : on programs
+    var programsInPage = $(".program")
+    // For each program in page (identified by class program)
+    for (var i=0;i<programsInPage.length;i++) {
+        var div = programsInPage[i]
+        // Get list of domains associated to all references of program
+        var domains = div.attributes[0].value.split(",")
+        if ((searchDomain == "*") || (domains.includes(searchDomain))) {
+            // Restore the html content of div if domain found in program's references
+            div.innerHTML = saveInnerHTMLPrograms[i]
+        } else {
+            // Else remove html content
+            div.innerHTML = ""
+        }
+    }
+
     // Get all div reference card in page
     var divsInPage = $(".card-common")
 
@@ -65,10 +91,11 @@ var filterDomains = function(select) {
             divsInPage[i].innerHTML = ""
         }
     }
-
+ 
     // Update the toc
     $( "#toc" ).empty()
     Toc.init({
+        $scope: $("h2,h3"),
         $nav: $("#toc")
       });
 }

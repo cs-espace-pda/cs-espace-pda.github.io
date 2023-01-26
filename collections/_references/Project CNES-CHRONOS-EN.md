@@ -3,12 +3,13 @@ customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
 image: Project CNES-CHRONOS-EN pict 1.png
-size: standard
+size: small
 name: CHRONOS
 title: Realization of a processing orchestrator and mission for SWOT
 domains: Platform
-department: PDA
+department: SPACE
 program: Generic
+domains: Platform
 summary: "Design, build and commission a generic processing orchestrator for the SWOT data production centre."
 ---
 
@@ -16,7 +17,7 @@ summary: "Design, build and commission a generic processing orchestrator for the
 
 > __Programme__\: Generic
 
-> __Supply Chain__\: CNES >  CS Group PDA
+> __Supply Chain__\: CNES >  CS Group SPACE
 
 
 # Context

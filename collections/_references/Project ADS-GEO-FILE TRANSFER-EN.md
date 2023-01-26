@@ -1,22 +1,23 @@
 ---
 customer: ADS-GEO
-customer_long: Airbus Defense and Space Geo
+customer_long: Airbus Defense & Space Geo
 prime_contractor: 
 image: Project ADS-GEO-FILE TRANSFER-EN pict 1.png
-size: standard
+size: small
 name: FILE TRANSFER
 title: Common service of File Transfer involved in the Geo Digital System (GDS) of Airbus DS Geo SA
 domains: Platform
-department: PDA
+department: SPACE
 program: Geo Digital System
+domains: Platform
 summary: "File Transfer Service ensures massive data exchange between GDS components and other services of the system. Transfer is launched either by polling storage areas, either by receiving messages or demands. Optional pre/post processing are realized on the transferred data"
 ---
 
-> __Customer__\: Airbus Defense and Space Geo (ADS-GEO)
+> __Customer__\: Airbus Defense & Space Geo (ADS-GEO)
 
 > __Programme__\: Geo Digital System
 
-> __Supply Chain__\: ADS-GEO >  CS Group PDA
+> __Supply Chain__\: ADS-GEO >  CS Group SPACE
 
 
 # Context

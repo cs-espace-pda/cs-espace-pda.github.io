@@ -3,12 +3,13 @@ customer: EUMETSAT
 customer_long: EUMETSAT
 prime_contractor: 
 image: Project EUMETSAT-WEKEO SUPPORT-EN pict 1.png
-size: standard
+size: small
 name: WEkEO Support
 title: WEkEO DIAS User Support Service
 domains: EO Services
-department: PDA
+department: SPACE
 program: Copernicus
+domains: EO Services
 summary: "Facilitate handling of Copernicus data and services. Provide WEkEO DIAS users with online thematic and technical support. Contribute to WEkEO’s outreach activities"
 ---
 
@@ -16,7 +17,7 @@ summary: "Facilitate handling of Copernicus data and services. Provide WEkEO DIA
 
 > __Programme__\: Copernicus
 
-> __Supply Chain__\: EUMETSAT >  CS Group PDA
+> __Supply Chain__\: EUMETSAT >  CS Group SPACE
 
 
 # Context

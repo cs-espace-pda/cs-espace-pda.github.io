@@ -3,12 +3,13 @@ customer: EC
 customer_long: EC
 prime_contractor: ESA
 image: Project EC-RUS-EN pict 1.png
-size: standard
+size: small
 name: RUS
 title: Copernicus Research and User Support
 domains: Platform, EO Services
-department: PDA
+department: SPACE
 program: Copernicus
+domains: Platform, EO Services
 summary: "Promote uptake of Copernicus data. Support scaling up of R&D activities"
 ---
 
@@ -16,7 +17,7 @@ summary: "Promote uptake of Copernicus data. Support scaling up of R&D activitie
 
 > __Programme__\: Copernicus
 
-> __Supply Chain__\: EC > ESA >  CS Group PDA
+> __Supply Chain__\: EC > ESA >  CS Group SPACE
 
 
 # Context

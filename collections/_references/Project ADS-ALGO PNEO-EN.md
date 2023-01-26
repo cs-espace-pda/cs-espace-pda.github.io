@@ -1,22 +1,23 @@
 ---
 customer: ADS
-customer_long: Airbus Defense and Space
+customer_long: Airbus Defense & Space
 prime_contractor: 
 image: 
-size: standard
+size: small
 name: Algo Pneo
 title: ADS Pneo image algorithm development
 domains: Image
-department: PDA
-program: Pneo
-summary: "Evolution of geolocation algorithm,. Image algorithms development for Pneo. * Pansharpening (Use of Pan resolution to improove MS resolution.). * RPC (Loc model export through list of coeficients)"
+department: SPACE
+program: Pléiades Neo
+domains: Image
+summary: "Evolution of geolocation algorithm, Image algorithms development for Pneo. * Pansharpening (Use of Pan resolution to improove MS resolution.). * RPC (Loc model export through list of coeficients)"
 ---
 
-> __Customer__\: Airbus Defense and Space (ADS)
+> __Customer__\: Airbus Defense & Space (ADS)
 
-> __Programme__\: Pneo
+> __Programme__\: Pléiades Neo
 
-> __Supply Chain__\: ADS >  CS Group PDA
+> __Supply Chain__\: ADS >  CS Group SPACE
 
 
 # Context

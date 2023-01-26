@@ -3,12 +3,13 @@ customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
 image: Project CNES-REGARDS-EN pict 1.png
-size: standard
+size: small
 name: REGARDS
 title: REnouvellement des outils Génériques d’Accès et d’aRchivage pour les Données Spatiales
 domains: Platform
-department: PDA
+department: SPACE
 program: Generic
+domains: Platform
 summary: "Data Preservation and valorization. Open source system"
 ---
 
@@ -16,7 +17,7 @@ summary: "Data Preservation and valorization. Open source system"
 
 > __Programme__\: Generic
 
-> __Supply Chain__\: CNES >  CS Group PDA
+> __Supply Chain__\: CNES >  CS Group SPACE
 
 
 # Context

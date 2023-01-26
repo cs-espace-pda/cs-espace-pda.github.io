@@ -3,20 +3,21 @@ customer: ECOFOR
 customer_long: Groupement d'Intérêt Public ECOsystèmes FORestiers
 prime_contractor: 
 image: Project ECOFOR-COMPUTREE-EN pict 1.png
-size: standard
+size: small
 name: COMPUTREE
 title: plateforme de traitement de données 3D Lidar
 domains: Data Processing
-department: PDA
-program: Data processing platform
+department: SPACE
+program: Generic
+domains: Data Processing
 summary: "Applicative maintenance. Ease the use of the platform for new users. Improve operability of the tools"
 ---
 
 > __Customer__\: Groupement d'Intérêt Public ECOsystèmes FORestiers (ECOFOR)
 
-> __Programme__\: Data processing platform
+> __Programme__\: Generic
 
-> __Supply Chain__\: ECOFOR >  CS Group PDA
+> __Supply Chain__\: ECOFOR >  CS Group SPACE
 
 
 # Context

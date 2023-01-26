@@ -3,12 +3,13 @@ customer: AID
 customer_long: Agence de l’innovation de défense
 prime_contractor: 
 image: Project AID-DOCIA-EN pict 1.png
-size: standard
+size: small
 name: DOCIA
 title: Prototype of a platform for document retrieval and advanced indexing
 domains: EO Services
-department: PDA
+department: SPACE
 program: C2IA
+domains: EO Services
 summary: "Enable the search in a large quantity of heterogeneous and unorganized documents. Intelligent use of data, linking, cross-referencing. Monitoring of local documents, websites, RSS feeds. Applications: Operational Mapping, Surveillance, Decision Support"
 ---
 
@@ -16,7 +17,7 @@ summary: "Enable the search in a large quantity of heterogeneous and unorganized
 
 > __Programme__\: C2IA
 
-> __Supply Chain__\: AID >  CS Group PDA
+> __Supply Chain__\: AID >  CS Group SPACE
 
 
 # Context

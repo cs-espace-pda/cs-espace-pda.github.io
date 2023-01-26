@@ -3,12 +3,13 @@ customer: BGU
 customer_long: Ben-Gurion University of the Negev
 prime_contractor: 
 image: Project BGU-BIP-EN pict 1.jpeg
-size: standard
+size: small
 name: BIP
 title: BGU-VENµS Images Production
 domains: Image
-department: PDA
+department: SPACE
 program: Venμs
+domains: Image
 summary: "Produce BGU's L2 and L3 images from the L1 data provided by CNES"
 ---
 
@@ -16,7 +17,7 @@ summary: "Produce BGU's L2 and L3 images from the L1 data provided by CNES"
 
 > __Programme__\: Venμs
 
-> __Supply Chain__\: BGU >  CS Group PDA
+> __Supply Chain__\: BGU >  CS Group SPACE
 
 
 # Context
@@ -68,7 +69,7 @@ The main technologies used in this project are:
 |Programming language(s)|Python, Java, J2EE/WS, HTML, Javascript|
 |Interoperability (protocols, format, APIs)|XML, GeoNetwork|
 |Production software (IDE, DEVOPS etc.)|Git, Docker, Jenkins|
-|Main COTS library(ies)|MACCS (Multi-mission Atmospheric Correction and Cloud Screening), Geostorm|
+|Main COTS library(ies)|MACCS, Geostorm|
 
 
 

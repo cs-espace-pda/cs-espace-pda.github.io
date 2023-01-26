@@ -3,20 +3,21 @@ customer: ESA
 customer_long: European Space Agency
 prime_contractor: 
 image: Project ESA-BIDSRAF-EN pict 1.png
-size: standard
+size: small
 name: BIDSRAF
 title: Big Data from Space – Reference Architecture Framework
 domains: Platform
-department: PDA
-program: GSTP
+department: SPACE
+program: Generic
+domains: Platform
 summary: "Creating a reliable and scalable multi-cloud computing infrastructure and data management platform relevant for Earth data processing"
 ---
 
 > __Customer__\: European Space Agency (ESA)
 
-> __Programme__\: GSTP
+> __Programme__\: Generic
 
-> __Supply Chain__\: ESA >  CS Group PDA
+> __Supply Chain__\: ESA >  CS Group SPACE
 
 
 # Context

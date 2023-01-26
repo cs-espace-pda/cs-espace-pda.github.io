@@ -5,7 +5,7 @@
 <div class="col-12 col-md-6 col-xl-6 mb-1 mt-1">
   <div class="card-common card-size-standard">
 {% else %}
-<div class="col-12 col-md-6 col-xl-3 mb-1 mt-1">
+<div class="col-12 col-md-6 col-xl-4 mb-1 mt-1">
   <div class="card-common card-size-little">
 {% endif %}
 	<input type="hidden" value="{{ reference.domains }}">
@@ -18,7 +18,7 @@
 	</div>
 	
 	<div class="card-meta">
-		<h3 class="card-title">
+		<h3 class="card-title" data-toc-skip>
 			<a href="{{site.baseurl}}{{ reference.url }}">{{ reference.name }}</a>
 		</h3>
 		<br/>
@@ -28,7 +28,7 @@
 		<div class="card-tag card-tag-customer">{{reference.customer}}</div>
 		{% endif %}	
 		<div class="card-tag card-tag-program">{{ reference.program }}</div>
-		<div class="card-tag card-tag-program">{{ reference.domains }}</div>
+		<div class="card-tag card-tag-domain">{{ reference.domains }}</div>
 
 	</div>
 	{% if reference.size=="big" %}

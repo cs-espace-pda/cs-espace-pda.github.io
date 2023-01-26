@@ -3,20 +3,21 @@ customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
 image: Project CNES-CCTM-EN pict 1.png
-size: standard
+size: small
 name: CCTM
 title: Telemetry Processing Centre
 domains: PDGS
-department: PDA
-program: ARIANE
+department: SPACE
+program: Ariane
+domains: PDGS
 summary: "Telemetry processing for ARIANE5, VEGA and SOYOUZ launchers. Systematic use of the center for each launch for the benefit of the ARIANESPACE customer"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
 
-> __Programme__\: ARIANE
+> __Programme__\: Ariane
 
-> __Supply Chain__\: CNES >  CS Group PDA
+> __Supply Chain__\: CNES >  CS Group SPACE
 
 
 # Context

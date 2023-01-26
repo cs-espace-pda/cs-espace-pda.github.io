@@ -7,8 +7,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="icon" href="{{site.baseurl}}/images/favicon.png">
 		<link href="{{site.baseurl}}/assets/css/style.css" rel="stylesheet">
-
-		<script src="{{site.baseurl}}/assets/js/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+		<script src="{{site.baseurl}}/assets/js/jquery-3.3.1.slim.min.js" integrity="sha384-yQAQ5HOVow+HcV+WY0qtKCwsYi70J6l8gZDRKWQebqGvXLTEXbK887PCDo8mCtYl" crossorigin="anonymous"></script>
 	</head>
 
 	<body data-spy="scroll" data-target="#toc" class='page {{page.bodyClass}}'>
@@ -21,7 +20,7 @@
 			<div class="row">
 				<!-- sidebar, which will move to the top on a small screen -->
 				<div class="col-sm-3">
-					<nav id="toc" data-toggle="toc" class="sticky-top"></nav>
+					<nav id="toc" data-toggle="toc" class="sticky-top" data-toc-text="Short text"></nav>
 				</div>
 				<!-- main content area -->
 				<div class="col-sm-9">{{content}}</div>
@@ -31,8 +30,8 @@
 		{% include footer.html %}
 		{% include sub-footer.html %}
 		
-		<script src="{{site.baseurl}}/assets/js/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>		
-		<script src="{{site.baseurl}}/assets/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+		<script src="{{site.baseurl}}/assets/js/popper.min.js" integrity="sha384-ZU9+8Ut1eW4n6QTnd3TI4DnMkLobV0XC5At07h+G1Sz3Y7R1L5N+29MT/XEEhZ6V" crossorigin="anonymous"></script>		
+		<script src="{{site.baseurl}}/assets/js/bootstrap.min.js" integrity="sha384-XNkVHXT+5K8wj6pd+eVdvPnSx6M/jivY+6deV+7M1VWuxy5L3ew9VPBIbl/9uDPJ" crossorigin="anonymous"></script>
 		<!-- add after bootstrap.min.js -->
 		<script src="{{site.baseurl}}/assets/js/bootstrap-toc.min.js"></script>
 		<script type="text/javascript" src="{{ site.baseurl }}/assets/js/scripts.js"></script>

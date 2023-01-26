@@ -3,20 +3,21 @@ customer: ESA
 customer_long: European Space Agency
 prime_contractor: CAP GEMINI IT.
 image: Project ESA-PRODUCTION SENTINEL 2-EN pict 1.png
-size: standard
+size: small
 name: Production Sentinel 2
 title: ESA CSC Production Service Sentinel 2
-domains: Platform, EO Services
-department: ESPACE
+domains: Platform, PDGS, Orchestration
+department: SPACE
 program: Copernicus
-summary: "Develop and integrate the Systematic Production Service for Sentinel 2 satellite integrated in a high availability platform running 24/7. Optimise the processing worfkow to meet SLA of 75 min for L1C and 120 minutes for L2A products with input data up to 60 GB."
+domains: Platform, PDGS, Orchestration
+summary: "Develop and integrate the Systematic Production Service for Sentinel-2 satellite in a high availability platform. Optimise the processing workflow to meet ESA SLA for L1C and L2A products in few hours with input data session up to 60 GB."
 ---
 
 > __Customer__\: European Space Agency (ESA)
 
 > __Programme__\: Copernicus
 
-> __Supply Chain__\: ESA > CAP GEMINI IT. >  CS Group ESPACE
+> __Supply Chain__\: ESA > CAP GEMINI IT. >  CS Group SPACE
 
 
 # Context
@@ -38,24 +39,24 @@ This redesign includes the following projects:
 * [__CSC Production Services__](project-esa-production-sentinel-2-en.html): encompasses all activities necessary to convert any Sentinel data acquired on XBand and EDRS into user level data available on PRIP interface, meeting the quality specification and delivering it for user access and archiving.
 
 CS Group responsabilities for ESA CSC Production Service Sentinel 2 are as follows:
-* Turnkey supply of an orchestration system for optimized image processing system: parallelization of 40 processors with a non-linear workflow, dynamic use of machines in the cloud
-* Ensure level 2 support and maintenance.
+* Turnkey supply of an orchestration system for optimized image processing system: parallelization of 40 differents processors with a non-linear workflow, hundreds dynamic POD scaling.
+* Level-2 support and maintenance.
 
 ![Main Picture](Project ESA-PRODUCTION SENTINEL 2-EN pict 2.png)
 
 The features are as follows:
 * Sentinel 2 processing system:
-	* XBIP ingestion
+	* XBIP / EDIP ingestion
 	* IPF integration
 	* Spring Cloud Data Flow (SCDF) and Kafka cloud-native and open-source workflow management 
-	* CEPH FS high performance storage
+	* CEPH FS high performance storage (nominaly 6TB of data read by day)
 	* Fine tuning of processing strategy
 
 # Project implementation
 
 The project objectives are as follows:
-* Develop and integrate the Systematic Production Service for Sentinel 2 satellite integrated in a high availability platform running 24/7
-* Optimise the processing worfkow to meet SLA of 75 min for L1C and 120 minutes for L2A products with input data up to 60 GB.
+* Develop and integrate the Systematic Production Service for Sentinel-2 satellite in a high availability platform.
+* Optimise the processing workflow to meet ESA SLA for L1C and L2A products in few hours with input data session up to 60 GB.
 
 The processes for carrying out the project are:
 * Agile, Continuous integration
@@ -63,7 +64,9 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* The microservices architecture is high availability based on a managed Kubernetes cluster. The workflow is managed by Spring Cloud Data Flow, an extremely resilient message queue-based choreography system. The shared volume is implemented using a resilient, high-performance virtual file system. The project is 100% open source.
+* The microservices architecture is based on a high-availability Kubernetes cloud cluster of around 100 virtual machines. 
+* A message queue-based choreography system ensures a dynamic PODs scaling.
+* A shared volume is implemented using a virtual file system.
 
 ![Archi Picture](Project ESA-PRODUCTION SENTINEL 2-EN pict 3.png)
 
@@ -74,10 +77,10 @@ The main technologies used in this project are:
 |--------|----------------|
 |Hardware environment(s)|cloud and K8S|
 |Operating System(s)|linux CentOS|
-|Programming language(s)|java, python|
-|Interoperability (protocols, format, APIs)|maven, docker file, k8s yaml|
+|Programming language(s)|java, python, scdf|
+|Interoperability (protocols, format, APIs)|maven, docker file, k8s, helm, yaml|
 |Production software (IDE, DEVOPS etc.)|VS Code, Eclipse|
-|Main COTS library(ies)|Alluxio, Apache Guacamole, Blackbox Exporter, Calico, ClamAV, Docker, ElasticSearch, Fluentbit, Fluentd, FreeIPA, Go Runtime, Grafana, Graylog, GRIB API, Harbor|
+|Main COTS library(ies)|k8s, Docker, ElasticSearch, Kafka, Grafana, Prometheus, Keda, CephFS, Spring Boot, SCDF|
 
 
 

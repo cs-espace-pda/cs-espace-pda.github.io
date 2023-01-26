@@ -3,12 +3,13 @@ customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
 image: Project CNES-EOCTIT - SUPPORT-EN pict 1.png
-size: standard
+size: small
 name: EOCTIT - Support
 title: Support for the management of the CNES Common Tools
 domains: Image
-department: PDA
+department: SPACE
 program: Generic
+domains: Image
 summary: "Global maintenance assistance for low level image processing applications, known as CNES Common Tools"
 ---
 
@@ -16,7 +17,7 @@ summary: "Global maintenance assistance for low level image processing applicati
 
 > __Programme__\: Generic
 
-> __Supply Chain__\: CNES >  CS Group PDA
+> __Supply Chain__\: CNES >  CS Group SPACE
 
 
 # Context
@@ -46,7 +47,7 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* Bug Tracker  
+* Bug Tracker
 * Code versioning
 
 

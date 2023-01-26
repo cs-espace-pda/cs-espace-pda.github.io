@@ -31,22 +31,26 @@ bodyClass: page-product
 	The above returns, for example, which is why we sort by 'name'
 	{"name"=>"category1_value", "items"=>[#, #, #, #, #]}{"name"=>"category2_value", "items"=>[#, #, #, #]}
 -->
+		{% assign refs = "" | split: "," %}
 		{% assign items = group.items | sort: 'customer' %}
-		
-		<div class="col-12 program">
-		<br>
-		
-		<h2 class="text-dark mb-3">{{ group.name }}</h2>
-		{% if group.name == "Generic" %}
-			<p>Our projects are linked to several programs.</p>
-		{% else %}
-			<p>Our projects that are specific to the <b>{{ group.name }}</b> program.</p>
-		{% endif %}	
-		</div>
+				{% for reference in items %}
+				{% assign domains = reference.domains | split: ", " %}
+				{% assign refs = refs | concat: domains %}
+				{% endfor %}
+				{% assign refs = refs | uniq %}
+				<div programs="{{ refs | join:"," }}" class="col-12 program">
+				<br>
+				<h2 class="text-dark mb-3">{{ group.name }}</h2>
+				{% if group.name == "Generic" %}
+					<p>Our projects are linked to several programs.</p>
+				{% else %}
+					<p>Our projects that are specific to the <b>{{ group.name }}</b> program.</p>
+				{% endif %}	
+				</div>
 				
-		{% for reference in items %}
-			{% include reference_card.html %}
-		{% endfor %}
+			{% for reference in items %}
+				{% include reference_card.html %}
+			{% endfor %}
 	{% endfor %}
 	</div>
 </div>

@@ -4,7 +4,7 @@ nav[data-toggle="toc"] {/* vertical position */
 }
 
 nav[data-toggle=toc] .nav>li>a { /* font size & color */
-	font-size:16px; color:$cs-gray-blue-color
+	font-size:15px; color:$cs-gray-blue-color; padding: 0px
 	}
 
 nav[data-toggle=toc] .nav>li>a:focus,nav[data-toggle=toc] .nav>li>a:hover { /* font size & color */
@@ -16,7 +16,7 @@ nav[data-toggle=toc] .nav-link.active,nav[data-toggle=toc] .nav-link.active:focu
 	}
  
 nav[data-toggle=toc] .nav .nav>li>a { /* font size & color */
-	font-size:15px;
+	font-size:14px;
 }
  
 

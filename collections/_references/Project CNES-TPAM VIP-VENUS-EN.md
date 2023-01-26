@@ -3,12 +3,13 @@ customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
 image: Project CNES-TPAM VIP-VENUS-EN pict 1.png
-size: standard
+size: small
 name: TPAM VIP-VENUS
 title: Maintenance of the Venµs Image Quality (VIP) center
 domains: Image
-department: PDA
+department: SPACE
 program: Venμs
+domains: Image
 summary: "Delivering an operational VIP/VPDS image processing center that takes into account the constraints of the VENµS mission during the operational phase."
 ---
 
@@ -16,7 +17,7 @@ summary: "Delivering an operational VIP/VPDS image processing center that takes 
 
 > __Programme__\: Venμs
 
-> __Supply Chain__\: CNES >  CS Group PDA
+> __Supply Chain__\: CNES >  CS Group SPACE
 
 
 # Context
@@ -60,7 +61,7 @@ The main technologies used in this project are:
 |Operating System(s)|Linux  CentOS 6.5|
 |Programming language(s)|JAVA,JAVASCRIPT, C,C++, Python, PHP, SQL, SWING, ksh,HTML|
 |Interoperability (protocols, format, APIs)|XML|
-|Main COTS library(ies)|LAI (Euclide, POLLUX, MARIO, GDAL  ..), PHRLIB , MSLIB|
+|Main COTS library(ies)|LAI (Euclide, POLLUX, MARIO, GDAL), PHRLIB , MSLIB|
 
 
 

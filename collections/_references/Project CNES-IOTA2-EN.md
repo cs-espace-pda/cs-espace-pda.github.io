@@ -3,46 +3,48 @@ customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
 image: Project CNES-IOTA2-EN pict 1.png
-size: standard
+size: small
 name: IOTA2
-title: IOTA² - land-use map production line for large areas based on time series of Sentinel or Landsat images
+title: IOTA² - Infrastructure for Land Use by Automatic Treatment
 domains: Image
-department: PDA
+department: SPACE
 program: Generic
-summary: "Annual production of a national land use map. Testing new algorithms over large areas."
+domains: Image
+summary: "IOTA² - land-use map production line for large areas based on time series of Sentinel or Landsat images. Annual production of a national land use map. Testing new algorithms over large areas"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
 
 > __Programme__\: Generic
 
-> __Supply Chain__\: CNES >  CS Group PDA
+> __Supply Chain__\: CNES >  CS Group SPACE
 
 
 # Context
 
 IOTA² is a land-use map production line for large areas based on time series of Sentinel or Landsat images developped for CNES / CESBIO. In order to facilitate methodological contributions, IOTA² is open-source. As such, the channel makes extensive use of the image processing applications provided by Orfeo ToolBox.
 
-CS Group responsabilities for IOTA² - land-use map production line for large areas based on time series of Sentinel or Landsat images are as follows:
+CS Group responsabilities for IOTA² - Infrastructure for Land Use by Automatic Treatment are as follows:
 * Maintenance and evolution of the IOTA² chain in order to meet the needs of land use map production
-* User support.
+* User support
 
 ![Main Picture](Project CNES-IOTA2-EN pict 1.png)
 
 The features are as follows:
-* Use of sensors of different types (optical/radar) to obtain better quality classifications. 
-* Users can provide exogenous data as well as primitive data.
-* Possibility of spatially delineating learning zones.
-* Automatic calculation of primitives allowing the help to determine the label.
-* Merging classifications.
-* Automatic generation of coefficients allowing the evaluation of the quality of the classification.
-* Division into stages of the chain allows it to be launched only on very specific stages.
+* Use of sensors of different types (optical/radar) to obtain better quality classifications
+* Users can provide exogenous data as well as primitive data
+* Possibility of spatially delineating learning zones
+* Automatic calculation of primitives allowing the help to determine the label
+* Merging classifications
+* Automatic generation of coefficients allowing the evaluation of the quality of the classification
+* Division into stages of the chain allows it to be launched only on very specific stages
 
 # Project implementation
 
 The project objectives are as follows:
-* Annual production of a national land use map.
-* Testing new algorithms over large areas.
+* IOTA² - land-use map production line for large areas based on time series of Sentinel or Landsat images
+* Annual production of a national land use map
+* Testing new algorithms over large areas
 
 The processes for carrying out the project are:
 * Software V-Model
@@ -51,8 +53,8 @@ The processes for carrying out the project are:
 
 The solution key points are as follows:
 * Automatic installation with its dependencies
-* Combined use of Orfeo ToolBox multi-threading and MPI speeds up calculations.
-* Understanding of different N2A product formats (THEIA + PEPS) to be able to classify as many geographical areas as possible.
+* Combined use of Orfeo ToolBox multi-threading and MPI speeds up calculations
+* Understanding of different N2A product formats (THEIA + PEPS) to be able to classify as many geographical areas as possible
 
 
 

@@ -145,6 +145,13 @@ You don't have to manage the lower layers, the network part, the square meters, 
 
 {{page.v_safescale}} provides system firewalls, intrusion detection, web firewall and identity and access management including social login and brokering and monitoring security dashboards
 
+Powered by {{page.v_safescale}}
+-----------------------------------------
+Following projects use {{page.v_safescale}}.
+
+{% assign poweredby = "Reference System,CPSIT,S1 PDGS,RUS,SnapEarth" | split: ',' %}
+{% include poweredby.html %}
+
 What {{site.data.str.space}} can bring you?
 -----------------------------------------
 
@@ -166,8 +173,6 @@ As main {{page.v_safescale}} developper, {{site.data.str.space}} is the ideal pa
 
 
 Contact: [contact@safescale.eu](mailto:contact@safescale.eu)
-
-
 
 {::comment}Abbreviations{:/comment}
 

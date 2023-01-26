@@ -3,26 +3,25 @@ customer: SCHAPI
 customer_long: Service Central d'Hydrométéorologie et d'Appui à la Prévision des Inondations
 prime_contractor: 
 image: Project SCHAPI-SUPERVISEUR NATIONAL-EN pict 1.jpg
-size: standard
+size: small
 name: SUPERVISEUR NATIONAL
 title: SUPERVISEUR NATIONAL DE DONNEES HYDROMETRIQUES
 domains: EO Services
-department: PDA
+department: SPACE
 program: Risk Management
-summary: "la supervision des données hydrométriques et météorologiques, sous forme cartographique, graphique et de tableaux. la visualisation des prévisions issues de modèles et la création d'expertise. la gestion des alarmes hydrologiques, techniques et système"
+domains: EO Services
+summary: "Supervision of hydrometric and meteorological data, in cartographic, graphical and tabular form. Visualization of forecasts from models and the creation of expertise. Management of hydrological, technical and system alarms."
 ---
 
 > __Customer__\: Service Central d'Hydrométéorologie et d'Appui à la Prévision des Inondations (SCHAPI)
 
 > __Programme__\: Risk Management
 
-> __Supply Chain__\: SCHAPI >  CS Group PDA
+> __Supply Chain__\: SCHAPI >  CS Group SPACE
 
 
 # Context
 
-Le Superviseur National est utilisé quotidiennement, dans des situations potentiellement stressantes avec des intérêts économiques et humains majeurs.
-Cette criticité impose des contraintes fortes de fiabilité, de performances, d'ergonomie et facilité d’utilisation
 
 CS Group responsabilities for SUPERVISEUR NATIONAL DE DONNEES HYDROMETRIQUES are as follows:
 * System specification and design
@@ -47,9 +46,9 @@ The features are as follows:
 # Project implementation
 
 The project objectives are as follows:
-* la supervision des données hydrométriques et météorologiques, sous forme cartographique, graphique et de tableaux.
-* la visualisation des prévisions issues de modèles et la création d'expertise
-* la gestion des alarmes hydrologiques, techniques et système
+* Supervision of hydrometric and meteorological data, in cartographic, graphical and tabular form.
+* Visualization of forecasts from models and the creation of expertise.
+* Management of hydrological, technical and system alarms.
 
 The processes for carrying out the project are:
 * Incremental V Cycle

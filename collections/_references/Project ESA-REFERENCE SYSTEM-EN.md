@@ -3,12 +3,13 @@ customer: ESA
 customer_long: European Space Agency
 prime_contractor: AIRBUS DS
 image: Project ESA-REFERENCE SYSTEM-EN pict 1.png
-size: standard
+size: small
 name: Reference System
 title: ESA CSC Reference System (RS)
-domains: Platform, EO Services
-department: ESPACE
+domains: Platform, Image
+department: SPACE
 program: Copernicus
+domains: Platform, Image
 summary: "The RS is a key component of the CSC Ground Segment: it provides to the community a complete and open source processing and distribution environment software. Integrated with the Sentinel Data Processors, it has the capacity to substitute the nominal CSC Production and Distribution services."
 ---
 
@@ -16,14 +17,15 @@ summary: "The RS is a key component of the CSC Ground Segment: it provides to th
 
 > __Programme__\: Copernicus
 
-> __Supply Chain__\: ESA > AIRBUS DS >  CS Group ESPACE
+> __Supply Chain__\: ESA > AIRBUS DS >  CS Group SPACE
 
 
 # Context
 
+ESA, Airbus DS, Werum, CS Group Romania, CS Group France
 
 CS Group responsabilities for ESA CSC Reference System (RS) are as follows:
-* Development of infrastructure and Sentinel 2 processing chain, IVV for all satellites
+* Development of infrastructure, monitoring and Sentinel 2 processing chain, IVV for all satellites, Setup of the Github collaborative platform, Support to Operations
 
 ![Main Picture](Project ESA-REFERENCE SYSTEM-EN pict 2.png)
 
@@ -39,7 +41,7 @@ The project objectives are as follows:
 * The RS is a key component of the CSC Ground Segment: it provides to the community a complete and open source processing and distribution environment software. Integrated with the Sentinel Data Processors, it has the capacity to substitute the nominal CSC Production and Distribution services.
 
 The processes for carrying out the project are:
-* Agile, Continuous integration, DevOps, DevSecOps, GitFlow
+* Agile, Continuous integration, DevOps, DevSecOps, GitFlow, Licence compliance
 
 # Technical characteristics
 

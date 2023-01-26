@@ -1,8 +1,8 @@
-permalink: cspda
-title: 'CS Group - PDA department'
+permalink: csspace
+title: 'CS Group - SPACE Business Unit'
 collections_dir: collections
 destination: ../3-deliveries/webref_html
-description: Official page for the PDA department of CS Group
+description: Official page for the Space Business Unit of CS Group
 url: https://uk.c-s.fr/
 author: CS Group
 logo: images/logo-cs.png

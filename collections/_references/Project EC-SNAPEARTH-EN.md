@@ -3,12 +3,13 @@ customer: EC
 customer_long: European Commission
 prime_contractor: QWANT
 image: Project EC-SNAPEARTH-EN pict 1.png
-size: standard
+size: small
 name: SnapEarth
 title: SnapEarth project
 domains: Platform
-department: PDA
+department: SPACE
 program: Copernicus
+domains: Platform
 summary: "Fostering EO market uptake thanks to natural and holistic access to added value data generated through cutting-edge Artificial Intelligence technologies."
 ---
 
@@ -16,7 +17,7 @@ summary: "Fostering EO market uptake thanks to natural and holistic access to ad
 
 > __Programme__\: Copernicus
 
-> __Supply Chain__\: EC > QWANT >  CS Group PDA
+> __Supply Chain__\: EC > QWANT >  CS Group SPACE
 
 
 # Context

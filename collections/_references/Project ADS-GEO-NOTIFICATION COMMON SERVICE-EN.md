@@ -1,22 +1,23 @@
 ---
 customer: ADS-GEO
-customer_long: Airbus Defense and Space Geo
+customer_long: Airbus Defense & Space Geo
 prime_contractor: 
 image: Project ADS-GEO-NOTIFICATION COMMON SERVICE-EN pict 1.png
-size: standard
+size: small
 name: NOTIFICATION COMMON SERVICE
 title: Common service involved in the Geo Digital System (GDS) of Airbus DS Geo SA
 domains: Platform
-department: PDA
+department: SPACE
 program: Geo Digital System
+domains: Platform
 summary: "Notification Service processes and delivers in different media all notification requests of GDS sub-systems and others services of system for external or internal users"
 ---
 
-> __Customer__\: Airbus Defense and Space Geo (ADS-GEO)
+> __Customer__\: Airbus Defense & Space Geo (ADS-GEO)
 
 > __Programme__\: Geo Digital System
 
-> __Supply Chain__\: ADS-GEO >  CS Group PDA
+> __Supply Chain__\: ADS-GEO >  CS Group SPACE
 
 
 # Context

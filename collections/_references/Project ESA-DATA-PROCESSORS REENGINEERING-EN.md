@@ -3,12 +3,13 @@ customer: ESA
 customer_long: European Space Agency
 prime_contractor: CS GROUP
 image: Project ESA-DATA-PROCESSORS REENGINEERING-EN pict 1.png
-size: standard
+size: small
 name: Data-Processors Reengineering
 title: ESA CSC Data Processors Re-engineering (DPR)
 domains: Platform, EO Services
-department: ESPACE
+department: SPACE
 program: Copernicus
+domains: Platform, EO Services
 summary: "Develop the generic Earth Observation Processor Framework (EOPF) and the associated reengineering of the L0 L1 L2 processors to support the transition of the Copernicus ground segment to a cloud environment and an improvement of the storage / recalculation strategy of the generated data."
 ---
 
@@ -16,7 +17,7 @@ summary: "Develop the generic Earth Observation Processor Framework (EOPF) and t
 
 > __Programme__\: Copernicus
 
-> __Supply Chain__\: ESA > CS GROUP >  CS Group ESPACE
+> __Supply Chain__\: ESA > CS GROUP >  CS Group SPACE
 
 
 # Context

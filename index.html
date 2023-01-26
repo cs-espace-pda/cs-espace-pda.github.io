@@ -60,6 +60,9 @@ bodyClass: page-home
 				<!-- <div class="feature-content"> --> 
 				<div class="container">
 				{{ feature.content | markdownify | strip_html | truncate: 200 }}
+				{% if feature.readmore != null %}
+					<a href="{{site.baseurl}}{{feature.readmore}}">Read more</a>
+				{% endif %}
 				</div>
 			</div>
 		</div>

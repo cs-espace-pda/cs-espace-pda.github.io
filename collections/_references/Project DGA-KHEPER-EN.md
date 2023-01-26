@@ -3,12 +3,13 @@ customer: DGA
 customer_long: DGA - Ministère de la Défense
 prime_contractor: 
 image: Project DGA-KHEPER-EN pict 1.png
-size: standard
+size: small
 name: KHEPER
 title: MCO KHEPER
 domains: Platform
-department: PDA
+department: SPACE
 program: GHOM
+domains: Platform
 summary: "To provide armed forces a shared and relevant cartographic reference for a common understanding of the operational conditions in the perspective of preparing/running military operations, via workshops for:"
 ---
 
@@ -16,7 +17,7 @@ summary: "To provide armed forces a shared and relevant cartographic reference f
 
 > __Programme__\: GHOM
 
-> __Supply Chain__\: DGA >  CS Group PDA
+> __Supply Chain__\: DGA >  CS Group SPACE
 
 
 # Context

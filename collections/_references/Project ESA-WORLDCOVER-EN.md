@@ -3,12 +3,13 @@ customer: ESA
 customer_long: European Space Agency
 prime_contractor: 
 image: Project ESA-WORLDCOVER-EN pict 1.png
-size: standard
+size: small
 name: WORLDCOVER
 title: World Cover
 domains: Platform, EO Services
-department: PDA
+department: SPACE
 program: Copernicus
+domains: Platform, EO Services
 summary: "The project aims at developing an automated user-driven workflow capable of producing a global land cover maps in fast delivery. To meet such a challenge, production delivery is divided into 3 phases:. * Producing 1% of the world. * Producing 10% of the world. * Producing 100% of the world"
 ---
 
@@ -16,7 +17,7 @@ summary: "The project aims at developing an automated user-driven workflow capab
 
 > __Programme__\: Copernicus
 
-> __Supply Chain__\: ESA >  CS Group PDA
+> __Supply Chain__\: ESA >  CS Group SPACE
 
 
 # Context

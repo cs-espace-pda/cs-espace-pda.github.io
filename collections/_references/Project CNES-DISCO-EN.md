@@ -3,12 +3,13 @@ customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
 image: Project CNES-DISCO-EN pict 1.png
-size: standard
+size: small
 name: DISCO
 title: Data Integrated Solutions for model COnstruction
 domains: Platform
-department: PDA
+department: SPACE
 program: Generic
+domains: Platform
 summary: "Easy manipulation of data descriptions, which size is nowadays always bigger. Using a single model, while exporting and importing from different description formats. Being able to use the modeler, whatever the business domain described by the formats"
 ---
 
@@ -16,7 +17,7 @@ summary: "Easy manipulation of data descriptions, which size is nowadays always 
 
 > __Programme__\: Generic
 
-> __Supply Chain__\: CNES >  CS Group PDA
+> __Supply Chain__\: CNES >  CS Group SPACE
 
 
 # Context
@@ -32,14 +33,14 @@ Thus, the modeler’s core is not specialized for any specific business domain. 
 The high level specific layers will address only the spatial business domain at the beginning in order to address directly the needs formalized by CNES.
 
 CS Group responsabilities for Data Integrated Solutions for model COnstruction are as follows:
-* * Design, Development
+* * Design, Development, Maintenance
 	* EPL license
 
 ![Main Picture](Project CNES-DISCO-EN pict 2.png)
 
 The features are as follows:
 * Generic model adaptable to any business domain ontology and providing transcriptions to different formats
-* Common Monitoring and Control representation based on the generic model : XIF/XTCE/CADS standard interoperability, export from common model and conversion
+* Common Monitoring and Control representation based on the generic model : XIF/XTCE/CADS/Json ISIS standard interoperability, export from common model and conversion
 * Sustainable description model
 * Complex and big descriptions management
 * High level adaptability : framework configuration, concepts of facets and stereotypes
@@ -61,7 +62,7 @@ The solution key points are as follows:
 * Model Driven Engineering
 * Eclipse Technologies
 * Space Database/Space segment systems
-* Formats: XIF, XTCE, CADS
+* Formats: XIF, XTCE, CADS, JsonIsis
 * Standards: XTCE Standard, ISIS (Initiative for Space Innovative Standards), CNES XIF internal standard, CCSDS EAST and DEDSL standards
 
 ![Archi Picture](Project CNES-DISCO-EN pict 3.png)
@@ -72,9 +73,9 @@ The main technologies used in this project are:
 | Domain | Technology(ies) |
 |--------|----------------|
 |Hardware environment(s)|PC|
-|Operating System(s)|Windows|
+|Operating System(s)|Windows, Linux|
 |Programming language(s)|Java, Xtend, Xtext|
-|Interoperability (protocols, format, APIs)|XML|
+|Interoperability (protocols, format, APIs)|XML, Json|
 |Production software (IDE, DEVOPS etc.)|Eclipse, Eclipse Modeling technologies based on EMF, CDO, Apache Maven, Git, Subversion, Junit, Jenkins, SonarQube|
 
 

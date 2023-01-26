@@ -3,20 +3,21 @@ customer: SCHAPI
 customer_long: Service Central d'Hydrométéorologie et d'Appui à la Prévision des Inondations
 prime_contractor: 
 image: Project SCHAPI-PLATHYNES-EN pict 1.png
-size: standard
+size: small
 name: PLATHYNES
 title: Plateforme de Modélisation PLATHYNES
 domains: EO Services
-department: PDA
+department: SPACE
 program: Risk Management
-summary: "take over and industrialize the existing codes, to ensure the maintainability and evolutions of the platform, both for the researchers and for the operational forecasting services."
+domains: EO Services
+summary: "Take over and industrialize the existing codes, to ensure the maintainability and evolutions of the platform, both for the researchers and for the operational forecasting services."
 ---
 
 > __Customer__\: Service Central d'Hydrométéorologie et d'Appui à la Prévision des Inondations (SCHAPI)
 
 > __Programme__\: Risk Management
 
-> __Supply Chain__\: SCHAPI >  CS Group PDA
+> __Supply Chain__\: SCHAPI >  CS Group SPACE
 
 
 # Context
@@ -31,7 +32,7 @@ CS Group responsabilities for Plateforme de Modélisation PLATHYNES are as follo
 * Training
 * Maintenance
 
-![Main Picture](Project SCHAPI-PLATHYNES-EN pict 2.PNG)
+![Main Picture](Project SCHAPI-PLATHYNES-EN pict 2.png)
 
 The features are as follows:
 * The data recovery of the sessions of the ATHYS platform

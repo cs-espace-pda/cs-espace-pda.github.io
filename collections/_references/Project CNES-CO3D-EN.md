@@ -3,12 +3,13 @@ customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
 image: Project CNES-CO3D-EN pict 1.png
-size: standard
+size: small
 name: CO3D
 title: Constellation Optique 3D CO3D
 domains: Platform
-department: PDA
+department: SPACE
 program: CO3D
+domains: Platform
 summary: "Technical & financial evaluation of a Earth observation image processing chain in cloud environment"
 ---
 
@@ -16,7 +17,7 @@ summary: "Technical & financial evaluation of a Earth observation image processi
 
 > __Programme__\: CO3D
 
-> __Supply Chain__\: CNES >  CS Group PDA
+> __Supply Chain__\: CNES >  CS Group SPACE
 
 
 # Context

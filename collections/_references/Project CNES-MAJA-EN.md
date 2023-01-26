@@ -3,12 +3,13 @@ customer: CNES
 customer_long: Centre National des Etudes Spatiales
 prime_contractor: 
 image: Project CNES-MAJA-EN pict 1.png
-size: standard
+size: small
 name: MAJA
 title: MACCS ATCOR Joint Algorithm
 domains: Image
-department: PDA
+department: SPACE
 program: Generic
+domains: Image
 summary: "Develop and maintain an up to date and operational processing chain to generate L2A EO products"
 ---
 
@@ -16,7 +17,7 @@ summary: "Develop and maintain an up to date and operational processing chain to
 
 > __Programme__\: Generic
 
-> __Supply Chain__\: CNES >  CS Group PDA
+> __Supply Chain__\: CNES >  CS Group SPACE
 
 
 # Context

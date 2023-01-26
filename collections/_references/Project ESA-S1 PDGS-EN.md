@@ -3,12 +3,13 @@ customer: ESA
 customer_long: European Space Agency
 prime_contractor: AIRBUS DS
 image: 
-size: standard
+size: small
 name: S1 PDGS
 title: Migration of Sentinel 1 to cloud commercial service
 domains: Platform
-department: PDA
+department: SPACE
 program: Copernicus
+domains: Platform
 summary: "Migrating S1 Data & Payloads Digital Ground Segment Processing to cloud platforms"
 ---
 
@@ -16,7 +17,7 @@ summary: "Migrating S1 Data & Payloads Digital Ground Segment Processing to clou
 
 > __Programme__\: Copernicus
 
-> __Supply Chain__\: ESA > AIRBUS DS >  CS Group PDA
+> __Supply Chain__\: ESA > AIRBUS DS >  CS Group SPACE
 
 
 # Context
