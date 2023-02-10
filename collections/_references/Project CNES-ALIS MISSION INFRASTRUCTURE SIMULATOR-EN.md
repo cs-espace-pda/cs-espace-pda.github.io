@@ -2,9 +2,9 @@
 customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
-image: Project CNES-INFRASTRUCTURE SIMULATEUR MISSION ALIS-EN pict 1.png
+image: Project CNES-ALIS MISSION INFRASTRUCTURE SIMULATOR-EN pict 1.png
 size: small
-name: INFRASTRUCTURE SIMULATEUR MISSION ALIS
+name: ALIS Mission Infrastructure Simulator
 title: ALIS simulation infrastructure
 domains: Mission Center
 department: SPACE
@@ -56,7 +56,7 @@ The solution key points are as follows:
 * Use of COTS and Open Source
 * Implementation of a "template" simulator to facilitate the development of new simulators
 
-![Archi Picture](Project CNES-INFRASTRUCTURE SIMULATEUR MISSION ALIS-EN pict 2.png)
+![Archi Picture](Project CNES-ALIS MISSION INFRASTRUCTURE SIMULATOR-EN pict 2.png)
 
 The main technologies used in this project are:
 

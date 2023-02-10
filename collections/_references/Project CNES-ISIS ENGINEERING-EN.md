@@ -2,9 +2,9 @@
 customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
-image: Project CNES-AMOA ISIS-EN pict 1.png
+image: Project CNES-ISIS ENGINEERING-EN pict 1.png
 size: small
-name: AMOA ISIS
+name: ISIS Engineering
 title: Assistance to ISIS Project Management for CERES, SWOT, MERLIN, N3SS and KINEIS missions
 domains: Control Center
 department: SPACE
@@ -26,7 +26,7 @@ summary: "Engineering and AMOA support for Satellite Control Ground Segments imp
 CS Group responsabilities for Assistance to ISIS Project Management for CERES, SWOT, MERLIN, N3SS and KINEIS missions are as follows:
 * * Support piloted by CNES
 
-![Main Picture](Project CNES-AMOA ISIS-EN pict 2.png)
+![Main Picture](Project CNES-ISIS ENGINEERING-EN pict 2.png)
 
 The features are as follows:
 * **Maintenance of ISIS technical specifications**

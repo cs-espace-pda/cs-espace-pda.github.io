@@ -2,9 +2,9 @@
 customer: ADS-GEO
 customer_long: Airbus Defense & Space Geo
 prime_contractor: 
-image: Project ADS-GEO-NOTIFICATION COMMON SERVICE-EN pict 1.png
+image: Project ADS-GEO-GDS NOTIFICATION COMMON SERVICE-EN pict 1.png
 size: small
-name: NOTIFICATION COMMON SERVICE
+name: GDS NOTIFICATION COMMON SERVICE
 title: Common service involved in the Geo Digital System (GDS) of Airbus DS Geo SA
 domains: Platform
 department: SPACE
@@ -30,7 +30,7 @@ Objectives for Notification Service are :
 CS Group responsabilities for Common service involved in the Geo Digital System (GDS) of Airbus DS Geo SA are as follows:
 * Design, Development, Support service for deployment and use
 
-![Main Picture](Project ADS-GEO-NOTIFICATION COMMON SERVICE-EN pict 1.png)
+![Main Picture](Project ADS-GEO-GDS NOTIFICATION COMMON SERVICE-EN pict 1.png)
 
 The features are as follows:
 * Management of media for notifications delivery (Mail, SMS, WebHook)

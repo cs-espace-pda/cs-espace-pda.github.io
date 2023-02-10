@@ -2,9 +2,9 @@
 customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
-image: Project CNES-SUPPORT OPERATIONS ROPS ATV-EN pict 1.png
+image: Project CNES-ATV OPERATIONS ROPS SUPPORT-EN pict 1.png
 size: small
-name: SUPPORT OPERATIONS ROPS ATV
+name: ATV OPERATIONS ROPS SUPPORT
 title: ATV mission team support
 domains: Control Center
 department: SPACE
@@ -26,7 +26,7 @@ summary: "Operations support within the ATV team. Operational pre-Qualification,
 CS Group responsabilities for ATV mission team support are as follows:
 * Operations Support
 
-![Main Picture](Project CNES-SUPPORT OPERATIONS ROPS ATV-EN pict 1.png)
+![Main Picture](Project CNES-ATV OPERATIONS ROPS SUPPORT-EN pict 1.png)
 
 The features are as follows:
 * Training Instructor: Preparation of tests, creation of scenarios, drafting of plans and follow-up, support to ESA for the preparation of simulations

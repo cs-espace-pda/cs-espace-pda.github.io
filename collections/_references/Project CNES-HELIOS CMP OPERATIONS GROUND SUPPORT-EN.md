@@ -2,9 +2,9 @@
 customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
-image: Project CNES-SUPPORT SOL CMP HELIOS-EN pict 1.jpg
+image: Project CNES-HELIOS CMP OPERATIONS GROUND SUPPORT-EN pict 1.jpg
 size: small
-name: Support sol CMP HELIOS
+name: HELIOS CMP Operations Ground Support
 title: Support to ground operations of the Maintenance Center at Post Helios 2A / 2B
 domains: Control Center
 department: SPACE
@@ -26,7 +26,7 @@ summary: "Ensure operations for the GROUND operating service of the Station Main
 CS Group responsabilities for Support to ground operations of the Maintenance Center at Post Helios 2A / 2B are as follows:
 * Reinforce the CNES teams, maintain the CMPs in operational conditions, respect the operational constraints
 
-![Main Picture](Project CNES-SUPPORT SOL CMP HELIOS-EN pict 2.jpg)
+![Main Picture](Project CNES-HELIOS CMP OPERATIONS GROUND SUPPORT-EN pict 2.jpg)
 
 The features are as follows:
 * **Operation of the CMP**, namely :

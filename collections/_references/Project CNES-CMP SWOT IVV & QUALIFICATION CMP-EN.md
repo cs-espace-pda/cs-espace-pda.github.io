@@ -2,9 +2,9 @@
 customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
-image: Project CNES-AIV & QUALIFICATION CMP SWOT-EN pict 1.png
+image: Project CNES-CMP SWOT IVV & QUALIFICATION CMP-EN pict 1.png
 size: small
-name: AIV & Qualification CMP SWOT
+name: CMP SWOT IVV & Qualification CMP
 title: CMP IVV, support in Technical and Operational Qualification and LEOP of SWOT mission
 domains: Control Center, Flight Dynamics
 department: SPACE
@@ -26,7 +26,7 @@ summary: "Engineering assistance and support for the implementation of the **sys
 CS Group responsabilities for CMP IVV, support in Technical and Operational Qualification and LEOP of SWOT mission are as follows:
 * * Piloting of the IVV by CS GROUP, TQ/OQ tests by CNES
 
-![Main Picture](Project CNES-AIV & QUALIFICATION CMP SWOT-EN pict 2.png)
+![Main Picture](Project CNES-CMP SWOT IVV & QUALIFICATION CMP-EN pict 2.png)
 
 The features are as follows:
 * **AIV**: development of LdP procedures and assignment, definition of strategy, plans and automated execution of tests (AIV tools for managing contexts, results, requirements)
@@ -52,7 +52,7 @@ The solution key points are as follows:
 * Implementation of ISIS operational concepts: procedures, automation 
 * Experienced AIV team for rapid upskilling
 
-![Archi Picture](Project CNES-AIV & QUALIFICATION CMP SWOT-EN pict 3.png)
+![Archi Picture](Project CNES-CMP SWOT IVV & QUALIFICATION CMP-EN pict 3.png)
 
 The main technologies used in this project are:
 

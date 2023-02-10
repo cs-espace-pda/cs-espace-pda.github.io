@@ -2,9 +2,9 @@
 customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
-image: Project CNES-SUPPORT MISSION PLEIADES-EN pict 1.png
+image: Project CNES-PLEIADES MISSION SUPPORT-EN pict 1.png
 size: small
-name: SUPPORT MISSION PLEIADES
+name: PLEIADES Mission Support
 title: PLEIADES Mission Support
 domains: Mission Center
 department: SPACE
@@ -26,7 +26,7 @@ summary: "Support to CNES mission teams for the implementation of operational ac
 CS Group responsabilities for PLEIADES Mission Support are as follows:
 * Support to CNES mission teams for the implementation of operational activities and the monitoring of PLEIADES missions
 
-![Main Picture](Project CNES-SUPPORT MISSION PLEIADES-EN pict 2.png)
+![Main Picture](Project CNES-PLEIADES MISSION SUPPORT-EN pict 2.png)
 
 The features are as follows:
 * Preparation, qualification and execution of mission operations 

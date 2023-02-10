@@ -2,9 +2,9 @@
 customer: SCHAPI
 customer_long: Service Central d'Hydrométéorologie et d'Appui à la Prévision des Inondations
 prime_contractor: 
-image: Project SCHAPI-SUPERVISEUR NATIONAL-EN pict 1.jpg
+image: Project SCHAPI-NATIONAL HYDROMETRIC DATA SUPERVISOR-EN pict 1.jpg
 size: small
-name: SUPERVISEUR NATIONAL
+name: NATIONAL HYDROMETRIC DATA SUPERVISOR
 title: SUPERVISEUR NATIONAL DE DONNEES HYDROMETRIQUES
 domains: EO Services
 department: SPACE
@@ -30,7 +30,7 @@ CS Group responsabilities for SUPERVISEUR NATIONAL DE DONNEES HYDROMETRIQUES are
 * Training
 * Maintenance
 
-![Main Picture](Project SCHAPI-SUPERVISEUR NATIONAL-EN pict 1.jpg)
+![Main Picture](Project SCHAPI-NATIONAL HYDROMETRIC DATA SUPERVISOR-EN pict 1.jpg)
 
 The features are as follows:
 * Customized maps display for hydrologolical situation follow up 
@@ -64,7 +64,7 @@ The solution key points are as follows:
 	 *  Supervisor Database management
 	 *  Monitoring Service
 
-![Archi Picture](Project SCHAPI-SUPERVISEUR NATIONAL-EN pict 2.jpg)
+![Archi Picture](Project SCHAPI-NATIONAL HYDROMETRIC DATA SUPERVISOR-EN pict 2.jpg)
 
 The main technologies used in this project are:
 

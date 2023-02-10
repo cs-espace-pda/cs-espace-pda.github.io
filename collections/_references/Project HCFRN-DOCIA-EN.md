@@ -1,8 +1,8 @@
 ---
-customer: AID
-customer_long: Agence de l’innovation de défense
+customer: HCFRN
+customer_long: Haut Comité Français pour la Résilience Nationale
 prime_contractor: 
-image: Project AID-DOCIA-EN pict 1.png
+image: Project HCFRN-DOCIA-EN pict 1.png
 size: small
 name: DOCIA
 title: Prototype of a platform for document retrieval and advanced indexing
@@ -13,11 +13,11 @@ domains: EO Services
 summary: "Enable the search in a large quantity of heterogeneous and unorganized documents. Intelligent use of data, linking, cross-referencing. Monitoring of local documents, websites, RSS feeds. Applications: Operational Mapping, Surveillance, Decision Support"
 ---
 
-> __Customer__\: Agence de l’innovation de défense (AID)
+> __Customer__\: Haut Comité Français pour la Résilience Nationale (HCFRN)
 
 > __Programme__\: C2IA
 
-> __Supply Chain__\: AID >  CS Group SPACE
+> __Supply Chain__\: HCFRN >  CS Group SPACE
 
 
 # Context
@@ -28,7 +28,7 @@ CS Group responsabilities for Prototype of a platform for document retrieval and
 * Need analysis
 * Design & development
 
-![Main Picture](Project AID-DOCIA-EN pict 1.png)
+![Main Picture](Project HCFRN-DOCIA-EN pict 1.png)
 
 The features are as follows:
 * Full text, metadata and temporal search with highlights
@@ -69,7 +69,7 @@ The solution key points are as follows:
 * Indexing metrics by file type
 * Index sharing and export
 
-![Archi Picture](Project AID-DOCIA-EN pict 2.png)
+![Archi Picture](Project HCFRN-DOCIA-EN pict 2.png)
 
 The main technologies used in this project are:
 

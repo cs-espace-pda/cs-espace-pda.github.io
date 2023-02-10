@@ -4,7 +4,7 @@ customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
 image: 
 size: small
-name: MYRIADE
+name: MYRIADE on-board software
 title: MYRIADE generic on-board software
 domains: Platform
 department: SPACE

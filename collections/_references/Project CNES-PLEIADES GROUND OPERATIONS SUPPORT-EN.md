@@ -2,9 +2,9 @@
 customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
-image: Project CNES-SUPPORT SOL PLEIADES-EN pict 1.png
+image: Project CNES-PLEIADES GROUND OPERATIONS SUPPORT-EN pict 1.png
 size: small
-name: SUPPORT SOL PLEIADES
+name: PLEIADES Ground Operations Support
 title: Pléiades ground support
 domains: Control Center
 department: SPACE
@@ -26,7 +26,7 @@ summary: "Ground operation to maintain routine operational monitoring activities
 CS Group responsabilities for Pléiades ground support are as follows:
 * Maintenance, Operational Support, Team of 4 engineers
 
-![Main Picture](Project CNES-SUPPORT SOL PLEIADES-EN pict 2.png)
+![Main Picture](Project CNES-PLEIADES GROUND OPERATIONS SUPPORT-EN pict 2.png)
 
 The features are as follows:
 * Installation and configuration of software versions ; hardware checks and inventory ; first-level failure investigation ; hardware replacement

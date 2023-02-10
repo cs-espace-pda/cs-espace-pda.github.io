@@ -6,11 +6,11 @@ image: Project ESA-DATA-PROCESSORS REENGINEERING-EN pict 1.png
 size: small
 name: Data-Processors Reengineering
 title: ESA CSC Data Processors Re-engineering (DPR)
-domains: Platform, EO Services
+domains: Platform,Image
 department: SPACE
 program: Copernicus
-domains: Platform, EO Services
-summary: "Develop the generic Earth Observation Processor Framework (EOPF) and the associated reengineering of the L0 L1 L2 processors to support the transition of the Copernicus ground segment to a cloud environment and an improvement of the storage / recalculation strategy of the generated data."
+domains: Platform,Image
+summary: "Develop the generic Earth Observation Processor Framework (EOPF) and the associated reengineering of the L0 L1 L2 processors to support the transition of the Copernicus ground segment (Sentinel-1, -2 and -3 Land) to a cloud environment and an improvement of the storage / recalculation strategy of the generated data."
 ---
 
 > __Customer__\: European Space Agency (ESA)
@@ -35,29 +35,32 @@ CS Group responsabilities for ESA CSC Data Processors Re-engineering (DPR) are a
 * Prime contractor
 * Engineering
 * EOPF Development
-* Best Practices implementations
+* ITT organisation by Best Practices
 * Maintenance of legacy L0 and L1 S2 processors
 
 ![Main Picture](Project ESA-DATA-PROCESSORS REENGINEERING-EN pict 2.png)
 
 The features are as follows:
-* The Reference System Service provides 3 operational functions:
-	* sampled systematic Production and Distribution Service;
-	* ad-hoc Production and Distribution Service;
-	* environment to assure the test, integration, validation, benchmarking of Sentinel Data Processors.
+* The EOPF includes:
+*     Software Development Environment (SDE)
+*     Core Python modules (CPM), the common libraries for product reading/writing/filtering, concurrent reading/writing, numerical computations, logs, traces, etc.
+*     Reference Web Site (RWS) as an entry point to the project
+*     ITT organisation by Best Practices for the reengineering
+*     Data Processors reengineering
+*     Legacy and reengineered processors maintenance
 
 # Project implementation
 
 The project objectives are as follows:
-* Develop the generic Earth Observation Processor Framework (EOPF) and the associated reengineering of the L0 L1 L2 processors to support the transition of the Copernicus ground segment to a cloud environment and an improvement of the storage / recalculation strategy of the generated data.
+* Develop the generic Earth Observation Processor Framework (EOPF) and the associated reengineering of the L0 L1 L2 processors to support the transition of the Copernicus ground segment (Sentinel-1, -2 and -3 Land) to a cloud environment and an improvement of the storage / recalculation strategy of the generated data.
 
 The processes for carrying out the project are:
-* Agile, Continuous integration, DevOps, DevSecOps, GitFlow
+* Agile, Continuous integration, DevOps, DevSecOps, GitFlow, ESA Best Practices, ESA ECSS Light
 
 # Technical characteristics
 
 The solution key points are as follows:
-* The Software Development Environment  stack offers a feature-complete, pragmatic and modern DevOps tooling centered on Gitlab.
+* The Software Development Environment stack offers a feature-complete, pragmatic and modern DevOps tooling centered on Gitlab.
 * The Core Python Modules architecture is Pangeo-like: based on 3 central open source projects Dask, Xarray and Jupyter.
 
 ![Archi Picture](Project ESA-DATA-PROCESSORS REENGINEERING-EN pict 3.png)
@@ -69,10 +72,10 @@ The main technologies used in this project are:
 |--------|----------------|
 |Hardware environment(s)|cloud and K8S|
 |Operating System(s)|Ubuntu|
-|Programming language(s)|Python|
-|Interoperability (protocols, format, APIs)|Docker, Gitlab CE, Sonar Qube|
-|Production software (IDE, DEVOPS etc.)|VS Code, GitHub, Artifactory, Helm, Kubernetes, ZenHub, Ansible, Codacy|
-|Main COTS library(ies)|Grafana, Java OpenJDK, Kafka, Keycloak, Kong, Kubernetes, Prometheus, SafeScale, FastPI, Click, smart_open, PyfileSystem2, Pydantic, Xcube, Xarray, Ray, Dask, Wordpress, Discourse, Flake8, Bandit, MyPY, Pytest, RobotFramework, Pip, code-server, JupyterLab, FileBrowser, Ungit|
+|Programming language(s)|Python,C++|
+|Interoperability (protocols, format, APIs)|ZARR, JSON, Netcdf, COG|
+|Production software (IDE, DEVOPS etc.)|Gitlab,CodeServer, SonarQube, Kaniko, Jupyter, Kubernetes, KeyCloack, EODAG|
+|Main COTS library(ies)|Python, Dask, Xarray, NumPy, GraalVM, MyPY, Pytest, Pip, code-server, JupyterLab|
 
 
 

@@ -2,9 +2,9 @@
 customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
-image: Project CNES-DT OPÉRATIONS SOL CCC ISIS SCIENCE-EN pict 1.png
+image: Project CNES-CCC ISIS SCIENCE GROUND OPERATIONS-EN pict 1.png
 size: small
-name: DT Opérations Sol CCC ISIS SCIENCE
+name: CCC ISIS SCIENCE Ground Operations
 title: Support in Task Delegation of MCO and Ground Operations of CCC ISIS Science
 domains: Control Center, Flight Dynamics
 department: SPACE
@@ -26,7 +26,7 @@ summary: "Delegation of tasks for MRO and routine ground operations for scientif
 CS Group responsabilities for Support in Task Delegation of MCO and Ground Operations of CCC ISIS Science are as follows:
 * * Management of ground support for operations in Task Delegation by CS GROUP
 
-![Main Picture](Project CNES-DT OPÉRATIONS SOL CCC ISIS SCIENCE-EN pict 2.png)
+![Main Picture](Project CNES-CCC ISIS SCIENCE GROUND OPERATIONS-EN pict 2.png)
 
 The features are as follows:
 * **Delegation of tasks for ground support in routine operation**: MCO and support for operations (shifts, on-call), support for tests, management of the Cluster Sciences Platform, integration and qualification of new LdP versions

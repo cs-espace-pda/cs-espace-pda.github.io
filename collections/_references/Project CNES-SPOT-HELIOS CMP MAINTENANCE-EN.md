@@ -2,9 +2,9 @@
 customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
-image: Project CNES-TMA CMP SPOT ET HELIOS-EN pict 1.jpg
+image: Project CNES-SPOT-HELIOS CMP MAINTENANCE-EN pict 1.jpg
 size: small
-name: TMA CMP SPOT et HELIOS
+name: SPOT-HELIOS CMP Maintenance
 title: Software maintenance of CMP SPOT and HELIOS (Post Maintenance Center)
 domains: Control Center
 department: SPACE
@@ -26,7 +26,7 @@ summary: "Level 3 software maintenance for CMP SPOT and HELIOS"
 CS Group responsabilities for Software maintenance of CMP SPOT and HELIOS (Post Maintenance Center) are as follows:
 * premium on fixed price TMA (project management and quality, technical coordination management of the IT platform, configuration management)
 
-![Main Picture](Project CNES-TMA CMP SPOT ET HELIOS-EN pict 1.jpg)
+![Main Picture](Project CNES-SPOT-HELIOS CMP MAINTENANCE-EN pict 1.jpg)
 
 The features are as follows:
 * Change management and implementation

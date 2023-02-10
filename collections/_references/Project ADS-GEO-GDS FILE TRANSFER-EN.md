@@ -2,9 +2,9 @@
 customer: ADS-GEO
 customer_long: Airbus Defense & Space Geo
 prime_contractor: 
-image: Project ADS-GEO-FILE TRANSFER-EN pict 1.png
+image: Project ADS-GEO-GDS FILE TRANSFER-EN pict 1.png
 size: small
-name: FILE TRANSFER
+name: GDS FILE TRANSFER
 title: Common service of File Transfer involved in the Geo Digital System (GDS) of Airbus DS Geo SA
 domains: Platform
 department: SPACE
@@ -33,7 +33,7 @@ Managed protocols : FTP/FTPS/SFTP/GRIDFTP/FXP, CLOUD S3, local, API Rest, AMQP, 
 CS Group responsabilities for Common service of File Transfer involved in the Geo Digital System (GDS) of Airbus DS Geo SA are as follows:
 * Maintenance, Reversibility
 
-![Main Picture](Project ADS-GEO-FILE TRANSFER-EN pict 1.png)
+![Main Picture](Project ADS-GEO-GDS FILE TRANSFER-EN pict 1.png)
 
 The features are as follows:
 * Management of many protocols for transfer (FTP, CLOUD S3, API Rest, ...)

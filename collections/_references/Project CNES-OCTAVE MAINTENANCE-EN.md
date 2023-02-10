@@ -2,9 +2,9 @@
 customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
-image: Project CNES-TMA OCTAVE-EN pict 1.png
+image: Project CNES-OCTAVE MAINTENANCE-EN pict 1.png
 size: small
-name: TMA OCTAVE
+name: OCTAVE Maintenance
 title: OCTAVE Tools/Components for Processing/Acquisition/Visualization/Use of TeleMeasurements
 domains: Control Center
 department: SPACE

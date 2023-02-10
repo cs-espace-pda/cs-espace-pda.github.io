@@ -2,9 +2,9 @@
 customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
-image: Project CNES-SIMULATEUR MISSION CO3D-EN pict 1.png
+image: Project CNES-CO3D MISSION SIMULATOR-EN pict 1.png
 size: small
-name: Simulateur Mission CO3D
+name: CO3D Mission Simulator
 title: Mission CO3D Simulator
 domains: Mission Center
 department: SPACE
@@ -26,7 +26,7 @@ summary: "Realization of configurable and fast tools to simulate the mission pro
 CS Group responsabilities for Mission CO3D Simulator are as follows:
 * Development
 
-![Main Picture](Project CNES-SIMULATEUR MISSION CO3D-EN pict 1.png)
+![Main Picture](Project CNES-CO3D MISSION SIMULATOR-EN pict 1.png)
 
 The features are as follows:
 * Mission Programming Simulator
@@ -53,7 +53,7 @@ The solution key points are as follows:
 * Development of mission simulators optimized in terms of calculation time.
 * Responsiveness to customer needs.
 
-![Archi Picture](Project CNES-SIMULATEUR MISSION CO3D-EN pict 2.jpg)
+![Archi Picture](Project CNES-CO3D MISSION SIMULATOR-EN pict 2.jpg)
 
 The main technologies used in this project are:
 

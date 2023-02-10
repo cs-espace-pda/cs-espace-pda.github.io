@@ -5,7 +5,7 @@ prime_contractor:
 image: Project CNES-CCTM-EN pict 1.png
 size: small
 name: CCTM
-title: Telemetry Processing Centre
+title: Launchers Telemetry Processing Center
 domains: PDGS
 department: SPACE
 program: Ariane
@@ -23,7 +23,7 @@ summary: "Telemetry processing for ARIANE5, VEGA and SOYOUZ launchers. Systemati
 # Context
 
 
-CS Group responsabilities for Telemetry Processing Centre are as follows:
+CS Group responsabilities for Launchers Telemetry Processing Center are as follows:
 * Design, Development, Integration, hardware migration, Maintenance, Operation support
 * Launchers telemetry deep expertise
 

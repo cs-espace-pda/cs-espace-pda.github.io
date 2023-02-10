@@ -2,9 +2,9 @@
 customer: ADS
 customer_long: Airbus Defence & Space
 prime_contractor: 
-image: Project ADS-EGNOS V3-EN pict 1.jpg
+image: Project ADS-EGNOS V3 PCF MCIF-EN pict 1.jpg
 size: small
-name: EGNOS V3
+name: EGNOS V3 PCF MCIF
 title: Development of the PCF and MCIF subsystems within EGNOS v3 (European Geostationary Navigation Overlay Service)
 domains: Navigation
 department: SPACE

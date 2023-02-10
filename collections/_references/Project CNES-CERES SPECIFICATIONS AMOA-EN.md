@@ -2,9 +2,9 @@
 customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
-image: Project CNES-AMOA CERES SPECIFICATIONS-EN pict 1.png
+image: Project CNES-CERES SPECIFICATIONS AMOA-EN pict 1.png
 size: small
-name: AMOA CERES SPECIFICATIONS
+name: CERES SPECIFICATIONS AMOA
 title: Assistance to project management for the drafting of CERES specifications
 domains: Control Center
 department: SPACE
@@ -26,7 +26,7 @@ summary: "Analysis of mission working documents (STB CERES system) and reference
 CS Group responsabilities for Assistance to project management for the drafting of CERES specifications are as follows:
 * service managed by CNES
 
-![Main Picture](Project CNES-AMOA CERES SPECIFICATIONS-EN pict 2.png)
+![Main Picture](Project CNES-CERES SPECIFICATIONS AMOA-EN pict 2.png)
 
 The features are as follows:
 * Respond to needs expressed at the system level while respecting the scope of the ISIS Product Line which defines the new CNES CCC standards.

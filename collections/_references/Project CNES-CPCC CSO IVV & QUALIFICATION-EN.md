@@ -2,9 +2,9 @@
 customer: CNES
 customer_long: Centre National d'Etudes Spatiales
 prime_contractor: 
-image: Project CNES-AIV & QUALIFICATION CPCC CSO-EN pict 1.png
+image: Project CNES-CPCC CSO IVV & QUALIFICATION-EN pict 1.png
 size: small
-name: AIV & Qualification CPCC CSO
+name: CPCC CSO IVV & Qualification
 title: CPCC IVV and developments, support in Technical and Operational Qualification and LEOP of CSO mission
 domains: Control Center, Flight Dynamics
 department: SPACE
@@ -26,7 +26,7 @@ summary: "Support for the qualification of the CPCC CSO for the launches of the 
 CS Group responsabilities for CPCC IVV and developments, support in Technical and Operational Qualification and LEOP of CSO mission are as follows:
 * * IVV and developments: CS GROUP prime contractor (10 engineers), TQ/OQ tests piloted by CNES
 
-![Main Picture](Project CNES-AIV & QUALIFICATION CPCC CSO-EN pict 2.png)
+![Main Picture](Project CNES-CPCC CSO IVV & QUALIFICATION-EN pict 2.png)
 
 The features are as follows:
 * **AIV**: development of operational procedures, definition of plans and automated execution of tests

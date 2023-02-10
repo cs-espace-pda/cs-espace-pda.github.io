@@ -1,10 +1,10 @@
 ---
-customer: CNES, ADS
+customer: CNES
 customer_long: Centre National d'Etudes Spatiales, Airbus Defense & Space
-prime_contractor: 
-image: Project CNES, ADS-TMA PLEIADES-EN pict 1.png
+prime_contractor: AIRBUS DS
+image: Project CNES-PLEIADES PROGRAMMING CHAIN MAINTENANCE-EN pict 1.png
 size: small
-name: TMA PLEIADES
+name: PLEIADES Programming Chain Maintenance
 title: TMA PLEIADES Programming Chain
 domains: Control Center
 department: SPACE
@@ -13,11 +13,11 @@ domains: Control Center
 summary: "Development: engineering phases, software specifications, preliminary and detailed design, coding and unit testing, unit and AIV validation, acceptance, warranty, MCO: correction of anomalies and development of numerous functional evolutions."
 ---
 
-> __Customer__\: Centre National d'Etudes Spatiales, Airbus Defense & Space (CNES, ADS)
+> __Customer__\: Centre National d'Etudes Spatiales, Airbus Defense & Space (CNES)
 
 > __Programme__\: Pléiades
 
-> __Supply Chain__\: CNES, ADS >  CS Group SPACE
+> __Supply Chain__\: CNES > AIRBUS DS >  CS Group SPACE
 
 
 # Context
@@ -26,7 +26,7 @@ summary: "Development: engineering phases, software specifications, preliminary 
 CS Group responsabilities for TMA PLEIADES Programming Chain are as follows:
 * Responsibility in co-contracting, project manager
 
-![Main Picture](Project CNES, ADS-TMA PLEIADES-EN pict 2.png)
+![Main Picture](Project CNES-PLEIADES PROGRAMMING CHAIN MAINTENANCE-EN pict 2.png)
 
 The features are as follows:
 * Programming Unit: image requests, program requests, receiving stations

@@ -2,9 +2,9 @@
 customer: ADS
 customer_long: Airbus Defense & Space
 prime_contractor: 
-image: 
+image: Project ADS-ALGO PNEO-EN pict 1.png
 size: small
-name: Algo Pneo
+name: ALGO PNEO
 title: ADS Pneo image algorithm development
 domains: Image
 department: SPACE
