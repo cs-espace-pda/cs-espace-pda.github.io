@@ -1,0 +1,82 @@
+---
+customer: CNES
+customer_long: Centre National d'Etudes Spatiales
+prime_contractor: 
+image: Project-CNES-ATV OPERATIONS ROPS SUPPORT-EN pict 1.png
+size: small
+name: ATV OPERATIONS ROPS SUPPORT
+title: ATV mission team support
+domains: Control Center
+department: SPACE
+program: ATV
+domains: Control Center
+summary: "Operations support within the ATV team. Operational pre-Qualification, Operational Qualification and ATV operations phases. Support to the Mission team for the roles of Training Instructor, Planner, Operation Manager"
+---
+
+> __Customer__\: Centre National d'Etudes Spatiales (CNES)
+
+> __Programme__\: ATV
+
+> __Supply Chain__\: CNES >  CS Group SPACE
+
+
+# Context
+
+
+CS Group responsabilities for ATV mission team support are as follows:
+* Operations Support
+
+![Main Picture](Project-CNES-ATV OPERATIONS ROPS SUPPORT-EN pict 1.png)
+
+The features are as follows:
+* Training Instructor: Preparation of tests, creation of scenarios, drafting of plans and follow-up, support to ESA for the preparation of simulations
+* Interface with FDS teams
+* Planner: Preparation of the flight plan, checking its consistency and transmission to the teams
+* Operation Manager: real-time coordination of operations in accordance with the flight plan, management of operational contingencies; interface with partners
+
+# Project implementation
+
+The project objectives are as follows:
+* Operations support within the ATV team
+* Operational pre-Qualification, Operational Qualification and ATV operations phases
+* Support to the Mission team for the roles of Training Instructor, Planner, Operation Manager
+
+The processes for carrying out the project are:
+* Support Team
+
+# Technical characteristics
+
+The solution key points are as follows:
+* Means of the ATV control center
+* Mastery of the components of the ATV mission 
+* Operational planning
+* Continuity of service 24 hours a day during the flight phases, team of 11 engineers (average)
+
+
+
+The main technologies used in this project are:
+
+{:class="table table-bordered table-dark"}
+| Domain | Technology(ies) |
+|--------|----------------|
+|Hardware environment(s)|PC|
+|Operating System(s)|Linux|
+|Programming language(s)|KornShell, SCILAB|
+|Production software (IDE, DEVOPS etc.)|cygwin, oscar, doors|
+
+
+
+{::comment}Abbreviations{:/comment}
+
+*[CLI]: Command Line Interface
+*[IaC]: Infrastructure as Code
+*[PaaS]: Platform as a Service
+*[VM]: Virtual Machine
+*[OS]: Operating System
+*[IAM]: Identity and Access Management
+*[SIEM]: Security Information and Event Management
+*[SSO]: Single Sign On
+*[IDS]: intrusion detection
+*[IPS]: intrusion prevention
+*[NSM]: network security monitoring
+*[DRMAA]: Distributed Resource Management Application API is a high-level Open Grid Forum API specification for the submission and control of jobs to a Distributed Resource Management (DRM) system, such as a Cluster or Grid computing infrastructure.
