@@ -24,7 +24,7 @@ summary: "A system for centralization, provision and processing of hydrological 
 
 
 CS Group responsabilities for Development of a centralized portal for access to hydrological data are as follows:
-* Design, development and deployment on CNES and CLOUD resources.
+* Design, development and deployment on CNES and CLOUD means.
 * Warranty and maintenance.
 * User support and training, community animation.
 

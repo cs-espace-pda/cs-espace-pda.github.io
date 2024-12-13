@@ -5,7 +5,7 @@ prime_contractor:
 image: Project-CNES-TPAM VIP-VENUS-EN pict 1.png
 size: small
 name: TPAM VIP-VENUS
-title: Maintenance of the Venµs Image Quality (VIP) center
+title: Maintenance of the Venµs Image Production (VIP) center
 domains: Image
 department: SPACE
 program: Venμs
@@ -23,8 +23,8 @@ summary: "Delivering an operational VIP/VPDS image processing center that takes 
 # Context
 
 
-CS Group responsabilities for Maintenance of the Venµs Image Quality (VIP) center are as follows:
-* Maintenance of the data center (VIP), the distribution server (VPDS), the qalification and operation support tools within the VEnµS ground segment
+CS Group responsabilities for Maintenance of the Venµs Image Production (VIP) center are as follows:
+* Maintenance of the data center (VIP), the distribution server (VPDS), the qualification and operation support tools within the VEnµS ground segment
 
 ![Main Picture](Project-CNES-TPAM VIP-VENUS-EN pict 1.png)
 

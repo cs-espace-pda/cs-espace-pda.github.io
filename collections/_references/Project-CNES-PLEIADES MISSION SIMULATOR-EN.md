@@ -31,7 +31,7 @@ CS Group responsabilities for PLEIADES Mission Simulator are as follows:
 The features are as follows:
 * Design of the PLEIADES mission simulator, based on the ALIS infrastructure
 * Development and validation of successive versions.
-* Integration of new functionalities (mission API, HMI...)
+* Integration of new functionalities (mission API, HMI, etc.)
 * Regular integration of new versions of GOTLIB/PHRLIB
 * Reversal of functionalities developed for the PLEIADES Simulator in ALIS
 

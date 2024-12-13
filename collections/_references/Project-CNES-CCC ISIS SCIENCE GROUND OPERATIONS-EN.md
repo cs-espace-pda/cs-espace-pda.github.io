@@ -5,12 +5,12 @@ prime_contractor:
 image: Project-CNES-CCC ISIS SCIENCE GROUND OPERATIONS-EN pict 1.png
 size: small
 name: CCC ISIS SCIENCE Ground Operations
-title: Support in Task Delegation of MCO and Ground Operations of CCC ISIS Science
+title: Support in Task Delegation of MCO and Ground Operations of CCCs ISIS Science
 domains: Control Center, Flight Dynamics
 department: SPACE
 program: SWOT
 domains: Control Center, Flight Dynamics
-summary: "Delegation of tasks for MRO and routine ground operations for scientific or civil missions based on the ISIS Product Line: SWOT missions, N3SS, ..."
+summary: "Delegation of tasks for MCO and routine ground operations for scientific or civil missions based on the ISIS Product Line: SWOT, N3SS missions, etc."
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,31 +23,31 @@ summary: "Delegation of tasks for MRO and routine ground operations for scientif
 # Context
 
 
-CS Group responsabilities for Support in Task Delegation of MCO and Ground Operations of CCC ISIS Science are as follows:
-* * Management of ground support for operations in Task Delegation by CS GROUP
+CS Group responsabilities for Support in Task Delegation of MCO and Ground Operations of CCCs ISIS Science are as follows:
+* * Management of ground support for Task Delegation operations by CS GROUP
 
 ![Main Picture](Project-CNES-CCC ISIS SCIENCE GROUND OPERATIONS-EN pict 2.png)
 
 The features are as follows:
-* **Delegation of tasks for ground support in routine operation**: MCO and support for operations (shifts, on-call), support for tests, management of the Cluster Sciences Platform, integration and qualification of new LdP versions
-	**Contribution to the shared AIV ISIS (MIG), to the shared exploitation layer (PULP) and to the AIV ClusterSciences**: AIV and testing of new versions of LdP, integration of new missions
-	**Task delegation**: support for the definition, implementation and technical management of operations assistance tools
+* **Delegation of tasks for ground support in routine operation**: MCO and operations support (shifts, on-call support), test support, Cluster Sciences Platform management, integration and qualification of new LdP versions
+	**Contribution to the ISIS shared AIV (MIG), the shared exploitation layer (PULP) and the ClusterSciences** AIV: AIV and testing of new versions of LdP, integration of new missions
+	**Task delegation**: support for the definition, implementation and technical management of operations support tools
 
 # Project implementation
 
 The project objectives are as follows:
-* Delegation of tasks for MRO and routine ground operations for scientific or civil missions based on the ISIS Product Line: SWOT missions, N3SS, ...
+* Delegation of tasks for MCO and routine ground operations for scientific or civil missions based on the ISIS Product Line: SWOT, N3SS missions, etc.
 
 The processes for carrying out the project are:
-* Specific Process for Assembly, Integration, Validation Qualification of Control Ground Segments
-* Qualification system tests of control ground segments: Compatibility, Technical and Operational Qualification
+* Specific process of Assembly, Integration, Validation Qualification of Ground Control Segments
+* Ground control segment qualification system tests: Compatibility, Technical and Operational Qualification
 
 # Technical characteristics
 
 The solution key points are as follows:
 * Deployment of virtualized architecture, equipment, costs, security
-* Configuration and deployment of CCCs and SCPs/SSVs (experts) and test lines (Onboard, Ground, FDS users)
-* Spatial databases/Systems: DB generation, LdP configuration, TM/TC qualification
+* Configuration and deployment of CCC and SCP/SSV (experts) and test lines (Onboard, Ground, FDS users)
+* Spatial databases/Systems: BD generation, LdP configuration, TM/TC qualification
 * Highly experienced team (ISIS experts)
 
 

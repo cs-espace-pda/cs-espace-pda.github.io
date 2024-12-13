@@ -10,7 +10,7 @@ domains: Control Center, Flight Dynamics
 department: SPACE
 program: Kineis
 domains: Control Center, Flight Dynamics
-summary: "Engineering assistance and support for carrying out the **integration and system qualification** of the components of the **Ground Control Segments of the N3SS Satellite and the KINEIS constellation** implementing the **ISIS Product Line**. ISIS missionization and integration on science cluster and Cloud. Development of the CNES/ESA/NASA IOAG demonstrator"
+summary: "Engineering assistance and support for carrying out the **integration and system qualification** of the components of the **Ground Control Segments of the N3SS Satellite and the KINEIS constellation** implementing the **ISIS Product Line**. ISIS missionization and integration on science and Cloud cluster. Development of the CNES/ESA/NASA IOAG demonstrator"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -29,29 +29,29 @@ CS Group responsabilities for SCC IVV, support in Technical and Operational Qual
 ![Main Picture](Project-CNES-SCC N3SS & KINEIS IVV & QUALIFICATION-EN pict 2.png)
 
 The features are as follows:
-* **AIV**: development of LdP procedures and assignment, definition of strategy, plans and automated execution of tests (AIV tools for managing contexts, results, requirements)
+* **AIV**: development of procedures and LdP missionization, definition of strategy, plans and automated execution of tests (AIV tools for managing contexts, results, requirements)
 	**QT/OQ System Tests**: preparation and support for the execution of compatibility/QT/OQ tests, development of ground operational procedures
-	**Support to Operations**: resources integrated into the CNES teams for launch, in-flight acceptance and start of life (shifts, ground constraints)
+	**Operations Support**: resources integrated into the CNES teams for launch, in-flight acceptance and start of life (shifts, ground on-call duties)
 
 # Project implementation
 
 The project objectives are as follows:
 * Engineering assistance and support for carrying out the **integration and system qualification** of the components of the **Ground Control Segments of the N3SS Satellite and the KINEIS constellation** implementing the **ISIS Product Line**
-* ISIS missionization and integration on science cluster and Cloud
+* ISIS missionization and integration on science and Cloud cluster
 * Development of the CNES/ESA/NASA IOAG demonstrator
 
 The processes for carrying out the project are:
 * Requirements management (STB, IF): JIRA
-* Specific Process for Assembly, Integration, Validation Qualification of Control Ground Segments
-* Qualification system tests of control ground segments: Compatibility, Technical and Operational Qualification
+* Specific process of Assembly, Integration, Validation Qualification of Ground Control Segments
+* Ground control segment qualification system tests: Compatibility, Technical and Operational Qualification
 
 # Technical characteristics
 
 The solution key points are as follows:
-* Configuration and deployment of SCCs: Nominal, Standby, SCP/SSV (experts) and test lines
-* Operational qualification TM/TC ISIS chain: BDS configurations, sessions, SLE, COP, catalogs, TM visualization, TC histo
+* Configuration and deployment of SCCs: Nominal, Backup, SCP/SSV (experts) and test lines
+* TM/TC ISIS chain operational qualification: BDS configurations, sessions, SLE, COP, catalogs, TM visualization, TC history
 * Implementation of ISIS operational concepts: procedures, automation 
-* Experienced AIV team for rapid upskilling
+* Experienced AIV team for rapid skills development
 
 
 

@@ -5,12 +5,12 @@ prime_contractor:
 image: Project-CNES-HELIOS CMP OPERATIONS GROUND SUPPORT-EN pict 1.jpg
 size: small
 name: HELIOS CMP Operations Ground Support
-title: Support to ground operations of the Maintenance Center at Post Helios 2A / 2B
+title: Support for ground operations of the Maintenance Center at Post Helios 2A / 2B
 domains: Control Center
 department: SPACE
 program: Spot Helios
 domains: Control Center
-summary: "Ensure operations for the GROUND operating service of the Station Maintenance Centers of HELIOS satellites in delegation of tasks. MCO (Maintenance in operational conditions) of the ground means used to ensure the operations of the satellites of the HELIOS sector"
+summary: "Ensure operations for the SOL operating service of the Station Maintenance Centers of HELIOS satellites by delegation of tasks. MCO (Maintenance in operational conditions) of the ground means used to ensure the operations of the HELIOS sector satellites"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,28 +23,28 @@ summary: "Ensure operations for the GROUND operating service of the Station Main
 # Context
 
 
-CS Group responsabilities for Support to ground operations of the Maintenance Center at Post Helios 2A / 2B are as follows:
-* Reinforce the CNES teams, maintain the CMPs in operational conditions, respect the operational constraints
+CS Group responsabilities for Support for ground operations of the Maintenance Center at Post Helios 2A / 2B are as follows:
+* Strengthen CNES teams, maintain CMPs in operational conditions, respect operational constraints
 
 ![Main Picture](Project-CNES-HELIOS CMP OPERATIONS GROUND SUPPORT-EN pict 2.jpg)
 
 The features are as follows:
-* **Operation of the CMP**, namely :
-* 24-hour GROUND on-call duty: operational monitoring of conf. hardware and software
+* **Operation of CMP**, namely :
+* 24-hour SOL on-call: operational monitoring of conf. hardware and software
 * Monitoring of installations, guarantee of software integrity
 * Participation in operational meetings 
-* Support for the tests of the Bord, Mission, Orbito teams
-	**Technical management of subsystems** (STS, DUTCH, CGCU, EGM, OMGS, FOS/ARPE, CCS, etc.), namely:
+* Test support for the Bord, Mission and Orbito teams
+	**Technical management of subsystems** (STS, DUTCH, CGCU, EGM, OMGS, FOS/ARPE, CCS, etc.), namely :
 * Monitoring of software vis-à-vis the industrial resp. maintenance 
 * Validation of new versions
-* On-call support if software problems
-* Preparation for CNES software follow-up commissions
+* On-call support for software problems
+* Preparation for CNES software monitoring commissions
 
 # Project implementation
 
 The project objectives are as follows:
-* Ensure operations for the GROUND operating service of the Station Maintenance Centers of HELIOS satellites in delegation of tasks
-* MCO (Maintenance in operational conditions) of the ground means used to ensure the operations of the satellites of the HELIOS sector
+* Ensure operations for the SOL operating service of the Station Maintenance Centers of HELIOS satellites by delegation of tasks
+* MCO (Maintenance in operational conditions) of the ground means used to ensure the operations of the HELIOS sector satellites
 
 The processes for carrying out the project are:
 * V Cycle
@@ -52,7 +52,7 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* Maintenance of skills to ensure the MCO and support to operations over a very long period
+* Maintaining skills to ensure MCO and support for operations over a very long period
 
 
 

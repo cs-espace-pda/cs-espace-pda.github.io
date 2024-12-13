@@ -24,14 +24,14 @@ summary: "Level 3 software maintenance for CMP SPOT and HELIOS"
 
 
 CS Group responsabilities for Software maintenance of CMP SPOT and HELIOS (Post Maintenance Center) are as follows:
-* premium on fixed price TMA (project management and quality, technical coordination management of the IT platform, configuration management)
+* bonus on fixed price TMA (project management and quality, technical coordination management of the IT platform, configuration management)
 
 ![Main Picture](Project-CNES-SPOT-HELIOS CMP MAINTENANCE-EN pict 1.jpg)
 
 The features are as follows:
-* Change management and implementation
+* Management and implementation of developments
 * Corrective maintenance
-* Day-to-day operations and on-call support for operational emergencies
+* Daily operations and on-call support in the event of an operational emergency
 * Maintenance, since 2007, of the CCS (Control Center) which is the real-time component of the CMP
 * User training
 
@@ -47,7 +47,7 @@ The processes for carrying out the project are:
 
 The solution key points are as follows:
 * functional architecture of software components
-* maintenance of skills, component test environments over a very long period
+* maintaining skills and component testing environments over a very long period
 
 
 

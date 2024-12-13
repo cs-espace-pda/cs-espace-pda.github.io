@@ -5,12 +5,12 @@ prime_contractor:
 image: Project-CNES-ICC-EN pict 1.png
 size: small
 name: ICC
-title: 3D Optical Constellation CO3D Instrument Calibration Center
+title: Constellation Optical 3D CO3D Instrument Calibration Center
 domains: Platform, Image
 department: SPACE
 program: CO3D
 domains: Platform, Image
-summary: "Development and provision of the ICC platform (Instrument Calibration Center). Combined application of the agile Scrum method and the DevOps approach"
+summary: "Development and provision of the ICC (Instrument Calibration Center) platform. Combined application of the agile Scrum method and the DevOps approach"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,7 +23,7 @@ summary: "Development and provision of the ICC platform (Instrument Calibration 
 # Context
 
 
-CS Group responsabilities for 3D Optical Constellation CO3D Instrument Calibration Center are as follows:
+CS Group responsabilities for Constellation Optical 3D CO3D Instrument Calibration Center are as follows:
 * Design, Development, Integration and Maintenance,
 
 ![Main Picture](Project-CNES-ICC-EN pict 1.png)
@@ -34,20 +34,20 @@ The features are as follows:
 # Project implementation
 
 The project objectives are as follows:
-* Development and provision of the ICC platform (Instrument Calibration Center)
+* Development and provision of the ICC (Instrument Calibration Center) platform
 * Combined application of the agile Scrum method and the DevOps approach
 
 The processes for carrying out the project are:
 * Agile Scrum method
 * DevOps approach
-* Continuous Cloud Deployment
+* Continuous deployment on the cloud
 
 # Technical characteristics
 
 The solution key points are as follows:
 * Infrastructure as Code: fully scripted and automated deployment of infrastructure and services
-* Elastic platform (based on Kubernetes clusters and S3 storage) to meet instantaneous processing needs, optimizing the cost
-* Provision of a virtual desktop and a complete work environment accessible from the browser
+* Elastic platform (based on Kubernetes clusters and S3 storage) to meet instant processing needs, optimizing cost
+* Providing a virtual desktop and complete work environment accessible from the browser
 
 ![Archi Picture](Project-CNES-ICC-EN pict 2.png)
 

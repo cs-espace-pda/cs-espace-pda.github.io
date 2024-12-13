@@ -5,12 +5,12 @@ prime_contractor:
 image: Project-CS GROUP (FINANCEMENT BPI)-AI4GEO-EN pict 1.png
 size: small
 name: AI4GEO
-title: Development of a platform for the development and publication of SCALABLE, AGILE and “DEVOPS ready” geospatial services
+title: Development of a SCALABLE, AGILE and “DEVOPS ready” geospatial services development and publication platform
 domains: Platform
 department: SPACE
 program: PIA
 domains: Platform
-summary: "Study, design and publish a **turnkey** massive processing platform, **optimized** for 2D/3D analysis and artificial intelligence in the field of Earth Observation (EO). Used as a **base platform of the AI4GEO project**, carried out in partnership with CNES, ONERA, IGN, Airbus, CLS, GeoSat, QuantCube"
+summary: "Study, design and publish a **turnkey platform** for massive processing, **optimized** for 2D/3D analysis and artificial intelligence in the field of Earth Observation (EO). Used as a **base platform for the AI4GEO project**, carried out in partnership with CNES, ONERA, IGN, Airbus, CLS, GeoSat, QuantCube"
 ---
 
 > __Customer__\: CS GROUP France (Financement Bpifrance) (CS GROUP (FINANCEMENT BPI))
@@ -23,7 +23,7 @@ summary: "Study, design and publish a **turnkey** massive processing platform, *
 # Context
 
 
-CS Group responsabilities for Development of a platform for the development and publication of SCALABLE, AGILE and “DEVOPS ready” geospatial services are as follows:
+CS Group responsabilities for Development of a SCALABLE, AGILE and “DEVOPS ready” geospatial services development and publication platform are as follows:
 * Design, development and deployment on CNES HPC, Cloud, DIAS. Integration of partner contributions. Help Desk, Documentation, User Support
 
 ![Main Picture](Project-CS GROUP (FINANCEMENT BPI)-AI4GEO-EN pict 2.png)
@@ -39,8 +39,8 @@ The features are as follows:
 # Project implementation
 
 The project objectives are as follows:
-* Study, design and publish a **turnkey** massive processing platform, **optimized** for 2D/3D analysis and artificial intelligence in the field of Earth Observation (EO).
-* Used as a **base platform of the AI4GEO project**, carried out in partnership with CNES, ONERA, IGN, Airbus, CLS, GeoSat, QuantCube
+* Study, design and publish a **turnkey platform** for massive processing, **optimized** for 2D/3D analysis and artificial intelligence in the field of Earth Observation (EO).
+* Used as a **base platform for the AI4GEO project**, carried out in partnership with CNES, ONERA, IGN, Airbus, CLS, GeoSat, QuantCube
 
 The processes for carrying out the project are:
 * Agile method
@@ -51,7 +51,7 @@ The solution key points are as follows:
 * **Online** environment, accessible through a browser, **without plugin**
 * Simplified access to data, regardless of the Data Provider
 * Transparent management of the CNES DataLake
-* Batteries included: from scientific libraries to heavy applications
+* Batteries included: from scientific libraries to heavy-duty applications
 * Dynamic and interactive visualization of results in 1D, 2D and 3D
 * Centralized and secure access
 

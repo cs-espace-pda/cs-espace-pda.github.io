@@ -54,8 +54,9 @@ The main technologies used in this project are:
 {:class="table table-bordered table-dark"}
 | Domain | Technology(ies) |
 |--------|----------------|
+|Hardware environment(s)|QorIQ T2080 4-core|
 |Operating System(s)|Linux|
-|Programming language(s)|C language on QorIQ T2080 (4-core)|
+|Programming language(s)|C|
 
 
 

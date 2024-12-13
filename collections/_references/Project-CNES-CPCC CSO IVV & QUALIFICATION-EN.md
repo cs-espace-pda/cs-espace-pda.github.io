@@ -30,12 +30,12 @@ CS Group responsabilities for CPCC IVV and developments, support in Technical an
 
 The features are as follows:
 * **AIV**: development of operational procedures, definition of plans and automated execution of tests
-	**Specification and Development of components** DAC (archiving), RESA (reservation of SOL stations), GLV management of LVs, management of encryptors, DESKTOP
+	**Specification and Development of components** DAC (archiving), RESA (reservation of SOL stations), GLV LV management, encryptor management, DESKTOP
 	**Interface engineering**
-	**Quality Support** for developments and AIV (Qualification Files)
-	**QT/OQ System** tests: preparation and support for the execution of tests
-	**Support to Operations**: rounds and on-call duty on the GROUND and MISSION
-	**Technical support** to FDS, MAP teams
+	**Quality Support** of developments and AIV (Qualification Files)
+	**QT/OQ System Tests**: preparation and support for the execution of tests
+	**Operations Support**: GROUND and MISSION tours and on-call duties
+	**Technical support** for FDS, MAP teams
 
 # Project implementation
 
@@ -44,16 +44,16 @@ The project objectives are as follows:
 
 The processes for carrying out the project are:
 * Requirements management (STB, IF): Testlink and Excel
-* Specific Process for Assembly, Integration, Validation Qualification of Control Ground Segments
-* Qualification system tests of control ground segments: Compatibility, Technical and Operational Qualification
+* Specific process of Assembly, Integration, Validation Qualification of Ground Control Segments
+* Ground control segment qualification system tests: Compatibility, Technical and Operational Qualification
 
 # Technical characteristics
 
 The solution key points are as follows:
 * Successful implementation of a first functional alternative solution in less than 6 months based on OpenCenter
-* Very tense schedule challenging for the teams
-* Strong reactivity of the development team
-* Deployment of a multisat solution on an operational monosat center
+* Very tense schedule, testing for the teams
+* Strong responsiveness of the development team
+* Deployment of a multisat solution on an operational single-sat center
 * Complex mission: chronology of bi-satellite activities, satellite carrying the COA
 
 

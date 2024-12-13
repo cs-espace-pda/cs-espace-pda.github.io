@@ -10,7 +10,7 @@ domains: Control Center
 department: SPACE
 program: Pléiades
 domains: Control Center
-summary: "Development: engineering phases, software specifications, preliminary and detailed design, coding and unit testing, unit and AIV validation, acceptance, warranty, MCO: correction of anomalies and development of numerous functional evolutions."
+summary: "Development: engineering phases, software specifications, preliminary and detailed design, coding and unit testing, unit and AIV validation, acceptance, warranty, MCO: correction of anomalies and development of numerous functional developments."
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -24,17 +24,17 @@ summary: "Development: engineering phases, software specifications, preliminary 
 
 
 CS Group responsabilities for TMA PLEIADES Programming Chain are as follows:
-* Responsibility in co-contracting, project manager
+* Responsibility in co-contracting, Project manager
 
 ![Main Picture](Project-AIRBUS DS-PLEIADES PROGRAMMING CHAIN MAINTENANCE-EN pict 2.png)
 
 The features are as follows:
-* Programming Unit: image requests, program requests, receiving stations
+* Programming Unit: image requests, programs, receiving stations
 * Access Unit: user access interface
 * DUPC Unit: satellite commands, CU data
 * PCME Unit: international defense programming 
-* Processing Unit: TMI inventory and archiving
-* ImageReceivingStation Unit: receiving and ingesting TMI
+* Processing Unit: inventory and archiving TMI
+* ImageReceivingStation Unit: TMI reception and ingestion
 * AccurateAttitudeDataRestoration Unit: fine attitude data
 * CommandControl Unit: system and satellite settings
 * Integration of PHRLIB/GOTLIB mission libraries
@@ -43,7 +43,7 @@ The features are as follows:
 
 The project objectives are as follows:
 * Development: engineering phases, software specifications, preliminary and detailed design, coding and unit testing, unit and AIV validation, acceptance, warranty,
-* MCO: correction of anomalies and development of numerous functional evolutions.
+* MCO: correction of anomalies and development of numerous functional developments.
 
 The processes for carrying out the project are:
 * V Cycle
@@ -65,7 +65,7 @@ The main technologies used in this project are:
 |--------|----------------|
 |Operating System(s)|Linux, XP|
 |Programming language(s)|C++, Java|
-|Production software (IDE, DEVOPS etc.)|Oracle spatial, SIG OpenMap, Web Services ,Apache/Tomcat/Axis, Kerbéros/LDAP ,Java web start, Xerces|
+|Production software (IDE, DEVOPS etc.)|Oracle spatial, SIG OpenMap, Web Services, Apache Tomcat, Apache Axis, Kerbéros/LDAP ,Java web start, Xerces|
 |Main COTS library(ies)|45 cots|
 
 

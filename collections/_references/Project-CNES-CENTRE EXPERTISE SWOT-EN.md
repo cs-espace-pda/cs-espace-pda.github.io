@@ -5,12 +5,12 @@ prime_contractor:
 image: Project-CNES-CENTRE EXPERTISE SWOT-EN pict 1.png
 size: small
 name: Centre Expertise SWOT
-title: SWOT Expertise Center
+title: SWOT Center of Expertise
 domains: EO Services
 department: SPACE
 program: SWOT
 domains: EO Services
-summary: "Provision of a Calibration/Validation environment for SWOT algorithms. Development and provision of interfacing tools for SWOT data access. Development and provision of replay and test tools for processing. CHRONOS SWOT processing orchestrator to facilitate the launch of on-demand processing"
+summary: "Provision of a Calibration/Validation environment for SWOT algorithms. Development and provision of interfacing tools for access to SWOT data. Development and provision of replay and test tools for treatments. CHRONOS SWOT processing orchestrator to facilitate the launch of on-demand processing"
 ---
 
 > __Customer__\: Centre National d’Études Spatiales (CNES)
@@ -23,7 +23,7 @@ summary: "Provision of a Calibration/Validation environment for SWOT algorithms.
 # Context
 
 
-CS Group responsabilities for SWOT Expertise Center are as follows:
+CS Group responsabilities for SWOT Center of Expertise are as follows:
 * Design, Development, Integration and Maintenance
 
 ![Main Picture](Project-CNES-CENTRE EXPERTISE SWOT-EN pict 1.png)
@@ -37,8 +37,8 @@ The features are as follows:
 
 The project objectives are as follows:
 * Provision of a Calibration/Validation environment for SWOT algorithms
-* Development and provision of interfacing tools for SWOT data access
-* Development and provision of replay and test tools for processing
+* Development and provision of interfacing tools for access to SWOT data
+* Development and provision of replay and test tools for treatments
 * CHRONOS SWOT processing orchestrator to facilitate the launch of on-demand processing
 
 The processes for carrying out the project are:

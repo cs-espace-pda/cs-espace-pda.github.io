@@ -10,7 +10,7 @@ domains: Control Center
 department: SPACE
 program: Galileo
 domains: Control Center
-summary: "Support to the CNES OP sub-directorate for the preparation and monitoring of LEOP operations for the satellites of the Galileo constellation"
+summary: "Support to the CNES OP sub-directorate for the preparation and monitoring of LEOP operations for satellites in the Galileo constellation"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -45,7 +45,7 @@ The features are as follows:
 # Project implementation
 
 The project objectives are as follows:
-* Support to the CNES OP sub-directorate for the preparation and monitoring of LEOP operations for the satellites of the Galileo constellation
+* Support to the CNES OP sub-directorate for the preparation and monitoring of LEOP operations for satellites in the Galileo constellation
 
 The processes for carrying out the project are:
 * Support
@@ -54,9 +54,9 @@ The processes for carrying out the project are:
 
 The solution key points are as follows:
 * European context: CNES / ESOC / Astrium / OHB
-* GALILEO platforms and ESOC and CNES ground facilities; On-board DHS, AOCS, TTC subsystems of IOV and FOC platforms
+* GALILEO platforms and medium ground ESOC and CNES; DHS, AOCS, TTC on-board subsystems of the IOV and FOC platforms
 * Operations carried out alternately from ESOC (Darmstadt) or on the CNES site (Toulouse)
-* Teams integrated into 24/7 shifts over the duration of LEOP operations
+* Teams integrated into shifts 24/7 for the duration of LEOP operations
 * Project management with subcontracting
 
 

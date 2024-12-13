@@ -10,7 +10,7 @@ domains: Platform, PDGS, Orchestration
 department: SPACE
 program: Copernicus
 domains: Platform, PDGS, Orchestration
-summary: "Develop and integrate the Systematic Production Service for Sentinel-2 satellite in a high availability platform. Optimise the processing workflow to meet ESA SLA for L1C and L2A products in few hours with input data session up to 60 GB."
+summary: "Develop, integrate and maintain the Systematic Production Service for Sentinel-2 satellite in a high availability platform. 7/7 operations: thanks to our state-of-the-art operations tools, the operations team is able to detect, analyse and resolve any production problems within a very short timeframe."
 ---
 
 > __Customer__\: European Space Agency (ESA)
@@ -28,7 +28,7 @@ The first Copernicus space component operations have been successfully in place 
 
 ![](http://spaceflight101.com/copernicus/wp-content/uploads/sites/35/2017/10/copernicus-yt-1.jpg)
 
-From 2019 to 2023, ESA is carrying out a redesign of the Copernicus ground system to bring about a rationalization of interfaces between services, standardization and simplification of interfaces, minimization of interdependencies between services. This overhaul will help meet the challenges of implementing new HPCM satellites: increased data volumes, industrial independence, deployment on public clouds, etc.
+From 2019 to 2024, ESA is carrying out a redesign of the Copernicus ground system to bring about a rationalization of interfaces between services, standardization and simplification of interfaces, minimization of interdependencies between services. This overhaul will help meet the challenges of implementing new HPCM satellites: increased data volumes, industrial independence, deployment on public clouds, etc.
     
 This redesign includes the following projects:
 
@@ -39,24 +39,25 @@ This redesign includes the following projects:
 * [__CSC Production Services__](project-esa-production-sentinel-2-en.html): encompasses all activities necessary to convert any Sentinel data acquired on XBand and EDRS into user level data available on PRIP interface, meeting the quality specification and delivering it for user access and archiving.
 
 CS Group responsabilities for ESA CSC Production Service Sentinel 2 are as follows:
-* Turnkey supply of an orchestration system for optimized image processing system: parallelization of 40 differents processors with a non-linear workflow, hundreds dynamic POD scaling.
-* Level-2 support and maintenance.
+* Turnkey supply of the optimised Sentinel-2B image processing system producing 160,000 files per day with strict timing constraints.
+* Level 2 support and maintenance.
 
 ![Main Picture](Project-CAP GEMINI IT.-PRODUCTION SENTINEL 2-EN pict 2.png)
 
 The features are as follows:
-* Sentinel 2 processing system:
-	* XBIP / EDIP ingestion
-	* IPF integration
-	* Spring Cloud Data Flow (SCDF) and Kafka cloud-native and open-source workflow management 
-	* CEPH FS high performance storage (nominaly 6TB of data read by day)
-	* Fine tuning of processing strategy
+* Raw data ingestion (DDIP, EDIP); Aux data ingestion and selection
+* Request Driven & Data Driven processing; Traceability; Products inventory; Baselines management
+* Workflow management with 2 levels orchestration; Priority management; Horizontal Scaling capacities
+* High performance big size local storage
+* Logging; Failure recovery; Automatic alert notifications; Operation tooling
+* Infrastructure agnostic; Open Source components
+* Compliant with Copernicus security requirements
 
 # Project implementation
 
 The project objectives are as follows:
-* Develop and integrate the Systematic Production Service for Sentinel-2 satellite in a high availability platform.
-* Optimise the processing workflow to meet ESA SLA for L1C and L2A products in few hours with input data session up to 60 GB.
+* Develop, integrate and maintain the Systematic Production Service for Sentinel-2 satellite in a high availability platform.
+* 7/7 operations: thanks to our state-of-the-art operations tools, the operations team is able to detect, analyse and resolve any production problems within a very short timeframe.
 
 The processes for carrying out the project are:
 * Agile, Continuous integration
@@ -65,8 +66,9 @@ The processes for carrying out the project are:
 
 The solution key points are as follows:
 * The microservices architecture is based on a high-availability Kubernetes cloud cluster of around 100 virtual machines. 
-* A message queue-based choreography system ensures a dynamic PODs scaling.
-* A shared volume is implemented using a virtual file system.
+* Non-linear workflow (SCDF)
+* A message based (Kafka) choreography system with dynamic scaling
+* A high-performance, finely optimised CEPH FS shared volume
 
 ![Archi Picture](Project-CAP GEMINI IT.-PRODUCTION SENTINEL 2-EN pict 3.png)
 

@@ -10,7 +10,7 @@ domains: Mission Center
 department: SPACE
 program: Pléiades
 domains: Mission Center
-summary: "Support to CNES mission teams for the implementation of operational activities and the monitoring of PLEIADES, CSO and Hélios missions"
+summary: "Support to CNES mission teams for the implementation of operational activities and monitoring of the PLEIADES, CSO and Hélios missions"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -30,16 +30,16 @@ CS Group responsabilities for PLEIADES Mission Support are as follows:
 
 The features are as follows:
 * Preparation, qualification and execution of mission operations 
-* Maintenance of operational documentation
+* Maintaining operational documentation
 * Implementation of operational scenarios for training or skills maintenance purposes
-* Missionization of operation tools
+* Missionization of operating tools
 * Development of new procedures
-* Support for the preparation of operations in the operational qualification phase, launch, positioning, in-flight acceptance, routine
+* Support for the preparation of operations in the operational qualification phase, launch, stationing, in-flight acceptance, routine
 
 # Project implementation
 
 The project objectives are as follows:
-* Support to CNES mission teams for the implementation of operational activities and the monitoring of PLEIADES, CSO and Hélios missions
+* Support to CNES mission teams for the implementation of operational activities and monitoring of the PLEIADES, CSO and Hélios missions
 
 The processes for carrying out the project are:
 * Technical Assistance

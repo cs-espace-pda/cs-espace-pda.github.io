@@ -5,7 +5,7 @@ prime_contractor:
 image: Project-CNES-SISMOC FIMOC MAINTENANCE-EN pict 1.jpg
 size: small
 name: SISMOC FIMOC Maintenance
-title: Maintenance of the SISMOC and FIMOC mission centers
+title: Maintenance of SISMOC and FIMOC mission centers
 domains: Mission Center
 department: SPACE
 program: Interplanetary
@@ -23,17 +23,17 @@ summary: "Corrective and evolutive maintenance of the following mission centers.
 # Context
 
 
-CS Group responsabilities for Maintenance of the SISMOC and FIMOC mission centers are as follows:
-* Maintenance and evolutions, support
+CS Group responsabilities for Maintenance of SISMOC and FIMOC mission centers are as follows:
+* Maintenance and developments, support
 
 ![Main Picture](Project-CNES-SISMOC FIMOC MAINTENANCE-EN pict 2.jpg)
 
 The features are as follows:
-* 24-hour operational centers
+* 24/7 operational centers
 * Mission centers designed around a common core: the SAG
 * Instrument monitoring and programming
 * Data exchange with JPL
-* Long term archiving
+* Long-term archiving
 * Processing and dissemination of scientific data
 
 # Project implementation
@@ -50,8 +50,8 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* Full Virtualization of Mission Centers
-* Mutualization of skills between the 2 mission centers
+* Complete virtualization of mission centers
+* Pooling of skills between the 2 mission centers
 
 ![Archi Picture](Project-CNES-SISMOC FIMOC MAINTENANCE-EN pict 3.jpg)
 

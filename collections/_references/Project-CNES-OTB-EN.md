@@ -10,7 +10,7 @@ domains: Image
 department: SPACE
 program: Generic
 domains: Image
-summary: "**OTB**: Free image processing toolbox for remote sensing, consisting of a C++ library and a set of applications accessible from different Wrappers: Python 3, command line, QGIS plugin, GUI."
+summary: "**OTB**: Free image processing toolbox for remote sensing, composed of a C++ library and a set of applications accessible from different Wrappers: Python 3, command line, QGIS plugin, GUI."
 ---
 
 > __Customer__\: Centre National d’Études Spatiales (CNES)
@@ -24,24 +24,24 @@ summary: "**OTB**: Free image processing toolbox for remote sensing, consisting 
 
 
 CS Group responsabilities for Orfeo Toolbox are as follows:
-* Library maintenance and upgrades
+* Library maintenance and developments
 * Community Support
-* Animation of communities of users and developers
+* Animation of user and developer communities
 * Maintenance of the platform for online services
 
 ![Main Picture](Project-CNES-OTB-EN pict 2.png)
 
 The features are as follows:
 * **Segmentation**: applicable on a large scale (mean shift, watersheds, etc.) vectorization, comparison
-	**Machine Learning**: Training of classification and regression models. Application on image and vector data. Assessment
+	**Machine Learning**: Training of classification and regression models. Application to image and vector data. Assessment
 	**Extraction of primitives**: Contour detection, calculation of radiometric indices, texture extraction, calculation of global and local statistics, mathematical morphology
-	**Image Geometry**: Ortho-Rectification, Model Sharpening, Grid Resampling, PanSharpening, Disparity Calculation, Image Registration
+	**Image geometry**: Ortho-rectification, model refinement, grid resampling, PanSharpening, Disparity calculation, image registration
 	**Calibration, Hyperspectral…**
 
 # Project implementation
 
 The project objectives are as follows:
-* **OTB**: Free image processing toolbox for remote sensing, consisting of a C++ library and a set of applications accessible from different Wrappers: Python 3, command line, QGIS plugin, GUI.
+* **OTB**: Free image processing toolbox for remote sensing, composed of a C++ library and a set of applications accessible from different Wrappers: Python 3, command line, QGIS plugin, GUI.
 
 The processes for carrying out the project are:
 * Iterative development
@@ -54,7 +54,7 @@ The solution key points are as follows:
 * C++ software based on OTB libraries
 * Python
 * CMake / CTest / CDash
-* Managing multiple plugins using generic factories
+* Multiple plugin handling using generic factories
 
 
 

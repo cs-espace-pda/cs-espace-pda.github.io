@@ -10,7 +10,7 @@ domains: Control Center
 department: SPACE
 program: ATV
 domains: Control Center
-summary: "Operations support within the ATV team. Operational pre-Qualification, Operational Qualification and ATV operations phases. Support to the Mission team for the roles of Training Instructor, Planner, Operation Manager"
+summary: "Operations support within the ATV team. Operational Pre-Qualification Phases, Operational Qualification and ATV operations. Support to the Mission team for the roles of Training Instructor, Planner, Operation Manager"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -24,21 +24,21 @@ summary: "Operations support within the ATV team. Operational pre-Qualification,
 
 
 CS Group responsabilities for ATV mission team support are as follows:
-* Operations Support
+* Operations support
 
 ![Main Picture](Project-CNES-ATV OPERATIONS ROPS SUPPORT-EN pict 1.png)
 
 The features are as follows:
-* Training Instructor: Preparation of tests, creation of scenarios, drafting of plans and follow-up, support to ESA for the preparation of simulations
+* Training Instructor: Preparation of tests, creation of scenarios, drafting of plans and monitoring, support to the ESA for the preparation of simulations
 * Interface with FDS teams
-* Planner: Preparation of the flight plan, checking its consistency and transmission to the teams
+* Planner: Preparation of the flight plan, verification of its consistency and transmission to the teams
 * Operation Manager: real-time coordination of operations in accordance with the flight plan, management of operational contingencies; interface with partners
 
 # Project implementation
 
 The project objectives are as follows:
 * Operations support within the ATV team
-* Operational pre-Qualification, Operational Qualification and ATV operations phases
+* Operational Pre-Qualification Phases, Operational Qualification and ATV operations
 * Support to the Mission team for the roles of Training Instructor, Planner, Operation Manager
 
 The processes for carrying out the project are:
@@ -47,10 +47,10 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* Means of the ATV control center
+* ATV control center resources
 * Mastery of the components of the ATV mission 
 * Operational planning
-* Continuity of service 24 hours a day during the flight phases, team of 11 engineers (average)
+* 24/7 service continuity during flight phases, team of 11 engineers (average)
 
 
 
