@@ -6,10 +6,10 @@ image: Project-CNES-OSMOSE-EN pict 1.jpg
 size: small
 name: OSMOSE
 title: French Space Surveillance and Tracking Framework
-domains: Space awareness, Flight Dynamics
+domains: Space Awareness, Flight Dynamics
 department: SPACE
 program: SSA
-domains: Space awareness, Flight Dynamics
+domains: Space Awareness, Flight Dynamics
 summary: "OSMOSE consists in scheduling TAROT telescope network observations and use other european measurements to produce and maintain a GEO orbit catalog"
 ---
 
