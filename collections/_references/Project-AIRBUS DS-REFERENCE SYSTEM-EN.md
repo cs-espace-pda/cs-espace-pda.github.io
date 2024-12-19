@@ -46,7 +46,7 @@ The processes for carrying out the project are:
 
 The solution key points are as follows:
 * Event-Driven Architecture
-* Micro-service Architecture
+* Micro-service architecture
 * Vendor-agnostic deployment solution
 * Hardened Kubernetes Platform
 * Access and identity management

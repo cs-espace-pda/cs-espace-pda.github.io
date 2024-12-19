@@ -34,7 +34,7 @@ The features are as follows:
 * Code development in Python in the PERSEUS environment
 * Generation of synthetic images with SOS-ABS for validation
 * Validation on synthetic, real data and in-situ measurements
-* Computer optimization (reduction in calculation time)
+* Computer optimization (reduction of calculation time)
 * Proposals for algorithmic improvements 
 * Creation of a spectral band selection tool to characterize the atmosphere
 

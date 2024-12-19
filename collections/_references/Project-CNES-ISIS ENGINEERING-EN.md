@@ -10,7 +10,7 @@ domains: Control Center
 department: SPACE
 program: Multi-missions
 domains: Control Center
-summary: "Engineering support and AMOA of the Satellite Ground Control Segments implementing the ISIS Command Control Center Product Line"
+summary: "Engineering support and AMOA of satellite control ground segments implementing the ISIS Command Control Center Product Line"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -40,7 +40,7 @@ The features are as follows:
 # Project implementation
 
 The project objectives are as follows:
-* Engineering support and AMOA of the Satellite Ground Control Segments implementing the ISIS Command Control Center Product Line
+* Engineering support and AMOA of satellite control ground segments implementing the ISIS Command Control Center Product Line
 
 The processes for carrying out the project are:
 * Requirements management (STB, IF): Doors

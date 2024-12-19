@@ -10,7 +10,7 @@ domains: Control Center, Flight Dynamics
 department: SPACE
 program: CERES
 domains: Control Center, Flight Dynamics
-summary: "Engineering assistance and support for carrying out the **integration and system qualification** of the components of the **CERES Satellite Ground Control Segments** implementing the **ISIS Product Line**. First missionization and integration of the ISIS LdP. Defense context: strong security constraints"
+summary: "Engineering assistance and support for carrying out the **integration and system qualification** of the components of the **CERES Satellite Control Ground Segments** implementing the **ISIS Product Line**. First missionization and integration of the ISIS LdP. Defense context: strong security constraints"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -36,7 +36,7 @@ The features are as follows:
 # Project implementation
 
 The project objectives are as follows:
-* Engineering assistance and support for carrying out the **integration and system qualification** of the components of the **CERES Satellite Ground Control Segments** implementing the **ISIS Product Line**
+* Engineering assistance and support for carrying out the **integration and system qualification** of the components of the **CERES Satellite Control Ground Segments** implementing the **ISIS Product Line**
 * First missionization and integration of the ISIS LdP
 * Defense context: strong security constraints
 

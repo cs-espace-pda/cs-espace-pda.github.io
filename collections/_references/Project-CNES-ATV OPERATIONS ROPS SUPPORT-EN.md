@@ -29,7 +29,7 @@ CS Group responsabilities for ATV mission team support are as follows:
 ![Main Picture](Project-CNES-ATV OPERATIONS ROPS SUPPORT-EN pict 1.png)
 
 The features are as follows:
-* Training Instructor: Preparation of tests, creation of scenarios, drafting of plans and monitoring, support to the ESA for the preparation of simulations
+* Training Instructor: Preparation of tests, scenario creation, drafting of plans and monitoring, support to the ESA for the preparation of simulations
 * Interface with FDS teams
 * Planner: Preparation of the flight plan, verification of its consistency and transmission to the teams
 * Operation Manager: real-time coordination of operations in accordance with the flight plan, management of operational contingencies; interface with partners

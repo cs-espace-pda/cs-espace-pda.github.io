@@ -41,7 +41,7 @@ The project objectives are as follows:
 
 The processes for carrying out the project are:
 * Agile Scrum method
-* Continuous deployment on the cloud
+* Continuous cloud deployment
 
 # Technical characteristics
 

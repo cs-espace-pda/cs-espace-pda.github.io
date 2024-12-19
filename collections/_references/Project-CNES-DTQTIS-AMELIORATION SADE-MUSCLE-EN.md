@@ -33,7 +33,7 @@ The features are as follows:
 * Analysis of available hyperspectra (GOME-2, ONERA, ECOSTRESS, PICSAND)
 * Generation of reference hyperspectra of desert sites 
 * Application to calibration (MSI, OLCI, SLSTR)
-	**TOA spectral integration for desert calibration :**
+	**TOA Spectral Integration for Deserts Calibration :**
 * Adaptation of MUSCLE tools/Implementation of the algorithm
 * BOA/TOA integration comparison (SPOT-6 and SLSTR calibrations)
 	**Rayleigh/Glitter calibration :**

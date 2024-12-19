@@ -10,7 +10,7 @@ domains: EO Services
 department: SPACE
 program: SWOT
 domains: EO Services
-summary: "Provision of a Calibration/Validation environment for SWOT algorithms. Development and provision of interfacing tools for access to SWOT data. Development and provision of replay and test tools for treatments. CHRONOS SWOT processing orchestrator to facilitate the launch of on-demand processing"
+summary: "Provision of an environment for Calibration/Validation of SWOT algorithms. Development and provision of interfacing tools for access to SWOT data. Development and provision of replay and test tools for treatments. CHRONOS SWOT processing orchestrator to facilitate the launch of on-demand processing"
 ---
 
 > __Customer__\: Centre National d’Études Spatiales (CNES)
@@ -36,7 +36,7 @@ The features are as follows:
 # Project implementation
 
 The project objectives are as follows:
-* Provision of a Calibration/Validation environment for SWOT algorithms
+* Provision of an environment for Calibration/Validation of SWOT algorithms
 * Development and provision of interfacing tools for access to SWOT data
 * Development and provision of replay and test tools for treatments
 * CHRONOS SWOT processing orchestrator to facilitate the launch of on-demand processing
