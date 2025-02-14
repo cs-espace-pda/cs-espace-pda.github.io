@@ -1,16 +1,15 @@
 ---
-customer: ESA
-customer_long: European Space Agency
-prime_contractor: 
-image: Project-ESA-S2 IPF-EN pict 1.png
-size: small
-name: S2 IPF
-title: Sentinel-2 Instrument Processing Facility
-domains: PDGS, Image
-department: SPACE
-program: Copernicus
-domains: PDGS, Image
-summary: "Development and Maintenance of the L0 and L1 operational processors integrated in the Sentinel-2 ground segment (S2A & S2B PS)."
+customer : "ESA"
+customer_long : "European Space Agency"
+prime_contractor : ""
+image : "Project-ESA-S2 IPF-EN pict 1.png"
+size : "small"
+name : "S2 IPF"
+title : "Sentinel-2 Instrument Processing Facility"
+domains : "PDGS, Image"
+department : "SPACE"
+program : "Copernicus"
+summary : "Development and Maintenance of the L0 and L1 operational processors integrated in the Sentinel-2 ground segment (S2A & S2B PS)."
 ---
 
 > __Customer__\: European Space Agency (ESA)

@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-OSMOSE-EN pict 1.jpg
-size: small
-name: OSMOSE
-title: French Space Surveillance and Tracking Framework
-domains: Space Awareness, Flight Dynamics
-department: SPACE
-program: SSA
-domains: Space Awareness, Flight Dynamics
-summary: "OSMOSE consists in scheduling TAROT telescope network observations and use other european measurements to produce and maintain a GEO orbit catalog"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-OSMOSE-EN pict 1.jpg"
+size : "small"
+name : "OSMOSE"
+title : "French Space Surveillance and Tracking Framework"
+domains : "Space Awareness, Flight Dynamics"
+department : "SPACE"
+program : "SSA"
+summary : "OSMOSE consists in scheduling TAROT telescope network observations and use other european measurements to produce and maintain a GEO orbit catalog"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)

@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-CSO MISSION SIMULATOR-EN pict 1.png
-size: small
-name: CSO Mission Simulator
-title: CSO Mission Simulator
-domains: Mission Center
-department: SPACE
-program: CSO
-domains: Mission Center
-summary: "Develop a mission simulator based on the ALIS generic simulation infrastructure."
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-CSO MISSION SIMULATOR-EN pict 1.png"
+size : "small"
+name : "CSO Mission Simulator"
+title : "CSO Mission Simulator"
+domains : "Mission Center"
+department : "SPACE"
+program : "CSO"
+summary : "Develop a mission simulator based on the generic Alis simulation infrastructure."
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -24,21 +23,21 @@ summary: "Develop a mission simulator based on the ALIS generic simulation infra
 
 
 CS Group responsabilities for CSO Mission Simulator are as follows:
-* Design, Development, Validation
+* Design, development, validation
 
 ![Main Picture](Project-CNES-CSO MISSION SIMULATOR-EN pict 2.png)
 
 The features are as follows:
-* Design of the CSO mission simulator, based on the ALIS infrastructure
+* Design of the CSO Mission Simulator, based on the Alis infrastructure
 * Development and validation of successive versions.
-* Integration of new functionalities (mission API, HMI, etc.)
-* Regular integration of new versions of GOTLIB/PHRLIB
-* Reversal of functionalities developed for the CSO Simulator in ALIS
+* Integration of new features (API Mission, IHM ...)
+* Regular integration of new versions of Gotlib/Phrlib
+* Reversal of features developed for the CSO simulator in Alis
 
 # Project implementation
 
 The project objectives are as follows:
-* Develop a mission simulator based on the ALIS generic simulation infrastructure.
+* Develop a mission simulator based on the generic Alis simulation infrastructure.
 
 The processes for carrying out the project are:
 * V Cycle

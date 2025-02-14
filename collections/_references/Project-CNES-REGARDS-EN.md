@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-REGARDS-EN pict 1.png
-size: small
-name: REGARDS
-title: REnouvellement des outils Génériques d’Accès et d’aRchivage pour les Données Spatiales
-domains: Platform
-department: SPACE
-program: Generic
-domains: Platform
-summary: "Data Preservation and valorization. Open source system"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-REGARDS-EN pict 1.png"
+size : "small"
+name : "REGARDS"
+title : "REnouvellement des outils Génériques d’Accès et d’aRchivage pour les Données Spatiales"
+domains : "Platform"
+department : "SPACE"
+program : "Generic"
+summary : "Data Preservation and valorization. Open source system"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)

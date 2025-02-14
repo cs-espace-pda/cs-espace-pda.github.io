@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-ICC-EN pict 1.png
-size: small
-name: ICC
-title: Constellation Optical 3D CO3D Instrument Calibration Center
-domains: Platform, Image
-department: SPACE
-program: CO3D
-domains: Platform, Image
-summary: "Development and provision of the ICC (Instrument Calibration Center) platform. Combined application of the agile Scrum method and the DevOps approach"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-ICC-EN pict 1.png"
+size : "small"
+name : "ICC"
+title : "3D CO3D Optical Constellation Instrument Calibration Center"
+domains : "Platform, Image"
+department : "SPACE"
+program : "CO3D"
+summary : "Development and provision of the ICC (Calibration Center) platform). Combined application of the Agile Scrum method and the DevOps approach"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,31 +22,31 @@ summary: "Development and provision of the ICC (Instrument Calibration Center) p
 # Context
 
 
-CS Group responsabilities for Constellation Optical 3D CO3D Instrument Calibration Center are as follows:
+CS Group responsabilities for 3D CO3D Optical Constellation Instrument Calibration Center are as follows:
 * Design, Development, Integration and Maintenance,
 
 ![Main Picture](Project-CNES-ICC-EN pict 1.png)
 
 The features are as follows:
-* Image calibration center for CO3D
+* Image Calibration Center for CO3D
 
 # Project implementation
 
 The project objectives are as follows:
-* Development and provision of the ICC (Instrument Calibration Center) platform
-* Combined application of the agile Scrum method and the DevOps approach
+* Development and provision of the ICC (Calibration Center) platform)
+* Combined application of the Agile Scrum method and the DevOps approach
 
 The processes for carrying out the project are:
-* Agile Scrum method
-* DevOps approach
-* Continuous cloud deployment
+* Agile scrum method
+* Devops approach
+* Continuous deployment on the cloud
 
 # Technical characteristics
 
 The solution key points are as follows:
-* Infrastructure as Code: fully scripted and automated deployment of infrastructure and services
-* Elastic platform (based on Kubernetes clusters and S3 storage) to meet instant processing needs, optimizing cost
-* Providing a virtual desktop and complete work environment accessible from the browser
+* Infrastructure AS Code: Deployment of infrastructure and fully scripted and automated services
+* Elastic platform (based on Kubernetes and S3 storage) to meet instant treatment needs, optimizing the cost
+* Supply of a virtual office and a complete work environment accessible from the browser
 
 ![Archi Picture](Project-CNES-ICC-EN pict 2.png)
 

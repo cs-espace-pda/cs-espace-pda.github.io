@@ -1,16 +1,15 @@
 ---
-customer: ESA
-customer_long: European Space Agency
-prime_contractor: 
-image: Project-ESA-EGS-CC PHASE CD-EN pict 1.png
-size: small
-name: EGS-CC Phase CD
-title: European Ground System – Common Core – Phase C/D - Development
-domains: Control Center
-department: SPACE
-program: Generic
-domains: Control Center
-summary: "The EGS-CC infrastructure to support monitoring and control systems is based on three layers: __Kernel__: generic M&C functionalities for any target application, and a common framework to build systems; __Reference implementations__: components that may be replaced individually; __Reference Test Facility__: test environment to support validation of EGS-CC."
+customer : "ESA"
+customer_long : "European Space Agency"
+prime_contractor : ""
+image : "Project-ESA-EGS-CC PHASE CD-EN pict 1.png"
+size : "small"
+name : "EGS-CC Phase CD"
+title : "European Ground System – Common Core – Phase C/D - Development"
+domains : "Control Center"
+department : "SPACE"
+program : "Generic"
+summary : "The EGS-CC infrastructure to support monitoring and control systems is based on three layers: __Kernel__: generic M&C functionalities for any target application, and a common framework to build systems; __Reference implementations__: components that may be replaced individually; __Reference Test Facility__: test environment to support validation of EGS-CC."
 ---
 
 > __Customer__\: European Space Agency (ESA)

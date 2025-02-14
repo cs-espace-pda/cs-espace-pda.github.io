@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: 
-size: small
-name: KALIDEOS
-title: KALIDEOS – VIS processing chains
-domains: Image
-department: SPACE
-program: Generic
-domains: Image
-summary: "Aims to provide scientists with satellite images acquired over predefined geographical areas."
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : ""
+size : "small"
+name : "KALIDEOS"
+title : "KALIDEOS – VIS processing chains"
+domains : "Image"
+department : "SPACE"
+program : "Generic"
+summary : "Aims to provide scientists with satellite images acquired over predefined geographical areas."
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)

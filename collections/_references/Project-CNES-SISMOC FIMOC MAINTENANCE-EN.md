@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-SISMOC FIMOC MAINTENANCE-EN pict 1.jpg
-size: small
-name: SISMOC FIMOC Maintenance
-title: Maintenance of SISMOC and FIMOC mission centers
-domains: Mission Center
-department: SPACE
-program: Interplanetary
-domains: Mission Center
-summary: "Corrective and evolutive maintenance of the following mission centers. **SISMOC**: SEIS and APSS instruments of the INSIGHT mission. **FIMOC**: SAM and CHEMCAM instruments of the MSL mission. **Martian missions** whose instruments above are operated by CNES and JPL"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-SISMOC FIMOC MAINTENANCE-EN pict 1.jpg"
+size : "small"
+name : "SISMOC FIMOC Maintenance"
+title : "Maintenance of SISMOC and Fimoc mission centers"
+domains : "Mission Center"
+department : "SPACE"
+program : "Interplanetary"
+summary : "Corrective and evolutive maintenance of the following mission centers. SISMOC: SEIS and APSS instruments of the INSIGHT mission. FIMOC: SAM and CHEMCAM instruments of the MSL mission. Martian missions whose instruments above are operated by CNES and JPL"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,18 +22,18 @@ summary: "Corrective and evolutive maintenance of the following mission centers.
 # Context
 
 
-CS Group responsabilities for Maintenance of SISMOC and FIMOC mission centers are as follows:
+CS Group responsabilities for Maintenance of SISMOC and Fimoc mission centers are as follows:
 * Maintenance and developments, support
 
 ![Main Picture](Project-CNES-SISMOC FIMOC MAINTENANCE-EN pict 2.jpg)
 
 The features are as follows:
-* 24/7 operational centers
-* Mission centers designed around a common core: the SAG
-* Instrument monitoring and programming
+* Operational centers 24 hours a day
+* Mission centers designed around a common nucleus: SAG
+* Surveillance and programming of instruments
 * Data exchange with JPL
-* Long-term archiving
-* Processing and dissemination of scientific data
+* Long -term archiving
+* Processing and distribution of scientific data
 
 # Project implementation
 

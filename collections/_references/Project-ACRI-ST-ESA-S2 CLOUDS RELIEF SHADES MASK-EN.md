@@ -1,16 +1,15 @@
 ---
-customer: ESA
-customer_long: European Space Agency
-prime_contractor: ACRI-ST
-image: Project-ACRI-ST-ESA-S2 CLOUDS RELIEF SHADES MASK-EN pict 1.png
-size: small
-name: ESA-S2 Clouds Relief Shades Mask
-title: Mask of clouds and shadows for Sentinel-2
-domains: Image
-department: SPACE
-program: SEOM S2-4Sci Land and Water - Atmospheric corrections for coastal and inland water
-domains: Image
-summary: "The project aims to develop a chain of atmospheric corrections in a coastal environment, including the detection of clouds and shadows, as well as glitter. Integrate the channel into SNAP."
+customer : "ESA"
+customer_long : "European Space Agency"
+prime_contractor : "ACRI-ST"
+image : "Project-ACRI-ST-ESA-S2 CLOUDS RELIEF SHADES MASK-EN pict 1.png"
+size : "small"
+name : "ESA-S2 Clouds Relief Shades Mask"
+title : "Mask of clouds and shadows for Sentinel-2"
+domains : "Image"
+department : "SPACE"
+program : "SEOM S2-4Sci Land and Water - Atmospheric corrections for coastal and inland water"
+summary : "The project aims to develop a chain of atmospheric corrections in the coastal environment, including the detection of clouds and shadows, as well as glitter. Integrate the channel into Snap."
 ---
 
 > __Customer__\: European Space Agency (ESA)
@@ -24,27 +23,27 @@ summary: "The project aims to develop a chain of atmospheric corrections in a co
 
 
 CS Group responsabilities for Mask of clouds and shadows for Sentinel-2 are as follows:
-* Method for detecting clouds and their shadows
-* Relief shadow detection method   
-* Integration of the operational chain under SNAP
+* Cloud detection method and shadows
+* Shadow detection method of relief   
+* Integration of the operational channel under Snap
 
 ![Main Picture](Project-ACRI-ST-ESA-S2 CLOUDS RELIEF SHADES MASK-EN pict 1.png)
 
 The features are as follows:
-* **Cloud and shadow detection :**
+* **Detection of clouds and shadows :**
 *     Adaptation of FMASK for Sentinel-2
 *     Test on a selection of Sentinel-2 images
-	**Location of relief shadows :**
+	**Location of the shadows of the relief :**
 *     Development of the tool
-*     Using the Rugged Library
-*     Test on images
-	**Documentation: A.T.B.D., DPM, Interfaces.**
+*     Use of the Rugged Library
+*     Images test
+	**Documentation: A.T.B.D., DPM, interfaces.**
 
 # Project implementation
 
 The project objectives are as follows:
-* The project aims to develop a chain of atmospheric corrections in a coastal environment, including the detection of clouds and shadows, as well as glitter.
-* Integrate the channel into SNAP.
+* The project aims to develop a chain of atmospheric corrections in the coastal environment, including the detection of clouds and shadows, as well as glitter.
+* Integrate the channel into Snap.
 
 The processes for carrying out the project are:
 * Study, development, regular meetings
@@ -52,7 +51,7 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* Developments adapted to SNAP
+* Developments adapted to Snap
 
 
 

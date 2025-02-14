@@ -1,16 +1,15 @@
 ---
-customer: SCHAPI
-customer_long: Service Central d'Hydrométéorologie et d'Appui à la Prévision des Inondations
-prime_contractor: 
-image: Project-SCHAPI-POM-EN pict 1.png
-size: small
-name: POM
-title: PLATEFORME OPERATIONNELLE POUR LA MODELISATION
-domains: EO Services
-department: SPACE
-program: Risk Management
-domains: EO Services
-summary: "The heterogeneity of the different forecasting calculation models makes their chaining complex. The objective of the POM is to facilitate the interoperability of the processing chains required to forecast water levels in real time."
+customer : "SCHAPI"
+customer_long : "Service Central d'Hydrométéorologie et d'Appui à la Prévision des Inondations"
+prime_contractor : ""
+image : "Project-SCHAPI-POM-EN pict 1.png"
+size : "small"
+name : "POM"
+title : "PLATEFORME OPERATIONNELLE POUR LA MODELISATION"
+domains : "EO Services"
+department : "SPACE"
+program : "Risk Management"
+summary : "The heterogeneity of the different forecasting calculation models makes their chaining complex. The objective of the POM is to facilitate the interoperability of the processing chains required to forecast water levels in real time."
 ---
 
 > __Customer__\: Service Central d'Hydrométéorologie et d'Appui à la Prévision des Inondations (SCHAPI)

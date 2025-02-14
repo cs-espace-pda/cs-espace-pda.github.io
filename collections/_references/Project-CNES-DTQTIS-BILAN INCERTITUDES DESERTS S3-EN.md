@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-DTQTIS-BILAN INCERTITUDES DESERTS S3-EN pict 1.png
-size: small
-name: DTQTIS-Bilan Incertitudes Deserts S3
-title: Uncertainty assessment of the Deserts calibration for SENTINEL3 sensors
-domains: Image
-department: SPACE
-program: DTQTIS
-domains: Image
-summary: "Identify and quantify the different sources of uncertainty in the Deserts calibration method. Application to S3."
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-DTQTIS-BILAN INCERTITUDES DESERTS S3-EN pict 1.png"
+size : "small"
+name : "DTQTIS-Bilan Incertitudes Deserts S3"
+title : "Uncertainties of the deserted calibration for the sensors Sentinel3"
+domains : "Image"
+department : "SPACE"
+program : "DTQTIS"
+summary : "Identify and quantify the different sources of uncertainty of the deserted calibration method. Application to S3."
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,31 +22,31 @@ summary: "Identify and quantify the different sources of uncertainty in the Dese
 # Context
 
 
-CS Group responsabilities for Uncertainty assessment of the Deserts calibration for SENTINEL3 sensors are as follows:
-* Study, Development
+CS Group responsabilities for Uncertainties of the deserted calibration for the sensors Sentinel3 are as follows:
+* Study, development
 
 ![Main Picture](Project-CNES-DTQTIS-BILAN INCERTITUDES DESERTS S3-EN pict 1.png)
 
 The features are as follows:
-* Adaptation of an existing tool (R&T CNES) to the SENTINEL3 case
-* Analysis of the existing situation (code & A.T.B.D.) => proposal for improvements and corrections 
-* Development / Testing of improvements
-* Quantification of standard uncertainties provided as input to the code (BRDF, interpolation, radiative transfer, radiometry)
-* Application to the case of calibration of OLCI and SLSTR sensors 
-* Extension for use with SENTINEL2 (To be finalized)
+* Adaptation of an existing tool (R&T CNES) to the Sentinel3 case
+* Analysis of the existing (Code & A.T.B.D.) => Proposal for improvements and corrections 
+* Development / testing of improvements
+* Quantification of the typical uncertainties provided at the input of the code (BRDF, interpolation, radiative transfer, radiometry)
+* Application to the calibration of OLCI and SLSTR sensors 
+* Extension for use with Sentinel2 (to be finalized)
 
 # Project implementation
 
 The project objectives are as follows:
-* Identify and quantify the different sources of uncertainty in the Deserts calibration method. Application to S3.
+* Identify and quantify the different sources of uncertainty of the deserted calibration method. Application to S3.
 
 The processes for carrying out the project are:
-* Bibliography, Code analysis/improvements, Development, Validation, Real data application, Reports
+* Bibliography, code analysis / improvements, development, validation, actual data application, reports
 
 # Technical characteristics
 
 The solution key points are as follows:
-* Not applicable
+* Incommensurate
 
 
 

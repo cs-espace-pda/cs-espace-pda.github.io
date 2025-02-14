@@ -1,16 +1,15 @@
 ---
-customer: ESA
-customer_long: European Space Agency
-prime_contractor: AIRBUS DS
-image: Project-AIRBUS DS-S1PDGS-EN pict 1.png
-size: small
-name: S1PDGS
-title: Migration to cloud commercial service
-domains: Platform, Image
-department: SPACE
-program: Copernicus
-domains: Platform, Image
-summary: "Migrating S1 Data & Payloads Digital Ground Segment Processing to operational Cloud platform."
+customer : "ESA"
+customer_long : "European Space Agency"
+prime_contractor : "AIRBUS DS"
+image : "Project-AIRBUS DS-S1PDGS-EN pict 1.png"
+size : "small"
+name : "S1PDGS"
+title : "Migration to cloud commercial service"
+domains : "Platform, Image"
+department : "SPACE"
+program : "Copernicus"
+summary : "Migrating S1 Data & Payloads Digital Ground Segment Processing to operational Cloud platform."
 ---
 
 > __Customer__\: European Space Agency (ESA)
@@ -25,7 +24,7 @@ summary: "Migrating S1 Data & Payloads Digital Ground Segment Processing to oper
 ESA, Airbus DS, Werum, CS Group France
 
 CS Group responsabilities for Migration **to** cloud commercial service are as follows:
-* Production monitoring/monitoring; Infrastructure; Security ; Maintenance
+* Production / production monitoring; Infrastructure; Security ; Maintenance
 
 ![Main Picture](Project-AIRBUS DS-S1PDGS-EN pict 2.png)
 
@@ -48,14 +47,14 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* Event-Driven Architecture
-* Micro-service architecture
-* Vendor-agnostic deployment solution
-* Hardened Kubernetes Platform
-* Access and identity management
+* Event-Driven architecture
+* Micro-Service Architecture
+* Independent deployment solution of the supplier
+* Hardené Kubernetes platform
+* Management of access and identities
 * Indicator management (PI/KPI)
 * High performance logs & audit
-* SIEM
+* Siem
 
 ![Archi Picture](Project-AIRBUS DS-S1PDGS-EN pict 3.png)
 

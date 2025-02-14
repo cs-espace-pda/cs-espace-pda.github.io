@@ -1,16 +1,15 @@
 ---
-customer: SCHAPI
-customer_long: Service Central d'Hydrométéorologie et d'Appui à la Prévision des Inondations
-prime_contractor: 
-image: Project-SCHAPI-PLATHYNES-EN pict 1.png
-size: small
-name: PLATHYNES
-title: Plateforme de Modélisation PLATHYNES
-domains: EO Services
-department: SPACE
-program: Risk Management
-domains: EO Services
-summary: "Take over and industrialize the existing codes, to ensure the maintainability and evolutions of the platform, both for the researchers and for the operational forecasting services."
+customer : "SCHAPI"
+customer_long : "Service Central d'Hydrométéorologie et d'Appui à la Prévision des Inondations"
+prime_contractor : ""
+image : "Project-SCHAPI-PLATHYNES-EN pict 1.png"
+size : "small"
+name : "PLATHYNES"
+title : "Plateforme de Modélisation PLATHYNES"
+domains : "EO Services"
+department : "SPACE"
+program : "Risk Management"
+summary : "Take over and industrialize the existing codes, to ensure the maintainability and evolutions of the platform, both for the researchers and for the operational forecasting services."
 ---
 
 > __Customer__\: Service Central d'Hydrométéorologie et d'Appui à la Prévision des Inondations (SCHAPI)

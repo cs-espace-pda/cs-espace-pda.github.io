@@ -1,16 +1,15 @@
 ---
-customer: EC
-customer_long: European Commission
-prime_contractor: QWANT
-image: Project-QWANT-SNAPEARTH-EN pict 1.png
-size: small
-name: SnapEarth
-title: SnapEarth project
-domains: Platform
-department: SPACE
-program: Copernicus
-domains: Platform
-summary: "Fostering EO market uptake thanks to natural and holistic access to added value data generated through cutting-edge Artificial Intelligence technologies."
+customer : "EC"
+customer_long : "European Commission"
+prime_contractor : "QWANT"
+image : "Project-QWANT-SNAPEARTH-EN pict 1.png"
+size : "small"
+name : "SnapEarth"
+title : "SnapEarth project"
+domains : "Platform"
+department : "SPACE"
+program : "Copernicus"
+summary : "Fostering EO market uptake thanks to natural and holistic access to added value data generated through cutting-edge Artificial Intelligence technologies."
 ---
 
 > __Customer__\: European Commission (EC)

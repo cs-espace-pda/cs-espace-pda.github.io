@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-TPAM VIP-VENUS-EN pict 1.png
-size: small
-name: TPAM VIP-VENUS
-title: Maintenance of the Venµs Image Production (VIP) center
-domains: Image
-department: SPACE
-program: Venμs
-domains: Image
-summary: "Delivering an operational VIP/VPDS image processing center that takes into account the constraints of the VENµS mission during the operational phase."
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-TPAM VIP-VENUS-EN pict 1.png"
+size : "small"
+name : "TPAM VIP-VENUS"
+title : "Maintenance of the Venµs Image Production (VIP) center"
+domains : "Image"
+department : "SPACE"
+program : "Venμs"
+summary : "Delivering an operational VIP/VPDS image processing center that takes into account the constraints of the VENµS mission during the operational phase."
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)

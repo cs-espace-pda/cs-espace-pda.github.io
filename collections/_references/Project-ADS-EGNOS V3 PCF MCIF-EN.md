@@ -1,16 +1,15 @@
 ---
-customer: ADS
-customer_long: Airbus Defence & Space
-prime_contractor: 
-image: Project-ADS-EGNOS V3 PCF MCIF-EN pict 1.jpg
-size: small
-name: EGNOS V3 PCF MCIF
-title: Development of the PCF and MCIF subsystems within EGNOS v3 (European Geostationary Navigation Overlay Service)
-domains: Navigation
-department: SPACE
-program: EGNOS
-domains: Navigation
-summary: "Development of the PCF (Prediction Chain Facility) and MCIF (Monitoring and Control Interface Facility) subsystems within EGNOS v3"
+customer : "ADS"
+customer_long : "Airbus Defence & Space"
+prime_contractor : ""
+image : "Project-ADS-EGNOS V3 PCF MCIF-EN pict 1.jpg"
+size : "small"
+name : "EGNOS V3 PCF MCIF"
+title : "Development of the PCF and MCIF subsystems within EGNOS v3 (European Geostationary Navigation Overlay Service)"
+domains : "Navigation"
+department : "SPACE"
+program : "EGNOS"
+summary : "Development of the PCF (Prediction Chain Facility) and MCIF (Monitoring and Control Interface Facility) subsystems within EGNOS v3"
 ---
 
 > __Customer__\: Airbus Defence & Space (ADS)
@@ -45,7 +44,7 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* ARINC 653 and Linux hardware platforms
+* Arinc 653 and Linux Hardware Platforms
 
 
 

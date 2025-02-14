@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-DTQTIS-ETALONNAGE ABSOLU PLEIADES-EN pict 1.png
-size: small
-name: DTQTIS-Etalonnage absolu PLEIADES
-title: Studies for absolute calibration and MTF measurement of PLEIADES sensors (Star & MOON Methods)
-domains: Image
-department: SPACE
-program: DTQTIS
-domains: Image
-summary: "Estimated absolute calibration and MTF for Pléiades 1A and 1B (Star Method). Calculation & analysis of the absolute calibration coefficients of PNEO3 & PNEO4 (LUNE Method)"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-DTQTIS-ETALONNAGE ABSOLU PLEIADES-EN pict 1.png"
+size : "small"
+name : "DTQTIS-Etalonnage absolu PLEIADES"
+title : "Studies for absolute calibration and FTM measurement of Pleiades sensors (Star & Moon methods)"
+domains : "Image"
+department : "SPACE"
+program : "DTQTIS"
+summary : "Estimate of absolute calibration and FTM for Pléiades 1A and 1b (Star method). Calculation & analysis of pneo3 & pneo4 absolute calibration coefficients (moon method)"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,34 +22,34 @@ summary: "Estimated absolute calibration and MTF for Pléiades 1A and 1B (Star M
 # Context
 
 
-CS Group responsabilities for Studies for absolute calibration and MTF measurement of PLEIADES sensors (Star & MOON Methods) are as follows:
+CS Group responsabilities for Studies for absolute calibration and FTM measurement of Pleiades sensors (Star & Moon methods) are as follows:
 * Study, treatments, development
 
 ![Main Picture](Project-CNES-DTQTIS-ETALONNAGE ABSOLU PLEIADES-EN pict 1.png)
 
 The features are as follows:
-* **PHR1A & PHR1B Star Calibration:**
-* Generation of Starpools using the ICC Isatis procedure
-* Adding new Starpools to previously used data
-* Analysis of new input data: time series trace of the digital count of each star for the Pléiades 1A and 1B Starpools and for different extraction window sizes
-* Estimation of absolute and FTM calibration coefficients
-	**LUNE PNEO3&PNEO4 calibration:**
-* Carrying out pre-treatments and calibration treatments for PNEO3&PNEO4
-* Evolution of calibration and synthesis tools to refine the analysis of results
+* **Phr1a & phr1b stalking stalks:**
+* Generation of starpools using the ICC Isatis procedure
+* Addition of new Starpools to previously used data
+* Analysis of new input data: trace of time series of the digital account of each star for Starpools Pléiades 1A and 1B and for different sizes of extraction windows
+* Estimation of absolute calibration coefficients and FTM
+	**Pneo3 & pneo4 moon stalker:**
+* Realization of pre-working and calibration treatments for pneo3 & pneo4
+* Evolution of calibration and synthesis tools to refine the analysis of the results
 
 # Project implementation
 
 The project objectives are as follows:
-* Estimated absolute calibration and MTF for Pléiades 1A and 1B (Star Method)
-* Calculation & analysis of the absolute calibration coefficients of PNEO3 & PNEO4 (LUNE Method)
+* Estimate of absolute calibration and FTM for Pléiades 1A and 1b (Star method)
+* Calculation & analysis of pneo3 & pneo4 absolute calibration coefficients (moon method)
 
 The processes for carrying out the project are:
-* Study, regular progress meetings
+* Study, regular advancement meetings
 
 # Technical characteristics
 
 The solution key points are as follows:
-* Not applicable
+* Incommensurate
 
 
 

@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-CCC ISIS SCIENCE GROUND OPERATIONS-EN pict 1.png
-size: small
-name: CCC ISIS SCIENCE Ground Operations
-title: Support in Task Delegation of MCO and Ground Operations of CCCs ISIS Science
-domains: Control Center, Flight Dynamics
-department: SPACE
-program: SWOT
-domains: Control Center, Flight Dynamics
-summary: "Delegation of tasks for MCO and routine ground operations for scientific or civil missions based on the ISIS Product Line: SWOT, N3SS missions, etc."
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-CCC ISIS SCIENCE GROUND OPERATIONS-EN pict 1.png"
+size : "small"
+name : "CCC ISIS SCIENCE Ground Operations"
+title : "Support in delegation of MCO task and CCC Isis Science soil operations"
+domains : "Control Center, Flight Dynamics"
+department : "SPACE"
+program : "SWOT"
+summary : "Delegation of tasks for MCO and operations routine operations to operate scientific or civil missions based on the ISIS product line: Swot, N3SS, ..."
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,32 +22,32 @@ summary: "Delegation of tasks for MCO and routine ground operations for scientif
 # Context
 
 
-CS Group responsabilities for Support in Task Delegation of MCO and Ground Operations of CCCs ISIS Science are as follows:
-* * Management of ground support for Task Delegation operations by CS GROUP
+CS Group responsabilities for Support in delegation of MCO task and CCC Isis Science soil operations are as follows:
+* * Piloting the floor support for task delegation by CS Group
 
 ![Main Picture](Project-CNES-CCC ISIS SCIENCE GROUND OPERATIONS-EN pict 2.png)
 
 The features are as follows:
-* **Delegation of tasks for ground support in routine operation**: MCO and operations support (shifts, on-call support), test support, Cluster Sciences Platform management, integration and qualification of new LdP versions
-	**Contribution to the ISIS shared AIV (MIG), the shared exploitation layer (PULP) and the ClusterSciences** AIV: AIV and testing of new versions of LdP, integration of new missions
-	**Task delegation**: support for the definition, implementation and technical management of operations support tools
+* **Delegation of tasks for the floor support in routine exploitation **: MCO and support for operations (shifts, on -calls), tests to tests, cluster science platform management, integration and qualification of new LDP versions
+	**Contribution to the ISIS shared AIV (MIG), to the shared operating layer (PULP) and to the AIV Clustersciences **: AIV and tests of new versions of LDP, integration of new missions
+	**Delegation of task **: support for definition, implementation and technical management of operations aid tools
 
 # Project implementation
 
 The project objectives are as follows:
-* Delegation of tasks for MCO and routine ground operations for scientific or civil missions based on the ISIS Product Line: SWOT, N3SS missions, etc.
+* Delegation of tasks for MCO and operations routine operations to operate scientific or civil missions based on the ISIS product line: Swot, N3SS, ...
 
 The processes for carrying out the project are:
-* Specific process of Assembly, Integration, Validation Qualification of Ground Control Segments
-* Ground control segment qualification system tests: Compatibility, Technical and Operational Qualification
+* Specific assembly process, integration, validation qualification of control soil segments
+* Tests qualification system for control soil segments: compatibility, technical and operational qualification
 
 # Technical characteristics
 
 The solution key points are as follows:
-* Deployment of virtualized architecture, equipment, costs, security
-* Configuration and deployment of CCC and SCP/SSV (experts) and test lines (Onboard, Ground, FDS users)
-* Spatial databases/Systems: BD generation, LdP configuration, TM/TC qualification
-* Highly experienced team (ISIS experts)
+* Deployment of virtualized architecture, equipment, cots, security
+* Configuration and deployment of CCC and SCP/SSV (Experts) and Test lines (Bord, Floor, FDS)
+* Spatial/Systems databases: BD generation, LDP configuration, TM/TC qualification
+* Very experienced team (ISIS experts)
 
 
 

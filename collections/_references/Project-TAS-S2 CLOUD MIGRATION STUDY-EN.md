@@ -1,16 +1,15 @@
 ---
-customer: ESA
-customer_long: European Space Agency
-prime_contractor: TAS
-image: Project-TAS-S2 CLOUD MIGRATION STUDY-EN pict 1.png
-size: small
-name: S2 Cloud migration study
-title: Study of the execution of Sentinel 2 processing system on a cloud infrastructure
-domains: PDGS
-department: SPACE
-program: Copernicus
-domains: PDGS
-summary: "Verify assumptions for the migration of the PDGS core processing to the cloud. Develop a demonstrator"
+customer : "ESA"
+customer_long : "European Space Agency"
+prime_contractor : "TAS"
+image : "Project-TAS-S2 CLOUD MIGRATION STUDY-EN pict 1.png"
+size : "small"
+name : "S2 Cloud migration study"
+title : "Study of the execution of Sentinel 2 processing system on a cloud infrastructure"
+domains : "PDGS"
+department : "SPACE"
+program : "Copernicus"
+summary : "Verify assumptions for the migration of the PDGS core processing to the cloud. Develop a demonstrator"
 ---
 
 > __Customer__\: European Space Agency (ESA)

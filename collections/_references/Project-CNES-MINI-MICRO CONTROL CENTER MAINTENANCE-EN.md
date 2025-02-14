@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-MINI-MICRO CONTROL CENTER MAINTENANCE-EN pict 1.png
-size: small
-name: Mini-Micro Control Center Maintenance
-title: Third Party Application Maintenance of Mini-Micro Control Centers
-domains: Control Center
-department: SPACE
-program: Mini/Micro-satellites
-domains: Control Center
-summary: "Third-party application maintenance of the Mini-Micro satellites Ground Segment"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-MINI-MICRO CONTROL CENTER MAINTENANCE-EN pict 1.png"
+size : "small"
+name : "Mini-Micro Control Center Maintenance"
+title : "Third maintenance of application for mini-micro control centers"
+domains : "Control Center"
+department : "SPACE"
+program : "Mini/Micro-satellites"
+summary : "Third-party application maintenance of the Mini-Micro satellites Ground Segment"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -27,7 +26,7 @@ summary: "Third-party application maintenance of the Mini-Micro satellites Groun
 * Sustainable teams
 * Reactivity for taking into account anomalies and requests for changes in order to meet operational constraints
 
-CS Group responsabilities for Third Party Application Maintenance of Mini-Micro Control Centers are as follows:
+CS Group responsabilities for Third maintenance of application for mini-micro control centers are as follows:
 * Development, Validation, Maintenance
 
 ![Main Picture](Project-CNES-MINI-MICRO CONTROL CENTER MAINTENANCE-EN pict 1.png)

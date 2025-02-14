@@ -1,16 +1,15 @@
 ---
-customer: CNES - CDE
-customer_long: Centre National d'Etudes Spatiales - Commandement de l'Espace
-prime_contractor: 
-image: Project-CNES - CDE-TBS V1-EN pict 1.png
-size: small
-name: TBS V1
-title: Space Dashboard – Space Command
-domains: Mission Center, Flight Dynamics, Space Awareness
-department: SPACE
-program: SSA
-domains: Mission Center, Flight Dynamics, Space Awareness
-summary: "Creation for CNES (main client) and for the Space Command (CDE) of an operational demonstrator of the TBS (Space Dashboard), which is the first SSA (Space Situational Awareness) brick of a future center of military space control (C2)."
+customer : "CNES - CDE"
+customer_long : "Centre National d'Etudes Spatiales - Commandement de l'Espace"
+prime_contractor : ""
+image : "Project-CNES - CDE-TBS V1-EN pict 1.png"
+size : "small"
+name : "TBS V1"
+title : "Spatial dashboard - Space command"
+domains : "Mission Center, Flight Dynamics, Space Awareness"
+department : "SPACE"
+program : "SSA"
+summary : "Realization for the CNES (main customer) and for the space command (CDE) of an operational demonstrator of the TBS (spatial dashboard), which is the first SSA brick (Space Situation Awareness) of a future center of Military space control (C2) control (C2)."
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales - Commandement de l'Espace (CNES - CDE)
@@ -23,21 +22,21 @@ summary: "Creation for CNES (main client) and for the Space Command (CDE) of an 
 # Context
 
 
-CS Group responsabilities for Space Dashboard – Space Command are as follows:
+CS Group responsabilities for Spatial dashboard - Space command are as follows:
 * Development
 
 ![Main Picture](Project-CNES - CDE-TBS V1-EN pict 1.png)
 
 The features are as follows:
 * **Prototype of the first version of the TBS**:
-* Proposal for an evolving architecture in line with the vision of a future spatial C2
-* Focus on the main screen of the TBS (synthetic vision), a page of GEO satellites, and a first batch of transversal functionalities (import, BD access, etc.) necessary or desirable for future versions
+* Proposal for an evolutionary architecture in accordance with the vision of a future spatial C2
+* Focus on the main screen of the TBS (summary vision), a page of the Geo satellites, and a first batch of transverse (import, comic access, etc.) functionalities or desirable for future versions
 * Flexibility to integrate new and refined needs of the CDE (better visibility on developments and choices made)
 
 # Project implementation
 
 The project objectives are as follows:
-* Creation for CNES (main client) and for the Space Command (CDE) of an operational demonstrator of the TBS (Space Dashboard), which is the first SSA (Space Situational Awareness) brick of a future center of military space control (C2).
+* Realization for the CNES (main customer) and for the space command (CDE) of an operational demonstrator of the TBS (spatial dashboard), which is the first SSA brick (Space Situation Awareness) of a future center of Military space control (C2) control (C2).
 
 The processes for carrying out the project are:
 * Agile - Fixed price project
@@ -45,11 +44,11 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* Web server (HTTPS and secure websocket, postgreSQL database), Backend (Java, Jetty)
-* Space mechanics libraries
-* Service Access FrontEnds (TLE Propagation)
-* MapServer (mapping)
-* Data connectors, reception on the Internet (TLE on SpaceTrack), calculated by CNES algorithms (OSMOSE: TLEs, Aphrodite: threats)
+* Web server (HTTPS and Secure Websocket, BD PostgreSql), Backend (Java, Jetty)
+* Spatial mechanical bookstores
+* Fronts access to services (TLE propagation)
+* Mapserver server (cartographic)
+* Data connectors, Internet reception (Tle on Spacetrack), calculated by CNES algorithms (osmosis: Tles, Aphrodite: threats)
 
 ![Archi Picture](Project-CNES - CDE-TBS V1-EN pict 2.png)
 

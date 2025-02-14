@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-DTQTIS-ETALONNAGE VENUS-EN pict 1.png
-size: small
-name: DTQTIS-Etalonnage VENuS
-title: Studies for the calibration of VENuS
-domains: Image
-department: SPACE
-program: Venμs
-domains: Image
-summary: "Improve calibrations by sighting the Moon. Script (SNO method) for its integration into the operational chain (SAG). Use of the Moon calibration script for the in-flight recipe after orbit change"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-DTQTIS-ETALONNAGE VENUS-EN pict 1.png"
+size : "small"
+name : "DTQTIS-Etalonnage VENuS"
+title : "Studies for the calibration of Venus"
+domains : "Image"
+department : "SPACE"
+program : "Venμs"
+summary : "Improve calibrations by the Moon's aim. Script (SNO method) for its integration into the operational chain (SAG). Use of the moon calibration script for flight recipe after change of orbit"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,35 +22,35 @@ summary: "Improve calibrations by sighting the Moon. Script (SNO method) for its
 # Context
 
 
-CS Group responsabilities for Studies for the calibration of VENuS are as follows:
-* Study, development, in-flight acceptance support
+CS Group responsabilities for Studies for the calibration of Venus are as follows:
+* Study, development, recipe support in flight
 
 ![Main Picture](Project-CNES-DTQTIS-ETALONNAGE VENUS-EN pict 1.png)
 
 The features are as follows:
 * Improvement of the lunar disk extraction method (Laplace filter)
-* Quantification of CT1 and CT2 type residual noise
-* Analysis of temporal drift after updating official parameters (PO) 
-* Saving in calculation time by band-to-band reprojection
+* Quantification of residual noise of type CT1 and CT2
+* Analysis of the temporal drift after updating of official parameters (PO) 
+* Gain in computing time by reprunction band to band
 * New pixel filtering method
 * Improvement of the statistical results file
-* Comparison to desert method calibrations
-* Analysis of the Moon and Deserts calibration results of a new phase corresponding to a change in altitude
+* Comparison to calibrations of the desert method
+* Analysis of the moon calibration results and deserts of a new phase corresponding to an altitude change
 
 # Project implementation
 
 The project objectives are as follows:
-* Improve calibrations by sighting the Moon
+* Improve calibrations by the Moon's aim
 * Script (SNO method) for its integration into the operational chain (SAG)
-* Use of the Moon calibration script for the in-flight recipe after orbit change
+* Use of the moon calibration script for flight recipe after change of orbit
 
 The processes for carrying out the project are:
-* Study, tests, regular progress updates
+* Study, regular advancement points
 
 # Technical characteristics
 
 The solution key points are as follows:
-* Not applicable
+* Incommensurate
 
 
 

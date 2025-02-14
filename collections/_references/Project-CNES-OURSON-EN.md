@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-OURSON-EN pict 1.png
-size: small
-name: OURSON
-title: MCO OURSON from the CSO programming channel
-domains: Mission Center
-department: SPACE
-program: CSO
-domains: Mission Center
-summary: "Design and develop the components of the CSO programming chain"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-OURSON-EN pict 1.png"
+size : "small"
+name : "OURSON"
+title : "CSO programming chain"
+domains : "Mission Center"
+department : "SPACE"
+program : "CSO"
+summary : "Design and develop the components of the CSO programming chain"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,8 +22,8 @@ summary: "Design and develop the components of the CSO programming chain"
 # Context
 
 
-CS Group responsabilities for MCO OURSON from the CSO programming channel are as follows:
-* Maintenance in Operational Conditions
+CS Group responsabilities for CSO programming chain are as follows:
+* Maintaining operating conditions
 
 ![Main Picture](Project-CNES-OURSON-EN pict 1.png)
 

@@ -1,16 +1,15 @@
 ---
-customer: CSGROUP
-customer_long: CS GROUP
-prime_contractor: 
-image: Project-CSGROUP-CSNANO-EN pict 1.png
-size: small
-name: CSNano
-title: Satellites Control Center
-domains: Satellite Ground Segment
-department: SPACE
-program: GOSMIC
-domains: Satellite Ground Segment
-summary: "The CSNano Satellite Control Center is designed as a set of micro-services providing features required to monitor and control satellites. Ground Stations Management & Connection (SLE, KSat). Compliant with CCSDS SDLP/SDLSP standards"
+customer : "CSGROUP"
+customer_long : "CS GROUP"
+prime_contractor : ""
+image : "Project-CSGROUP-CSNANO-EN pict 1.png"
+size : "small"
+name : "CSNano"
+title : "Satellites Control Center"
+domains : "Satellite Ground Segment"
+department : "SPACE"
+program : "GOSMIC"
+summary : "The CSNano Satellite Control Center is designed as a set of micro-services providing features required to monitor and control satellites. Ground Stations Management & Connection (SLE, KSat). Compliant with CCSDS SDLP/SDLSP standards"
 ---
 
 > __Customer__\: CS GROUP (CSGROUP)

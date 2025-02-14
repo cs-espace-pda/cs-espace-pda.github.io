@@ -1,16 +1,15 @@
 ---
-customer: BGU
-customer_long: Ben-Gurion University of the Negev
-prime_contractor: 
-image: Project-BGU-BIP-EN pict 1.jpeg
-size: small
-name: BIP
-title: BGU-VENµS Images Production
-domains: Image
-department: SPACE
-program: Venμs
-domains: Image
-summary: "Produce BGU's L2 and L3 images from the L1 data provided by CNES"
+customer : "BGU"
+customer_long : "Ben-Gurion University of the Negev"
+prime_contractor : ""
+image : "Project-BGU-BIP-EN pict 1.jpeg"
+size : "small"
+name : "BIP"
+title : "BGU-VENµS Images Production"
+domains : "Image"
+department : "SPACE"
+program : "Venμs"
+summary : "Produce BGU's L2 and L3 images from the L1 data provided by CNES"
 ---
 
 > __Customer__\: Ben-Gurion University of the Negev (BGU)
@@ -56,7 +55,7 @@ The processes for carrying out the project are:
 The solution key points are as follows:
 * Expertise in satellite imagery applied to various themes: agriculture, environment, land use planning, natural risks, etc.
 * Ability to integrate MACCS (developed by CS for CNES) into a processing chain..
-* Skills in the development of production chain management tools and open-source web technologies.
+* CAMUNDA web architecture and open-source BPMN.
 
 ![Archi Picture](Project-BGU-BIP-EN pict 2.png)
 

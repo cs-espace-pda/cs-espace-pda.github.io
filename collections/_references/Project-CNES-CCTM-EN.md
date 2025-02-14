@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-CCTM-EN pict 1.png
-size: small
-name: CCTM
-title: Launchers Telemetry Processing Center
-domains: PDGS
-department: SPACE
-program: Ariane
-domains: PDGS
-summary: "Telemetry processing for ARIANE5, VEGA and SOYOUZ launchers. Systematic use of the center for each launch for the benefit of the ARIANESPACE customer"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-CCTM-EN pict 1.png"
+size : "small"
+name : "CCTM"
+title : "Launchers Telemetry Processing Center"
+domains : "PDGS"
+department : "SPACE"
+program : "Ariane"
+summary : "Telemetry processing for ARIANE5, VEGA and SOYOUZ launchers. Systematic use of the center for each launch for the benefit of the ARIANESPACE customer"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)

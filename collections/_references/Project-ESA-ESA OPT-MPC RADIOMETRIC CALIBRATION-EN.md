@@ -1,21 +1,20 @@
 ---
-customer: ESA
-customer_long: European Space Agency
-prime_contractor: 
-image: Project-ESA-ESA OPT-MPC RADIOMETRIC CALIBRATION-EN pict 1.png
-size: small
-name: ESA OPT-MPC Radiometric Calibration
-title: Radiometric Calibration expertise support for the OPT-MPC-S2
-domains: Image
-department: SPACE
-program: Copernicus / Sentinel-2
-domains: Image
-summary: "Ensure expertise in radiometric monitoring of MSI Sentinel-2 sensors. Support for the evaluation and improvement of radiometric calibration methods"
+customer : "ESA"
+customer_long : "European Space Agency"
+prime_contractor : ""
+image : "Project-ESA-ESA OPT-MPC RADIOMETRIC CALIBRATION-EN pict 1.png"
+size : "small"
+name : "ESA OPT-MPC Radiometric Calibration"
+title : "Radiometric Calibration Expertise Support for Opt-MP-S2"
+domains : "Image"
+department : "SPACE"
+program : "Copernicus"
+summary : "Ensure the expertise of radiometric monitoring of MSI Sentinel-2 sensors. Support for the evaluation and improvement of radiometric calibration methods"
 ---
 
 > __Customer__\: European Space Agency (ESA)
 
-> __Programme__\: Copernicus / Sentinel-2
+> __Programme__\: Copernicus
 
 > __Supply Chain__\: ESA >  CS Group SPACE
 
@@ -23,29 +22,29 @@ summary: "Ensure expertise in radiometric monitoring of MSI Sentinel-2 sensors. 
 # Context
 
 
-CS Group responsabilities for Radiometric Calibration expertise support for the OPT-MPC-S2 are as follows:
-* Guarantee the quality of radiometric calibration parameters
-* User Support
+CS Group responsabilities for Radiometric Calibration Expertise Support for Opt-MP-S2 are as follows:
+* Guarantee the quality of the radiometric calibration parameters
+* User support
 
 ![Main Picture](Project-ESA-ESA OPT-MPC RADIOMETRIC CALIBRATION-EN pict 1.png)
 
 The features are as follows:
-* **Dark Current Tracking :**
-*   Night acquisitions on oceans. 
-*   Analysis of dark current stability per pixel and spectral band.
-	**Monitoring radiometric sensitivity and inter-pixel response :**
-*   Sun-diffuser image processing.
+* **Obscuity current monitoring :**
+*   Night acquisitions on Oceans. 
+*   Analysis of the stability of the pixel of darkness by pixel and spectral band.
+	**Monitoring of radiometric sensitivity and inter-pixel response :**
+*   Sun-Diffuser image processing.
 *   Analysis of equalization variations (FPN).
-*   Monitoring the evolution of the absolute calibration coefficients of S2A and S2B.
-*   Sensitivity analysis of the method.
-	**Bad Pixel Tracking :**
-*   Identification of defective pixels (aberrant or noisy).
-*   Setting SWIR pixel reselection configuration, monitoring results on board.
+*   Followed by the evolution of the absolute calibration coefficients of S2A and S2B.
+*   Method's sensitivity analysis.
+	**Defective pixel monitoring :**
+*   Identification of defective pixels (aberrants or buries).
+*   Definition of the Pixels SWIR reselection configuration, monitoring of results on board.
 
 # Project implementation
 
 The project objectives are as follows:
-* Ensure expertise in radiometric monitoring of MSI Sentinel-2 sensors
+* Ensure the expertise of radiometric monitoring of MSI Sentinel-2 sensors
 * Support for the evaluation and improvement of radiometric calibration methods
 
 The processes for carrying out the project are:
@@ -54,7 +53,7 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* Use of MPA (Mission Performance Assessment) processing codes.
+* Use of MPA treatment codes (Mission Performance Assessment).
 * Stability analysis modules.
 
 

@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-CSO PROGRAMMING CHAIN-EN pict 1.png
-size: small
-name: CSO Programming Chain
-title: CSO Programming Chain
-domains: Mission Center
-department: SPACE
-program: CSO
-domains: Mission Center
-summary: "Development of CSO Programming chain"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-CSO PROGRAMMING CHAIN-EN pict 1.png"
+size : "small"
+name : "CSO Programming Chain"
+title : "CSO Programming Chain"
+domains : "Mission Center"
+department : "SPACE"
+program : "CSO"
+summary : "Development of CSO Programming chain"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)

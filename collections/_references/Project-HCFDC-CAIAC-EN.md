@@ -1,16 +1,15 @@
 ---
-customer: HCFDC
-customer_long: Haut Comité Français Défense Civile
-prime_contractor: 
-image: Project-HCFDC-CAIAC-EN pict 1.jpg
-size: small
-name: CAIAC
-title: Geographic platform for planning and decision support for risk management
-domains: EO Services
-department: SPACE
-program: Risk Management
-domains: EO Services
-summary: "Deploy a mapping platform to assist critical operators and territorial managers in their planning, decision support, risk and crisis management activities. Integrate simulation and information acquisition functions and services into the CAIAC platform"
+customer : "HCFDC"
+customer_long : "Haut Comité Français Défense Civile"
+prime_contractor : ""
+image : "Project-HCFDC-CAIAC-EN pict 1.jpg"
+size : "small"
+name : "CAIAC"
+title : "Geographic platform for planning and decision support for risk management"
+domains : "EO Services"
+department : "SPACE"
+program : "Risk Management"
+summary : "Deploy a mapping platform to assist critical operators and territorial managers in their planning, decision support, risk and crisis management activities. Integrate simulation and information acquisition functions and services into the CAIAC platform"
 ---
 
 > __Customer__\: Haut Comité Français Défense Civile (HCFDC)

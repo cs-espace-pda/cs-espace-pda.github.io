@@ -1,16 +1,15 @@
 ---
-customer: ESA
-customer_long: European Space Agency
-prime_contractor: 
-image: Project-ESA-EGS-CC POC-EN pict 1.png
-size: small
-name: EGS-CC POC
-title: European Ground System – Common Core – Proof of Concept
-domains: Control Center
-department: SPACE
-program: Generic
-domains: Control Center
-summary: "The European Ground Systems – Common Core (EGS-CC) is a European initiative to develop a common infrastructure to support space systems monitoring and control in pre- and post-launch phases for all types of missions. The EGS-CC POC project is responsible for the analysis and selection of technologies potentially applicable to the EGS-CC system."
+customer : "ESA"
+customer_long : "European Space Agency"
+prime_contractor : ""
+image : "Project-ESA-EGS-CC POC-EN pict 1.png"
+size : "small"
+name : "EGS-CC POC"
+title : "European Ground System – Common Core – Proof of Concept"
+domains : "Control Center"
+department : "SPACE"
+program : "Generic"
+summary : "The European Ground Systems – Common Core (EGS-CC) is a European initiative to develop a common infrastructure to support space systems monitoring and control in pre- and post-launch phases for all types of missions. The EGS-CC POC project is responsible for the analysis and selection of technologies potentially applicable to the EGS-CC system."
 ---
 
 > __Customer__\: European Space Agency (ESA)

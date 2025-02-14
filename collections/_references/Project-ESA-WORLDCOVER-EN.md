@@ -1,16 +1,15 @@
 ---
-customer: ESA
-customer_long: European Space Agency
-prime_contractor: 
-image: Project-ESA-WORLDCOVER-EN pict 1.png
-size: small
-name: WORLDCOVER
-title: World Cover
-domains: Platform, EO Services
-department: SPACE
-program: Copernicus
-domains: Platform, EO Services
-summary: "The project aims at developing an automated user-driven workflow capable of producing a global land cover maps in fast delivery. To meet such a challenge, production delivery is divided into 3 phases:. * Producing 1% of the world. * Producing 10% of the world. * Producing 100% of the world"
+customer : "ESA"
+customer_long : "European Space Agency"
+prime_contractor : ""
+image : "Project-ESA-WORLDCOVER-EN pict 1.png"
+size : "small"
+name : "WORLDCOVER"
+title : "World Cover"
+domains : "Platform, EO Services"
+department : "SPACE"
+program : "Copernicus"
+summary : "The project aims at developing an automated user-driven workflow capable of producing a global land cover maps in fast delivery. To meet such a challenge, production delivery is divided into 3 phases:.  Producing 1% of the world.  Producing 10% of the world.  Producing 100% of the world"
 ---
 
 > __Customer__\: European Space Agency (ESA)

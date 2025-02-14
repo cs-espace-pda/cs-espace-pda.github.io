@@ -1,16 +1,15 @@
 ---
-customer: DGA
-customer_long: DGA - Ministère de la Défense
-prime_contractor: 
-image: Project-DGA-KHEPER-EN pict 1.png
-size: small
-name: KHEPER
-title: MCO KHEPER
-domains: Platform
-department: SPACE
-program: GHOM
-domains: Platform
-summary: "To provide armed forces a shared and relevant cartographic reference for a common understanding of the operational conditions in the perspective of preparing/running military operations, via workshops for:"
+customer : "DGA"
+customer_long : "DGA - Ministère de la Défense"
+prime_contractor : ""
+image : "Project-DGA-KHEPER-EN pict 1.png"
+size : "small"
+name : "KHEPER"
+title : "MCO KHEPER"
+domains : "Platform"
+department : "SPACE"
+program : "GHOM"
+summary : "To provide armed forces a shared and relevant cartographic reference for a common understanding of the operational conditions in the perspective of preparing/running military operations, via workshops for:"
 ---
 
 > __Customer__\: DGA - Ministère de la Défense (DGA)

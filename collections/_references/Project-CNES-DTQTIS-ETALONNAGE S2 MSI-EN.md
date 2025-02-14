@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-DTQTIS-ETALONNAGE S2 MSI-EN pict 1.png
-size: small
-name: DTQTIS-Etalonnage S2 MSI
-title: Studies for the calibration of Sentinel-2 / MSI
-domains: Image
-department: SPACE
-program: DTQTIS
-domains: Image
-summary: "Provide support for the calibration of MSI sensors on board Sentinel-2A and 2B"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-DTQTIS-ETALONNAGE S2 MSI-EN pict 1.png"
+size : "small"
+name : "DTQTIS-Etalonnage S2 MSI"
+title : "Studies for the calibration of Sentinel-2 / MSI"
+domains : "Image"
+department : "SPACE"
+program : "DTQTIS"
+summary : "Bring a support to the calibration of MSI sensors aboard Sentinel-2a and 2B"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -39,15 +38,15 @@ The features are as follows:
 # Project implementation
 
 The project objectives are as follows:
-* Provide support for the calibration of MSI sensors on board Sentinel-2A and 2B
+* Bring a support to the calibration of MSI sensors aboard Sentinel-2a and 2B
 
 The processes for carrying out the project are:
-* Study, regular progress meetings
+* Study, regular advancement meetings
 
 # Technical characteristics
 
 The solution key points are as follows:
-* Not applicable
+* Incommensurate
 
 
 

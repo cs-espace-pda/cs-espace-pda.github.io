@@ -1,16 +1,15 @@
 ---
-customer: EUMETSAT
-customer_long: EUMETSAT
-prime_contractor: CLOUDFERRO
-image: Project-CLOUDFERRO-DEDL-EN pict 1.png
-size: small
-name: DEDL
-title: DetinE Data Lake
-domains: Platform
-department: SPACE
-program: DestinE
-domains: Platform
-summary: "Integration with DTEs. Integration with DESP. Harmonize Heterogeneous datasets and data sources access. Interoperability with existing ecosystem. Search effectiveness. 24/7 availability. Operation driven system"
+customer : "EUMETSAT"
+customer_long : "EUMETSAT"
+prime_contractor : "CLOUDFERRO"
+image : "Project-CLOUDFERRO-DEDL-EN pict 1.png"
+size : "small"
+name : "DEDL"
+title : "DetinE Data Lake"
+domains : "Platform"
+department : "SPACE"
+program : "DestinE"
+summary : "Integration with DTEs. Integration with DESP. Harmonize Heterogeneous datasets and data sources access. Interoperability with existing ecosystem. Search effectiveness. 24/7 availability. Operation driven system"
 ---
 
 > __Customer__\: EUMETSAT (EUMETSAT)

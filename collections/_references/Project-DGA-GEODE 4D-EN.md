@@ -1,16 +1,15 @@
 ---
-customer: DGA
-customer_long: Direction Générale de l'Armement
-prime_contractor: 
-image: Project-DGA-GEODE 4D-EN pict 1.png
-size: small
-name: GEODE 4D
-title: Architectural analysis and definition of the Geophysical Environment Information System GEODE 4D
-domains: Platform
-department: SPACE
-program: GHOM
-domains: Platform
-summary: "GEODE 4D is a project to set up a geophysical cross forces information system."
+customer : "DGA"
+customer_long : "Direction Générale de l'Armement"
+prime_contractor : ""
+image : "Project-DGA-GEODE 4D-EN pict 1.png"
+size : "small"
+name : "GEODE 4D"
+title : "Architectural analysis and definition of the Geophysical Environment Information System GEODE 4D"
+domains : "Platform"
+department : "SPACE"
+program : "GHOM"
+summary : "GEODE 4D is a project to set up a geophysical cross forces information system."
 ---
 
 > __Customer__\: Direction Générale de l'Armement (DGA)

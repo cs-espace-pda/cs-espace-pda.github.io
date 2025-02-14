@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-ALIS MISSION INFRASTRUCTURE SIMULATOR-EN pict 1.png
-size: small
-name: ALIS Mission Infrastructure Simulator
-title: ALIS simulation infrastructure
-domains: Mission Center
-department: SPACE
-program: Generic
-domains: Mission Center
-summary: "Maintenance and development of an engineering workshop allowing system sizing and engineering on the programming chain. Development of mission simulators: CMTF, CERES, CSO, PLEIADES, CO3D, MICROCARB"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-ALIS MISSION INFRASTRUCTURE SIMULATOR-EN pict 1.png"
+size : "small"
+name : "ALIS Mission Infrastructure Simulator"
+title : "Alis simulation infastructure"
+domains : "Mission Center"
+department : "SPACE"
+program : "Generic"
+summary : "Maintenance and development of an engineering workshop to make system sizing and engineering on the programming chain. Development of simulators Mission: CMTF, CERES, CSO, Pleiades, CO3D, Microcarb"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,25 +22,25 @@ summary: "Maintenance and development of an engineering workshop allowing system
 # Context
 
 
-CS Group responsabilities for ALIS simulation infrastructure are as follows:
-* Development then Maintenance
+CS Group responsabilities for Alis simulation infastructure are as follows:
+* Development then maintenance
 
 
 
 The features are as follows:
-* Map display
+* Cartographic display
 * Request management
 * Programmatic execution of simulation steps
-* Interfacing external libraries
+* Interfacing of external libraries
 * Data storage
 * Reporting tool
-* PATRIUS integration
+* Patrius integration
 
 # Project implementation
 
 The project objectives are as follows:
-* Maintenance and development of an engineering workshop allowing system sizing and engineering on the programming chain
-* Development of mission simulators: CMTF, CERES, CSO, PLEIADES, CO3D, MICROCARB
+* Maintenance and development of an engineering workshop to make system sizing and engineering on the programming chain
+* Development of simulators Mission: CMTF, CERES, CSO, Pleiades, CO3D, Microcarb
 
 The processes for carrying out the project are:
 * V Cycle
@@ -51,10 +50,10 @@ The processes for carrying out the project are:
 The solution key points are as follows:
 * Application portability
 * Ergonomics, modularity, robustness
-* Optimization of 3D mapping
+* Optimization of 3D cartography
 * New developments responding to customer issues
-* Use of COTS and Open Source
-* Implementation of a “template” simulator to facilitate the development of new simulators
+* Use of cots and open source
+* Implementation of a "template" simulator to facilitate the development of new simulators
 
 ![Archi Picture](Project-CNES-ALIS MISSION INFRASTRUCTURE SIMULATOR-EN pict 2.png)
 

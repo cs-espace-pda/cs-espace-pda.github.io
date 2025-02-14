@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-DISCO-EN pict 1.png
-size: small
-name: DISCO
-title: Data Integrated Solutions for model COnstruction
-domains: Platform
-department: SPACE
-program: Generic
-domains: Platform
-summary: "Easy manipulation of data descriptions, which size is nowadays always bigger. Using a single model, while exporting and importing from different description formats. Being able to use the modeler, whatever the business domain described by the formats"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-DISCO-EN pict 1.png"
+size : "small"
+name : "DISCO"
+title : "Data Integrated Solutions for model COnstruction"
+domains : "Platform"
+department : "SPACE"
+program : "Generic"
+summary : "Easy manipulation of data descriptions, which size is nowadays always bigger. Using a single model, while exporting and importing from different description formats. Being able to use the modeler, whatever the business domain described by the formats"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)

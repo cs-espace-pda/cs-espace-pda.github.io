@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d’Études Spatiales
-prime_contractor: 
-image: Project-CNES-HYSOPEII-EN pict 1.png
-size: small
-name: HYSOPEII
-title: Development of a centralized portal for access to hydrological data
-domains: EO Services
-department: SPACE
-program: SWOT aval
-domains: EO Services
-summary: "A system for centralization, provision and processing of hydrological data, to better understand the water cycle. For scientific, institutional, private or educational accesses. Brings together all useful data (spatial, in situ, model, etc.). Single French access to SWOT HR data, a major revolution in the quantity of hydrological measurements"
+customer : "CNES"
+customer_long : "Centre National d’Études Spatiales"
+prime_contractor : ""
+image : "Project-CNES-HYSOPEII-EN pict 1.png"
+size : "small"
+name : "HYSOPEII"
+title : "Development of a centralized portal for hydrological data"
+domains : "EO Services"
+department : "SPACE"
+program : "SWOT aval"
+summary : "A system for centralization, provision and processing of hydrological data, to better understand the water cycle. For scientific, institutional, private or educational accesses. Brings together all useful data (spatial, in situ, model, etc.). Single French access to SWOT HR data, a major revolution in the quantity of hydrological measurements"
 ---
 
 > __Customer__\: Centre National d’Études Spatiales (CNES)
@@ -23,10 +22,10 @@ summary: "A system for centralization, provision and processing of hydrological 
 # Context
 
 
-CS Group responsabilities for Development of a centralized portal for access to hydrological data are as follows:
-* Design, development and deployment on CNES and CLOUD means.
-* Warranty and maintenance.
-* User support and training, community animation.
+CS Group responsabilities for Development of a centralized portal for hydrological data are as follows:
+* Design, development and deployment on CNES and Cloud means.
+* Guarantee and maintenance.
+* Support and training for users, community animation.
 
 ![Main Picture](Project-CNES-HYSOPEII-EN pict 2.png)
 

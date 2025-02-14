@@ -1,16 +1,15 @@
 ---
-customer: ESA
-customer_long: European Space Agency
-prime_contractor: 
-image: Project-ESA-S2 MPC-EN pict 1.png
-size: small
-name: S2 MPC
-title: Sentinel-2 Mission Performance Center
-domains: PDGS, Image
-department: SPACE
-program: Copernicus
-domains: PDGS, Image
-summary: "Sentinel-2 Image Quality Control & Calibration & Validation. Sentinel-2 Mission Performance Control"
+customer : "ESA"
+customer_long : "European Space Agency"
+prime_contractor : ""
+image : "Project-ESA-S2 MPC-EN pict 1.png"
+size : "small"
+name : "S2 MPC"
+title : "Sentinel-2 Mission Performance Center"
+domains : "PDGS, Image"
+department : "SPACE"
+program : "Copernicus"
+summary : "Sentinel-2 Image Quality Control & Calibration & Validation. Sentinel-2 Mission Performance Control"
 ---
 
 > __Customer__\: European Space Agency (ESA)

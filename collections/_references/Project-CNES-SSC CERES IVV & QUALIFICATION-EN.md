@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-SSC CERES IVV & QUALIFICATION-EN pict 1.png
-size: small
-name: SSC CERES IVV & Qualification
-title: SSC IVV, support in Technical and Operational Qualification and LEOP of CERES mission
-domains: Control Center, Flight Dynamics
-department: SPACE
-program: CERES
-domains: Control Center, Flight Dynamics
-summary: "Engineering assistance and support for carrying out the **integration and system qualification** of the components of the **CERES Satellite Control Ground Segments** implementing the **ISIS Product Line**. First missionization and integration of the ISIS LdP. Defense context: strong security constraints"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-SSC CERES IVV & QUALIFICATION-EN pict 1.png"
+size : "small"
+name : "SSC CERES IVV & Qualification"
+title : "SSC IVV, support in Technical and Operational Qualification and LEOP of CERES mission"
+domains : "Control Center, Flight Dynamics"
+department : "SPACE"
+program : "CERES"
+summary : "Assistance to engineering and support for the realization of  Integration and System Qualification  of the components of the  Segments Control of the Ceres  Satellites  the  Line of Isis products. First missionary and integration of the ISIS LDP. Defense context: strong security constraints"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -29,28 +28,28 @@ CS Group responsabilities for SSC IVV, support in Technical and Operational Qual
 ![Main Picture](Project-CNES-SSC CERES IVV & QUALIFICATION-EN pict 2.png)
 
 The features are as follows:
-* **AIV**: development of procedures and LdP missionization, definition of strategy, plans and automated execution of tests (AIV tools for managing contexts, results, requirements)
-	**QT/OQ System Tests**: preparation and support for the execution of compatibility/QT/OQ tests, development of ground operational procedures
-	**Operations Support**: resources integrated into the CNES teams for launch, in-flight acceptance and start of life (shifts, ground on-call duties)
+* **AIV **: Development of LDP procedures and missionary, definition of strategy, automated plans and execution of tests (AIV tools for managing contexts, results, requirements)
+	**QT/QO ** system tests: preparation and support for the execution of compatibility/qt/qo tests, development of operational procedures
+	**Support for operations **: Resources integrated in CNES teams for launch, the recipe in flight and beginning of life (shifts, soil clips)
 
 # Project implementation
 
 The project objectives are as follows:
-* Engineering assistance and support for carrying out the **integration and system qualification** of the components of the **CERES Satellite Control Ground Segments** implementing the **ISIS Product Line**
-* First missionization and integration of the ISIS LdP
+* Assistance to engineering and support for the realization of ** Integration and System Qualification ** of the components of the ** Segments Control of the Ceres ** Satellites ** the ** Line of Isis products**
+* First missionary and integration of the ISIS LDP
 * Defense context: strong security constraints
 
 The processes for carrying out the project are:
 * Requirements management (STB, IF): Testlink and Excel
-* Specific process of Assembly, Integration, Validation Qualification of Ground Control Segments
-* Ground control segment qualification system tests: Compatibility, Technical and Operational Qualification
+* Specific assembly process, integration, validation qualification of control soil segments
+* Tests qualification system for control soil segments: compatibility, technical and operational qualification
 
 # Technical characteristics
 
 The solution key points are as follows:
-* Configuration and deployment of SSCs: Nominal, Backup, SCP/SSV (experts) and 10 test lines
-* 1st operational qualification TM/TC ISIS chain: BDS configurations, sessions, SLE, COP, catalogs, TM visualization, TC history
-* 1st Implementation of ISIS operational concepts: procedures, automation 
+* Configuration and deployment of SSCs: nominal, rescue, SCP/SSV (experts) and 10 test lines
+* 1st operational qualification channel TM/TC Isis: BDS configurations, sessions, SLE, COP, Catalogs, TM visualization, TC Histo
+* 1st implementation of ISIS operational concepts: procedures, automation 
 * Experienced AIV team including experts
 
 ![Archi Picture](Project-CNES-SSC CERES IVV & QUALIFICATION-EN pict 3.png)

@@ -1,16 +1,15 @@
 ---
-customer: CSGROUP
-customer_long: CS GROUP
-prime_contractor: 
-image: Project-CSGROUP-SPNODE-EN pict 1.jpg
-size: small
-name: SPnode
-title: Scheduler
-domains: Satellite Ground Segment
-department: SPACE
-program: GOSMIC
-domains: Satellite Ground Segment
-summary: "SPNode schedules and orchestrates all the functions of the Satellite Control Center. It allows to completely automate operations with activities and events. It is designed to manage big number of activities. It is not specific to Satellite Control Centers and can be used in any context."
+customer : "CSGROUP"
+customer_long : "CS GROUP"
+prime_contractor : ""
+image : "Project-CSGROUP-SPNODE-EN pict 1.jpg"
+size : "small"
+name : "SPnode"
+title : "Scheduler"
+domains : "Satellite Ground Segment"
+department : "SPACE"
+program : "GOSMIC"
+summary : "SPNode schedules and orchestrates all the functions of the Satellite Control Center. It allows to completely automate operations with activities and events. It is designed to manage big number of activities. It is not specific to Satellite Control Centers and can be used in any context."
 ---
 
 > __Customer__\: CS GROUP (CSGROUP)

@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-PPP-WIZARD-EN pict 1.png
-size: small
-name: PPP-WIZARD
-title: Precise Point Positioning with Integer and Zero-difference Ambiguity Resolution
-domains: Navigation
-department: SPACE
-program: Generic
-domains: Navigation
-summary: "Development, maintenance and surveillance of the PPP-WIZARD demonstrator (Precise Point Positioning with Integer and Zero-difference Ambiguity Resolution). Development and maintenance of the PPP-WIZARD user client (PPP-User). Development of mobile applications based on the PPP-User tool"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-PPP-WIZARD-EN pict 1.png"
+size : "small"
+name : "PPP-WIZARD"
+title : "Precise Point Positioning with Integer and Zero-difference Ambiguity Resolution"
+domains : "Navigation"
+department : "SPACE"
+program : "Generic"
+summary : "Development, maintenance and surveillance of the PPP-WIZARD demonstrator (Precise Point Positioning with Integer and Zero-difference Ambiguity Resolution). Development and maintenance of the PPP-WIZARD user client (PPP-User). Development of mobile applications based on the PPP-User tool"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)

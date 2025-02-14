@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-PLEIADES MISSION SIMULATOR-EN pict 1.png
-size: small
-name: PLEIADES Mission Simulator
-title: PLEIADES Mission Simulator
-domains: Mission Center
-department: SPACE
-program: Pléiades
-domains: Mission Center
-summary: "Develop a mission simulator based on the ALIS generic simulation infrastructure."
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-PLEIADES MISSION SIMULATOR-EN pict 1.png"
+size : "small"
+name : "PLEIADES Mission Simulator"
+title : "Mission Pleiades simulator"
+domains : "Mission Center"
+department : "SPACE"
+program : "Pléiades"
+summary : "Develop a mission simulator based on the generic Alis simulation infrastructure."
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,22 +22,22 @@ summary: "Develop a mission simulator based on the ALIS generic simulation infra
 # Context
 
 
-CS Group responsabilities for PLEIADES Mission Simulator are as follows:
-* Design, Development, Validation
+CS Group responsabilities for Mission Pleiades simulator are as follows:
+* Design, development, validation
 
 ![Main Picture](Project-CNES-PLEIADES MISSION SIMULATOR-EN pict 2.png)
 
 The features are as follows:
-* Design of the PLEIADES mission simulator, based on the ALIS infrastructure
+* Design of the Simulator Mission Pleiades, based on the Infrastructure Alis
 * Development and validation of successive versions.
-* Integration of new functionalities (mission API, HMI, etc.)
-* Regular integration of new versions of GOTLIB/PHRLIB
-* Reversal of functionalities developed for the PLEIADES Simulator in ALIS
+* Integration of new features (API Mission, IHM ...)
+* Regular integration of new versions of Gotlib/Phrlib
+* Reversal of features developed for the Pleiades simulator in Alis
 
 # Project implementation
 
 The project objectives are as follows:
-* Develop a mission simulator based on the ALIS generic simulation infrastructure.
+* Develop a mission simulator based on the generic Alis simulation infrastructure.
 
 The processes for carrying out the project are:
 * V Cycle

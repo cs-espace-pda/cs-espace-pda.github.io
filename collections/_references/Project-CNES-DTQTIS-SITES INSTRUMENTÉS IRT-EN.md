@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-DTQTIS-SITES INSTRUMENTÉS IRT-EN pict 1.png
-size: small
-name: DTQTIS-Sites instrumentés IRT
-title: Flight calibration of TRISHNA on instrumented sites
-domains: Image
-department: SPACE
-program: TRISHNA
-domains: Image
-summary: "Study the feasibility of an absolute calibration on an instrumented site for a spatial sensor in thermal infrared"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-DTQTIS-SITES INSTRUMENTÉS IRT-EN pict 1.png"
+size : "small"
+name : "DTQTIS-Sites instrumentés IRT"
+title : "Trishna flight calibration on instrumented sites"
+domains : "Image"
+department : "SPACE"
+program : "TRISHNA"
+summary : "Study the feasibility of an absolute calibration on an instrumented site for a space sensor in the thermal infrared"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,21 +22,21 @@ summary: "Study the feasibility of an absolute calibration on an instrumented si
 # Context
 
 
-CS Group responsabilities for Flight calibration of TRISHNA on instrumented sites are as follows:
+CS Group responsabilities for Trishna flight calibration on instrumented sites are as follows:
 * Study, development
 
 ![Main Picture](Project-CNES-DTQTIS-SITES INSTRUMENTÉS IRT-EN pict 1.png)
 
 The features are as follows:
 * Simulation of uncertainty on a large number of atmospheric profiles (water vapor, ozone, temperature)
-* Simulation of luminance at TOA using the RTTOV code from 4 to 12 microns
-* Analysis of the impact on the observable luminance of the uncertainties on the profiles
-* Application to the TRISHNA sensor
+* Simulation of the Luminance in the TOA by the RTTOV code from 4 to 12 microns
+* Analysis of the impact on the observable luminance of uncertainty on profiles
+* Trishna sensor application
 
 # Project implementation
 
 The project objectives are as follows:
-* Study the feasibility of an absolute calibration on an instrumented site for a spatial sensor in thermal infrared
+* Study the feasibility of an absolute calibration on an instrumented site for a space sensor in the thermal infrared
 
 The processes for carrying out the project are:
 * Study, regular meetings

@@ -1,16 +1,15 @@
 ---
-customer: HCFRN
-customer_long: Haut Comité Français pour la Résilience Nationale
-prime_contractor: 
-image: Project-HCFRN-DOCIA-EN pict 1.png
-size: small
-name: DOCIA
-title: Prototype of a platform for document retrieval and advanced indexing
-domains: EO Services
-department: SPACE
-program: C2IA
-domains: EO Services
-summary: "Enable the search in a large quantity of heterogeneous and unorganized documents. Intelligent use of data, linking, cross-referencing. Monitoring of local documents, websites, RSS feeds. Applications: Operational Mapping, Surveillance, Decision Support"
+customer : "HCFRN"
+customer_long : "Haut Comité Français pour la Résilience Nationale"
+prime_contractor : ""
+image : "Project-HCFRN-DOCIA-EN pict 1.png"
+size : "small"
+name : "DOCIA"
+title : "Prototype of a platform for document retrieval and advanced indexing"
+domains : "EO Services"
+department : "SPACE"
+program : "C2IA"
+summary : "Enable the search in a large quantity of heterogeneous and unorganized documents. Intelligent use of data, linking, cross-referencing. Monitoring of local documents, websites, RSS feeds. Applications: Operational Mapping, Surveillance, Decision Support"
 ---
 
 > __Customer__\: Haut Comité Français pour la Résilience Nationale (HCFRN)

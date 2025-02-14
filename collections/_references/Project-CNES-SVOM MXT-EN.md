@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: 
-size: small
-name: SVOM MXT
-title: MXT instrument Software embedded into the SVOM satellite
-domains: Platform
-department: SPACE
-program: SVOM
-domains: Platform
-summary: "**MXT** is one of the 2 instruments of the **SVOM** French payload. It is specialized in GRB follow-up observation. CS GROUP had to provide the MXT instrument Application Software embedded into the Data Processing Unit (MDPU) in charge of managing"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : ""
+size : "small"
+name : "SVOM MXT"
+title : "MXT instrument Software embedded into the SVOM satellite"
+domains : "Platform"
+department : "SPACE"
+program : "SVOM"
+summary : "MXT is one of the 2 instruments of the SVOM French payload. It is specialized in GRB follow-up observation. CS GROUP had to provide the MXT instrument Application Software embedded into the Data Processing Unit (MDPU) in charge of managing"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)

@@ -1,16 +1,15 @@
 ---
-customer: EC
-customer_long: EC
-prime_contractor: ESA
-image: Project-ESA-RUS-EN pict 1.png
-size: small
-name: RUS
-title: Copernicus Research and User Support
-domains: Platform, EO Services
-department: SPACE
-program: Copernicus
-domains: Platform, EO Services
-summary: "Promote uptake of Copernicus data. Support scaling up of R&D activities"
+customer : "EC"
+customer_long : "EC"
+prime_contractor : "ESA"
+image : "Project-ESA-RUS-EN pict 1.png"
+size : "small"
+name : "RUS"
+title : "Copernicus Research and User Support"
+domains : "Platform, EO Services"
+department : "SPACE"
+program : "Copernicus"
+summary : "Promote uptake of Copernicus data. Support scaling up of R&D activities"
 ---
 
 > __Customer__\: EC

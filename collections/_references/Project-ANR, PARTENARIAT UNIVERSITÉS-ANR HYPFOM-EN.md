@@ -1,16 +1,15 @@
 ---
-customer: ANR, PARTENARIAT UNIVERSITÉS
-customer_long: Agence Nationale de la Recherche
-prime_contractor: 
-image: Project-ANR, PARTENARIAT UNIVERSITÉS-ANR HYPFOM-EN pict 1.png
-size: small
-name: ANR HYPFOM
-title: Modeling the non-linear effects of the marine environment on radiation
-domains: Image
-department: SPACE
-program: Generic
-domains: Image
-summary: "Improving seafloor analysis methods using hyperspectral imaging: sub-pixel approach based on a precise radiative transfer model of the water column and the bottom"
+customer : "ANR, PARTENARIAT UNIVERSITÉS"
+customer_long : "Agence Nationale de la Recherche"
+prime_contractor : ""
+image : "Project-ANR, PARTENARIAT UNIVERSITÉS-ANR HYPFOM-EN pict 1.png"
+size : "small"
+name : "ANR HYPFOM"
+title : "Modeling of non-linear effects of the marine environment on radiation"
+domains : "Image"
+department : "SPACE"
+program : "Generic"
+summary : "Improve the methods of analysis of the seabed by hyperspectral imaging: sub-pixel approach based on a precise radiative transfer model of the water column and the bottom"
 ---
 
 > __Customer__\: Agence Nationale de la Recherche (ANR, PARTENARIAT UNIVERSITÉS)
@@ -23,26 +22,26 @@ summary: "Improving seafloor analysis methods using hyperspectral imaging: sub-p
 # Context
 
 
-CS Group responsabilities for Modeling the non-linear effects of the marine environment on radiation are as follows:
+CS Group responsabilities for Modeling of non-linear effects of the marine environment on radiation are as follows:
 * Fine simulation of radiation in the water column
-* Modeling of sub-surface rising radiation by separation of radiative terms
+* Modeling of the Sub-surface Radiation by separation of radiative terms
 
 ![Main Picture](Project-ANR, PARTENARIAT UNIVERSITÉS-ANR HYPFOM-EN pict 1.png)
 
 The features are as follows:
-* **Fine characterization of the nonlinearity terms induced by the water column :**
-* OSOAA simulations
+* **Fine characterization of non-linearity terms induced by the water column :**
+* Osoaa simulations
 * Support for comparison with simplified models
-	**Modeling of sub-surface rising radiation by separation of radiative terms :**
-* Expression of the rising luminance under the surface coming from a target pixel, with impact of neighboring pixels
+	**Modeling of the Sub-surface Radiation by separation of radiative terms :**
+* Expression of rising luminance below the surface coming from a target pixel, impacting neighboring pixels
 * Estimation of the importance of reflections below the surface
-* Modeling and evaluation of the impact of environmental effects on the rising signal
-	**Development of a tool for simulating inter-pixel mixing in a uniform environment.**
+* Modeling and evaluation of the impact of environmental effects on the amount amount
+	**Development of a tool for simulating an inter-pixel mixture in a uniform environment.**
 
 # Project implementation
 
 The project objectives are as follows:
-* Improving seafloor analysis methods using hyperspectral imaging: sub-pixel approach based on a precise radiative transfer model of the water column and the bottom
+* Improve the methods of analysis of the seabed by hyperspectral imaging: sub-pixel approach based on a precise radiative transfer model of the water column and the bottom
 
 The processes for carrying out the project are:
 * Study, development, regular meetings

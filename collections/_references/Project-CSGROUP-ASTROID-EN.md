@@ -1,16 +1,15 @@
 ---
-customer: CSGROUP
-customer_long: CS Group
-prime_contractor: 
-image: Project-CSGROUP-ASTROID-EN pict 1.png
-size: small
-name: ASTROID
-title: Demonstration of satellite and Control Centre
-domains: Satellite Ground Segment
-department: SPACE
-program: GOSMIC
-domains: Satellite Ground Segment
-summary: "ASTROID consists of testing in orbit on an HEMERIA nano-satellite platform the equipment and technological solutions of 6 partners (ANYWAVES, COMAT, CSGROUP, MECANO-ID, STEEL & SYNTONY) in order to qualify them in an operational environment."
+customer : "CSGROUP"
+customer_long : "CS Group"
+prime_contractor : ""
+image : "Project-CSGROUP-ASTROID-EN pict 1.png"
+size : "small"
+name : "ASTROID"
+title : "Demonstration of satellite and Control Centre"
+domains : "Satellite Ground Segment"
+department : "SPACE"
+program : "GOSMIC"
+summary : "ASTROID consists of testing in orbit on an HEMERIA nano-satellite platform the equipment and technological solutions of 6 partners (ANYWAVES, COMAT, CSGROUP, MECANO-ID, STEEL & SYNTONY) in order to qualify them in an operational environment."
 ---
 
 > __Customer__\: CS Group (CSGROUP)

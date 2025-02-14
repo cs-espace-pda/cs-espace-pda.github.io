@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-SURFWATER-EN pict 1.png
-size: small
-name: SURFWATER
-title: SurfWater, dynamic monitoring of water surfaces
-domains: Image
-department: SPACE
-program: SWOT
-domains: Image
-summary: "Specify, design and assess a water surface detection processing chain. Make use of Sentinel-1 and Sentinel-2 data in order to provide continental water surface evolution monitoring."
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-SURFWATER-EN pict 1.png"
+size : "small"
+name : "SURFWATER"
+title : "Surfwater, dynamic monitoring of water surfaces"
+domains : "Image"
+department : "SPACE"
+program : "SWOT"
+summary : "Specify, design and assess a water surface detection processing chain. Make use of Sentinel-1 and Sentinel-2 data in order to provide continental water surface evolution monitoring."
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,7 +22,7 @@ summary: "Specify, design and assess a water surface detection processing chain.
 # Context
 
 
-CS Group responsabilities for SurfWater, dynamic monitoring of water surfaces are as follows:
+CS Group responsabilities for Surfwater, dynamic monitoring of water surfaces are as follows:
 * Specification, design, development, maintenance
 * Calibration and validation
 

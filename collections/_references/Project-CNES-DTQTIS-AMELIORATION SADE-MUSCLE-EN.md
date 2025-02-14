@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-DTQTIS-AMELIORATION SADE-MUSCLE-EN pict 1.png
-size: small
-name: DTQTIS-Amelioration SADE-MUSCLE
-title: Absolute radiometric calibration - Studies for improving SADE-MUSCLE tools
-domains: Image
-department: SPACE
-program: DTQTIS
-domains: Image
-summary: "Improving surface reflectance modeling of desert calibration sites. Replace Spline interpolation made from multi-spectral measurements by interpolation from a hyperspectrum. Replace the integration of the surface reflectance with the integration of the simulated signal at the top of the atmosphere"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-DTQTIS-AMELIORATION SADE-MUSCLE-EN pict 1.png"
+size : "small"
+name : "DTQTIS-Amelioration SADE-MUSCLE"
+title : "Absolute radiometric calibration - Studies for improving Sade -Muscle tools"
+domains : "Image"
+department : "SPACE"
+program : "DTQTIS"
+summary : "Improve the modeling of surface reflectance of desert calibration sites. Replace the spline interpolation made from multi-spectral measures with an interpolation from a hyperspectrans. Replace the integration of surface reflectance by integration of the simulated signal at the top of the atmosphere"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,37 +22,37 @@ summary: "Improving surface reflectance modeling of desert calibration sites. Re
 # Context
 
 
-CS Group responsabilities for Absolute radiometric calibration - Studies for improving SADE-MUSCLE tools are as follows:
+CS Group responsabilities for Absolute radiometric calibration - Studies for improving Sade -Muscle tools are as follows:
 * Study, development
 
 ![Main Picture](Project-CNES-DTQTIS-AMELIORATION SADE-MUSCLE-EN pict 1.png)
 
 The features are as follows:
-* **Improved hyperspectral interpolation on desert sites :**
-* Analysis of available hyperspectra (GOME-2, ONERA, ECOSTRESS, PICSAND)
-* Generation of reference hyperspectra of desert sites 
+* **Improvement hyperspectral interpolation on deserted sites :**
+* Analysis of available hyperspectres (Gome-2, Onera, Ecostress, Picsand)
+* Generation of reference hyperspectres for desert sites 
 * Application to calibration (MSI, OLCI, SLSTR)
-	**TOA Spectral Integration for Deserts Calibration :**
-* Adaptation of MUSCLE tools/Implementation of the algorithm
-* BOA/TOA integration comparison (SPOT-6 and SLSTR calibrations)
-	**Rayleigh/Glitter calibration :**
-* Morel&Gentili BRDF correction development (MUSCLE-NEO integration in progress)
-* Study on improving the spectral interpolation of reflectances CLIMZOO
+	**Toa spectral integration for deserted calibration :**
+* Adaptation of muscle/implementation of algorithm
+* BOA/TOA integration comparison (Spot-6 and SLSTR calibrations)
+	**Rayleigh/glitter calibration :**
+* Development BRDF Morel & Gentili Correction (Integration Muscle-Neo in progress)
+* Study on improving the spectral interpolation of air conditioning reflectances
 
 # Project implementation
 
 The project objectives are as follows:
-* Improving surface reflectance modeling of desert calibration sites 
-* Replace Spline interpolation made from multi-spectral measurements by interpolation from a hyperspectrum
-* Replace the integration of the surface reflectance with the integration of the simulated signal at the top of the atmosphere
+* Improve the modeling of surface reflectance of desert calibration sites 
+* Replace the spline interpolation made from multi-spectral measures with an interpolation from a hyperspectrans
+* Replace the integration of surface reflectance by integration of the simulated signal at the top of the atmosphere
 
 The processes for carrying out the project are:
-* Study, tests, regular progress meetings
+* Study, tests, regular advancement meetings
 
 # Technical characteristics
 
 The solution key points are as follows:
-* Not applicable
+* Incommensurate
 
 
 

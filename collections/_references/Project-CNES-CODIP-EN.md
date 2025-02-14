@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-CODIP-EN pict 1.png
-size: small
-name: CODIP
-title: Constellation Optical 3D CO3D Image Processing
-domains: Platform, Image
-department: SPACE
-program: CO3D
-domains: Platform, Image
-summary: "Development for the CO3D constellation of the CODIP image processing chain: CO3D Image Processing. Combined application of the agile Scrum method and the DevOps approach"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-CODIP-EN pict 1.png"
+size : "small"
+name : "CODIP"
+title : "3D CO3D Image Processing Optical Constellation"
+domains : "Platform, Image"
+department : "SPACE"
+program : "CO3D"
+summary : "Development for the CO3D constellation of the CODIP image processing chain: CO3D Image Processing. Combined application of the Agile Scrum method and the DevOps approach"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,35 +22,35 @@ summary: "Development for the CO3D constellation of the CODIP image processing c
 # Context
 
 
-CS Group responsabilities for Constellation Optical 3D CO3D Image Processing are as follows:
+CS Group responsabilities for 3D CO3D Image Processing Optical Constellation are as follows:
 * Design, Development, Integration and Maintenance,
 
 ![Main Picture](Project-CNES-CODIP-EN pict 1.png)
 
 The features are as follows:
-* Implementation of an operational processing chain in micro-services, orchestrated in the cloud via Zeebe.
-* 2D and 3D production (3D stereo reconstruction)
-* CODIP deployed in several operational centers, particularly on the cloud.
+* Implementation of an operational treatment chain in micro-service, orchestrated in the cloud via Zeebe.
+* 2D and 3D production (stereo 3D reconstruction)
+* CODIP deployed in several operational centers, notably on the cloud.
 
 # Project implementation
 
 The project objectives are as follows:
 * Development for the CO3D constellation of the CODIP image processing chain: CO3D Image Processing
-* Combined application of the agile Scrum method and the DevOps approach
+* Combined application of the Agile Scrum method and the DevOps approach
 
 The processes for carrying out the project are:
-* Agile Scrum method
-* Continuous cloud deployment
+* Agile scrum method
+* Continuous deployment on the cloud
 
 # Technical characteristics
 
 The solution key points are as follows:
-* Algorithmic blocks of the chain divided into Dockerized micro-services
-*     Service layer in Python
-*     C++ Binding for algo processing binaries
+* Algorithmic blocks of the chain cut into dockerized micro-service
+*     Python service layer
+*     Binding C ++ for Algo treatments
 * Data exchange via S3 storage
-* Service orchestration with Zeebe
-* Strong scalability via cloud deployment
+* Services orchestration with Zeebe
+* Strong scalability via the cloud deployment
 
 ![Archi Picture](Project-CNES-CODIP-EN pict 2.png)
 

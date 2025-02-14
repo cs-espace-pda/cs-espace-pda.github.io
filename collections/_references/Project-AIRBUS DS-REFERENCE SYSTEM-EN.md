@@ -1,16 +1,15 @@
 ---
-customer: ESA
-customer_long: European Space Agency
-prime_contractor: AIRBUS DS
-image: Project-AIRBUS DS-REFERENCE SYSTEM-EN pict 1.png
-size: small
-name: Reference System
-title: ESA CSC Reference System (RS)
-domains: Platform, Image
-department: SPACE
-program: Copernicus
-domains: Platform, Image
-summary: "The RS is a key component of the CSC Ground Segment: it provides to the community a complete and open source processing and distribution environment software. Integrated with the Sentinel Data Processors, it has the capacity to substitute the nominal CSC Production and Distribution services."
+customer : "ESA"
+customer_long : "European Space Agency"
+prime_contractor : "AIRBUS DS"
+image : "Project-AIRBUS DS-REFERENCE SYSTEM-EN pict 1.png"
+size : "small"
+name : "Reference System"
+title : "ESA CSC Reference System (RS)"
+domains : "Platform, Image"
+department : "SPACE"
+program : "Copernicus"
+summary : "The RS is a key component of the CSC Ground Segment: it provides to the community a complete and open source processing and distribution environment software. Integrated with the Sentinel Data Processors, it has the capacity to substitute the nominal CSC Production and Distribution services."
 ---
 
 > __Customer__\: European Space Agency (ESA)
@@ -30,8 +29,8 @@ CS Group responsabilities for ESA CSC Reference System (RS) are as follows:
 ![Main Picture](Project-AIRBUS DS-REFERENCE SYSTEM-EN pict 2.png)
 
 The features are as follows:
-* The Reference System Service ensures 3 operational functions: Systematic production and distribution service; Ad hoc production and distribution service; Environment to ensure the testing, integration, validation, benchmarking of Sentinel data processors
-* IVV of all developments: Infrastructure / Monitoring / Security / Production chain S1, S2 and S3
+* The reference system service provides 3 operational functions: systematic production and distribution service; Ad hoc production and distribution service; Environment to ensure the test, integration, validation, benchmarking of Sentinel data processors
+* IVV of all developments: infrastructure / monitoring / security / production chain S1, S2 and S3
 
 # Project implementation
 
@@ -45,14 +44,14 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* Event-Driven Architecture
-* Micro-service architecture
-* Vendor-agnostic deployment solution
-* Hardened Kubernetes Platform
-* Access and identity management
+* Event-Driven architecture
+* Micro-Service Architecture
+* Independent deployment solution of the supplier
+* Hardené Kubernetes platform
+* Management of access and identities
 * Indicator management (PI/KPI)
 * High performance logs & audit
-* SIEM
+* Siem
 
 ![Archi Picture](Project-AIRBUS DS-REFERENCE SYSTEM-EN pict 3.png)
 

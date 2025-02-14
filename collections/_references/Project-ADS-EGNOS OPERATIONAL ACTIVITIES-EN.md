@@ -1,16 +1,15 @@
 ---
-customer: ADS
-customer_long: Airbus Defence & Space
-prime_contractor: 
-image: Project-ADS-EGNOS OPERATIONAL ACTIVITIES-EN pict 1.jpg
-size: small
-name: EGNOS OPERATIONAL ACTIVITIES
-title: Operation and maintenance of the EGNOS system
-domains: Navigation
-department: SPACE
-program: EGNOS
-domains: Navigation
-summary: "Engineering support for operation and maintenance preparation of EGNOS V3 system."
+customer : "ADS"
+customer_long : "Airbus Defence & Space"
+prime_contractor : ""
+image : "Project-ADS-EGNOS OPERATIONAL ACTIVITIES-EN pict 1.jpg"
+size : "small"
+name : "EGNOS OPERATIONAL ACTIVITIES"
+title : "Operation and maintenance of the EGNOS system"
+domains : "Navigation"
+department : "SPACE"
+program : "EGNOS"
+summary : "Engineering support for operation and maintenance preparation of EGNOS V3 system."
 ---
 
 > __Customer__\: Airbus Defence & Space (ADS)

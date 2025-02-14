@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-CO3D MISSION SIMULATOR-EN pict 1.png
-size: small
-name: CO3D Mission Simulator
-title: CO3D Mission Simulator
-domains: Mission Center
-department: SPACE
-program: CO3D
-domains: Mission Center
-summary: "Realization of configurable and fast tools to simulate the mission programming of the land cover over a long term horizon in order to validate the industrial choices on the definition of the satellites and the constellation, and to study various programming alternatives ; CO3D mission programming support"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-CO3D MISSION SIMULATOR-EN pict 1.png"
+size : "small"
+name : "CO3D Mission Simulator"
+title : "Mission CO3D simulator"
+domains : "Mission Center"
+department : "SPACE"
+program : "CO3D"
+summary : "Realization of configurable and fast tools to simulate the mission programming of the land cover over a long term horizon in order to validate the industrial choices on the definition of the satellites and the constellation, and to study various programming alternatives ; CO3D mission programming support"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,7 +22,7 @@ summary: "Realization of configurable and fast tools to simulate the mission pro
 # Context
 
 
-CS Group responsabilities for CO3D Mission Simulator are as follows:
+CS Group responsabilities for Mission CO3D simulator are as follows:
 * Development
 
 ![Main Picture](Project-CNES-CO3D MISSION SIMULATOR-EN pict 1.png)
@@ -47,10 +46,10 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* Provide the client with efficient tools for analyzing programming alternatives over long horizons
-* Provide an ability to understand mission issues
-* Experience in Earth observation mission programming
-* Development of mission simulators optimized in terms of calculation time.
+* Provide the customer with efficient programming alternative analysis tools on large horizons
+* Bring a capacity to understand the mission issues
+* Earth -observation Mission programming experience
+* Development of optimized mission simulators in terms of calculation time.
 * Responsiveness to customer needs.
 
 ![Archi Picture](Project-CNES-CO3D MISSION SIMULATOR-EN pict 2.jpg)

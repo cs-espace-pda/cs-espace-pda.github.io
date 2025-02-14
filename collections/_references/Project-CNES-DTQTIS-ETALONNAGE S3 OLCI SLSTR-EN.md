@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-DTQTIS-ETALONNAGE S3 OLCI SLSTR-EN pict 1.png
-size: small
-name: DTQTIS-Etalonnage S3 OLCI SLSTR
-title: Studies for the calibration of OLCI and SLSTR / Sentinel-3 sensors
-domains: Image
-department: SPACE
-program: DTQTIS
-domains: Image
-summary: "Provide support for the calibration of OLCI and SLSTR sensors on board Sentinel-3A and 3B"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-DTQTIS-ETALONNAGE S3 OLCI SLSTR-EN pict 1.png"
+size : "small"
+name : "DTQTIS-Etalonnage S3 OLCI SLSTR"
+title : "Studies for the calibration of OLCI and SLSTR / Sentinel-3 sensors"
+domains : "Image"
+department : "SPACE"
+program : "DTQTIS"
+summary : "Bring a support to the calibration of the OLCI and SLSTR sensors aboard Sentinel-3A and 3B"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -29,24 +28,24 @@ CS Group responsabilities for Studies for the calibration of OLCI and SLSTR / Se
 ![Main Picture](Project-CNES-DTQTIS-ETALONNAGE S3 OLCI SLSTR-EN pict 1.png)
 
 The features are as follows:
-* Realization / Analysis of OLCI and SLSTR calibrations
-* Evaluation of the impact of air mass on Rayleigh OLCI calibration
-* Study of calibration defects of the S6 SLSTR band (Deserts & Glitter Method)
+* Realization / analysis of the olci and slstr calibrations
+* Evaluation of the impact of the air mass on the Rayleigh Olci calibration
+* Study of calibration defects of the S6 SLSTR band (Deserts & Glitter method)
 * S3 extraction on instrumented sites (La Crau / Gobabeb)
-* Other miscellaneous studies (Gas transmissions, marine BRDF correction, Climzoo interpolation, etc.)
+* Other various studies (gas transmissions, BRDF Marine correction, Climzoo interpolation, ...)
 
 # Project implementation
 
 The project objectives are as follows:
-* Provide support for the calibration of OLCI and SLSTR sensors on board Sentinel-3A and 3B
+* Bring a support to the calibration of the OLCI and SLSTR sensors aboard Sentinel-3A and 3B
 
 The processes for carrying out the project are:
-* Studies, Regular progress updates, Reports
+* Studies, points on regular advances, reports
 
 # Technical characteristics
 
 The solution key points are as follows:
-* Not applicable
+* Incommensurate
 
 
 

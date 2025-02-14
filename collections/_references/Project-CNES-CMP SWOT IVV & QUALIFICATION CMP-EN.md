@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-CMP SWOT IVV & QUALIFICATION CMP-EN pict 1.png
-size: small
-name: CMP SWOT IVV & Qualification CMP
-title: CMP IVV, support in Technical and Operational Qualification and LEOP of SWOT mission
-domains: Control Center, Flight Dynamics
-department: SPACE
-program: SWOT
-domains: Control Center, Flight Dynamics
-summary: "Engineering assistance and support for carrying out the **integration and system qualification of the SWOT Satellite Installation and Maintenance Center** implementing the **ISIS Product Line**. ISIS missionization and integration on science cluster"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-CMP SWOT IVV & QUALIFICATION CMP-EN pict 1.png"
+size : "small"
+name : "CMP SWOT IVV & Qualification CMP"
+title : "CMP IVV, support in Technical and Operational Qualification and LEOP of SWOT mission"
+domains : "Control Center, Flight Dynamics"
+department : "SPACE"
+program : "SWOT"
+summary : "Assistance to engineering and support for the realization of  Integration and qualification system of the Center for Place and Maintenance of Satellite SWOT  implementing the  Line of Isis products. Missionary and ISIS integration on Cluster Science"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -29,28 +28,28 @@ CS Group responsabilities for CMP IVV, support in Technical and Operational Qual
 ![Main Picture](Project-CNES-CMP SWOT IVV & QUALIFICATION CMP-EN pict 2.png)
 
 The features are as follows:
-* **AIV**: development of procedures and LdP missionization, definition of strategy, plans and automated execution of tests (AIV tools for managing contexts, results, requirements)
-	**QT/OQ System Tests**: preparation and support for the execution of compatibility/QT/OQ tests, development of ground operational procedures
-	**Operations Support**: resources integrated into the CNES teams for launch, in-flight acceptance and start of life (shifts, ground on-call duties)
+* **AIV **: Development of LDP procedures and missionary, definition of strategy, automated plans and execution of tests (AIV tools for managing contexts, results, requirements)
+	**QT/QO ** system tests: preparation and support for the execution of compatibility/qt/qo tests, development of operational procedures
+	**Support for operations **: Resources integrated in CNES teams for launch, the recipe in flight and beginning of life (shifts, soil clips)
 
 # Project implementation
 
 The project objectives are as follows:
-* Engineering assistance and support for carrying out the **integration and system qualification of the SWOT Satellite Installation and Maintenance Center** implementing the **ISIS Product Line**
-* ISIS missionization and integration on science cluster
+* Assistance to engineering and support for the realization of ** Integration and qualification system of the Center for Place and Maintenance of Satellite SWOT ** implementing the ** Line of Isis products**
+* Missionary and ISIS integration on Cluster Science
 
 The processes for carrying out the project are:
 * Requirements management (STB, IF): Testlink and Excel
-* Specific process of Assembly, Integration, Validation Qualification of Ground Control Segments
-* Ground control segment qualification system tests: Compatibility, Technical and Operational Qualification
+* Specific assembly process, integration, validation qualification of control soil segments
+* Tests qualification system for control soil segments: compatibility, technical and operational qualification
 
 # Technical characteristics
 
 The solution key points are as follows:
-* Configuration and deployment of CMPs: Nominal, Backup, SCP/SSV (experts) and test lines
-* TM/TC ISIS chain operational qualification: BDS configurations, sessions, SLE, COP, catalogs, TM visualization, TC history
+* Configuration and deployment of CMPs: nominal, rescue, SCP/SSV (experts) and test lines
+* Operational qualification channel TM/TC Isis: BDS configurations, sessions, Sle, COP, catalogs, TM visualization, TC Histo
 * Implementation of ISIS operational concepts: procedures, automation 
-* Experienced AIV team for rapid skills development
+* Experienced AIV team for rapid skill rise
 
 ![Archi Picture](Project-CNES-CMP SWOT IVV & QUALIFICATION CMP-EN pict 3.png)
 

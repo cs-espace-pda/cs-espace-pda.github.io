@@ -1,16 +1,15 @@
 ---
-customer: ADS-GEO
-customer_long: Airbus Defense & Space Geo
-prime_contractor: 
-image: Project-ADS-GEO-GDS MESSAGE QUEUING-EN pict 1.png
-size: small
-name: GDS MESSAGE QUEUING
-title: Common service involved in the Geo Digital System (GDS) of Airbus DS Geo SA
-domains: Platform
-department: SPACE
-program: Geo Digital System
-domains: Platform
-summary: "This tool allows to deploy the Rabbit MQ broker in different Kubernetes environments (native Google K8S, Openshift, Google Kubernetes Engine). The deployment is operated using the Docker image of the broker Rabbit MQ."
+customer : "ADS-GEO"
+customer_long : "Airbus Defense & Space Geo"
+prime_contractor : ""
+image : "Project-ADS-GEO-GDS MESSAGE QUEUING-EN pict 1.png"
+size : "small"
+name : "GDS MESSAGE QUEUING"
+title : "Common service involved in the Geo Digital System (GDS) of Airbus DS Geo SA"
+domains : "Platform"
+department : "SPACE"
+program : "Geo Digital System"
+summary : "This tool allows to deploy the Rabbit MQ broker in different Kubernetes environments (native Google K8S, Openshift, Google Kubernetes Engine). The deployment is operated using the Docker image of the broker Rabbit MQ."
 ---
 
 > __Customer__\: Airbus Defense & Space Geo (ADS-GEO)

@@ -1,16 +1,15 @@
 ---
-customer: ADS-GEO
-customer_long: Airbus Defense & Space Geo
-prime_contractor: 
-image: Project-ADS-GEO-MONITORING TOOLS-EN pict 1.png
-size: small
-name: MONITORING TOOLS
-title: Common service involved in the Geo Digital System (GDS) of Airbus DS Geo
-domains: Platform
-department: SPACE
-program: Geo Digital System
-domains: Platform
-summary: "**Monitoring tool is used to visualize all dead-letter messages which are published in one or several dead-letter queue(s) of only one VHOST for an instance of RabbitMQ**. The dead-letter message contains all information of initial message (routingKey, payload, headers, etc.) with information concerning the cause of reject, in the x-death section of headers."
+customer : "ADS-GEO"
+customer_long : "Airbus Defense & Space Geo"
+prime_contractor : ""
+image : "Project-ADS-GEO-MONITORING TOOLS-EN pict 1.png"
+size : "small"
+name : "MONITORING TOOLS"
+title : "Common service involved in the Geo Digital System (GDS) of Airbus DS Geo"
+domains : "Platform"
+department : "SPACE"
+program : "Geo Digital System"
+summary : "Monitoring tool is used to visualize all dead-letter messages which are published in one or several dead-letter queue(s) of only one VHOST for an instance of RabbitMQ. The dead-letter message contains all information of initial message (routingKey, payload, headers, etc.) with information concerning the cause of reject, in the x-death section of headers."
 ---
 
 > __Customer__\: Airbus Defense & Space Geo (ADS-GEO)

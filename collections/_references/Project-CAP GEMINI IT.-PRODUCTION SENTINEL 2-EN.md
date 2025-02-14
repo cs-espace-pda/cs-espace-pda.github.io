@@ -1,16 +1,15 @@
 ---
-customer: ESA
-customer_long: European Space Agency
-prime_contractor: CAP GEMINI IT.
-image: Project-CAP GEMINI IT.-PRODUCTION SENTINEL 2-EN pict 1.png
-size: small
-name: Production Sentinel 2
-title: ESA CSC Production Service Sentinel 2
-domains: Platform, PDGS, Orchestration
-department: SPACE
-program: Copernicus
-domains: Platform, PDGS, Orchestration
-summary: "Develop, integrate and maintain the Systematic Production Service for Sentinel-2 satellite in a high availability platform. 7/7 operations: thanks to our state-of-the-art operations tools, the operations team is able to detect, analyse and resolve any production problems within a very short timeframe."
+customer : "ESA"
+customer_long : "European Space Agency"
+prime_contractor : "CAP GEMINI IT."
+image : "Project-CAP GEMINI IT.-PRODUCTION SENTINEL 2-EN pict 1.png"
+size : "small"
+name : "Production Sentinel 2"
+title : "ESA CSC Production Service Sentinel 2"
+domains : "Platform, PDGS, Orchestration"
+department : "SPACE"
+program : "Copernicus"
+summary : "Develop, integrate and maintain the Systematic Production Service for Sentinel-2 satellite in a high availability platform. 7/7 operations: thanks to our state-of-the-art operations tools, the operations team is able to detect, analyse and resolve any production problems within a very short timeframe."
 ---
 
 > __Customer__\: European Space Agency (ESA)

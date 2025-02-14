@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-PLEIADES GROUND OPERATIONS SUPPORT-EN pict 1.png
-size: small
-name: PLEIADES Ground Operations Support
-title: Pléiades ground support
-domains: Control Center
-department: SPACE
-program: Pléiades
-domains: Control Center
-summary: "Ground operation to maintain routine operational monitoring activities. Technical follow-up of some components of the SDGC. Implementation and monitoring of exceptional operations. Preparation and implementation of tests"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-PLEIADES GROUND OPERATIONS SUPPORT-EN pict 1.png"
+size : "small"
+name : "PLEIADES Ground Operations Support"
+title : "Pléiades ground support"
+domains : "Control Center"
+department : "SPACE"
+program : "Pléiades"
+summary : "Ground operation to maintain routine operational monitoring activities. Technical follow-up of some components of the SDGC. Implementation and monitoring of exceptional operations. Preparation and implementation of tests"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -24,7 +23,7 @@ summary: "Ground operation to maintain routine operational monitoring activities
 
 
 CS Group responsabilities for Pléiades ground support are as follows:
-* Maintenance, Operational Support, Team of 4 engineers
+* Maintenance, operational support, 4 engineers team
 
 ![Main Picture](Project-CNES-PLEIADES GROUND OPERATIONS SUPPORT-EN pict 2.png)
 
@@ -45,14 +44,14 @@ The project objectives are as follows:
 * Preparation and implementation of tests
 
 The processes for carrying out the project are:
-* Ground support in delegation of tasks
+* Floor support in delegation of tasks
 
 # Technical characteristics
 
 The solution key points are as follows:
-* Multi-component and platform architecture
+* Multi component architecture and platforms
 * Sensitive context (defense)
-* Maintenance in operational conditions
+* Maintenance under operational conditions
 * Interface with other CNES services
 
 

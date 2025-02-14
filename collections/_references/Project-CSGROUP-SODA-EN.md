@@ -1,16 +1,15 @@
 ---
-customer: CSGROUP
-customer_long: CS GROUP (PIE)
-prime_contractor: 
-image: Project-CSGROUP-SODA-EN pict 1.png
-size: small
-name: SODA
-title: Evaluation of the SODA method to characterize gaseous contents in the atmosphere
-domains: Image
-department: SPACE
-program: R&T
-domains: Image
-summary: "Evaluate a water vapor inversion method to restore other gaseous contents (O3, CO2, CH4, PSURF)"
+customer : "CSGROUP"
+customer_long : "CS GROUP (PIE)"
+prime_contractor : ""
+image : "Project-CSGROUP-SODA-EN pict 1.png"
+size : "small"
+name : "SODA"
+title : "Evaluation of the SODA method to characterize gaseous content in the atmosphere"
+domains : "Image"
+department : "SPACE"
+program : "R&T"
+summary : "Evaluate a water vapor inversion method to restore other gas content (O3, CO2, CH4, PSURF)"
 ---
 
 > __Customer__\: CS GROUP (PIE) (CSGROUP)
@@ -23,33 +22,33 @@ summary: "Evaluate a water vapor inversion method to restore other gaseous conte
 # Context
 
 
-CS Group responsabilities for Evaluation of the SODA method to characterize gaseous contents in the atmosphere are as follows:
+CS Group responsabilities for Evaluation of the SODA method to characterize gaseous content in the atmosphere are as follows:
 * Prototype development and results analysis
 
 ![Main Picture](Project-CSGROUP-SODA-EN pict 1.png)
 
 The features are as follows:
 * **Development of a prototype :**
-* Atmospheric correction with SOS-ABS for different gas contents
-* Calculations of SODA coefficients with two different methods 
-* Estimation of the optimal content for each gas considered
-	**Analysis of results :**
-* Generation of a dataset to process from SOS-ABS for 9 different surfaces
+* Atmospheric correction with SOS-ABS for different gas content
+* Soda coefficient calculations with two different methods 
+* Estimation of optimal content for each gas considered
+	**Results analysis :**
+* Generation of a database to be treated from SOS-ABS for 9 different surfaces
 * Selection of the optimal spectral interval for each gas
-* Analysis of results based on surface type
+* Analysis of results as a function of the surface type
 
 # Project implementation
 
 The project objectives are as follows:
-* Evaluate a water vapor inversion method to restore other gaseous contents (O3, CO2, CH4, PSURF)
+* Evaluate a water vapor inversion method to restore other gas content (O3, CO2, CH4, PSURF)
 
 The processes for carrying out the project are:
-* Bibliography, Prototyping, Simulations, Analysis
+* Bibliography, prototyping, simulations, analysis
 
 # Technical characteristics
 
 The solution key points are as follows:
-* Not applicable
+* Incommensurate
 
 
 

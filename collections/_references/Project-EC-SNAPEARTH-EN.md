@@ -1,16 +1,15 @@
 ---
-customer: EC
-customer_long: European Commission
-prime_contractor: 
-image: Project-EC-SNAPEARTH-EN pict 1.png
-size: small
-name: SnapEarth
-title: SnapEarth
-domains: Image, Platform
-department: SPACE
-program: Horizon2020-SPACE-2019
-domains: Image, Platform
-summary: "Fostering EO market uptake thanks to natural and holistic access to added value data generated through cutting-edge Artificial Intelligence technologies"
+customer : "EC"
+customer_long : "European Commission"
+prime_contractor : ""
+image : "Project-EC-SNAPEARTH-EN pict 1.png"
+size : "small"
+name : "SnapEarth"
+title : "SnapEarth"
+domains : "Image, Platform"
+department : "SPACE"
+program : "Horizon2020-SPACE-2019"
+summary : "Fostering EO market uptake thanks to natural and holistic access to added value data generated through cutting-edge Artificial Intelligence technologies"
 ---
 
 > __Customer__\: European Commission (EC)

@@ -1,16 +1,15 @@
 ---
-customer: ADS
-customer_long: Airbus Defense & Space
-prime_contractor: 
-image: Project-ADS-ALGO PNEO-EN pict 1.png
-size: small
-name: ALGO PNEO
-title: ADS Pneo image algorithm development
-domains: Image
-department: SPACE
-program: Pléiades Neo
-domains: Image
-summary: "Evolution of geolocation algorithm, Image algorithms development for Pneo. * Pansharpening (Use of Pan resolution to improove MS resolution.). * RPC (Loc model export through list of coeficients)"
+customer : "ADS"
+customer_long : "Airbus Defense & Space"
+prime_contractor : ""
+image : "Project-ADS-ALGO PNEO-EN pict 1.png"
+size : "small"
+name : "ALGO PNEO"
+title : "ADS Pneo image algorithm development"
+domains : "Image"
+department : "SPACE"
+program : "Pléiades Neo"
+summary : "Evolution of geolocation algorithm, Image algorithms development for Pneo.  Pansharpening (Use of Pan resolution to improove MS resolution.).  RPC (Loc model export through list of coeficients)"
 ---
 
 > __Customer__\: Airbus Defense & Space (ADS)

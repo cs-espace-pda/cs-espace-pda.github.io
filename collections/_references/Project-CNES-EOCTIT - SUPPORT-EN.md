@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-EOCTIT - SUPPORT-EN pict 1.png
-size: small
-name: EOCTIT - Support
-title: Support for the management of the CNES Common Tools
-domains: Image
-department: SPACE
-program: Generic
-domains: Image
-summary: "Global maintenance assistance for low level image processing applications, known as CNES Common Tools"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-EOCTIT - SUPPORT-EN pict 1.png"
+size : "small"
+name : "EOCTIT - Support"
+title : "Support for the management of the CNES Common Tools"
+domains : "Image"
+department : "SPACE"
+program : "Generic"
+summary : "Global maintenance assistance for low level image processing applications, known as CNES Common Tools"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)

@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-ATV OPERATIONS ROPS SUPPORT-EN pict 1.png
-size: small
-name: ATV OPERATIONS ROPS SUPPORT
-title: ATV mission team support
-domains: Control Center
-department: SPACE
-program: ATV
-domains: Control Center
-summary: "Operations support within the ATV team. Operational Pre-Qualification Phases, Operational Qualification and ATV operations. Support to the Mission team for the roles of Training Instructor, Planner, Operation Manager"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-ATV OPERATIONS ROPS SUPPORT-EN pict 1.png"
+size : "small"
+name : "ATV OPERATIONS ROPS SUPPORT"
+title : "ATV Mission team support"
+domains : "Control Center"
+department : "SPACE"
+program : "ATV"
+summary : "Support for operations within the ATV team. Operational pre-qualification phases, operational qualification and ATV operations. Support to the Mission team for the training roles Instructor, Planner, Operation Manager"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,23 +22,23 @@ summary: "Operations support within the ATV team. Operational Pre-Qualification 
 # Context
 
 
-CS Group responsabilities for ATV mission team support are as follows:
-* Operations support
+CS Group responsabilities for ATV Mission team support are as follows:
+* Support for operations
 
 ![Main Picture](Project-CNES-ATV OPERATIONS ROPS SUPPORT-EN pict 1.png)
 
 The features are as follows:
-* Training Instructor: Preparation of tests, scenario creation, drafting of plans and monitoring, support to the ESA for the preparation of simulations
+* Training instructor: preparation of tests, creation of scenario, drafting of plans and follow -up, support for ESA for the preparation of simulations
 * Interface with FDS teams
-* Planner: Preparation of the flight plan, verification of its consistency and transmission to the teams
-* Operation Manager: real-time coordination of operations in accordance with the flight plan, management of operational contingencies; interface with partners
+* Planner: preparation of the flight plan, verification of its consistency and transmission to the teams
+* Operation Manager: real -time coordination of operations in accordance with the flight plan, management of operational contingencies; Interface with partners
 
 # Project implementation
 
 The project objectives are as follows:
-* Operations support within the ATV team
-* Operational Pre-Qualification Phases, Operational Qualification and ATV operations
-* Support to the Mission team for the roles of Training Instructor, Planner, Operation Manager
+* Support for operations within the ATV team
+* Operational pre-qualification phases, operational qualification and ATV operations
+* Support to the Mission team for the training roles Instructor, Planner, Operation Manager
 
 The processes for carrying out the project are:
 * Support Team
@@ -47,10 +46,10 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* ATV control center resources
+* Means of the ATV Control Center
 * Mastery of the components of the ATV mission 
 * Operational planning
-* 24/7 service continuity during flight phases, team of 11 engineers (average)
+* Continuation of the service 24 hours a day during the flight phases, team of 11 engineers (average)
 
 
 

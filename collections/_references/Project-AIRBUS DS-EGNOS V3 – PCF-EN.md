@@ -1,16 +1,15 @@
 ---
-customer: ESA
-customer_long: European Space Agency
-prime_contractor: AIRBUS DS
-image: Project-AIRBUS DS-EGNOS V3 – PCF-EN pict 1.jpg
-size: small
-name: EGNOS V3 – PCF
-title: Prediction Chain Facility (PCF)
-domains: Navigation
-department: SPACE
-program: EGNOS
-domains: Navigation
-summary: "PCF is in charge of the computation of the satellite and ionosphere corrections and error bounding prediction parameters, formatting and scheduling of the EGNOS messages and generation of Quality of Service (QoS) parameter."
+customer : "ESA"
+customer_long : "European Space Agency"
+prime_contractor : "AIRBUS DS"
+image : "Project-AIRBUS DS-EGNOS V3 – PCF-EN pict 1.jpg"
+size : "small"
+name : "EGNOS V3 – PCF"
+title : "Prediction Chain Facility (PCF)"
+domains : "Navigation"
+department : "SPACE"
+program : "EGNOS"
+summary : "PCF is in charge of the computation of the satellite and ionosphere corrections and error bounding prediction parameters, formatting and scheduling of the EGNOS messages and generation of Quality of Service (QoS) parameter."
 ---
 
 > __Customer__\: European Space Agency (ESA)

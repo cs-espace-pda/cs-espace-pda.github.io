@@ -1,16 +1,15 @@
 ---
-customer: ESA
-customer_long: European Space Agency
-prime_contractor: CS GROUP
-image: Project-ESA-DATA-PROCESSORS REENGINEERING-EN pict 1.png
-size: small
-name: Data-Processors Reengineering
-title: ESA CSC Data Processors Re-engineering (DPR)
-domains: Platform,Image
-department: SPACE
-program: Copernicus
-domains: Platform,Image
-summary: "Develop the generic Earth Observation Processor Framework (EOPF) and the associated reengineering of the L0 L1 L2 processors to support the transition of the Copernicus ground segment (Sentinel-1, -2 and -3 Land) to a cloud environment and an improvement of the storage / recalculation strategy of the generated data."
+customer : "ESA"
+customer_long : "European Space Agency"
+prime_contractor : "CS GROUP"
+image : "Project-ESA-DATA-PROCESSORS REENGINEERING-EN pict 1.png"
+size : "small"
+name : "Data-Processors Reengineering"
+title : "ESA CSC Data Processors Re-engineering (DPR)"
+domains : "Platform,Image"
+department : "SPACE"
+program : "Copernicus"
+summary : "Develop the generic Earth Observation Processor Framework (EOPF) and the associated reengineering of the L0 L1 L2 processors to support the transition of the Copernicus ground segment (Sentinel-1, -2 and -3 Land) to a cloud environment and an improvement of the storage / recalculation strategy of the generated data."
 ---
 
 > __Customer__\: European Space Agency (ESA)

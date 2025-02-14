@@ -1,16 +1,15 @@
 ---
-customer: ESA
-customer_long: European Space Agency
-prime_contractor: ACRI-ST
-image: Project-ACRI-ST-S2 OPT-MPC-EN pict 1.png
-size: small
-name: S2 OPT-MPC
-title: Sentinel-2 Optical Mission Performance Cluster
-domains: PDGS, Image
-department: SPACE
-program: Copernicus
-domains: PDGS, Image
-summary: "Sentinel-2 Image Quality Control & Calibration & Validation. Sentinel-2 Mission Performance Center"
+customer : "ESA"
+customer_long : "European Space Agency"
+prime_contractor : "ACRI-ST"
+image : "Project-ACRI-ST-S2 OPT-MPC-EN pict 1.png"
+size : "small"
+name : "S2 OPT-MPC"
+title : "Sentinel-2 Optical Mission Performance Cluster"
+domains : "PDGS, Image"
+department : "SPACE"
+program : "Copernicus"
+summary : "Sentinel-2 Image Quality Control & Calibration & Validation. Sentinel-2 Mission Performance Center"
 ---
 
 > __Customer__\: European Space Agency (ESA)

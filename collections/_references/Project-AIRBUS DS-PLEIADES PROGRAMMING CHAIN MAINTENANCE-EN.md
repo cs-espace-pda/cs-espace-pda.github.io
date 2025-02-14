@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: AIRBUS DS
-image: Project-AIRBUS DS-PLEIADES PROGRAMMING CHAIN MAINTENANCE-EN pict 1.png
-size: small
-name: PLEIADES Programming Chain Maintenance
-title: TMA PLEIADES Programming Chain
-domains: Control Center
-department: SPACE
-program: Pléiades
-domains: Control Center
-summary: "Development: engineering phases, software specifications, preliminary and detailed design, coding and unit testing, unit and AIV validation, acceptance, warranty, MCO: correction of anomalies and development of numerous functional developments."
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : "AIRBUS DS"
+image : "Project-AIRBUS DS-PLEIADES PROGRAMMING CHAIN MAINTENANCE-EN pict 1.png"
+size : "small"
+name : "PLEIADES Programming Chain Maintenance"
+title : "TMA Pleiades programming channel"
+domains : "Control Center"
+department : "SPACE"
+program : "Pléiades"
+summary : "Development: engineering phases, software specifications, preliminary and detailed design, coding and unit tests, unit and AIV validation, recipe, warranty, MCO: Correction of anomalies and development of many functional developments."
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,27 +22,27 @@ summary: "Development: engineering phases, software specifications, preliminary 
 # Context
 
 
-CS Group responsabilities for TMA PLEIADES Programming Chain are as follows:
-* Responsibility in co-contracting, Project manager
+CS Group responsabilities for TMA Pleiades programming channel are as follows:
+* Liability in co-contracting, prime contractor
 
 ![Main Picture](Project-AIRBUS DS-PLEIADES PROGRAMMING CHAIN MAINTENANCE-EN pict 2.png)
 
 The features are as follows:
-* Programming Unit: image requests, programs, receiving stations
-* Access Unit: user access interface
-* DUPC Unit: satellite commands, CU data
-* PCME Unit: international defense programming 
-* Processing Unit: inventory and archiving TMI
-* ImageReceivingStation Unit: TMI reception and ingestion
-* AccurateAttitudeDataRestoration Unit: fine attitude data
-* CommandControl Unit: system and satellite settings
-* Integration of PHRLIB/GOTLIB mission libraries
+* Programming Unit: Image requests, Prog., Reception stations
+* Access Unit: User access interface
+* DUPC UNIT: Satellite commands, Cu data
+* PCME UNIT: International Defense Programming 
+* Processing unit: TMI inventory and archiving
+* ImagereceIVINGSTATION UNIT: TMI reception and ingestion
+* Accuratitudedatarestoration unit: fine attitude data
+* Commandcontrol Unit: System and satellite settings
+* Integration of Mission Phrlib/Gotlib Mission Bookstores
 
 # Project implementation
 
 The project objectives are as follows:
-* Development: engineering phases, software specifications, preliminary and detailed design, coding and unit testing, unit and AIV validation, acceptance, warranty,
-* MCO: correction of anomalies and development of numerous functional developments.
+* Development: engineering phases, software specifications, preliminary and detailed design, coding and unit tests, unit and AIV validation, recipe, warranty,
+* MCO: Correction of anomalies and development of many functional developments.
 
 The processes for carrying out the project are:
 * V Cycle
@@ -51,10 +50,10 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* Highly deployed architecture, more than 200 XML file interfaces, Web Services
+* Architecture strongly deployed, more than 200 XML file interfaces, web services
 * Complexity of mission algorithms, performance requirements
-* Civil/defense duality
-* Ground operating life of 25 years
+* Civil duality/Defense
+* Floor operating time of 25 years
 
 
 

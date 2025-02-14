@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-ISIS ENGINEERING-EN pict 1.png
-size: small
-name: ISIS Engineering
-title: ISIS Project Management Assistance for CERES, SWOT, MERLIN, N3SS and KINEIS missions
-domains: Control Center
-department: SPACE
-program: Multi-missions
-domains: Control Center
-summary: "Engineering support and AMOA of satellite control ground segments implementing the ISIS Command Control Center Product Line"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-ISIS ENGINEERING-EN pict 1.png"
+size : "small"
+name : "ISIS Engineering"
+title : "Assistance to ISIS project management of the Ceres, Swot, Merlin, N3SS and Kineis missions"
+domains : "Control Center"
+department : "SPACE"
+program : "Multi-missions"
+summary : "Engineering and AMOA support for satellite control ground segments implementing the line of ISIS control control products"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,35 +22,35 @@ summary: "Engineering support and AMOA of satellite control ground segments impl
 # Context
 
 
-CS Group responsabilities for ISIS Project Management Assistance for CERES, SWOT, MERLIN, N3SS and KINEIS missions are as follows:
-* * Support managed by CNES
+CS Group responsabilities for Assistance to ISIS project management of the Ceres, Swot, Merlin, N3SS and Kineis missions are as follows:
+* * Support managed by the CNES
 
 ![Main Picture](Project-CNES-ISIS ENGINEERING-EN pict 2.png)
 
 The features are as follows:
-* **Maintenance of ISIS technical specifications**
-	**BDS** and **interfaces** management (XML and XIF schemas)
-	**Technical management of subsystems**: implementation monitoring (exceptions, patches, versions)
-* Participation in ISIS reviews, technical and coordination meetings
-* Participation in **industrial revenues**
-* Participation in **AIV and systems tests**: qualification of the TM/TC chain: BD Satellite generation, LdP configuration
-	**Operations Support**: participation in the launch, in-flight recipe and start of life
+* **ISIS technical specifications**
+* Management ** BDS ** and ** Interfaces ** (XML and XIF diagrams)
+	**Technical management of subsystems **: monitoring of realization (anomalies, patches, versions)
+* Participation in journals, technical meetings and ISIS coordination
+* Participation in ** Industrial Revenues**
+* Participation in ** AIV tests and systems **: qualification of the TM/TC channel: generation bd satellite, LDP configuration
+	**Support for operations **: Participation in launch, the recipe in flight and beginning of life
 
 # Project implementation
 
 The project objectives are as follows:
-* Engineering support and AMOA of satellite control ground segments implementing the ISIS Command Control Center Product Line
+* Engineering and AMOA support for satellite control ground segments implementing the line of ISIS control control products
 
 The processes for carrying out the project are:
-* Requirements management (STB, IF): Doors
-* Ground control segment qualification system tests: Compatibility, Technical and Operational Qualification
+* Requirements management (STB, IF): DOORS
+* Tests qualification system for control soil segments: compatibility, technical and operational qualification
 
 # Technical characteristics
 
 The solution key points are as follows:
-* Control center architecture engineering
-* Operational qualification of TM/TC ISIS chains: BDS configurations, sessions, SLE, COP, catalogs, TM visualization, TC history
-* AMOA team composed of experienced resources
+* Engagement of the architecture of control centers
+* Operational qualification of TM/TC ISIS channels: BDS configurations, sessions, SLE, COP, catalogs, TM visualization, TC Histo
+* AMOA team made up of experienced resources
 
 
 

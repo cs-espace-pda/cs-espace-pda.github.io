@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: 
-size: small
-name: Etalonnage Cibles Terrestres IRT
-title: Calibration methods on terrestrial targets in thermal infrared - Applicability to TRISHNA
-domains: Image
-department: SPACE
-program: TRISHNA
-domains: Image
-summary: "Bibliographic review of absolute calibration methods on terrestrial targets in the IRT with a view to applicability to TRISHNA. Bibliographic review of the different BRDF models in IRT (with a view to correcting the directional effects of the surface)"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : ""
+size : "small"
+name : "Etalonnage Cibles Terrestres IRT"
+title : "Calibration methods on terrestrial targets in thermal infrared - Applicability in Trishna"
+domains : "Image"
+department : "SPACE"
+program : "TRISHNA"
+summary : "Bibliographic review of absolute calibration methods on terrestrial targets in IRT for applicability to Trishna. Bibliographic review of the different models of BRDF in the IRT (for a correction of the directional effects of the surface)"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,25 +22,25 @@ summary: "Bibliographic review of absolute calibration methods on terrestrial ta
 # Context
 
 
-CS Group responsabilities for Calibration methods on terrestrial targets in thermal infrared - Applicability to TRISHNA are as follows:
+CS Group responsabilities for Calibration methods on terrestrial targets in thermal infrared - Applicability in Trishna are as follows:
 * Bibliographic research, synthesis
 
 
 
 The features are as follows:
-* **Identification of IRT sensor calibration methods and applicability analysis to TRISHNA :**
-*     TIRS / Landsat-8 (marine targets with buoys, instrumented terrestrial sites, inter-calibration), 
-*     ECOSTRESS, ASTER/TIR (instrumented terrestrial sites),
-*     MODIS Airborne Simulator (field measurement campaigns).
-	**Identification of data networks used for absolute calibration in VIS-SWIR and IRT.** 
-	**Identification of inter-sensor calibration methods (SNO, SIC, DDM methods).**
-	**Identification of the impact of BRDF in IRT and correction procedures.**
+* **Identification of IRT sensor calibration methods and applicability analysis in Trishna :**
+*     Shots / Landsat-8 (sea targets with buoys, instrumented terrestrial sites, inter-business), 
+*     Ecostress, aster/shooting (instrumented terrestrial sites),
+*     Modis Airborne Simulator (field measurement campaigns).
+	**Identification of data networks used for absolute calibration in the screw-swir and IRT.** 
+	**Identification of inter-capsal calibration methods (SNO, SIC, DDM methods).**
+	**Identification of the impact of BRDF in IRT and correction approaches.**
 
 # Project implementation
 
 The project objectives are as follows:
-* Bibliographic review of absolute calibration methods on terrestrial targets in the IRT with a view to applicability to TRISHNA
-* Bibliographic review of the different BRDF models in IRT (with a view to correcting the directional effects of the surface)
+* Bibliographic review of absolute calibration methods on terrestrial targets in IRT for applicability to Trishna
+* Bibliographic review of the different models of BRDF in the IRT (for a correction of the directional effects of the surface)
 
 The processes for carrying out the project are:
 * Bibliography, study, regular meetings
@@ -49,7 +48,7 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* Not applicable
+* Incommensurate
 
 
 

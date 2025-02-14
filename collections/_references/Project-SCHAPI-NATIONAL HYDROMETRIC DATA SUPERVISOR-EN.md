@@ -1,16 +1,15 @@
 ---
-customer: SCHAPI
-customer_long: Service Central d'Hydrométéorologie et d'Appui à la Prévision des Inondations
-prime_contractor: 
-image: Project-SCHAPI-NATIONAL HYDROMETRIC DATA SUPERVISOR-EN pict 1.jpg
-size: small
-name: NATIONAL HYDROMETRIC DATA SUPERVISOR
-title: NATIONAL HYDROMETRIC DATA SUPERVISOR
-domains: EO Services
-department: SPACE
-program: Risk Management
-domains: EO Services
-summary: "Supervision of hydrometric and meteorological data, in cartographic, graphical and table form. Visualization of forecasts from models and the creation of expertise. Management of hydrological, technical and system alarms."
+customer : "SCHAPI"
+customer_long : "Service Central d'Hydrométéorologie et d'Appui à la Prévision des Inondations"
+prime_contractor : ""
+image : "Project-SCHAPI-NATIONAL HYDROMETRIC DATA SUPERVISOR-EN pict 1.jpg"
+size : "small"
+name : "NATIONAL HYDROMETRIC DATA SUPERVISOR"
+title : "National hydrometric data supervisor"
+domains : "EO Services"
+department : "SPACE"
+program : "Risk Management"
+summary : "Supervision of hydrometric and meteorological data, in cartographic, graphic and tables. Visualization of forecasts from models and the creation of expertise. Management of hydrological, technical and system alarms."
 ---
 
 > __Customer__\: Service Central d'Hydrométéorologie et d'Appui à la Prévision des Inondations (SCHAPI)
@@ -23,7 +22,7 @@ summary: "Supervision of hydrometric and meteorological data, in cartographic, g
 # Context
 
 
-CS Group responsabilities for NATIONAL HYDROMETRIC DATA SUPERVISOR are as follows:
+CS Group responsabilities for National hydrometric data supervisor are as follows:
 * System specification and design
 * Development
 * Deployment of the system in SCHAPI and SPCs
@@ -46,7 +45,7 @@ The features are as follows:
 # Project implementation
 
 The project objectives are as follows:
-* Supervision of hydrometric and meteorological data, in cartographic, graphical and table form.
+* Supervision of hydrometric and meteorological data, in cartographic, graphic and tables.
 * Visualization of forecasts from models and the creation of expertise.
 * Management of hydrological, technical and system alarms.
 

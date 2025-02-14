@@ -1,16 +1,15 @@
 ---
-customer: ADS-GEO
-customer_long: Airbus Defense & Space Geo
-prime_contractor: 
-image: Project-ADS-GEO-SCA TOOLS FILE TRANSFER-EN pict 1.png
-size: small
-name: SCA Tools File Transfer
-title: Common service of File Transfer involved in the Geo Digital System (GDS) of Airbus DS Geo
-domains: Platform
-department: SPACE
-program: Geo Digital System
-domains: Platform
-summary: "**SCA TOOLS FT allows to configure File File Transfer in order to realize big data exchanges (files, tree) between sub-components of GDS service and other services of system. This tool creates or deletes units (Source, Target) and routes in the database of File Transfer**. Using a Excel  specific file with SCA TOOLS FT (input process)."
+customer : "ADS-GEO"
+customer_long : "Airbus Defense & Space Geo"
+prime_contractor : ""
+image : "Project-ADS-GEO-SCA TOOLS FILE TRANSFER-EN pict 1.png"
+size : "small"
+name : "SCA Tools File Transfer"
+title : "Common service of File Transfer involved in the Geo Digital System (GDS) of Airbus DS Geo"
+domains : "Platform"
+department : "SPACE"
+program : "Geo Digital System"
+summary : "SCA TOOLS FT allows to configure File File Transfer in order to realize big data exchanges (files, tree) between sub-components of GDS service and other services of system. This tool creates or deletes units (Source, Target) and routes in the database of File Transfer. Using a Excel  specific file with SCA TOOLS FT (input process)."
 ---
 
 > __Customer__\: Airbus Defense & Space Geo (ADS-GEO)

@@ -1,16 +1,15 @@
 ---
-customer: ESA
-customer_long: European Space Agency
-prime_contractor: 
-image: Project-ESA-EGS-CC SDE-EN pict 1.png
-size: small
-name: EGS-CC SDE
-title: European Ground System – Common Core – Software Development Environment
-domains: Control Center, SDE
-department: SPACE
-program: Generic
-domains: Control Center, SDE
-summary: "ESA needed a comprehensive SDE (Software Development Environment) that can be used for the development, integration, validation and maintenance of the EGS-CC software and production of the associated documentation. This SDE was intended to be shared with the Phase C/D industrial consortium and the other EGS-CC integrators."
+customer : "ESA"
+customer_long : "European Space Agency"
+prime_contractor : ""
+image : "Project-ESA-EGS-CC SDE-EN pict 1.png"
+size : "small"
+name : "EGS-CC SDE"
+title : "European Ground System – Common Core – Software Development Environment"
+domains : "Control Center, SDE"
+department : "SPACE"
+program : "Generic"
+summary : "ESA needed a comprehensive SDE (Software Development Environment) that can be used for the development, integration, validation and maintenance of the EGS-CC software and production of the associated documentation. This SDE was intended to be shared with the Phase C/D industrial consortium and the other EGS-CC integrators."
 ---
 
 > __Customer__\: European Space Agency (ESA)

@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: 
-size: small
-name: MYRIADE on-board software
-title: MYRIADE generic on-board software
-domains: Platform
-department: SPACE
-program: Mini/Micro-satellites
-domains: Platform
-summary: "Generic on-board platform software for MYRIADE micro-satellite series, for missions such as DEMETER, POLDER, PARASOL, PICARD, MICROSCOPE, TARANIS, …"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : ""
+size : "small"
+name : "MYRIADE on-board software"
+title : "MYRIADE generic on-board software"
+domains : "Platform"
+department : "SPACE"
+program : "Mini/Micro-satellites"
+summary : "Generic on-board platform software for MYRIADE micro-satellite series, for missions such as DEMETER, POLDER, PARASOL, PICARD, MICROSCOPE, TARANIS, …"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)

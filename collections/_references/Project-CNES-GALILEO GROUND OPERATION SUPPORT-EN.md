@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-GALILEO GROUND OPERATION SUPPORT-EN pict 1.png
-size: small
-name: GALILEO Ground Operation Support
-title: GALILEO Ground Segment Operation Support
-domains: Control Center
-department: SPACE
-program: Galileo
-domains: Control Center
-summary: "Preparation and participation to System Validation Tests (SVT). Support for the preparation of ground assets (different tools) and the monitoring of LEOP operations"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-GALILEO GROUND OPERATION SUPPORT-EN pict 1.png"
+size : "small"
+name : "GALILEO Ground Operation Support"
+title : "GALILEO Ground Segment Operation Support"
+domains : "Control Center"
+department : "SPACE"
+program : "Galileo"
+summary : "Preparation and participation to System Validation Tests (SVT). Support for the preparation of ground assets (different tools) and the monitoring of LEOP operations"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)

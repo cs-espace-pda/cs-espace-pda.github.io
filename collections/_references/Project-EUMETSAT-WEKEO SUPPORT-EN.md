@@ -1,16 +1,15 @@
 ---
-customer: EUMETSAT
-customer_long: EUMETSAT
-prime_contractor: 
-image: Project-EUMETSAT-WEKEO SUPPORT-EN pict 1.png
-size: small
-name: WEkEO Support
-title: WEkEO DIAS User Support Service
-domains: EO Services
-department: SPACE
-program: Copernicus
-domains: EO Services
-summary: "Facilitate handling of Copernicus data and services. Provide WEkEO DIAS users with online thematic and technical support. Contribute to WEkEO’s outreach activities"
+customer : "EUMETSAT"
+customer_long : "EUMETSAT"
+prime_contractor : ""
+image : "Project-EUMETSAT-WEKEO SUPPORT-EN pict 1.png"
+size : "small"
+name : "WEkEO Support"
+title : "WEkEO DIAS User Support Service"
+domains : "EO Services"
+department : "SPACE"
+program : "Copernicus"
+summary : "Facilitate handling of Copernicus data and services. Provide WEkEO DIAS users with online thematic and technical support. Contribute to WEkEO’s outreach activities"
 ---
 
 > __Customer__\: EUMETSAT

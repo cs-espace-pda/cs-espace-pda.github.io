@@ -1,16 +1,15 @@
 ---
-customer: CSA
-customer_long: Canadian Space Agency
-prime_contractor: CS CANADA
-image: Project-CSA-MUSES-EN pict 1.png
-size: small
-name: MUSES
-title: MUltisensor value-added products and Services from satellite temporal sEries analysiS
-domains: Image, Data Processing, EO Services
-department: SPACE
-program: Radarsat
-domains: Image, Data Processing, EO Services
-summary: "Management of the full cycle of EO data from search, collection, storage and access to dissemination (Copernicus, Radarsat/RCM…). Optimized processing and analysis chains and services managing volume and heterogeneity of data. Methods for analysis and classification of radar/optical time series based on deep learning technologies and Dempster Shafer approach"
+customer : "CSA"
+customer_long : "Canadian Space Agency"
+prime_contractor : "CS CANADA"
+image : "Project-CSA-MUSES-EN pict 1.png"
+size : "small"
+name : "MUSES"
+title : "MUltisensor value-added products and Services from satellite temporal sEries analysiS"
+domains : "Image, Data Processing, EO Services"
+department : "SPACE"
+program : "Radarsat"
+summary : "Management of the full cycle of EO data from search, collection, storage and access to dissemination (Copernicus, Radarsat/RCM…). Optimized processing and analysis chains and services managing volume and heterogeneity of data. Methods for analysis and classification of radar/optical time series based on deep learning technologies and Dempster Shafer approach"
 ---
 
 > __Customer__\: Canadian Space Agency (CSA)

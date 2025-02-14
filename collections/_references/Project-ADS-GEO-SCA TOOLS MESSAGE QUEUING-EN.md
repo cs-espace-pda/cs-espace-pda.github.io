@@ -1,16 +1,15 @@
 ---
-customer: ADS-GEO
-customer_long: Airbus Defense & Space Geo
-prime_contractor: 
-image: Project-ADS-GEO-SCA TOOLS MESSAGE QUEUING-EN pict 1.png
-size: small
-name: SCA Tools Message Queuing
-title: Common service involved in the Geo Digital System (GDS) of Airbus DS Geo
-domains: Platform
-department: SPACE
-program: Geo Digital System
-domains: Platform
-summary: "**SCA TOOLS MQ allows to configure automatically instances of broker message Rabbit MQ in order to realize inter-zones exchanges (secure, private, public) between different components**. Communication by WebService of orders to create elements for the Rabbit MQ broker thanks to its API in Https. Using with a Excel file specific SCA TOOLS MQ (input)"
+customer : "ADS-GEO"
+customer_long : "Airbus Defense & Space Geo"
+prime_contractor : ""
+image : "Project-ADS-GEO-SCA TOOLS MESSAGE QUEUING-EN pict 1.png"
+size : "small"
+name : "SCA Tools Message Queuing"
+title : "Common service involved in the Geo Digital System (GDS) of Airbus DS Geo"
+domains : "Platform"
+department : "SPACE"
+program : "Geo Digital System"
+summary : "SCA TOOLS MQ allows to configure automatically instances of broker message Rabbit MQ in order to realize inter-zones exchanges (secure, private, public) between different components. Communication by WebService of orders to create elements for the Rabbit MQ broker thanks to its API in Https. Using with a Excel file specific SCA TOOLS MQ (input)"
 ---
 
 > __Customer__\: Airbus Defense & Space Geo (ADS-GEO)

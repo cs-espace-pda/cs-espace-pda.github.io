@@ -1,16 +1,15 @@
 ---
-customer: CNES
-customer_long: Centre National d'Etudes Spatiales
-prime_contractor: 
-image: Project-CNES-DTQTIS-BILAN PERFORMANCES 3MI-EN pict 1.png
-size: small
-name: DTQTIS-Bilan Performances 3MI
-title: Absolute radiometric calibration - 3MI performance review
-domains: Image
-department: SPACE
-program: DTQTIS
-domains: Image
-summary: "Analyze 3MI performance against specifications"
+customer : "CNES"
+customer_long : "Centre National d'Etudes Spatiales"
+prime_contractor : ""
+image : "Project-CNES-DTQTIS-BILAN PERFORMANCES 3MI-EN pict 1.png"
+size : "small"
+name : "DTQTIS-Bilan Performances 3MI"
+title : "Absolute radiometric calibration - Performance assessment 3MI"
+domains : "Image"
+department : "SPACE"
+program : "DTQTIS"
+summary : "Analyze 3MI's performance with regard to specifications"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,24 +22,24 @@ summary: "Analyze 3MI performance against specifications"
 # Context
 
 
-CS Group responsabilities for Absolute radiometric calibration - 3MI performance review are as follows:
+CS Group responsabilities for Absolute radiometric calibration - Performance assessment 3MI are as follows:
 * Study, development
 
 ![Main Picture](Project-CNES-DTQTIS-BILAN PERFORMANCES 3MI-EN pict 1.png)
 
 The features are as follows:
-* **Development of a simulator applying a calibration error to PARASOL measurements and carrying out a statistical analysis of the impact on radiometry.**
+* **Development of a simulator applying a calibration error to parasol measures and making a statistical analysis of the impact on radiometry.**
 	**Application to sensitivity estimates :**
-*     - uncertainties about the orientation of the polarizers
+*     - Uncertainties on the orientation of polarizers
 *     - ignorance of the extinction rate of polarizers 
-*     - error in the relative transmission between channels of a triplet of polarizers
+*     - Error on the relative transmission between channels of a triplet of polarizers
 *     - HF equalization noise and radiometric noise
-*     - non-linearity error
+*     - Non-linearity error
 
 # Project implementation
 
 The project objectives are as follows:
-* Analyze 3MI performance against specifications
+* Analyze 3MI's performance with regard to specifications
 
 The processes for carrying out the project are:
 * Study, regular meetings
@@ -49,11 +48,11 @@ The processes for carrying out the project are:
 
 The solution key points are as follows:
 * Reference simulated images
-* L1 level inversion module at measurement
-* Instrumental Radiometric Model modification module
-* Module for passing measurements to L1 data
+* Inversion module of level L1 to measurement
+* Instrumental radiometric model modification module
+* Module of passage of measurements to data L1
 * Images generated with calibration error
-* Image gap analysis module
+* Module for analyzing the differences between images
 
 
 
