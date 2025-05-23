@@ -6,7 +6,7 @@ image : "Project-ACRI-ST-S2 OPT-MPC-EN pict 1.png"
 size : "small"
 name : "S2 OPT-MPC"
 title : "Sentinel-2 Optical Mission Performance Cluster"
-domains : "PDGS, Image"
+domains : "Image, PDGS"
 department : "SPACE"
 program : "Copernicus"
 summary : "Sentinel-2 Image Quality Control & Calibration & Validation. Sentinel-2 Mission Performance Center"
@@ -31,11 +31,11 @@ CS Group responsabilities for Sentinel-2 Optical Mission Performance Cluster are
 ![Main Picture](Project-ACRI-ST-S2 OPT-MPC-EN pict 1.png)
 
 The features are as follows:
-* Calibration – update on-board and on-ground configuration data to meet product quality requirements
+* Calibration – update the on-board and on-ground configuration data to meet product quality requirements
 * Validation – assess the quality of generated data products
-* Quality Control – routinely monitor status of the sensor and check if derived products meet quality requirements along mission lifetime. 
+* Quality Control – routinely monitor the status of the sensor and check if derived products meet the quality requirements along mission lifetime. 
 * Data processors evolutions definition
-* End-to-end system performance monitoring – monitor performance of Sentinel-2 system operations (including the instrument) and assess the system.
+* End-to-end system performance monitoring – monitor the performance of Sentinel-2 system operations (including the instrument) and assess the system.
 
 # Project implementation
 
@@ -49,7 +49,7 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* ACRI-ST prime for the Consortium (CS, ARGANS, AIRBUS DS, TPZ F, DLR, TPZ G)
+* ACRI-ST prime for the Consortium (CS, AIRBUS DS, TPZ F, DLR, TPZ G)
 
 
 

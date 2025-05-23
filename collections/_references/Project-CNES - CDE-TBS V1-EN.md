@@ -9,7 +9,7 @@ title : "Spatial dashboard - Space command"
 domains : "Mission Center, Flight Dynamics, Space Awareness"
 department : "SPACE"
 program : "SSA"
-summary : "Realization for the CNES (main customer) and for the space command (CDE) of an operational demonstrator of the TBS (spatial dashboard), which is the first SSA brick (Space Situation Awareness) of a future center of Military space control (C2) control (C2)."
+summary : "Realization for the CNES (main customer) and for the space command (CDE) of an operational demonstrator of the TBS (spatial dashboard), which is the first SSA brick (Space Situational Awareness) of a future control center (C2) spatial military."
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales - Commandement de l'Espace (CNES - CDE)
@@ -36,7 +36,7 @@ The features are as follows:
 # Project implementation
 
 The project objectives are as follows:
-* Realization for the CNES (main customer) and for the space command (CDE) of an operational demonstrator of the TBS (spatial dashboard), which is the first SSA brick (Space Situation Awareness) of a future center of Military space control (C2) control (C2).
+* Realization for the CNES (main customer) and for the space command (CDE) of an operational demonstrator of the TBS (spatial dashboard), which is the first SSA brick (Space Situational Awareness) of a future control center (C2) spatial military.
 
 The processes for carrying out the project are:
 * Agile - Fixed price project

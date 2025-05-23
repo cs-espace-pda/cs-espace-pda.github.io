@@ -35,7 +35,7 @@ The features are as follows:
 * __Pharao/Pharao-CDT_ (testing of test for "Atomic clock project by cooler of atom in orbit")
 * __Agata__ (generic autonomy, testing and application architecture)
 * __Clovis__ (visualization software component)
-* __SVOM/SVOM-CDT_ (testing of test for “Space-Based Multi-Band Variable Astronomical Objects Monitor”).
+* __SVOM/SVOM-CDT_ (testing of tests for “Space-Based Multi-Band Variable Astronomical Objects Monitor”).
 
 # Project implementation
 

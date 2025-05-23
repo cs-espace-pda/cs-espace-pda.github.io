@@ -8,13 +8,13 @@ name : "ESA-S2 Clouds Relief Shades Mask"
 title : "Mask of clouds and shadows for Sentinel-2"
 domains : "Image"
 department : "SPACE"
-program : "SEOM S2-4Sci Land and Water - Atmospheric corrections for coastal and inland water"
+program : "HydroCoastal"
 summary : "The project aims to develop a chain of atmospheric corrections in the coastal environment, including the detection of clouds and shadows, as well as glitter. Integrate the channel into Snap."
 ---
 
 > __Customer__\: European Space Agency (ESA)
 
-> __Programme__\: SEOM S2-4Sci Land and Water - Atmospheric corrections for coastal and inland water
+> __Programme__\: HydroCoastal
 
 > __Supply Chain__\: ESA > ACRI-ST >  CS Group SPACE
 
