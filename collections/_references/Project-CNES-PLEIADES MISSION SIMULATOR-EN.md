@@ -5,11 +5,11 @@ prime_contractor : ""
 image : "Project-CNES-PLEIADES MISSION SIMULATOR-EN pict 1.png"
 size : "small"
 name : "PLEIADES Mission Simulator"
-title : "Mission Pleiades simulator"
+title : "PLEIADES Mission Simulator"
 domains : "Mission Center"
 department : "SPACE"
 program : "Pléiades"
-summary : "Develop a mission simulator based on the generic Alis simulation infrastructure."
+summary : "Develop a mission simulator based on the ALIS generic simulation infrastructure."
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -22,22 +22,22 @@ summary : "Develop a mission simulator based on the generic Alis simulation infr
 # Context
 
 
-CS Group responsabilities for Mission Pleiades simulator are as follows:
-* Design, development, validation
+CS Group responsabilities for PLEIADES Mission Simulator are as follows:
+* Design, Development, Validation
 
 ![Main Picture](Project-CNES-PLEIADES MISSION SIMULATOR-EN pict 2.png)
 
 The features are as follows:
-* Design of the Simulator Mission Pleiades, based on the Infrastructure Alis
+* Design of the PLEIADES mission simulator, based on the ALIS infrastructure
 * Development and validation of successive versions.
-* Integration of new features (API Mission, IHM ...)
-* Regular integration of new versions of Gotlib/Phrlib
-* Reversal of features developed for the Pleiades simulator in Alis
+* Integration of new functionalities (mission API, HMI, etc.)
+* Regular integration of new versions of GOTLIB/PHRLIB
+* Reversal of functionalities developed for the PLEIADES Simulator in ALIS
 
 # Project implementation
 
 The project objectives are as follows:
-* Develop a mission simulator based on the generic Alis simulation infrastructure.
+* Develop a mission simulator based on the ALIS generic simulation infrastructure.
 
 The processes for carrying out the project are:
 * V Cycle

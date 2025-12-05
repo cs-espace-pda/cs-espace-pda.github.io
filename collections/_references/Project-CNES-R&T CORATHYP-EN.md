@@ -9,7 +9,7 @@ title : "Atmospheric correction of hyperspectral data"
 domains : "Image"
 department : "SPACE"
 program : "R&T"
-summary : "Develop an autonomous and modular atmospheric correction code for the processing of satellite hyperspectral image"
+summary : "Develop an autonomous and modular atmospheric correction code for processing satellite hyperspectral images"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -28,27 +28,27 @@ CS Group responsabilities for Atmospheric correction of hyperspectral data are a
 ![Main Picture](Project-CNES-R&T CORATHYP-EN pict 1.png)
 
 The features are as follows:
-* Atmospheric correction method statement 
-* Corathyp specifications and design
-* Development of the Python code in the Persian environment
+* State of the art of atmospheric correction methods 
+* CORATHYP specifications and design
+* Code development in Python in the PERSEUS environment
 * Generation of synthetic images with SOS-ABS for validation
-* Validation on synthetic, real data, and in-situ measures
-* IT optimization (decrease in calculation time)
-* Algorithmic improvement proposals 
+* Validation on synthetic, real data and in-situ measurements
+* Computer optimization (reduction of calculation time)
+* Proposals for algorithmic improvements 
 * Creation of a spectral band selection tool to characterize the atmosphere
 
 # Project implementation
 
 The project objectives are as follows:
-* Develop an autonomous and modular atmospheric correction code for the processing of satellite hyperspectral image
+* Develop an autonomous and modular atmospheric correction code for processing satellite hyperspectral images
 
 The processes for carrying out the project are:
-* Bibliography, specifications, development, validation, Studies, points on regular advances, reports
+* Bibliography, Specifications, Development, Validation, Studies, Regular progress updates, Reports
 
 # Technical characteristics
 
 The solution key points are as follows:
-* Incommensurate
+* Not applicable
 
 
 

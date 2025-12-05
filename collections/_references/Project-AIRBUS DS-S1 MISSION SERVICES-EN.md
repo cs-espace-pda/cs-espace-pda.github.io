@@ -52,14 +52,14 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* **Massive reuse of S1PDGs architecture**
-* Event-Driven architecture & micro-service architecture
-* Independent deployment solution of the supplier
-* Hardené Kubernetes platform
-* Management of access and identities
+* **Massive reuse of the S1PDGS architecture**
+* Event-Driven Architecture & Micro-service Architecture
+* Vendor-agnostic deployment solution
+* Hardened Kubernetes Platform
+* Access and identity management
 * Indicator management (PI/KPI)
 * High performance logs & audit
-* Siem
+* SIEM
 
 ![Archi Picture](Project-AIRBUS DS-S1 MISSION SERVICES-EN pict 3.png)
 

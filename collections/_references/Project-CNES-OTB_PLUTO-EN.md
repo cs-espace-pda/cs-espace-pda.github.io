@@ -52,9 +52,9 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* Website developed with MKDOCS, hosted by the CNES, Source code on the CNES gitlab
-* Discourse forum
-* OTB on Gitlab Public
+* Website developed with Mkdocs, hosted by CNES, source code on CNES Gitlab
+* Forum Discourse
+* OTB on public Gitlab
 
 
 

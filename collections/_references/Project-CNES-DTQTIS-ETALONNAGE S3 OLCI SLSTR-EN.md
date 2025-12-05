@@ -9,7 +9,7 @@ title : "Studies for the calibration of OLCI and SLSTR / Sentinel-3 sensors"
 domains : "Image"
 department : "SPACE"
 program : "DTQTIS"
-summary : "Bring a support to the calibration of the OLCI and SLSTR sensors aboard Sentinel-3A and 3B"
+summary : "Provide support for the calibration of OLCI and SLSTR sensors on board Sentinel-3A and 3B"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -28,24 +28,24 @@ CS Group responsabilities for Studies for the calibration of OLCI and SLSTR / Se
 ![Main Picture](Project-CNES-DTQTIS-ETALONNAGE S3 OLCI SLSTR-EN pict 1.png)
 
 The features are as follows:
-* Realization / analysis of the olci and slstr calibrations
-* Evaluation of the impact of the air mass on the Rayleigh Olci calibration
-* Study of calibration defects of the S6 SLSTR band (Deserts & Glitter method)
+* Realization / Analysis of OLCI and SLSTR calibrations
+* Evaluation of the impact of air mass on Rayleigh OLCI calibration
+* Study of calibration defects of the S6 SLSTR band (Deserts & Glitter Method)
 * S3 extraction on instrumented sites (La Crau / Gobabeb)
-* Other various studies (gas transmissions, BRDF Marine correction, Climzoo interpolation, ...)
+* Other miscellaneous studies (Gas transmissions, marine BRDF correction, Climzoo interpolation, etc.)
 
 # Project implementation
 
 The project objectives are as follows:
-* Bring a support to the calibration of the OLCI and SLSTR sensors aboard Sentinel-3A and 3B
+* Provide support for the calibration of OLCI and SLSTR sensors on board Sentinel-3A and 3B
 
 The processes for carrying out the project are:
-* Studies, points on regular advances, reports
+* Studies, Regular progress updates, Reports
 
 # Technical characteristics
 
 The solution key points are as follows:
-* Incommensurate
+* Not applicable
 
 
 

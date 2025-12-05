@@ -23,7 +23,7 @@ summary : "Ground operation to maintain routine operational monitoring activitie
 
 
 CS Group responsabilities for Pléiades ground support are as follows:
-* Maintenance, operational support, 4 engineers team
+* Maintenance, Operational Support, Team of 4 engineers
 
 ![Main Picture](Project-CNES-PLEIADES GROUND OPERATIONS SUPPORT-EN pict 2.png)
 
@@ -44,14 +44,14 @@ The project objectives are as follows:
 * Preparation and implementation of tests
 
 The processes for carrying out the project are:
-* Floor support in delegation of tasks
+* Ground support in delegation of tasks
 
 # Technical characteristics
 
 The solution key points are as follows:
-* Multi component architecture and platforms
+* Multi-component and platform architecture
 * Sensitive context (defense)
-* Maintenance under operational conditions
+* Maintenance in operational conditions
 * Interface with other CNES services
 
 

@@ -9,7 +9,7 @@ title : "Polarization calibration on natural sites"
 domains : "Image"
 department : "SPACE"
 program : "DTQTIS"
-summary : "Characterize the surface polarization of desert sites (BPDF) in order to make an absolute calibration on polarized bands (Mission 3MI)"
+summary : "Characterize the surface polarization of desert sites (BPDF) with a view to carrying out an absolute calibration on the polarized bands (3MI mission)"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -29,27 +29,27 @@ CS Group responsabilities for Polarization calibration on natural sites are as f
 
 The features are as follows:
 * **Polarized signal sensitivity analysis :**
-*     Estimation of dissemination orders contributing to the polarized signal to the TOA
+*     Estimation of the diffusion orders contributing to the polarized signal at the TOA
 *     Influence of the aerosol model
-*     Influence of surface properties (BRDF, refraction index)
-*     Influence of aiming and AOT geometry
+*     Influence of surface properties (BRDF, refractive index)
+*     Influence of sight geometry and AOT
 *     Parametric analysis
 	**Representativeness of BPDF models on desert sites :**
-*     Comparison of measurements and models for different BPDF models
-*     Analysis of the Inversion results of the Maignan model weighting coefficient
+*     Comparison of measurements and modeling for different BPDF models
+*     Analysis of the results of inversion of the weighting coefficient of the Maignan model
 
 # Project implementation
 
 The project objectives are as follows:
-* Characterize the surface polarization of desert sites (BPDF) in order to make an absolute calibration on polarized bands (Mission 3MI)
+* Characterize the surface polarization of desert sites (BPDF) with a view to carrying out an absolute calibration on the polarized bands (3MI mission)
 
 The processes for carrying out the project are:
-* Studies, simulations, advancement meetings, report
+* Studies, Simulations, Progress Meetings, Report
 
 # Technical characteristics
 
 The solution key points are as follows:
-* Incommensurate
+* Not applicable
 
 ![Archi Picture](Project-CNES-DTQTIS-ETALONNAGE POLARISATION-EN pict 2.png)
 

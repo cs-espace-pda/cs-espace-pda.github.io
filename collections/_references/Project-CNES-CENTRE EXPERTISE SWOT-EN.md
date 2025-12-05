@@ -5,11 +5,11 @@ prime_contractor : ""
 image : "Project-CNES-CENTRE EXPERTISE SWOT-EN pict 1.png"
 size : "small"
 name : "Centre Expertise SWOT"
-title : "SWOT Expertise Center"
+title : "SWOT Center of Expertise"
 domains : "EO Services"
 department : "SPACE"
 program : "SWOT"
-summary : "Provision of a calibration/validation environment of SWOT algorithms. Development and provision of interfacing tools for access to SWOT data. Development and provision of rejects and testing tools for treatments. Treatment orchestrator Treatment Chronos Swot to facilitate the launch of on -demand treatments"
+summary : "Provision of an environment for Calibration/Validation of SWOT algorithms. Development and provision of interfacing tools for access to SWOT data. Development and provision of replay and test tools for treatments. CHRONOS SWOT processing orchestrator to facilitate the launch of on-demand processing"
 ---
 
 > __Customer__\: Centre National d’Études Spatiales (CNES)
@@ -22,8 +22,8 @@ summary : "Provision of a calibration/validation environment of SWOT algorithms.
 # Context
 
 
-CS Group responsabilities for SWOT Expertise Center are as follows:
-* Design, development, integration and maintenance
+CS Group responsabilities for SWOT Center of Expertise are as follows:
+* Design, Development, Integration and Maintenance
 
 ![Main Picture](Project-CNES-CENTRE EXPERTISE SWOT-EN pict 1.png)
 
@@ -35,15 +35,15 @@ The features are as follows:
 # Project implementation
 
 The project objectives are as follows:
-* Provision of a calibration/validation environment of SWOT algorithms
+* Provision of an environment for Calibration/Validation of SWOT algorithms
 * Development and provision of interfacing tools for access to SWOT data
-* Development and provision of rejects and testing tools for treatments
-* Treatment orchestrator Treatment Chronos Swot to facilitate the launch of on -demand treatments
+* Development and provision of replay and test tools for treatments
+* CHRONOS SWOT processing orchestrator to facilitate the launch of on-demand processing
 
 The processes for carrying out the project are:
-* V -cycle
+* V cycle
 * Development in iterations with regular presentations to end users
-* Development platform/continuous integration at the CNES accessible to end users
+* Continuous development/integration platform at CNES accessible to end users
 
 # Technical characteristics
 

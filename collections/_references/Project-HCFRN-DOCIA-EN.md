@@ -8,13 +8,13 @@ name : "DOCIA"
 title : "Prototype of a platform for document retrieval and advanced indexing"
 domains : "EO Services"
 department : "SPACE"
-program : "C2IA"
+program : "Generic"
 summary : "Enable the search in a large quantity of heterogeneous and unorganized documents. Intelligent use of data, linking, cross-referencing. Monitoring of local documents, websites, RSS feeds. Applications: Operational Mapping, Surveillance, Decision Support"
 ---
 
 > __Customer__\: Haut Comité Français pour la Résilience Nationale (HCFRN)
 
-> __Programme__\: C2IA
+> __Programme__\: Generic
 
 > __Supply Chain__\: HCFRN >  CS Group SPACE
 

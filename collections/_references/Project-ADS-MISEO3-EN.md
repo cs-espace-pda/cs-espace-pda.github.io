@@ -9,7 +9,7 @@ title : "Mission Infrastructure Standard for Earth Observation"
 domains : "Mission Center"
 department : "SPACE"
 program : "Generic"
-summary : "Development of some sub-compliers MISEO3. Implementation of test resources, Realization of continuous integration tests, Drafting of the functional test plan, Verification of the coverage of the tests by the tests, Data management (BDD, catalog), Supply of validation test reports, Customer support (integration team)."
+summary : "Development of some MISEO3 sub-components. Implementation of testing resources, Carrying out continuous integration tests, Writing the functional test plan, Verification of requirements coverage by tests, Data management (DB, catalog), Provision of validation test reports, Customer support (integration team)."
 ---
 
 > __Customer__\: Airbus Defense & Space (ADS)
@@ -28,23 +28,23 @@ CS Group responsabilities for Mission Infrastructure Standard for Earth Observat
 
 
 The features are as follows:
-* Multi-directing, modular and scalable solution
-* Application kernel for future missions (management of shooting requests)
-* Deposit of programming, production and delivery orders
-* Orders planning
+* Multi-mission, modular and scalable solution
+* Application core for future missions (management of shooting requests)
+* Submission of programming, production and delivery orders
+* Order planning
 * Development and visualization of work plans
 * Consultation of the product catalog
 
 # Project implementation
 
 The project objectives are as follows:
-* Development of some sub-compliers MISEO3
-* Implementation of test resources,
-* Realization of continuous integration tests,
-* Drafting of the functional test plan,
-* Verification of the coverage of the tests by the tests,
-* Data management (BDD, catalog),
-* Supply of validation test reports,
+* Development of some MISEO3 sub-components
+* Implementation of testing resources,
+* Carrying out continuous integration tests,
+* Writing the functional test plan,
+* Verification of requirements coverage by tests,
+* Data management (DB, catalog),
+* Provision of validation test reports,
 * Customer support (integration team).
 
 The processes for carrying out the project are:
@@ -53,8 +53,8 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* Management of a large volume of requests
-* Robust and ergonomic human-machine (IHM) interface to facilitate its operational use
+* Managing a large volume of requests
+* Robust and ergonomic Human-Machine Interface (HMI) to facilitate its operational use
 * Use intended for export
 
 

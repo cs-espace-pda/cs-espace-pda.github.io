@@ -5,7 +5,7 @@ prime_contractor : ""
 image : "Project-CNES-OURSON-EN pict 1.png"
 size : "small"
 name : "OURSON"
-title : "CSO programming chain"
+title : "MCO OURSON from the CSO programming channel"
 domains : "Mission Center"
 department : "SPACE"
 program : "CSO"
@@ -22,8 +22,8 @@ summary : "Design and develop the components of the CSO programming chain"
 # Context
 
 
-CS Group responsabilities for CSO programming chain are as follows:
-* Maintaining operating conditions
+CS Group responsabilities for MCO OURSON from the CSO programming channel are as follows:
+* Maintenance in Operational Conditions
 
 ![Main Picture](Project-CNES-OURSON-EN pict 1.png)
 

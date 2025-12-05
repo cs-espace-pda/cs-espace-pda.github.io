@@ -8,13 +8,13 @@ name : "TMA-VRE"
 title : "VRE"
 domains : "EO Services,Image"
 department : "SPACE"
-program : "Maintenance VRE CNES"
+program : "Generic"
 summary : "VRE's main objective is to simplify the setup of research environments to facilitate large-scale data processing"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
 
-> __Programme__\: Maintenance VRE CNES
+> __Programme__\: Generic
 
 > __Supply Chain__\: CNES >  CS Group SPACE
 

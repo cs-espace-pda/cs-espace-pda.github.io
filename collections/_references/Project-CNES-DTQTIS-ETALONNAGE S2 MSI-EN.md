@@ -9,7 +9,7 @@ title : "Studies for the calibration of Sentinel-2 / MSI"
 domains : "Image"
 department : "SPACE"
 program : "DTQTIS"
-summary : "Bring a support to the calibration of MSI sensors aboard Sentinel-2a and 2B"
+summary : "Provide support for the calibration of MSI sensors on board Sentinel-2A and 2B"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -38,15 +38,15 @@ The features are as follows:
 # Project implementation
 
 The project objectives are as follows:
-* Bring a support to the calibration of MSI sensors aboard Sentinel-2a and 2B
+* Provide support for the calibration of MSI sensors on board Sentinel-2A and 2B
 
 The processes for carrying out the project are:
-* Study, regular advancement meetings
+* Study, regular progress meetings
 
 # Technical characteristics
 
 The solution key points are as follows:
-* Incommensurate
+* Not applicable
 
 
 

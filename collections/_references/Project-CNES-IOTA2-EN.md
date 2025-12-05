@@ -5,7 +5,7 @@ prime_contractor : ""
 image : "Project-CNES-IOTA2-EN pict 1.png"
 size : "small"
 name : "IOTA2"
-title : "Iota² - Infrastructure for land use by automatic processing"
+title : "IOTA² - Infrastructure for Land Use by Automatic Treatment"
 domains : "Image"
 department : "SPACE"
 program : "Generic"
@@ -23,7 +23,7 @@ summary : "IOTA² - land-use map production line for large areas based on time s
 
 IOTA² is a land-use map production line for large areas based on time series of Sentinel or Landsat images developped for CNES / CESBIO. In order to facilitate methodological contributions, IOTA² is open-source. As such, the channel makes extensive use of the image processing applications provided by Orfeo ToolBox.
 
-CS Group responsabilities for Iota² - Infrastructure for land use by automatic processing are as follows:
+CS Group responsabilities for IOTA² - Infrastructure for Land Use by Automatic Treatment are as follows:
 * Maintenance and evolution of the IOTA² chain in order to meet the needs of land use map production
 * User support
 

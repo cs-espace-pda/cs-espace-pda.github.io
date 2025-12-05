@@ -9,7 +9,7 @@ title : "CSO Mission Simulator"
 domains : "Mission Center"
 department : "SPACE"
 program : "CSO"
-summary : "Develop a mission simulator based on the generic Alis simulation infrastructure."
+summary : "Develop a mission simulator based on the ALIS generic simulation infrastructure."
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,21 +23,21 @@ summary : "Develop a mission simulator based on the generic Alis simulation infr
 
 
 CS Group responsabilities for CSO Mission Simulator are as follows:
-* Design, development, validation
+* Design, Development, Validation
 
 ![Main Picture](Project-CNES-CSO MISSION SIMULATOR-EN pict 2.png)
 
 The features are as follows:
-* Design of the CSO Mission Simulator, based on the Alis infrastructure
+* Design of the CSO mission simulator, based on the ALIS infrastructure
 * Development and validation of successive versions.
-* Integration of new features (API Mission, IHM ...)
-* Regular integration of new versions of Gotlib/Phrlib
-* Reversal of features developed for the CSO simulator in Alis
+* Integration of new functionalities (mission API, HMI, etc.)
+* Regular integration of new versions of GOTLIB/PHRLIB
+* Reversal of functionalities developed for the CSO Simulator in ALIS
 
 # Project implementation
 
 The project objectives are as follows:
-* Develop a mission simulator based on the generic Alis simulation infrastructure.
+* Develop a mission simulator based on the ALIS generic simulation infrastructure.
 
 The processes for carrying out the project are:
 * V Cycle

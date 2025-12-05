@@ -5,7 +5,7 @@ prime_contractor : ""
 image : "Project-CNES-SURFWATER-EN pict 1.png"
 size : "small"
 name : "SURFWATER"
-title : "Surfwater, dynamic monitoring of water surfaces"
+title : "SurfWater, dynamic monitoring of water surfaces"
 domains : "Image"
 department : "SPACE"
 program : "SWOT"
@@ -22,7 +22,7 @@ summary : "Specify, design and assess a water surface detection processing chain
 # Context
 
 
-CS Group responsabilities for Surfwater, dynamic monitoring of water surfaces are as follows:
+CS Group responsabilities for SurfWater, dynamic monitoring of water surfaces are as follows:
 * Specification, design, development, maintenance
 * Calibration and validation
 

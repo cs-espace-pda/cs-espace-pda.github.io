@@ -44,7 +44,7 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* Arinc 653 and Linux Hardware Platforms
+* ARINC 653 and Linux hardware platforms
 
 
 

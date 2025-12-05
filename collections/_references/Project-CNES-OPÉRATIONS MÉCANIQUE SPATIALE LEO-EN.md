@@ -9,7 +9,7 @@ title : "MAP_LEO"
 domains : "Mécanique spatiale"
 department : "SPACE"
 program : "Generic"
-summary : "Exploitation of the various spatial mechanical centers to maintain orbit of all satellites in low orbit managed by the CNES"
+summary : "Operation of the various space mechanics centers to maintain all low-orbit satellites managed by CNES in orbit"
 ---
 
 > __Customer__\: Centre National d'Études Spatiales (CNES)
@@ -23,26 +23,26 @@ summary : "Exploitation of the various spatial mechanical centers to maintain or
 
 
 CS Group responsabilities for MAP_LEO are as follows:
-* 12 engineers team
-* Delegation of tasks with commitment of results for the exploitation of subsystems of spatial mechanics in satellite control centers under CNES responsibility
+* Team of 12 engineers
+* Delegation of tasks with commitment to results for the operation of space mechanics subsystems within satellite control centers under CNES responsibility
 
 ![Main Picture](Project-CNES-OPÉRATIONS MÉCANIQUE SPATIALE LEO-EN pict 1.png)
 
 The features are as follows:
 * Daily task monitoring
 * Participation in coordination meetings
-* Management of degraded cases with penalty 24/7
+* Management of degraded cases with 24/7 on-call
 * Development and maintenance of additional tools
-* Programming of maneuvers for posting and management of collision risks
+* Programming of maneuvers for station keeping and collision risk management
 * Support for the maintenance of operational software
-* Participation in technical and operational qualification phases
-* Drafting of operational procedures
-* Preparation and participation in positioning and end -of -life operations
+* Participation in the technical and operational qualification phases
+* Writing operational procedures
+* Preparation and participation in deployment and end-of-life operations
 
 # Project implementation
 
 The project objectives are as follows:
-* Exploitation of the various spatial mechanical centers to maintain orbit of all satellites in low orbit managed by the CNES
+* Operation of the various space mechanics centers to maintain all low-orbit satellites managed by CNES in orbit
 
 The processes for carrying out the project are:
 * V-Cycle
@@ -51,7 +51,7 @@ The processes for carrying out the project are:
 
 The solution key points are as follows:
 * Continuity of service
-* Operational penalty 24/7 qualified to deal with operational emergencies (survival, risks of collision, etc.) and exceptional critical operations such as the desire for a satellite
+* 24/7 operational on-call qualified to deal with operational emergencies (survival, risks of collision, etc.) and exceptional critical operations such as the deorbiting of a satellite
 
 ![Archi Picture](Project-CNES-OPÉRATIONS MÉCANIQUE SPATIALE LEO-EN pict 2.png)
 

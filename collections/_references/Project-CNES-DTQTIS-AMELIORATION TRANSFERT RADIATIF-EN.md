@@ -5,7 +5,7 @@ prime_contractor : ""
 image : "Project-CNES-DTQTIS-AMELIORATION TRANSFERT RADIATIF-EN pict 1.png"
 size : "small"
 name : "DTQTIS-Amelioration Transfert Radiatif"
-title : "Radiative transfer codes improvement study"
+title : "Study of improvement of radiative transfer codes"
 domains : "Image"
 department : "SPACE"
 program : "DTQTIS"
@@ -22,22 +22,22 @@ summary : "Evolutionary maintenance of SOS-ABS and OSOAA codes"
 # Context
 
 
-CS Group responsabilities for Radiative transfer codes improvement study are as follows:
+CS Group responsabilities for Study of improvement of radiative transfer codes are as follows:
 * Method specification, development, validation, user support
 
 ![Main Picture](Project-CNES-DTQTIS-AMELIORATION TRANSFERT RADIATIF-EN pict 1.png)
 
 The features are as follows:
 * **SOS-ABS :**
-*     Gaseous absorption management: Introduction of the CKD method, optimization of the atmospheric profile 
+*     Management of gaseous absorptions: introduction of the CKD method, optimization of the atmospheric profile 
 *     Introduction of the Maignan BPDF model
-*     Definition of the aerosol model by multi-modes mixture
-*     Simplification of use: Warning Word Erroned key, possibility of simultaneous treatments
-	**Osoaa :**
-*     User advice
-*     Training during "Ocean Optics XXV"
+*     Definition of the aerosol model by multi-mode mixing
+*     Simplification of use: incorrect keyword warning, possibility of simultaneous processing
+	**OSOAA :**
+*     User Tips
+*     Training during “Ocean Optics XXV”
 	**Support for the integration of SOS-ABS in 4A/OP**
-	**Introduction training for radiative transfer**
+	**Introductory radiative transfer training**
 
 # Project implementation
 
@@ -45,13 +45,13 @@ The project objectives are as follows:
 * Evolutionary maintenance of SOS-ABS and OSOAA codes
 
 The processes for carrying out the project are:
-* Study, tests, taking user feedback into account
+* Study, tests, taking into account user feedback
 
 # Technical characteristics
 
 The solution key points are as follows:
-* Order line (for SOS-ABS and OSOAA) or Binding Python (for SOS-ABS)
-* IHM for OSOAA
+* Command line (for SOS-ABS and OSOAA) or Python binding (for SOS-ABS)
+* HMI for OSOAA
 
 
 

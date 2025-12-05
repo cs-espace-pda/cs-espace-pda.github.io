@@ -9,7 +9,7 @@ title : "Mask of clouds and shadows for Sentinel-2"
 domains : "Image"
 department : "SPACE"
 program : "HydroCoastal"
-summary : "The project aims to develop a chain of atmospheric corrections in the coastal environment, including the detection of clouds and shadows, as well as glitter. Integrate the channel into Snap."
+summary : "The project aims to develop a chain of atmospheric corrections in a coastal environment, including the detection of clouds and shadows, as well as glitter. Integrate the channel into SNAP."
 ---
 
 > __Customer__\: European Space Agency (ESA)
@@ -23,27 +23,27 @@ summary : "The project aims to develop a chain of atmospheric corrections in the
 
 
 CS Group responsabilities for Mask of clouds and shadows for Sentinel-2 are as follows:
-* Cloud detection method and shadows
-* Shadow detection method of relief   
-* Integration of the operational channel under Snap
+* Method for detecting clouds and their shadows
+* Relief shadow detection method   
+* Integration of the operational chain under SNAP
 
 ![Main Picture](Project-ACRI-ST-ESA-S2 CLOUDS RELIEF SHADES MASK-EN pict 1.png)
 
 The features are as follows:
-* **Detection of clouds and shadows :**
+* **Cloud and shadow detection :**
 *     Adaptation of FMASK for Sentinel-2
 *     Test on a selection of Sentinel-2 images
-	**Location of the shadows of the relief :**
+	**Location of relief shadows :**
 *     Development of the tool
-*     Use of the Rugged Library
-*     Images test
-	**Documentation: A.T.B.D., DPM, interfaces.**
+*     Using the Rugged Library
+*     Test on images
+	**Documentation: A.T.B.D., DPM, Interfaces.**
 
 # Project implementation
 
 The project objectives are as follows:
-* The project aims to develop a chain of atmospheric corrections in the coastal environment, including the detection of clouds and shadows, as well as glitter.
-* Integrate the channel into Snap.
+* The project aims to develop a chain of atmospheric corrections in a coastal environment, including the detection of clouds and shadows, as well as glitter.
+* Integrate the channel into SNAP.
 
 The processes for carrying out the project are:
 * Study, development, regular meetings
@@ -51,7 +51,7 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* Developments adapted to Snap
+* Developments adapted to SNAP
 
 
 

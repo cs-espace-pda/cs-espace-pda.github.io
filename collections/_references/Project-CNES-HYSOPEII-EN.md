@@ -5,7 +5,7 @@ prime_contractor : ""
 image : "Project-CNES-HYSOPEII-EN pict 1.png"
 size : "small"
 name : "HYSOPEII"
-title : "Development of a centralized portal for hydrological data"
+title : "Development of a centralized portal for accessing hydrological data"
 domains : "EO Services"
 department : "SPACE"
 program : "SWOT aval"
@@ -22,19 +22,17 @@ summary : "A system for centralization, provision and processing of hydrological
 # Context
 
 
-CS Group responsabilities for Development of a centralized portal for hydrological data are as follows:
-* Design, development and deployment on CNES and Cloud means.
-* Guarantee and maintenance.
-* Support and training for users, community animation.
+CS Group responsabilities for Development of a centralized portal for accessing hydrological data are as follows:
+* Design, development and deployment on CNES resources.
+* Warranty and maintenance.
 
 ![Main Picture](Project-CNES-HYSOPEII-EN pict 2.png)
 
 The features are as follows:
-* **HYGOR**: Mana**G**ement and **OR**organization of data
-	**HYDROWEB-NG**: Dissemination of data
-	**HYMOTEP**: Production of data
-	**STYX** (**S**cience **T**estbedand h**Y**sopeII data e**X**ploration): Scientific exploration
-	**HYDRA** (**D**etection, **R**eport and **A**nalysis): Hypervision of the system
+* Interoperable cataloging of hydrological data
+* Map-based preview of data and time-series charts
+* Search for products, order and download data
+* Dedicated tool for monitoring the entire system
 
 # Project implementation
 
@@ -50,9 +48,15 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* **Reuse** of CNES components: REGARDS (cataloging); CHRONOS (orchestrator); VRE (scientific exploration)
+* **Reuse** of CNES components: 
+	* REGARDS (cataloging)
+	* HYDRA POTE (hypervision)
 * Free standards and components
-	**Portability and scalability**: Stateless microservices; Docker and Singularity; Kubernetes; Ansible and Helm; Portable on CNES and CLOUD infrastructure
+	**Portability and scalability**: 
+	* Stateless microservices
+	* Docker and Singularity
+	* Ansible
+	* On premise CNES infrastructure
 * User-centered design
 
 ![Archi Picture](Project-CNES-HYSOPEII-EN pict 3.png)
@@ -62,11 +66,12 @@ The main technologies used in this project are:
 {:class="table table-bordered table-dark"}
 | Domain | Technology(ies) |
 |--------|----------------|
-|Hardware environment(s)|Cluster HPC du CNES, Docker/Singularity, Docker SWARM/Kubernetes|
+|Hardware environment(s)|Docker SWARM|
 |Operating System(s)|Tous OS Serveur (par containerisation), tous OS Client (interfaces web sans plugins)|
-|Programming language(s)|Java, Python, Helm|
-|Interoperability (protocols, format, APIs)|OGC API, STAC API, OCI, AMQP, Docker, CWL, REST, POSIX, S3|
-|Production software (IDE, DEVOPS etc.)|Jupyter, JupyterHub, Ansible, EODAG, …|
+|Programming language(s)|Java, Python, TypeScript|
+|Interoperability (protocols, format, APIs)|OGC FEATURE, STAC API, OCI, AMQP, Docker, REST, POSIX, S3|
+|Production software (IDE, DEVOPS etc.)|Ansible, EODAG, Temporal.io, Spring Boot, NextJS…|
+|Main COTS library(ies)|Geoserver, Keycloak, Kong, Grafana, Loki, Prometheus, Elasticsearch, Postgres|
 
 
 

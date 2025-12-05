@@ -5,11 +5,11 @@ prime_contractor : ""
 image : "Project-CNES-CERES SPECIFICATIONS AMOA-EN pict 1.png"
 size : "small"
 name : "CERES SPECIFICATIONS AMOA"
-title : "Assistance to project management for the writing of Ceres specifications"
+title : "Assistance to Project Management for the drafting of CERES specifications"
 domains : "Control Center"
 department : "SPACE"
 program : "CERES"
-summary : "Analysis of Mission (STB System Ceres) and reference (DR) work documents (DR) ISIS and CSO. Identification of technical choices for arbitration by CNES Sol and System teams. Drafting of CCC Ceres level documents"
+summary : "Analysis of mission working documents (STB CERES system) and reference documents (DR) ISIS and CSO. Identification of technical choices for arbitration by the CNES ground and system teams. Writing CCC CERES level documents"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -22,20 +22,20 @@ summary : "Analysis of Mission (STB System Ceres) and reference (DR) work docume
 # Context
 
 
-CS Group responsabilities for Assistance to project management for the writing of Ceres specifications are as follows:
-* Service piloted by the CNES
+CS Group responsabilities for Assistance to Project Management for the drafting of CERES specifications are as follows:
+* service managed by CNES
 
 ![Main Picture](Project-CNES-CERES SPECIFICATIONS AMOA-EN pict 2.png)
 
 The features are as follows:
-* Meeting needs expressed at the system level while respecting the perimeter of the ISIS product line which defines the new CNS CNES CCCs.
+* Meet needs expressed at the system level while respecting the scope of the ISIS Product Line which defines the new CNES CCC standards.
 
 # Project implementation
 
 The project objectives are as follows:
-* Analysis of Mission (STB System Ceres) and reference (DR) work documents (DR) ISIS and CSO
-* Identification of technical choices for arbitration by CNES Sol and System teams
-* Drafting of CCC Ceres level documents
+* Analysis of mission working documents (STB CERES system) and reference documents (DR) ISIS and CSO
+* Identification of technical choices for arbitration by the CNES ground and system teams
+* Writing CCC CERES level documents
 
 The processes for carrying out the project are:
 * Requirements engineering
@@ -43,8 +43,8 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* As a team integrated into the CNES
-* Ceres: 1st instantiation of the ISIS product line
+* As part of a team integrated into CNES
+* CERES: 1st instantiation of the ISIS product line
 
 
 

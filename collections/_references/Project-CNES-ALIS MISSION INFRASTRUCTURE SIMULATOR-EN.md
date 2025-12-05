@@ -5,11 +5,11 @@ prime_contractor : ""
 image : "Project-CNES-ALIS MISSION INFRASTRUCTURE SIMULATOR-EN pict 1.png"
 size : "small"
 name : "ALIS Mission Infrastructure Simulator"
-title : "Alis simulation infastructure"
+title : "ALIS simulation infrastructure"
 domains : "Mission Center"
 department : "SPACE"
 program : "Generic"
-summary : "Maintenance and development of an engineering workshop to make system sizing and engineering on the programming chain. Development of simulators Mission: CMTF, CERES, CSO, Pleiades, CO3D, Microcarb"
+summary : "Maintenance and development of an engineering workshop allowing system sizing and engineering on the programming chain. Development of mission simulators: CMTF, CERES, CSO, PLEIADES, CO3D, MICROCARB"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -22,25 +22,25 @@ summary : "Maintenance and development of an engineering workshop to make system
 # Context
 
 
-CS Group responsabilities for Alis simulation infastructure are as follows:
-* Development then maintenance
+CS Group responsabilities for ALIS simulation infrastructure are as follows:
+* Development then Maintenance
 
 
 
 The features are as follows:
-* Cartographic display
+* Map display
 * Request management
 * Programmatic execution of simulation steps
-* Interfacing of external libraries
+* Interfacing external libraries
 * Data storage
 * Reporting tool
-* Patrius integration
+* PATRIUS integration
 
 # Project implementation
 
 The project objectives are as follows:
-* Maintenance and development of an engineering workshop to make system sizing and engineering on the programming chain
-* Development of simulators Mission: CMTF, CERES, CSO, Pleiades, CO3D, Microcarb
+* Maintenance and development of an engineering workshop allowing system sizing and engineering on the programming chain
+* Development of mission simulators: CMTF, CERES, CSO, PLEIADES, CO3D, MICROCARB
 
 The processes for carrying out the project are:
 * V Cycle
@@ -50,10 +50,10 @@ The processes for carrying out the project are:
 The solution key points are as follows:
 * Application portability
 * Ergonomics, modularity, robustness
-* Optimization of 3D cartography
+* Optimization of 3D mapping
 * New developments responding to customer issues
-* Use of cots and open source
-* Implementation of a "template" simulator to facilitate the development of new simulators
+* Use of COTS and Open Source
+* Implementation of a “template” simulator to facilitate the development of new simulators
 
 ![Archi Picture](Project-CNES-ALIS MISSION INFRASTRUCTURE SIMULATOR-EN pict 2.png)
 

@@ -5,11 +5,11 @@ prime_contractor : ""
 image : "Project-CNES-SPOT-HELIOS CMP MAINTENANCE-EN pict 1.jpg"
 size : "small"
 name : "SPOT-HELIOS CMP Maintenance"
-title : "Software maintenance of CMP Spot and Helios (Post maintenance center)"
+title : "Software maintenance of CMP SPOT and HELIOS (Post Maintenance Center)"
 domains : "Control Center"
 department : "SPACE"
 program : "Spot Helios"
-summary : "Level 3 software maintenance for CMP spots and helios"
+summary : "Level 3 software maintenance for CMP SPOT and HELIOS"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -22,22 +22,22 @@ summary : "Level 3 software maintenance for CMP spots and helios"
 # Context
 
 
-CS Group responsabilities for Software maintenance of CMP Spot and Helios (Post maintenance center) are as follows:
-* Prime on TMA at a fixed price (project management and quality, management of the technical coordination of the IT platform, configuration management)
+CS Group responsabilities for Software maintenance of CMP SPOT and HELIOS (Post Maintenance Center) are as follows:
+* bonus on fixed price TMA (project management and quality, technical coordination management of the IT platform, configuration management)
 
 ![Main Picture](Project-CNES-SPOT-HELIOS CMP MAINTENANCE-EN pict 1.jpg)
 
 The features are as follows:
 * Management and implementation of developments
 * Corrective maintenance
-* Daily operations and call support in the event of an operational emergency
-* Maintenance, since 2007, of the CCS (Control Center) which is the real time component of the CMP
+* Daily operations and on-call support in the event of an operational emergency
+* Maintenance, since 2007, of the CCS (Control Center) which is the real-time component of the CMP
 * User training
 
 # Project implementation
 
 The project objectives are as follows:
-* Level 3 software maintenance for CMP spots and helios
+* Level 3 software maintenance for CMP SPOT and HELIOS
 
 The processes for carrying out the project are:
 * V Cycle
@@ -45,8 +45,8 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* Functional architecture of software components
-* Maintaining skills, component testing environments over a very long period
+* functional architecture of software components
+* maintaining skills and component testing environments over a very long period
 
 
 

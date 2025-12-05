@@ -5,11 +5,11 @@ prime_contractor : ""
 image : "Project-ADS-SSU CSO-EN pict 1.jpg"
 size : "small"
 name : "SSU CSO"
-title : "Development of the CSO user soil segment"
+title : "Development of the CSO User Ground Segment"
 domains : "Mission Center"
 department : "SPACE"
 program : "CSO"
-summary : "Participation in specification phases. Analysis of specifications and design of mission software components. Component development. Mission software validation. Participation in SSU system validation. MCO of the Mission software"
+summary : "Participation in specification phases. Analysis of specifications and design of mission software components. Component development. Validation of mission software. Participation in SSU system validation. Mission software MCO"
 ---
 
 > __Customer__\: Airbus Defence & Space (ADS)
@@ -22,15 +22,15 @@ summary : "Participation in specification phases. Analysis of specifications and
 # Context
 
 
-CS Group responsabilities for Development of the CSO user soil segment are as follows:
-* Package project carried out in consortium with Diginext subcontractor of CS Group
+CS Group responsabilities for Development of the CSO User Ground Segment are as follows:
+* Fixed-price project carried out in consortium with Diginext, subcontractor of CS Group
 
 ![Main Picture](Project-ADS-SSU CSO-EN pict 1.jpg)
 
 The features are as follows:
-* IHM
-* Request server
-* Mission server 
+* HMI
+* Server Requests
+* Mission Server 
 * Cartographic
 
 # Project implementation
@@ -39,9 +39,9 @@ The project objectives are as follows:
 * Participation in specification phases
 * Analysis of specifications and design of mission software components
 * Component development
-* Mission software validation
+* Validation of mission software
 * Participation in SSU system validation
-* MCO of the Mission software
+* Mission software MCO
 
 The processes for carrying out the project are:
 * V Cycle
@@ -49,7 +49,7 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* IHM modeling/prototyping with end users throughout the development cycle
+* Modeling/prototyping of HMIs with end users throughout the development cycle
 
 
 

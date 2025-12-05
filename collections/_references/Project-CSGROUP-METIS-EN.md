@@ -8,13 +8,13 @@ name : "METIS"
 title : "Cloud platform solution"
 domains : "Cloud platform"
 department : "SPACE"
-program : "METIS"
+program : "Generic"
 summary : "METIS is a powerful solution to quickly and easily deploy a production grade cloud platform. It is designed to provide a complete ecosystem to facilitate platform development and deployment."
 ---
 
 > __Customer__\: CS GROUP (CSGROUP)
 
-> __Programme__\: METIS
+> __Programme__\: Generic
 
 > __Supply Chain__\: CSGROUP >  CS Group SPACE
 

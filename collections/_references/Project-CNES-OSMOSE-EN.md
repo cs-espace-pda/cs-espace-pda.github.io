@@ -9,7 +9,7 @@ title : "French Space Surveillance and Tracking Framework"
 domains : "Space Awareness, Flight Dynamics"
 department : "SPACE"
 program : "SSA"
-summary : "OSMOSE consists in scheduling TAROT telescope network observations and use other european measurements to produce and maintain a GEO orbit catalog"
+summary : "OSMOSE consists in scheduling TAROT telescope network observations and use other european measurements to produce and maintain a GEO orbit catalog."
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -21,7 +21,7 @@ summary : "OSMOSE consists in scheduling TAROT telescope network observations an
 
 # Context
 
-OSMOSE is used in a European effort to construct an independent orbit catalog in order to assess on its own the space situation and tend towards a safe, regulated and sustainable in-orbit environment
+OSMOSE is used in a European effort to construct an independent orbit catalog in order to assess on its own the space situation and tend towards a safe, regulated and sustainable in-orbit environment.
 
 CS Group responsabilities for French Space Surveillance and Tracking Framework are as follows:
 * Design, development, intégration, studies, calibrations, maintenance
@@ -40,7 +40,7 @@ The features are as follows:
 # Project implementation
 
 The project objectives are as follows:
-* OSMOSE consists in scheduling TAROT telescope network observations and use other european measurements to produce and maintain a GEO orbit catalog
+* OSMOSE consists in scheduling TAROT telescope network observations and use other european measurements to produce and maintain a GEO orbit catalog.
 
 The processes for carrying out the project are:
 * Agile

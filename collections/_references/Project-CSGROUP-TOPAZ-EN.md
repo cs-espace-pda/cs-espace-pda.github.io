@@ -8,13 +8,13 @@ name : "TOPAZ"
 title : "Toolbox for creating user web interfaces"
 domains : "Web interfaces"
 department : "SPACE"
-program : "TOPAZ"
+program : "Generic"
 summary : "Development accelerator. Modularity. Extensibility. Interoperability. Business-agnosticity"
 ---
 
 > __Customer__\: CS GROUP (CSGROUP)
 
-> __Programme__\: TOPAZ
+> __Programme__\: Generic
 
 > __Supply Chain__\: CSGROUP >  CS Group SPACE
 

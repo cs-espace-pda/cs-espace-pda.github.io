@@ -5,11 +5,11 @@ prime_contractor : ""
 image : "Project-CNES-DTN-TSA-O2M-SCOOP-EN pict 1.png"
 size : "small"
 name : "SCOOP"
-title : "SCOOP Maintenance & Operational Operation for COO"
+title : "Operational maintenance & operation SCOOP for the CNES COO"
 domains : "Centre d’Orbitographie Opérationnelle (COO)"
 department : "SPACE"
 program : "Generic"
-summary : "Support to the COO team for the evolution and exploitation of the SCOOP Orbitography Treatment Channel (Operational Orbit Calculation System) operating the 2 GHz Stations of the CNES."
+summary : "Support to the COO team for the evolution and operation of the SCOOP (Operational Orbit Calculation System) orbitography processing chain operating the CNES 2 GHz station network."
 ---
 
 > __Customer__\: Centre National d'Études Spatiales (CNES-DTN-TSA-O2M)
@@ -22,21 +22,21 @@ summary : "Support to the COO team for the evolution and exploitation of the SCO
 # Context
 
 
-CS Group responsabilities for SCOOP Maintenance & Operational Operation for COO are as follows:
-* 3 ETP; Delegation of tasks.
+CS Group responsabilities for Operational maintenance & operation SCOOP for the CNES COO are as follows:
+* 3 FTE; Delegation of tasks.
 
 ![Main Picture](Project-CNES-DTN-TSA-O2M-SCOOP-EN pict 1.png)
 
 The features are as follows:
-* Routine operations: Stations designation, Passages organization; Localization data acquisition; remained of orbit; User control centers interfacing
-* Operational penalty: Monitoring risks collisions; Operational emergency response
-* Critical Exceptional Operations Participation: MIP; Launch, post-injection; Demonbitation, returned
-* COO SCOOP and Intranet software maintenance, COO site development
+* Routine operations: Designation of stations, organization of passages; acquisition of location data; remained in orbit; user control center interfacing
+* Operational Duty: Collision risk monitoring; operational emergency response
+* Participation in critical exceptional operations: MIP; launch, post-injection; deorbit, reentries
+* SCOOP software maintenance and COO intranet, COO site evolution
 
 # Project implementation
 
 The project objectives are as follows:
-* Support to the COO team for the evolution and exploitation of the SCOOP Orbitography Treatment Channel (Operational Orbit Calculation System) operating the 2 GHz Stations of the CNES.
+* Support to the COO team for the evolution and operation of the SCOOP (Operational Orbit Calculation System) orbitography processing chain operating the CNES 2 GHz station network.
 
 The processes for carrying out the project are:
 * V-Cycle
@@ -44,9 +44,9 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* Maintenance: Stabilization of the framework of the platform's non-regression tests.
-* MCO / Support for operations: Service continuity, availability CNES.
-* CS Group Expertise: Spatial mechanics, operational software development/validation, software architecture, computer technologies.
+* Maintenance: stabilization of the platform's non-regression testing framework.
+* MCO / operations support: service continuity, availability requests from CNES.
+* CS GROUP expertise: space mechanics, operational software development/validation, software architecture, IT technologies.
 
 ![Archi Picture](Project-CNES-DTN-TSA-O2M-SCOOP-EN pict 2.png)
 

@@ -5,11 +5,11 @@ prime_contractor : ""
 image : ""
 size : "small"
 name : "Support Op. en Physique de la Mesure"
-title : "Support for analysis and correction of anomalies within operational tools"
+title : "Support for analyzing and correcting anomalies within operational tools"
 domains : "Image"
 department : "SPACE"
 program : "DTQTIS"
-summary : "Solve problems leading to the proper functioning of operational processing CNES services"
+summary : "Solve problems hindering the proper functioning of CNES operational processing services"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -22,32 +22,32 @@ summary : "Solve problems leading to the proper functioning of operational proce
 # Context
 
 
-CS Group responsabilities for Support for analysis and correction of anomalies within operational tools are as follows:
-* Support for the Operational CMNS calibration service (OT/PE) and TEC S2
+CS Group responsabilities for Support for analyzing and correcting anomalies within operational tools are as follows:
+* Support for the CNES operational calibration service (OT/PE) and TEC S2
 
 
 
 The features are as follows:
 * **TEC S2 :** 
-* Evolution of Lacrau & Gobabeb extraction tools following the change in format of Sentinel2 products
+* Evolution of LaCrau & Gobabeb extraction tools following the change in format of SENTINEL2 products
 	**OT/PE service :**
-* Taking into account ECMWF data for ozone in the Sentinel2 deserted extraction tool
-* Correction of Ozone ECMWF Ozone Products tools
-* Support for the integration of the toa/boa integration tool for pleiads calibration
+* Taking ECMWF data for ozone into account in the SENTINEL2 Deserts extraction tool
+* Correction of Ozone ECMWF product reading tools
+* Support for the integration of the TOA/BOA integration tool for PLEIADES calibration
 * Generation of SMAC coefficient files
 
 # Project implementation
 
 The project objectives are as follows:
-* Solve problems leading to the proper functioning of operational processing CNES services
+* Solve problems hindering the proper functioning of CNES operational processing services
 
 The processes for carrying out the project are:
-* Generation of data, analysis, correction of anomalies, validation
+* Data generation, Analysis, Anomaly correction, Validation
 
 # Technical characteristics
 
 The solution key points are as follows:
-* Incommensurate
+* Not applicable
 
 
 

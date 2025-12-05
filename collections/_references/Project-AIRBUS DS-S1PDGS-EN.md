@@ -24,7 +24,7 @@ summary : "Migrating S1 Data & Payloads Digital Ground Segment Processing to ope
 ESA, Airbus DS, Werum, CS Group France
 
 CS Group responsabilities for Migration **to** cloud commercial service are as follows:
-* Production / production monitoring; Infrastructure; Security ; Maintenance
+* Production monitoring/monitoring; Infrastructure; Security ; Maintenance
 
 ![Main Picture](Project-AIRBUS DS-S1PDGS-EN pict 2.png)
 
@@ -47,14 +47,14 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* Event-Driven architecture
-* Micro-Service Architecture
-* Independent deployment solution of the supplier
-* Hardené Kubernetes platform
-* Management of access and identities
+* Event-Driven Architecture
+* Micro-service Architecture
+* Vendor-agnostic deployment solution
+* Hardened Kubernetes Platform
+* Access and identity management
 * Indicator management (PI/KPI)
 * High performance logs & audit
-* Siem
+* SIEM
 
 ![Archi Picture](Project-AIRBUS DS-S1PDGS-EN pict 3.png)
 

@@ -5,11 +5,11 @@ prime_contractor : ""
 image : "Project-CNES-DTQTIS-ETALONNAGE MICROCARB-EN pict 1.png"
 size : "small"
 name : "DTQTIS-Etalonnage MicroCarb"
-title : "Microcarb radiometric calibration on natural targets"
+title : "MicroCarb radiometric calibration on natural targets"
 domains : "Image"
 department : "SPACE"
 program : "MicroCarb"
-summary : "Implementation of radiometric calibration methods on natural targets (deserts, glitter) for microcarb"
+summary : "Implementation of radiometric calibration methods on natural targets (Deserts, Glitter) for MicroCarb"
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -22,35 +22,35 @@ summary : "Implementation of radiometric calibration methods on natural targets 
 # Context
 
 
-CS Group responsabilities for Microcarb radiometric calibration on natural targets are as follows:
+CS Group responsabilities for MicroCarb radiometric calibration on natural targets are as follows:
 * Study, development
 
 ![Main Picture](Project-CNES-DTQTIS-ETALONNAGE MICROCARB-EN pict 1.png)
 
 The features are as follows:
-* **GLITTER stalker :**
+* **Glitter Calibration :**
 *     Feasibility study
-*     Selection of valid channels
-*     Specification and development of an algorithm for calculating the gas transmission from Lut 4Aop
-*     Prototyping and evaluation of the calibration algorithm (current muscle adaptation)
-	**Deserted calibration :**
-*     Selection of reference sensors and strips
+*     Selecting valid channels
+*     Specification and development of an algorithm for calculating gas transmission from LUT 4AOP
+*     Prototyping and evaluation of the calibration algorithm (MUSCLE-NEO adaptation in progress)
+	**Desert Calibration :**
+*     Selection of sensors and reference bands
 *     Selection of 4 calibration sites
-*     Implementation of a method of correcting the gas transmission from LUV 4Aop
-*     Prototyping and evaluation of the calibration algorithm (current muscle adaptation)
+*     Implementation of a gas transmission correction method using LUT 4AOP
+*     Prototyping and evaluation of the calibration algorithm (MUSCLE-NEO adaptation in progress)
 
 # Project implementation
 
 The project objectives are as follows:
-* Implementation of radiometric calibration methods on natural targets (deserts, glitter) for microcarb
+* Implementation of radiometric calibration methods on natural targets (Deserts, Glitter) for MicroCarb
 
 The processes for carrying out the project are:
-* Studies, simulations, prototyping, points on regular advances, reports
+* Studies, Simulations, Prototyping, Regular progress updates, Reports
 
 # Technical characteristics
 
 The solution key points are as follows:
-* Incommensurate
+* Not applicable
 
 
 
