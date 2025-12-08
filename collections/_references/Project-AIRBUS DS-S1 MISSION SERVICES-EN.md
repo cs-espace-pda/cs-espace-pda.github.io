@@ -24,7 +24,7 @@ summary : "Secured ingestion of Auxiliary files. File Transformation for S1PDGS 
 ESA, Airbus DS, Werum, CS Group France
 
 CS Group responsabilities for AUXIP of Sentinel-1 hosting the Mission  Planning and SRA  subsystems are as follows:
-* Development of data circulation services; Infrastructure; Security ; Maintenance
+* Development of data circulation services; infrastructure; Security ; Maintenance
 
 ![Main Picture](Project-AIRBUS DS-S1 MISSION SERVICES-EN pict 2.png)
 
@@ -54,11 +54,11 @@ The processes for carrying out the project are:
 The solution key points are as follows:
 * **Massive reuse of the S1PDGS architecture**
 * Event-Driven Architecture & Micro-service Architecture
-* Vendor-agnostic deployment solution
-* Hardened Kubernetes Platform
+* Vendor Independent Deployment Solution
+* Hardened Kubernetes platform
 * Access and identity management
 * Indicator management (PI/KPI)
-* High performance logs & audit
+* High Performance Logs & Audit
 * SIEM
 
 ![Archi Picture](Project-AIRBUS DS-S1 MISSION SERVICES-EN pict 3.png)

@@ -9,7 +9,7 @@ title : "TMA PLEIADES Programming Chain"
 domains : "Control Center"
 department : "SPACE"
 program : "Pléiades"
-summary : "Development: engineering phases, software specifications, preliminary and detailed design, coding and unit testing, unit and AIV validation, acceptance, warranty, MCO: correction of anomalies and development of numerous functional developments."
+summary : "Development: engineering phases, software specifications, preliminary and detailed design, coding and unit testing, unit and AIV validation, acceptance, warranty, MCO: correction of anomalies and development of numerous functional evolutions."
 ---
 
 > __Customer__\: Centre National d'Etudes Spatiales (CNES)
@@ -23,17 +23,17 @@ summary : "Development: engineering phases, software specifications, preliminary
 
 
 CS Group responsabilities for TMA PLEIADES Programming Chain are as follows:
-* Responsibility in co-contracting, Project manager
+* Responsibility in co-contracting, project manager
 
 ![Main Picture](Project-AIRBUS DS-PLEIADES PROGRAMMING CHAIN MAINTENANCE-EN pict 2.png)
 
 The features are as follows:
-* Programming Unit: image requests, programs, receiving stations
+* Programming Unit: image requests, program requests, receiving stations
 * Access Unit: user access interface
 * DUPC Unit: satellite commands, CU data
 * PCME Unit: international defense programming 
-* Processing Unit: inventory and archiving TMI
-* ImageReceivingStation Unit: TMI reception and ingestion
+* Processing Unit: TMI inventory and archiving
+* ImageReceivingStation Unit: receiving and ingesting TMI
 * AccurateAttitudeDataRestoration Unit: fine attitude data
 * CommandControl Unit: system and satellite settings
 * Integration of PHRLIB/GOTLIB mission libraries
@@ -42,7 +42,7 @@ The features are as follows:
 
 The project objectives are as follows:
 * Development: engineering phases, software specifications, preliminary and detailed design, coding and unit testing, unit and AIV validation, acceptance, warranty,
-* MCO: correction of anomalies and development of numerous functional developments.
+* MCO: correction of anomalies and development of numerous functional evolutions.
 
 The processes for carrying out the project are:
 * V Cycle

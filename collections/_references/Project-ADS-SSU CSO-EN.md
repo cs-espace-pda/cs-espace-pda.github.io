@@ -9,7 +9,7 @@ title : "Development of the CSO User Ground Segment"
 domains : "Mission Center"
 department : "SPACE"
 program : "CSO"
-summary : "Participation in specification phases. Analysis of specifications and design of mission software components. Component development. Validation of mission software. Participation in SSU system validation. Mission software MCO"
+summary : "Participation in the specification phases. Analysis of specifications and design of mission software components. Component development. Mission software validation. Participation in the system validation of the SSU. MCO of the mission software"
 ---
 
 > __Customer__\: Airbus Defence & Space (ADS)
@@ -23,7 +23,7 @@ summary : "Participation in specification phases. Analysis of specifications and
 
 
 CS Group responsabilities for Development of the CSO User Ground Segment are as follows:
-* Fixed-price project carried out in consortium with Diginext, subcontractor of CS Group
+* Fixed price project carried out in consortium with Diginext subcontractor of CS Group
 
 ![Main Picture](Project-ADS-SSU CSO-EN pict 1.jpg)
 
@@ -36,12 +36,12 @@ The features are as follows:
 # Project implementation
 
 The project objectives are as follows:
-* Participation in specification phases
+* Participation in the specification phases
 * Analysis of specifications and design of mission software components
 * Component development
-* Validation of mission software
-* Participation in SSU system validation
-* Mission software MCO
+* Mission software validation
+* Participation in the system validation of the SSU
+* MCO of the mission software
 
 The processes for carrying out the project are:
 * V Cycle

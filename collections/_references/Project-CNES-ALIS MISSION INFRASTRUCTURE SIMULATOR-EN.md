@@ -33,7 +33,7 @@ The features are as follows:
 * Programmatic execution of simulation steps
 * Interfacing external libraries
 * Data storage
-* Reporting tool
+* reporting tool
 * PATRIUS integration
 
 # Project implementation
@@ -50,10 +50,10 @@ The processes for carrying out the project are:
 The solution key points are as follows:
 * Application portability
 * Ergonomics, modularity, robustness
-* Optimization of 3D mapping
+* 3D mapping optimization
 * New developments responding to customer issues
 * Use of COTS and Open Source
-* Implementation of a “template” simulator to facilitate the development of new simulators
+* Implementation of a "template" simulator to facilitate the development of new simulators
 
 ![Archi Picture](Project-CNES-ALIS MISSION INFRASTRUCTURE SIMULATOR-EN pict 2.png)
 

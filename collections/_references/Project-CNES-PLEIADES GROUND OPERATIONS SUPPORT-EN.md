@@ -49,10 +49,10 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* Multi-component and platform architecture
+* Multi-component architecture and platforms
 * Sensitive context (defense)
 * Maintenance in operational conditions
-* Interface with other CNES services
+* Interface with other CNES departments
 
 
 

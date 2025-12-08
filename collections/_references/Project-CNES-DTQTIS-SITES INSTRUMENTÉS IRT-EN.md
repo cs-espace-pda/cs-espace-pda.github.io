@@ -30,7 +30,7 @@ CS Group responsabilities for Flight calibration of TRISHNA on instrumented site
 The features are as follows:
 * Simulation of uncertainty on a large number of atmospheric profiles (water vapor, ozone, temperature)
 * Simulation of luminance at TOA using the RTTOV code from 4 to 12 microns
-* Analysis of the impact on the observable luminance of the uncertainties on the profiles
+* Analysis of the impact on the observable luminance of uncertainties on the profiles
 * Application to the TRISHNA sensor
 
 # Project implementation

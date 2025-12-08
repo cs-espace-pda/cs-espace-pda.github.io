@@ -49,7 +49,7 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* Gitlab, METIS Core, microservice
+* Gitlab, Metis Core, micro-service
 
 ![Archi Picture](Project-PROMETHEE-PROMÉTHÉE-EN pict 2.PNG)
 

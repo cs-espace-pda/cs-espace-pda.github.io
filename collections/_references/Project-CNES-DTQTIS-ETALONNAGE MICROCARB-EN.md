@@ -5,7 +5,7 @@ prime_contractor : ""
 image : "Project-CNES-DTQTIS-ETALONNAGE MICROCARB-EN pict 1.png"
 size : "small"
 name : "DTQTIS-Etalonnage MicroCarb"
-title : "MicroCarb radiometric calibration on natural targets"
+title : "Microcarb radiometric calibration on natural targets"
 domains : "Image"
 department : "SPACE"
 program : "MicroCarb"
@@ -22,7 +22,7 @@ summary : "Implementation of radiometric calibration methods on natural targets 
 # Context
 
 
-CS Group responsabilities for MicroCarb radiometric calibration on natural targets are as follows:
+CS Group responsabilities for Microcarb radiometric calibration on natural targets are as follows:
 * Study, development
 
 ![Main Picture](Project-CNES-DTQTIS-ETALONNAGE MICROCARB-EN pict 1.png)

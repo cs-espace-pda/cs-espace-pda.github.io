@@ -9,7 +9,7 @@ title : "Mission Infrastructure Standard for Earth Observation"
 domains : "Mission Center"
 department : "SPACE"
 program : "Generic"
-summary : "Development of some MISEO3 sub-components. Implementation of testing resources, Carrying out continuous integration tests, Writing the functional test plan, Verification of requirements coverage by tests, Data management (DB, catalog), Provision of validation test reports, Customer support (integration team)."
+summary : "Development of some MISEO3 sub-components. Setting up test facilities, Carrying out continuous integration tests, Writing the functional test plan, Verification of requirements coverage by tests, Data management (DB, catalog), Provision of validation test reports, Customer support (integration team)."
 ---
 
 > __Customer__\: Airbus Defense & Space (ADS)
@@ -39,7 +39,7 @@ The features are as follows:
 
 The project objectives are as follows:
 * Development of some MISEO3 sub-components
-* Implementation of testing resources,
+* Setting up test facilities,
 * Carrying out continuous integration tests,
 * Writing the functional test plan,
 * Verification of requirements coverage by tests,
@@ -55,7 +55,7 @@ The processes for carrying out the project are:
 The solution key points are as follows:
 * Managing a large volume of requests
 * Robust and ergonomic Human-Machine Interface (HMI) to facilitate its operational use
-* Use intended for export
+* Export use
 
 
 

@@ -42,7 +42,7 @@ The project objectives are as follows:
 * Test the tool on PRISMA data
 
 The processes for carrying out the project are:
-* Study, tests, regular progress updates
+* Study, tests, regular progress points
 
 # Technical characteristics
 

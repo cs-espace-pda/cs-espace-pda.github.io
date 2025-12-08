@@ -32,7 +32,7 @@ The features are as follows:
 * Configuration, missionization and deployment of LP-ISIS, PULP, MIG versions 
 * development of operational procedures and operational aids
 * definition of detailed test plans, configuration: context management, requirements management, preparation and support for execution, analysis of results, investigation of technical facts and anomalies
-* Maintaining operational documentation
+* Maintenance of operational documentation
 	**Operations Support** : 
 * integrated resource in the CNES teams for the early phases of the rover's life (shifts, ground constraints)
 

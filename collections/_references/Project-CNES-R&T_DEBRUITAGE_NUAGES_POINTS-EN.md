@@ -5,7 +5,7 @@ prime_contractor : ""
 image : "Project-CNES-R&T_DEBRUITAGE_NUAGES_POINTS-EN pict 1.PNG"
 size : "small"
 name : "R&T_Debruitage_nuages_points"
-title : "Denoising point clouds in epipolar geometry using confidence intervals "
+title : "Point cloud clearing in epipolar geometry using trusted intervals "
 domains : "Platform"
 department : "SPACE"
 program : "CO3D"
@@ -25,7 +25,7 @@ CARS enables 3D reconstruction using photogrammetry. The tool is integrated into
 This study aims to improve the denoising of point clouds produced by CARS for 3D scene reconstruction.
 This is a follow-up of a 2022 study. Three areas for improvement were investigated, one of which was integrated into the PANDORA tool.
 
-CS Group responsabilities for Denoising point clouds in epipolar geometry using confidence intervals  are as follows:
+CS Group responsabilities for Point cloud clearing in epipolar geometry using trusted intervals  are as follows:
 * Research and software development
 
 ![Main Picture](Project-CNES-R&T_DEBRUITAGE_NUAGES_POINTS-EN pict 1.PNG)

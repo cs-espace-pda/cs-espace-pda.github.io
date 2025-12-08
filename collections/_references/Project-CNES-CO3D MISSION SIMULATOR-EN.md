@@ -5,7 +5,7 @@ prime_contractor : ""
 image : "Project-CNES-CO3D MISSION SIMULATOR-EN pict 1.png"
 size : "small"
 name : "CO3D Mission Simulator"
-title : "CO3D Mission Simulator"
+title : "Mission CO3D Simulator"
 domains : "Mission Center"
 department : "SPACE"
 program : "CO3D"
@@ -22,7 +22,7 @@ summary : "Realization of configurable and fast tools to simulate the mission pr
 # Context
 
 
-CS Group responsabilities for CO3D Mission Simulator are as follows:
+CS Group responsabilities for Mission CO3D Simulator are as follows:
 * Development
 
 ![Main Picture](Project-CNES-CO3D MISSION SIMULATOR-EN pict 1.png)
@@ -46,9 +46,9 @@ The processes for carrying out the project are:
 # Technical characteristics
 
 The solution key points are as follows:
-* Provide the client with efficient tools for analyzing programming alternatives over long horizons
+* Provide the client with powerful tools for analyzing programming alternatives over large horizons
 * Provide an ability to understand mission issues
-* Experience in Earth observation mission programming
+* Earth observation mission programming experience
 * Development of mission simulators optimized in terms of calculation time.
 * Responsiveness to customer needs.
 

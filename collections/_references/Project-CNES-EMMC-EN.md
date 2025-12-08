@@ -5,11 +5,11 @@ prime_contractor : ""
 image : ""
 size : "small"
 name : "EMMC"
-title : "Methodological Study Mission Center"
+title : "Mission Center methodological study"
 domains : "Eco-conception"
 department : "SPACE"
 program : "McDelan"
-summary : "Develop and test a methodology for detailed life cycle analysis of mission, production and distribution centers"
+summary : "Develop and test a methodology on the analysis of detailed life cycle of mission, production and distribution centers"
 ---
 
 > __Customer__\: Centre National Etudes Spatiales (CNES)
@@ -22,7 +22,7 @@ summary : "Develop and test a methodology for detailed life cycle analysis of mi
 # Context
 
 
-CS Group responsabilities for Methodological Study Mission Center are as follows:
+CS Group responsabilities for Mission Center methodological study are as follows:
 * Study
 
 
@@ -30,12 +30,12 @@ CS Group responsabilities for Methodological Study Mission Center are as follows
 The features are as follows:
 * Census of digital elements with a carbon impact
 * Definition of good practices and design criteria
-* Compatibility of the methodology outside C03D
+* Compatibility of methodology outside C03D
 
 # Project implementation
 
 The project objectives are as follows:
-* Develop and test a methodology for detailed life cycle analysis of mission, production and distribution centers
+* Develop and test a methodology on the analysis of detailed life cycle of mission, production and distribution centers
 
 The processes for carrying out the project are:
 * Study
